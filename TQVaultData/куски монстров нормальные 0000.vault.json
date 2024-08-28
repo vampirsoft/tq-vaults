@@ -1,0 +1,206 @@
+﻿{
+  "disabledtooltip": [],
+  "currentlyFocusedSackNumber": 0,
+  "currentlySelectedSackNumber": 0,
+  "sacks": [
+    {
+      "iconinfo": null,
+      "items": [
+        {
+          "stackSize": 1,
+          "seed": 3745,
+          "baseName": "Records\\Item\\AnimalRelics\\01_Act1_PristinePlumage.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AbilityOffensive_01.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1061438560,
+          "pointX": 0,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 15099,
+          "baseName": "Records\\Item\\AnimalRelics\\01_Act1_PristinePlumage.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AbilityDefensive_01.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 760058000,
+          "pointX": 1,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 8103,
+          "baseName": "Records\\Item\\AnimalRelics\\01_Act1_PristinePlumage.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "records\\item\\lootmagicalaffixes\\animalrelics\\bonuses\\defensive_bleedresist_01.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1029527984,
+          "pointX": 0,
+          "pointY": 1
+        },
+        {
+          "stackSize": 1,
+          "seed": 17518,
+          "baseName": "Records\\Item\\AnimalRelics\\01_Act1_PristinePlumage.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Defensive_Protection_01.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 399444472,
+          "pointX": 1,
+          "pointY": 1
+        },
+        {
+          "stackSize": 1,
+          "seed": 4198,
+          "baseName": "Records\\Item\\AnimalRelics\\01_Act1_PristinePlumage.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Defensive_Protection_01.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 431879368,
+          "pointX": 0,
+          "pointY": 2
+        },
+        {
+          "stackSize": 1,
+          "seed": 20086,
+          "baseName": "Records\\Item\\AnimalRelics\\01_Act1_PristinePlumage.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AbilityDefensive_01.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 830747224,
+          "pointX": 1,
+          "pointY": 2
+        },
+        {
+          "stackSize": 1,
+          "seed": 9649,
+          "baseName": "Records\\Item\\AnimalRelics\\01_Act1_BoarsHide.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Defensive_Protection_01.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 455595088,
+          "pointX": 2,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 17597,
+          "baseName": "Records\\Item\\AnimalRelics\\01_Act1_BoarsHide.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Defensive_ResistPierce_01.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1050719288,
+          "pointX": 3,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 4252,
+          "baseName": "Records\\Item\\AnimalRelics\\01_Act1_BoarsHide.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Defensive_Protection_01.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 817035376,
+          "pointX": 2,
+          "pointY": 1
+        },
+        {
+          "stackSize": 1,
+          "seed": 6432,
+          "baseName": "Records\\Item\\AnimalRelics\\01_Act1_BoarsHide.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Defensive_Protection_01.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 878078128,
+          "pointX": 3,
+          "pointY": 1
+        }
+      ]
+    },
+    {
+      "iconinfo": null,
+      "items": []
+    },
+    {
+      "iconinfo": null,
+      "items": []
+    },
+    {
+      "iconinfo": null,
+      "items": []
+    },
+    {
+      "iconinfo": null,
+      "items": []
+    },
+    {
+      "iconinfo": null,
+      "items": []
+    },
+    {
+      "iconinfo": null,
+      "items": []
+    },
+    {
+      "iconinfo": null,
+      "items": []
+    },
+    {
+      "iconinfo": null,
+      "items": []
+    },
+    {
+      "iconinfo": null,
+      "items": []
+    },
+    {
+      "iconinfo": null,
+      "items": []
+    },
+    {
+      "iconinfo": null,
+      "items": []
+    }
+  ]
+}

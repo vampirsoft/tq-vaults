@@ -1,15 +1,15 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 1,
+  "currentlySelectedSackNumber": 0,
   "sacks": [
     {
       "iconinfo": null,
       "items": [
         {
           "stackSize": 1,
-          "seed": 18963,
-          "baseName": "Records\\XPack\\Item\\Artifacts\\ArcaneFormulae\\N_LA_MoltenOrb_Formula.dbr",
+          "seed": 25704,
+          "baseName": "Records\\Item\\EquipmentArmor\\Um_N_Archon'sChiton.dbr",
           "prefixName": "",
           "suffixName": "",
           "relicName": "",
@@ -17,14 +17,14 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 2035248,
+          "var2": 1065353216,
           "pointX": 0,
           "pointY": 0
         },
         {
           "stackSize": 1,
-          "seed": 25226,
-          "baseName": "Records\\XPack\\Item\\Artifacts\\ArcaneFormulae\\N_LA_Wraithguard_Formula.dbr",
+          "seed": 6740,
+          "baseName": "Records\\Item\\EquipmentArmor\\U_N_Waylayer'sJerkin.dbr",
           "prefixName": "",
           "suffixName": "",
           "relicName": "",
@@ -32,44 +32,44 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 2035248,
+          "var2": 1065353216,
+          "pointX": 16,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 14444,
+          "baseName": "Records\\Item\\EquipmentArmor\\U_N_Bladeflinger'sArmor.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 7,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 24460,
+          "baseName": "Records\\Item\\EquipmentArmor\\Um_N_Ephor's Garb.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
           "pointX": 2,
           "pointY": 0
         },
         {
           "stackSize": 1,
-          "seed": 25009,
-          "baseName": "Records\\XPack\\Item\\Artifacts\\ArcaneFormulae\\N_LA_Wraithguard_Formula.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1065353216,
-          "pointX": 4,
-          "pointY": 0
-        },
-        {
-          "stackSize": 1,
-          "seed": 9139,
-          "baseName": "Records\\XPack\\Item\\Artifacts\\ArcaneFormulae\\N_LA_PaleMoon_Formula.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1065353216,
-          "pointX": 12,
-          "pointY": 0
-        },
-        {
-          "stackSize": 1,
-          "seed": 18460,
-          "baseName": "Records\\XPack\\Item\\Artifacts\\ArcaneFormulae\\N_LA_StarHeart_Formula.dbr",
+          "seed": 8809,
+          "baseName": "Records\\Item\\EquipmentArmor\\U_N_IronskinSuit.dbr",
           "prefixName": "",
           "suffixName": "",
           "relicName": "",
@@ -83,8 +83,8 @@
         },
         {
           "stackSize": 1,
-          "seed": 30491,
-          "baseName": "Records\\XPack\\Item\\Artifacts\\ArcaneFormulae\\N_LA_AmberFlask_Formula.dbr",
+          "seed": 11813,
+          "baseName": "Records\\Item\\EquipmentArmor\\Um_N_PiousSash.dbr",
           "prefixName": "",
           "suffixName": "",
           "relicName": "",
@@ -92,31 +92,30 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 804680888,
-          "pointX": 10,
-          "pointY": 0
+          "var2": 1065353216,
+          "pointX": 0,
+          "pointY": 3
+        },
+        {
+          "stackSize": 1,
+          "seed": 17321,
+          "baseName": "Records\\Item\\EquipmentArmor\\U_N_Wayfarer'sRegalia.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 36958272,
+          "pointX": 16,
+          "pointY": 3
         }
       ]
     },
     {
       "iconinfo": null,
-      "items": [
-        {
-          "stackSize": 1,
-          "seed": 22315,
-          "baseName": "Records\\XPack\\Item\\Artifacts\\ArcaneFormulae\\N_LA_SkyfirePendant_Formula.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 2,
-          "pointY": 0
-        }
-      ]
+      "items": []
     },
     {
       "iconinfo": null,
