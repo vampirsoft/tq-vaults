@@ -17,7 +17,7 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1061438560,
+          "var2": 2035248,
           "pointX": 0,
           "pointY": 0
         },
@@ -32,7 +32,7 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 760058000,
+          "var2": 2035248,
           "pointX": 1,
           "pointY": 0
         },
@@ -47,7 +47,7 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1029527984,
+          "var2": 2035248,
           "pointX": 0,
           "pointY": 1
         },
@@ -62,7 +62,7 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 399444472,
+          "var2": 2035248,
           "pointX": 1,
           "pointY": 1
         },
@@ -77,7 +77,7 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 431879368,
+          "var2": 2035248,
           "pointX": 0,
           "pointY": 2
         },
@@ -92,7 +92,7 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 830747224,
+          "var2": 2035248,
           "pointX": 1,
           "pointY": 2
         },
@@ -107,7 +107,7 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 455595088,
+          "var2": 2035248,
           "pointX": 2,
           "pointY": 0
         },
@@ -122,7 +122,7 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1050719288,
+          "var2": 2035248,
           "pointX": 3,
           "pointY": 0
         },
@@ -137,7 +137,7 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 817035376,
+          "var2": 2035248,
           "pointX": 2,
           "pointY": 1
         },
@@ -152,9 +152,54 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 878078128,
+          "var2": 2035248,
           "pointX": 3,
           "pointY": 1
+        },
+        {
+          "stackSize": 1,
+          "seed": 28130,
+          "baseName": "Records\\Item\\AnimalRelics\\01_Act1_BoarsHide.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Defensive_Protection_01.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 839825672,
+          "pointX": 2,
+          "pointY": 2
+        },
+        {
+          "stackSize": 1,
+          "seed": 11956,
+          "baseName": "Records\\Item\\AnimalRelics\\01_Act1_PristinePlumage.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AbilityOffensive_01.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 952162528,
+          "pointX": 0,
+          "pointY": 3
+        },
+        {
+          "stackSize": 1,
+          "seed": 15666,
+          "baseName": "Records\\Item\\AnimalRelics\\01_Act1_TurtleShell.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AbilityDefensive_02.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1204205696,
+          "pointX": 4,
+          "pointY": 0
         }
       ]
     },
