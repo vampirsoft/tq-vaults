@@ -8,9 +8,9 @@
       "items": [
         {
           "stackSize": 1,
-          "seed": 11214,
-          "baseName": "records\\item\\equipmentshield\\default\\shieldlargeroundwood01c_01.dbr",
-          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Character_SkillMasteryB_01.dbr",
+          "seed": 8156,
+          "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Helm\\C02_Helm01.dbr",
+          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Rare_Hallowed_01.dbr",
           "suffixName": "",
           "relicName": "",
           "relicBonus": "",
@@ -18,23 +18,23 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 2,
+          "pointX": 0,
           "pointY": 0
         },
         {
           "stackSize": 1,
-          "seed": 5555,
-          "baseName": "Records\\Item\\EquipmentShield\\C02_Shield01.dbr",
-          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Rare_StrLife_01.dbr",
-          "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AttributeLife_01.dbr",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
+          "seed": 20151,
+          "baseName": "Records\\XPack\\Item\\EquipmentWeapons\\Staff\\C02_Fire03.dbr",
+          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Offensive_DamageLightning_03.dbr",
+          "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Offensive_Damage%LifeLeech_01.dbr",
+          "relicName": "Records\\Item\\Relics\\01_Act1_ValorOfAchilles.dbr",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_SpeedAttack_01.dbr",
+          "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 256700480,
+          "var2": 2035248,
           "pointX": 0,
-          "pointY": 0
+          "pointY": 3
         }
       ]
     },
