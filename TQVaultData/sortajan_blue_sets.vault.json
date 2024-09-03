@@ -620,6 +620,21 @@
           "var2": 2035248,
           "pointX": 8,
           "pointY": 3
+        },
+        {
+          "stackSize": 1,
+          "seed": 20130,
+          "baseName": "Records\\Item\\EquipmentWeapon\\Staff\\US_N_Necromancer'sHabiliment.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1055814880,
+          "pointX": 14,
+          "pointY": 6
         }
       ]
     },
@@ -2177,7 +2192,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 0,
+          "var2": 2035248,
           "pointX": 1,
           "pointY": 18
         },
@@ -2692,7 +2707,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 0,
+          "var2": 2035248,
           "pointX": 5,
           "pointY": 12
         },
@@ -2787,7 +2802,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 0,
+          "var2": 2035248,
           "pointX": 3,
           "pointY": 0
         },
@@ -2802,7 +2817,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 0,
+          "var2": 2035248,
           "pointX": 3,
           "pointY": 2
         },
@@ -2817,7 +2832,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 0,
+          "var2": 2035248,
           "pointX": 5,
           "pointY": 0
         },
@@ -2832,7 +2847,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 0,
+          "var2": 2035248,
           "pointX": 7,
           "pointY": 0
         },
@@ -2847,7 +2862,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 0,
+          "var2": 2035248,
           "pointX": 5,
           "pointY": 3
         }
@@ -2867,7 +2882,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 0,
+          "var2": 2035248,
           "pointX": 0,
           "pointY": 16
         },
@@ -2882,7 +2897,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 0,
+          "var2": 2035248,
           "pointX": 2,
           "pointY": 16
         },
@@ -2897,7 +2912,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 0,
+          "var2": 2035248,
           "pointX": 0,
           "pointY": 13
         },
@@ -2912,7 +2927,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 0,
+          "var2": 2035248,
           "pointX": 2,
           "pointY": 12
         },
@@ -2927,7 +2942,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 0,
+          "var2": 2035248,
           "pointX": 0,
           "pointY": 11
         },
@@ -2942,7 +2957,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 0,
+          "var2": 2035248,
           "pointX": 2,
           "pointY": 10
         },
@@ -2957,7 +2972,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 0,
+          "var2": 2035248,
           "pointX": 0,
           "pointY": 9
         },
@@ -3052,7 +3067,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 0,
+          "var2": 2035248,
           "pointX": 0,
           "pointY": 0
         },
@@ -3067,7 +3082,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 0,
+          "var2": 2035248,
           "pointX": 4,
           "pointY": 0
         },
@@ -3082,7 +3097,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 0,
+          "var2": 2035248,
           "pointX": 2,
           "pointY": 0
         },
@@ -3097,7 +3112,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 0,
+          "var2": 2035248,
           "pointX": 0,
           "pointY": 4
         },
@@ -3112,7 +3127,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 0,
+          "var2": 2035248,
           "pointX": 2,
           "pointY": 4
         },
@@ -3127,7 +3142,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 0,
+          "var2": 2035248,
           "pointX": 2,
           "pointY": 6
         },
@@ -3142,7 +3157,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 0,
+          "var2": 2035248,
           "pointX": 0,
           "pointY": 7
         },
@@ -3157,7 +3172,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 0,
+          "var2": 2035248,
           "pointX": 5,
           "pointY": 4
         },
@@ -3172,7 +3187,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 0,
+          "var2": 2035248,
           "pointX": 7,
           "pointY": 4
         },
@@ -3187,7 +3202,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 0,
+          "var2": 2035248,
           "pointX": 7,
           "pointY": 6
         },
@@ -3202,7 +3217,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 0,
+          "var2": 2035248,
           "pointX": 6,
           "pointY": 7
         },
@@ -3217,7 +3232,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 0,
+          "var2": 2035248,
           "pointX": 6,
           "pointY": 0
         },
@@ -3232,7 +3247,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 0,
+          "var2": 2035248,
           "pointX": 9,
           "pointY": 0
         },
@@ -3247,7 +3262,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 0,
+          "var2": 2035248,
           "pointX": 11,
           "pointY": 0
         }

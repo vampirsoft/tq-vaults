@@ -410,6 +410,21 @@
           "var2": 2035248,
           "pointX": 7,
           "pointY": 14
+        },
+        {
+          "stackSize": 1,
+          "seed": 18882,
+          "baseName": "records\\item\\equipmentweapon\\staff\\us_n_necromancer'shabiliment.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1055814880,
+          "pointX": 5,
+          "pointY": 2
         }
       ]
     },
