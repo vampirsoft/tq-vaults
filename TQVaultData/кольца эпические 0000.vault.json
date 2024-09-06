@@ -17,8 +17,38 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 780961704,
+          "var2": 2035248,
           "pointX": 0,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 31854,
+          "baseName": "Records\\Item\\EquipmentRing\\U_N_WardStone.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 1,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 17434,
+          "baseName": "Records\\Item\\EquipmentRing\\U_N_BloodStone.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 696122640,
+          "pointX": 2,
           "pointY": 0
         }
       ]
