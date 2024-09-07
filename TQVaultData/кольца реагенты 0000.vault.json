@@ -47,9 +47,24 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1398350424,
+          "var2": 2035248,
           "pointX": 0,
           "pointY": 2
+        },
+        {
+          "stackSize": 1,
+          "seed": 23589,
+          "baseName": "Records\\Item\\EquipmentRing\\C02_Ring01.dbr",
+          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Rare_IntMana_01.dbr",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 770874640,
+          "pointX": 1,
+          "pointY": 0
         }
       ]
     },

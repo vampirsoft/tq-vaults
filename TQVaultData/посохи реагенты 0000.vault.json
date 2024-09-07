@@ -137,7 +137,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 14,
           "pointY": 0
         },
@@ -155,6 +155,51 @@
           "var2": 2035248,
           "pointX": 14,
           "pointY": 4
+        },
+        {
+          "stackSize": 1,
+          "seed": 30640,
+          "baseName": "Records\\Item\\EquipmentWeapon\\Staff\\C04_Fire01.dbr",
+          "prefixName": "",
+          "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Offensive_+%Fire_01.dbr",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 26472512,
+          "pointX": 8,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 30029,
+          "baseName": "Records\\Item\\EquipmentWeapon\\Staff\\C04_Frost03.dbr",
+          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Offensive_DamageFire_01.dbr",
+          "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Rare_%Int%Energy_01.dbr",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 40693824,
+          "pointX": 8,
+          "pointY": 4
+        },
+        {
+          "stackSize": 1,
+          "seed": 18551,
+          "baseName": "Records\\Item\\EquipmentWeapon\\Staff\\C04_Lightning03.dbr",
+          "prefixName": "",
+          "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Rare_SpeedAttack%Dodge_01.dbr",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1459810368,
+          "pointX": 10,
+          "pointY": 0
         }
       ]
     },

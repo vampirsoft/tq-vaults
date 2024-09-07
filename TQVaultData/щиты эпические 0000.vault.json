@@ -23,21 +23,6 @@
         },
         {
           "stackSize": 1,
-          "seed": 25823,
-          "baseName": "Records\\Item\\EquipmentShield\\U_N_JaggedHoplon.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 2,
-          "pointY": 0
-        },
-        {
-          "stackSize": 1,
           "seed": 27430,
           "baseName": "Records\\Item\\EquipmentShield\\U_N_Thornwall.dbr",
           "prefixName": "",
@@ -53,7 +38,22 @@
         },
         {
           "stackSize": 1,
-          "seed": 4672,
+          "seed": 11237,
+          "baseName": "Records\\Item\\EquipmentShield\\U_N_Companion'sGuard.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 6,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 25823,
           "baseName": "Records\\Item\\EquipmentShield\\U_N_JaggedHoplon.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -64,21 +64,6 @@
           "relicBonus2": "",
           "var2": 1065353216,
           "pointX": 2,
-          "pointY": 3
-        },
-        {
-          "stackSize": 1,
-          "seed": 11237,
-          "baseName": "Records\\Item\\EquipmentShield\\U_N_Companion'sGuard.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1065353216,
-          "pointX": 6,
           "pointY": 0
         }
       ]
