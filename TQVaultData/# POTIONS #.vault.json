@@ -1,0 +1,236 @@
+﻿{
+  "disabledtooltip": [],
+  "currentlyFocusedSackNumber": 0,
+  "currentlySelectedSackNumber": 0,
+  "sacks": [
+    {
+      "iconinfo": null,
+      "items": [
+        {
+          "stackSize": 500,
+          "seed": 28798,
+          "baseName": "Records\\Item\\Miscellaneous\\OneShot\\PotionMana_06.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 296089368,
+          "pointX": 0,
+          "pointY": 0
+        },
+        {
+          "stackSize": 500,
+          "seed": 20646,
+          "baseName": "Records\\Item\\Miscellaneous\\OneShot\\PotionHealth_06.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 15,
+          "pointX": 0,
+          "pointY": 1
+        },
+        {
+          "stackSize": 500,
+          "seed": 31617,
+          "baseName": "records\\xpack\\item\\miscellaneous\\oneshot\\potionhealth_07.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": -1419292886,
+          "pointX": 1,
+          "pointY": 1
+        },
+        {
+          "stackSize": 500,
+          "seed": 4608,
+          "baseName": "records\\xpack3\\items\\miscellaneous\\oneshot\\potionxp_epic.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 584425120,
+          "pointX": 0,
+          "pointY": 2
+        },
+        {
+          "stackSize": 500,
+          "seed": 27647,
+          "baseName": "records\\xpack3\\items\\miscellaneous\\oneshot\\potionxp_legendary.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 1,
+          "pointY": 2
+        },
+        {
+          "stackSize": 500,
+          "seed": 31613,
+          "baseName": "records\\xpack4\\item\\miscellaneous\\oneshot\\x4pot_potionofwutao01.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 0,
+          "pointX": 0,
+          "pointY": 3
+        },
+        {
+          "stackSize": 500,
+          "seed": 15920,
+          "baseName": "records\\xpack4\\item\\miscellaneous\\oneshot\\x4pot_potionofspeed01.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 0,
+          "pointX": 1,
+          "pointY": 3
+        },
+        {
+          "stackSize": 500,
+          "seed": 18243,
+          "baseName": "records\\xpack4\\item\\miscellaneous\\oneshot\\x4pot_potionofambrosia01.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 0,
+          "pointX": 2,
+          "pointY": 3
+        },
+        {
+          "stackSize": 500,
+          "seed": 23404,
+          "baseName": "records\\xpack4\\item\\miscellaneous\\oneshot\\x4pot_potionofservice01.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 0,
+          "pointX": 3,
+          "pointY": 3
+        },
+        {
+          "stackSize": 500,
+          "seed": 21915,
+          "baseName": "records\\xpack4\\item\\miscellaneous\\oneshot\\x4pot_potionofjadeemperorsresolve01.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 0,
+          "pointX": 4,
+          "pointY": 3
+        },
+        {
+          "stackSize": 500,
+          "seed": 192,
+          "baseName": "records\\xpack4\\item\\miscellaneous\\oneshot\\x4pot_potionoflifedrainer01.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 0,
+          "pointX": 5,
+          "pointY": 3
+        },
+        {
+          "stackSize": 500,
+          "seed": 32095,
+          "baseName": "records\\xpack4\\item\\miscellaneous\\oneshot\\x4pot_potionofevasion01.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 0,
+          "pointX": 6,
+          "pointY": 3
+        }
+      ]
+    },
+    {
+      "iconinfo": null,
+      "items": []
+    },
+    {
+      "iconinfo": null,
+      "items": []
+    },
+    {
+      "iconinfo": null,
+      "items": []
+    },
+    {
+      "iconinfo": null,
+      "items": []
+    },
+    {
+      "iconinfo": null,
+      "items": []
+    },
+    {
+      "iconinfo": null,
+      "items": []
+    },
+    {
+      "iconinfo": null,
+      "items": []
+    },
+    {
+      "iconinfo": null,
+      "items": []
+    },
+    {
+      "iconinfo": null,
+      "items": []
+    },
+    {
+      "iconinfo": null,
+      "items": []
+    },
+    {
+      "iconinfo": null,
+      "items": []
+    }
+  ]
+}
