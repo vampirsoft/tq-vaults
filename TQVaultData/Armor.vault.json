@@ -23,21 +23,6 @@
         },
         {
           "stackSize": 1,
-          "seed": 6452,
-          "baseName": "Records\\Item\\EquipmentArmor\\U_N_BramblesheathVest.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 10,
-          "pointY": 3
-        },
-        {
-          "stackSize": 1,
           "seed": 8026,
           "baseName": "Records\\Item\\EquipmentGreaves\\U_N_Epeius'Greaves.dbr",
           "prefixName": "",
@@ -170,6 +155,21 @@
           "var2": 2035248,
           "pointX": 6,
           "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 6452,
+          "baseName": "Records\\Item\\EquipmentArmor\\U_N_BramblesheathVest.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 10,
+          "pointY": 3
         }
       ]
     },
