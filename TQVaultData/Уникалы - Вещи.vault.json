@@ -83,21 +83,6 @@
         },
         {
           "stackSize": 1,
-          "seed": 26508,
-          "baseName": "records\\item\\equipmenthelm\\u_n_bandit'shood.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 10,
-          "pointY": 3
-        },
-        {
-          "stackSize": 1,
           "seed": 3364,
           "baseName": "records\\item\\equipmentarmor\\u_e_blackguard.dbr",
           "prefixName": "",
@@ -185,6 +170,21 @@
           "var2": 2035248,
           "pointX": 6,
           "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 11506,
+          "baseName": "Records\\Item\\EquipmentHelm\\U_N_Bandit'sHood.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 10,
+          "pointY": 3
         }
       ]
     },

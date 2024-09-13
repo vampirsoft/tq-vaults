@@ -128,21 +128,6 @@
         },
         {
           "stackSize": 1,
-          "seed": 11506,
-          "baseName": "Records\\Item\\EquipmentHelm\\U_N_Bandit'sHood.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 16,
-          "pointY": 0
-        },
-        {
-          "stackSize": 1,
           "seed": 8637,
           "baseName": "Records\\Item\\EquipmentHelm\\U_N_Crag.dbr",
           "prefixName": "",
@@ -542,7 +527,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 0,
+          "var2": 2035248,
           "pointX": 16,
           "pointY": 6
         },
@@ -557,7 +542,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 0,
+          "var2": 2035248,
           "pointX": 0,
           "pointY": 8
         },
@@ -572,9 +557,24 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 0,
+          "var2": 2035248,
           "pointX": 2,
           "pointY": 8
+        },
+        {
+          "stackSize": 1,
+          "seed": 10200,
+          "baseName": "records\\item\\equipmenthelm\\u_n_bandit'shood.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 16,
+          "pointY": 0
         }
       ]
     },
@@ -1722,7 +1722,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 0,
+          "var2": 2035248,
           "pointX": 6,
           "pointY": 6
         },
@@ -1737,7 +1737,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 0,
+          "var2": 2035248,
           "pointX": 8,
           "pointY": 6
         },
@@ -1752,7 +1752,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 0,
+          "var2": 2035248,
           "pointX": 10,
           "pointY": 6
         },
@@ -2192,7 +2192,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 0,
+          "var2": 2035248,
           "pointX": 16,
           "pointY": 4
         },
@@ -2222,7 +2222,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 0,
+          "var2": 2035248,
           "pointX": 2,
           "pointY": 6
         },
@@ -2237,7 +2237,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 0,
+          "var2": 2035248,
           "pointX": 4,
           "pointY": 6
         },
@@ -2252,7 +2252,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 0,
+          "var2": 2035248,
           "pointX": 6,
           "pointY": 6
         },
@@ -2267,7 +2267,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 0,
+          "var2": 2035248,
           "pointX": 8,
           "pointY": 6
         }
@@ -2602,7 +2602,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 0,
+          "var2": 2035248,
           "pointX": 6,
           "pointY": 4
         },
@@ -2617,7 +2617,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 0,
+          "var2": 2035248,
           "pointX": 8,
           "pointY": 4
         },
@@ -2632,7 +2632,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 0,
+          "var2": 2035248,
           "pointX": 10,
           "pointY": 4
         }

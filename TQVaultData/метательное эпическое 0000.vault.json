@@ -68,6 +68,51 @@
         },
         {
           "stackSize": 1,
+          "seed": 7142,
+          "baseName": "records\\xpack2\\item\\equipmentweapons\\1hranged\\u_n_04.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 6,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 28545,
+          "baseName": "records\\xpack2\\item\\equipmentweapons\\1hranged\\u_n_06.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 8,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 19922,
+          "baseName": "records\\xpack2\\item\\equipmentweapons\\1hranged\\u_n_04.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 6,
+          "pointY": 3
+        },
+        {
+          "stackSize": 1,
           "seed": 18568,
           "baseName": "records\\xpack2\\item\\equipmentweapons\\1hranged\\u_n_03.dbr",
           "prefixName": "",
@@ -79,7 +124,22 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 4,
-          "pointY": 2
+          "pointY": 3
+        },
+        {
+          "stackSize": 1,
+          "seed": 144,
+          "baseName": "records\\xpack2\\item\\equipmentweapons\\1hranged\\u_n_03.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 4,
+          "pointY": 9
         },
         {
           "stackSize": 1,
@@ -94,7 +154,22 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 4,
-          "pointY": 4
+          "pointY": 6
+        },
+        {
+          "stackSize": 1,
+          "seed": 2185,
+          "baseName": "records\\xpack2\\item\\equipmentweapons\\1hranged\\u_n_03.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 4,
+          "pointY": 12
         },
         {
           "stackSize": 1,
@@ -109,22 +184,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 4,
-          "pointY": 6
-        },
-        {
-          "stackSize": 1,
-          "seed": 144,
-          "baseName": "records\\xpack2\\item\\equipmentweapons\\1hranged\\u_n_03.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1065353216,
-          "pointX": 4,
-          "pointY": 8
+          "pointY": 15
         }
       ]
     },
