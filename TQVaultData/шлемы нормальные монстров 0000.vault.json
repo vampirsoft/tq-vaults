@@ -197,7 +197,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 33026112,
+          "var2": 2035248,
           "pointX": 10,
           "pointY": 2
         },
@@ -212,9 +212,24 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 30666816,
+          "var2": 2035248,
           "pointX": 12,
           "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 28373,
+          "baseName": "Records\\Item\\EquipmentHelm\\MI_N_JackalmanMage.dbr",
+          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Defensive_Protection_03.dbr",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 39972928,
+          "pointX": 10,
+          "pointY": 4
         }
       ]
     },
