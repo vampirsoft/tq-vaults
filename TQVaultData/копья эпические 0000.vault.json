@@ -38,8 +38,8 @@
         },
         {
           "stackSize": 1,
-          "seed": 30186,
-          "baseName": "Records\\Item\\EquipmentWeapon\\Spear\\U_N_Shiverblood.dbr",
+          "seed": 15711,
+          "baseName": "Records\\Item\\EquipmentWeapon\\Spear\\U_N_BloodLetter.dbr",
           "prefixName": "",
           "suffixName": "",
           "relicName": "",
@@ -48,43 +48,13 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 2,
-          "pointY": 0
-        },
-        {
-          "stackSize": 1,
-          "seed": 11047,
-          "baseName": "Records\\Item\\EquipmentWeapon\\Spear\\U_N_Shadowsting.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 3,
-          "pointY": 0
-        },
-        {
-          "stackSize": 1,
-          "seed": 1364,
-          "baseName": "Records\\Item\\EquipmentWeapon\\Spear\\U_N_Shiverblood.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 2,
+          "pointX": 0,
           "pointY": 5
         },
         {
           "stackSize": 1,
-          "seed": 4544,
-          "baseName": "Records\\Item\\EquipmentWeapon\\Spear\\U_N_Shadowsting.dbr",
+          "seed": 21547,
+          "baseName": "Records\\Item\\EquipmentWeapon\\Spear\\U_N_HoeOfDestruction.dbr",
           "prefixName": "",
           "suffixName": "",
           "relicName": "",
@@ -93,23 +63,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 3,
-          "pointY": 5
-        },
-        {
-          "stackSize": 1,
-          "seed": 28774,
-          "baseName": "Records\\Item\\EquipmentWeapon\\Spear\\U_N_Shadowsting.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 3,
-          "pointY": 10
+          "pointX": 4,
+          "pointY": 0
         },
         {
           "stackSize": 1,
@@ -124,26 +79,11 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 2,
-          "pointY": 10
+          "pointY": 0
         },
         {
           "stackSize": 1,
-          "seed": 15681,
-          "baseName": "Records\\Item\\EquipmentWeapon\\Spear\\U_N_Shiverblood.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 2,
-          "pointY": 15
-        },
-        {
-          "stackSize": 1,
-          "seed": 11312,
+          "seed": 4544,
           "baseName": "Records\\Item\\EquipmentWeapon\\Spear\\U_N_Shadowsting.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -152,14 +92,14 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 3,
-          "pointY": 15
+          "pointY": 0
         },
         {
           "stackSize": 1,
-          "seed": 14745,
-          "baseName": "Records\\Item\\EquipmentWeapon\\Spear\\U_N_Shiverblood.dbr",
+          "seed": 23926,
+          "baseName": "Records\\Item\\EquipmentWeapon\\Spear\\U_N_Deshret.dbr",
           "prefixName": "",
           "suffixName": "",
           "relicName": "",
@@ -168,13 +108,13 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 1065353216,
-          "pointX": 1,
-          "pointY": 15
+          "pointX": 5,
+          "pointY": 0
         },
         {
           "stackSize": 1,
-          "seed": 15711,
-          "baseName": "Records\\Item\\EquipmentWeapon\\Spear\\U_N_BloodLetter.dbr",
+          "seed": 25619,
+          "baseName": "Records\\Item\\EquipmentWeapon\\Spear\\U_N_HoeOfDestruction.dbr",
           "prefixName": "",
           "suffixName": "",
           "relicName": "",
@@ -182,9 +122,24 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 38858816,
-          "pointX": 0,
+          "var2": 1065353216,
+          "pointX": 4,
           "pointY": 5
+        },
+        {
+          "stackSize": 1,
+          "seed": 9590,
+          "baseName": "Records\\Item\\EquipmentWeapon\\Spear\\U_N_TheEviscerator.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 6,
+          "pointY": 0
         }
       ]
     },

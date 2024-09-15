@@ -302,9 +302,24 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 39972928,
+          "var2": 2035248,
           "pointX": 16,
           "pointY": 3
+        },
+        {
+          "stackSize": 1,
+          "seed": 4380,
+          "baseName": "Records\\Item\\EquipmentArmor\\MI_N_DuneRaiderB.dbr",
+          "prefixName": "",
+          "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AttributeEnergy_01.dbr",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 255455296,
+          "pointX": 16,
+          "pointY": 6
         }
       ]
     },
@@ -369,6 +384,21 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 6,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 24970,
+          "baseName": "Records\\Item\\EquipmentArmor\\MI_N_JackalmanMage.dbr",
+          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Defensive_Protection_03.dbr",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 8,
           "pointY": 0
         }
       ]
