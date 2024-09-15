@@ -242,9 +242,24 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 2,
           "pointY": 16
+        },
+        {
+          "stackSize": 1,
+          "seed": 22060,
+          "baseName": "Records\\Item\\EquipmentWeapon\\Staff\\U_N_Pharaoh'sStandard.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 30666816,
+          "pointX": 10,
+          "pointY": 0
         }
       ]
     },
