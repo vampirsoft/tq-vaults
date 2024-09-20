@@ -23,36 +23,6 @@
         },
         {
           "stackSize": 1,
-          "seed": 138,
-          "baseName": "records\\xpack2\\item\\equipmentweapons\\1hranged\\MI_N_skeleton.dbr",
-          "prefixName": "",
-          "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Offensive_Damage%LifeLeech_01.dbr",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 0,
-          "pointY": 2
-        },
-        {
-          "stackSize": 1,
-          "seed": 2531,
-          "baseName": "records\\xpack2\\item\\equipmentweapons\\1hranged\\MI_N_skeleton.dbr",
-          "prefixName": "",
-          "suffixName": "records\\item\\lootmagicalaffixes\\suffix\\default\\rare_siren_01.dbr",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 0,
-          "pointY": 4
-        },
-        {
-          "stackSize": 1,
           "seed": 21584,
           "baseName": "records\\xpack2\\item\\equipmentweapons\\1hranged\\MI_N_maenad.dbr",
           "prefixName": "",
@@ -83,6 +53,51 @@
         },
         {
           "stackSize": 1,
+          "seed": 11979,
+          "baseName": "records\\xpack2\\item\\equipmentweapons\\1hranged\\MI_N_tigerman.dbr",
+          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Offensive_DamageLife_01.dbr",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 4,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 138,
+          "baseName": "records\\xpack2\\item\\equipmentweapons\\1hranged\\MI_N_skeleton.dbr",
+          "prefixName": "",
+          "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Offensive_Damage%LifeLeech_01.dbr",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 0,
+          "pointY": 3
+        },
+        {
+          "stackSize": 1,
+          "seed": 2531,
+          "baseName": "records\\xpack2\\item\\equipmentweapons\\1hranged\\MI_N_skeleton.dbr",
+          "prefixName": "",
+          "suffixName": "records\\item\\lootmagicalaffixes\\suffix\\default\\rare_siren_01.dbr",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 0,
+          "pointY": 12
+        },
+        {
+          "stackSize": 1,
           "seed": 3340,
           "baseName": "records\\xpack2\\item\\equipmentweapons\\1hranged\\MI_N_skeleton.dbr",
           "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Offensive_DamageLightning_03.dbr",
@@ -94,7 +109,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 0,
-          "pointY": 8
+          "pointY": 9
         },
         {
           "stackSize": 1,
@@ -107,9 +122,24 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 258535488,
+          "var2": 2035248,
           "pointX": 0,
-          "pointY": 10
+          "pointY": 15
+        },
+        {
+          "stackSize": 1,
+          "seed": 23525,
+          "baseName": "records\\xpack2\\item\\equipmentweapons\\1hranged\\MI_N_tigerman.dbr",
+          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Offensive_DamagePoison_03.dbr",
+          "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Offensive_Damage%LifeLeech_01.dbr",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 25620544,
+          "pointX": 4,
+          "pointY": 2
         }
       ]
     },
