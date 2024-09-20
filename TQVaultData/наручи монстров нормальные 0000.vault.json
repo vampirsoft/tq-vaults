@@ -322,9 +322,39 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 23457856,
+          "var2": 2035248,
           "pointX": 6,
           "pointY": 2
+        },
+        {
+          "stackSize": 1,
+          "seed": 26592,
+          "baseName": "Records\\Item\\EquipmentArmband\\MI_N_TigermanMelee.dbr",
+          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Defensive_ResistLightning_02.dbr",
+          "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_SpeedAttack_02.dbr",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 6,
+          "pointY": 4
+        },
+        {
+          "stackSize": 1,
+          "seed": 25568,
+          "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Armband\\MI_N_AnouranMelee.dbr",
+          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Character_AttributeEnergy_02.dbr",
+          "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AbilityDefensive_03.dbr",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 263385152,
+          "pointX": 12,
+          "pointY": 0
         }
       ]
     },

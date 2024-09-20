@@ -77,9 +77,39 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 23457856,
+          "var2": 2035248,
           "pointX": 1,
           "pointY": 6
+        },
+        {
+          "stackSize": 1,
+          "seed": 23340,
+          "baseName": "Records\\Item\\EquipmentWeapon\\Club\\MI_N_IchthianMelee.dbr",
+          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Offensive_DamagePoison_03.dbr",
+          "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Offensive_ReducedProtection_01.dbr",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 1,
+          "pointY": 9
+        },
+        {
+          "stackSize": 1,
+          "seed": 3397,
+          "baseName": "Records\\Item\\EquipmentWeapon\\Club\\MI_N_IchthianMelee.dbr",
+          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Offensive_DamageLife_01.dbr",
+          "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AbilityOffensive_02.dbr",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 263385152,
+          "pointX": 1,
+          "pointY": 12
         }
       ]
     },
