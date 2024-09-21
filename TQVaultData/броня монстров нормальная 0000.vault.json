@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 2,
+  "currentlySelectedSackNumber": 3,
   "sacks": [
     {
       "iconinfo": null,
@@ -547,7 +547,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 263385152,
+          "var2": 2035248,
           "pointX": 14,
           "pointY": 9
         }
@@ -717,7 +717,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 263385152,
+          "var2": 2035248,
           "pointX": 10,
           "pointY": 6
         },
@@ -732,7 +732,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 263385152,
+          "var2": 2035248,
           "pointX": 12,
           "pointY": 0
         },
@@ -747,15 +747,91 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 263385152,
+          "var2": 2035248,
           "pointX": 14,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 489,
+          "baseName": "Records\\XPack3\\Items\\EquipmentArmor\\Torso\\MI_N_MonkeymanMelee.dbr",
+          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Defensive_ResistFire_02.dbr",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 16,
           "pointY": 0
         }
       ]
     },
     {
       "iconinfo": null,
-      "items": []
+      "items": [
+        {
+          "stackSize": 1,
+          "seed": 15194,
+          "baseName": "Records\\XPack3\\Items\\EquipmentArmor\\Torso\\MI_N_EmbalmedPriestMelee.dbr",
+          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Character_ReducedEquipReq_01.dbr",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 0,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 4284,
+          "baseName": "Records\\XPack3\\Items\\EquipmentArmor\\Torso\\MI_N_CoralGuardianMelee.dbr",
+          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Defensive_Protection_04.dbr",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 25817152,
+          "pointX": 2,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 7389,
+          "baseName": "Records\\XPack3\\Items\\EquipmentArmor\\Torso\\MI_N_SerpentoidMelee.dbr",
+          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Defensive_Protection_04.dbr",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 25817152,
+          "pointX": 4,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 6020,
+          "baseName": "Records\\XPack3\\Items\\EquipmentArmor\\Torso\\MI_N_TritonWarriorMelee.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 25817152,
+          "pointX": 6,
+          "pointY": 0
+        }
+      ]
     },
     {
       "iconinfo": null,

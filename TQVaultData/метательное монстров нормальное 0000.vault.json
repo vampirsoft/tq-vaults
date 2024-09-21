@@ -128,6 +128,21 @@
         },
         {
           "stackSize": 1,
+          "seed": 15720,
+          "baseName": "Records\\XPack3\\Items\\EquipmentWeapon\\1hRanged\\MI_N_Monkeyman.dbr",
+          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Offensive_DamageCold_03.dbr",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 26144832,
+          "pointX": 6,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
           "seed": 23525,
           "baseName": "records\\xpack2\\item\\equipmentweapons\\1hranged\\MI_N_tigerman.dbr",
           "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Offensive_DamagePoison_03.dbr",
@@ -137,9 +152,9 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 25620544,
+          "var2": 2035248,
           "pointX": 4,
-          "pointY": 2
+          "pointY": 3
         }
       ]
     },

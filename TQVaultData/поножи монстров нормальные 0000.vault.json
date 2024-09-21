@@ -167,15 +167,91 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 25620544,
+          "var2": 2035248,
           "pointX": 10,
           "pointY": 4
+        },
+        {
+          "stackSize": 1,
+          "seed": 27999,
+          "baseName": "Records\\XPack3\\Items\\EquipmentArmor\\Greaves\\MI_N_MonkeymanMelee.dbr",
+          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Defensive_ResistPoison_02.dbr",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 12,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 14560,
+          "baseName": "Records\\XPack3\\Items\\EquipmentArmor\\Greaves\\MI_N_EmbalmedPriestMage.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 14,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 6248,
+          "baseName": "Records\\XPack3\\Items\\EquipmentArmor\\Greaves\\MI_N_EmbalmedPriestMelee.dbr",
+          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Defensive_ResistPoison_02.dbr",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 16,
+          "pointY": 0
         }
       ]
     },
     {
       "iconinfo": null,
-      "items": []
+      "items": [
+        {
+          "stackSize": 1,
+          "seed": 6458,
+          "baseName": "Records\\XPack3\\Items\\EquipmentArmor\\Greaves\\MI_N_SerpentoidMelee.dbr",
+          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Defensive_ResistLightning_02.dbr",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 25817152,
+          "pointX": 0,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 20726,
+          "baseName": "Records\\XPack3\\Items\\EquipmentArmor\\Greaves\\MI_N_CoralGuardianMelee.dbr",
+          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Defensive_ResistFire_02.dbr",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 25817152,
+          "pointX": 2,
+          "pointY": 0
+        }
+      ]
     },
     {
       "iconinfo": null,
