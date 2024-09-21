@@ -47,7 +47,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 24834112,
+          "var2": 2035248,
           "pointX": 2,
           "pointY": 0
         },
@@ -80,6 +80,36 @@
           "var2": 2035248,
           "pointX": 0,
           "pointY": 9
+        },
+        {
+          "stackSize": 1,
+          "seed": 6364,
+          "baseName": "Records\\XPack3\\Items\\EquipmentWeapon\\Shield\\MI_N_Serpentoid.dbr",
+          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Character_AttributeEnergy_02.dbr",
+          "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_RegenLife_02.dbr",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 25817152,
+          "pointX": 4,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 22949,
+          "baseName": "Records\\XPack3\\Items\\EquipmentWeapon\\Shield\\MI_N_CoralGuardian.dbr",
+          "prefixName": "",
+          "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_RegenLife_02.dbr",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 25817152,
+          "pointX": 6,
+          "pointY": 0
         }
       ]
     },

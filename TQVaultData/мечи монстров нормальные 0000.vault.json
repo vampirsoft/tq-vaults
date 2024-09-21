@@ -167,9 +167,24 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 267382848,
+          "var2": 2035248,
           "pointX": 0,
           "pointY": 4
+        },
+        {
+          "stackSize": 1,
+          "seed": 25028,
+          "baseName": "Records\\XPack3\\Items\\EquipmentWeapon\\Sword\\MI_N_Serpentoid.dbr",
+          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Offensive_DamageBonus_03.dbr",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 25817152,
+          "pointX": 3,
+          "pointY": 0
         }
       ]
     },

@@ -107,9 +107,24 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 263385152,
+          "var2": 2035248,
           "pointX": 1,
           "pointY": 12
+        },
+        {
+          "stackSize": 1,
+          "seed": 26121,
+          "baseName": "Records\\XPack3\\Items\\EquipmentWeapon\\Club\\MI_N_Serpentoid.dbr",
+          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Offensive_LeechMana_02.dbr",
+          "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Offensive_ReducedProtection_01.dbr",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 25817152,
+          "pointX": 2,
+          "pointY": 0
         }
       ]
     },
