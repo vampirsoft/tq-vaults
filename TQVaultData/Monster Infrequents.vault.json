@@ -8,21 +8,6 @@
       "items": [
         {
           "stackSize": 1,
-          "seed": 8156,
-          "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Helm\\C02_Helm01.dbr",
-          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Rare_Hallowed_01.dbr",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 0,
-          "pointY": 0
-        },
-        {
-          "stackSize": 1,
           "seed": 20151,
           "baseName": "Records\\XPack\\Item\\EquipmentWeapons\\Staff\\C02_Fire03.dbr",
           "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Offensive_DamageLightning_03.dbr",
