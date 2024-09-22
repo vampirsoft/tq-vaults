@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 7,
+  "currentlySelectedSackNumber": 9,
   "sacks": [
     {
       "iconinfo": null,
@@ -245,6 +245,36 @@
           "var2": 2035248,
           "pointX": 12,
           "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 13963,
+          "baseName": "Records\\Item\\EquipmentGreaves\\USm_N_Oracle'sGarments.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 10,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 18057,
+          "baseName": "Records\\Item\\EquipmentArmband\\USm_N_Necromancer'sHabiliment.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 6,
+          "pointY": 2
         }
       ]
     },
@@ -705,6 +735,51 @@
           "var2": 2035248,
           "pointX": 6,
           "pointY": 2
+        },
+        {
+          "stackSize": 1,
+          "seed": 11153,
+          "baseName": "Records\\Item\\EquipmentHelm\\US_N_ObsidianArmor.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 8,
+          "pointY": 2
+        },
+        {
+          "stackSize": 1,
+          "seed": 25636,
+          "baseName": "Records\\Item\\EquipmentArmband\\US_N_ObsidianArmor.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 4,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 23255,
+          "baseName": "Records\\Item\\EquipmentWeapon\\Axe\\US_N_ObsidianArmor.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 26210368,
+          "pointX": 2,
+          "pointY": 9
         }
       ]
     },
@@ -1282,9 +1357,24 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 2,
           "pointY": 6
+        },
+        {
+          "stackSize": 1,
+          "seed": 22187,
+          "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Greaves\\USm_N_001.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 2,
+          "pointY": 2
         }
       ]
     },
@@ -1399,6 +1489,21 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 0,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 16618,
+          "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Helm\\U_N_002.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 14,
           "pointY": 0
         }
       ]
