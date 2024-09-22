@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 1,
+  "currentlySelectedSackNumber": 0,
   "sacks": [
     {
       "iconinfo": null,
@@ -662,9 +662,69 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1028178008,
+          "var2": 2035248,
           "pointX": 0,
           "pointY": 5
+        },
+        {
+          "stackSize": 1,
+          "seed": 15955,
+          "baseName": "Records\\Item\\AnimalRelics\\01_Act1_BoarsHide.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Defensive_ResistPierce_01.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 2,
+          "pointY": 3
+        },
+        {
+          "stackSize": 1,
+          "seed": 4905,
+          "baseName": "Records\\Item\\AnimalRelics\\01_Act1_PristinePlumage.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Defensive_Protection_01.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 412893368,
+          "pointX": 1,
+          "pointY": 5
+        },
+        {
+          "stackSize": 1,
+          "seed": 30342,
+          "baseName": "Records\\Item\\AnimalRelics\\01_MultActs_DemonsBlood.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Defensive_StunResist_01.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1154965616,
+          "pointX": 12,
+          "pointY": 2
+        },
+        {
+          "stackSize": 1,
+          "seed": 26936,
+          "baseName": "Records\\Item\\AnimalRelics\\01_MultActs_MechanicalParts.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Defensive_Protection_01.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1046318216,
+          "pointX": 15,
+          "pointY": 1
         }
       ]
     },
@@ -835,21 +895,6 @@
           "var2": 2035248,
           "pointX": 5,
           "pointY": 1
-        },
-        {
-          "stackSize": 1,
-          "seed": 1634,
-          "baseName": "Records\\Item\\AnimalRelics\\01_Act2_LupineClaw.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Offensive_ReducedAttackSpeed_01.dbr",
-          "var1": 5,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 4,
-          "pointY": 2
         },
         {
           "stackSize": 1,
@@ -1072,24 +1117,9 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 893908024,
+          "var2": 2035248,
           "pointX": 1,
           "pointY": 2
-        },
-        {
-          "stackSize": 1,
-          "seed": 6427,
-          "baseName": "Records\\Item\\AnimalRelics\\01_Act2_VileIchor.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Offensive_DamagePoison_01.dbr",
-          "var1": 5,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 876178568,
-          "pointX": 0,
-          "pointY": 3
         }
       ]
     },
@@ -1122,7 +1152,7 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 792364712,
+          "var2": 2035248,
           "pointX": 1,
           "pointY": 0
         }

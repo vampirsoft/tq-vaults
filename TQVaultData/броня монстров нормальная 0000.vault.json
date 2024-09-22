@@ -320,6 +320,51 @@
           "var2": 2035248,
           "pointX": 16,
           "pointY": 6
+        },
+        {
+          "stackSize": 1,
+          "seed": 3391,
+          "baseName": "Records\\Item\\EquipmentArmor\\MI_N_GorgonMelee.dbr",
+          "prefixName": "",
+          "suffixName": "Records\\XPack\\Item\\LootMagicalAffixes\\Suffix\\Default\\Rare_ChancetoResistAll_01.dbr",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 8,
+          "pointY": 6
+        },
+        {
+          "stackSize": 1,
+          "seed": 32327,
+          "baseName": "Records\\Item\\EquipmentArmor\\MI_N_Boarman.dbr",
+          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Rare_Juggernaught'sArmor_01.dbr",
+          "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Rare_Glade_Armor_01.dbr",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 6,
+          "pointY": 9
+        },
+        {
+          "stackSize": 1,
+          "seed": 16400,
+          "baseName": "Records\\Item\\EquipmentArmor\\MI_N_GorgonMelee.dbr",
+          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Defensive_Protection_02.dbr",
+          "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AttributeStrength_02.dbr",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 26210368,
+          "pointX": 8,
+          "pointY": 9
         }
       ]
     },
@@ -797,7 +842,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 25817152,
+          "var2": 2035248,
           "pointX": 2,
           "pointY": 0
         },
@@ -812,7 +857,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 25817152,
+          "var2": 2035248,
           "pointX": 4,
           "pointY": 0
         },
@@ -827,9 +872,39 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 25817152,
+          "var2": 2035248,
           "pointX": 6,
           "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 26406,
+          "baseName": "Records\\Item\\EquipmentArmor\\MI_N_Wraith.dbr",
+          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Defensive_ResistLightning_01.dbr",
+          "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AttributeEnergy_01.dbr",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 8,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 28710,
+          "baseName": "Records\\Item\\EquipmentArmor\\MI_N_Wraith.dbr",
+          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Defensive_Protection_03.dbr",
+          "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AttributeIntelligence_01.dbr",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 26210368,
+          "pointX": 8,
+          "pointY": 3
         }
       ]
     },
