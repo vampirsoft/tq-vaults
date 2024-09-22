@@ -692,7 +692,7 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 412893368,
+          "var2": 2035248,
           "pointX": 1,
           "pointY": 5
         },
@@ -707,7 +707,7 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1154965616,
+          "var2": 2035248,
           "pointX": 12,
           "pointY": 2
         },
@@ -722,9 +722,54 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1046318216,
+          "var2": 2035248,
           "pointX": 15,
           "pointY": 1
+        },
+        {
+          "stackSize": 1,
+          "seed": 27671,
+          "baseName": "Records\\Item\\AnimalRelics\\01_Act1_BatFang.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Offensive_LeechMana_01.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 763004152,
+          "pointX": 9,
+          "pointY": 3
+        },
+        {
+          "stackSize": 1,
+          "seed": 986,
+          "baseName": "Records\\Item\\AnimalRelics\\01_Act1_PristinePlumage.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Defensive_ResistPoison_01.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 836645808,
+          "pointX": 0,
+          "pointY": 6
+        },
+        {
+          "stackSize": 1,
+          "seed": 5978,
+          "baseName": "records\\item\\animalrelics\\01_multacts_venomsac.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Offensive_DamagePoison_01.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1157168704,
+          "pointX": 6,
+          "pointY": 3
         }
       ]
     },

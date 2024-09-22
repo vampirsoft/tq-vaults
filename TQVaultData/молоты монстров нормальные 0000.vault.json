@@ -122,8 +122,23 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 25817152,
+          "var2": 2035248,
           "pointX": 2,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 1361,
+          "baseName": "Records\\Item\\EquipmentWeapon\\Axe\\MI_N_MinotaurLord.dbr",
+          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Offensive_LeechLife_01.dbr",
+          "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AbilityOffensive_01.dbr",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 26210368,
+          "pointX": 3,
           "pointY": 0
         }
       ]

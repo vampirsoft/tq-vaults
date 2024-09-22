@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 3,
+  "currentlySelectedSackNumber": 0,
   "sacks": [
     {
       "iconinfo": null,
@@ -362,8 +362,23 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 26210368,
+          "var2": 2035248,
           "pointX": 8,
+          "pointY": 9
+        },
+        {
+          "stackSize": 1,
+          "seed": 28050,
+          "baseName": "Records\\Item\\EquipmentArmor\\MI_N_Telkine.dbr",
+          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Defensive_ResistLightning_01.dbr",
+          "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AttributeLife_01.dbr",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 26210368,
+          "pointX": 12,
           "pointY": 9
         }
       ]
@@ -902,7 +917,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 26210368,
+          "var2": 2035248,
           "pointX": 8,
           "pointY": 3
         }

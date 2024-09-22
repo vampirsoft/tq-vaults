@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 1,
+  "currentlySelectedSackNumber": 3,
   "sacks": [
     {
       "iconinfo": null,
@@ -947,7 +947,7 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 846141016,
+          "var2": 2035248,
           "pointX": 8,
           "pointY": 3
         },
@@ -962,7 +962,7 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 12,
           "pointY": 3
         }
@@ -1357,9 +1357,24 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 3,
           "pointY": 1
+        },
+        {
+          "stackSize": 1,
+          "seed": 5508,
+          "baseName": "Records\\Item\\Relics\\01_Act1_DionysusWineskin.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AttributeStrength_02.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 1,
+          "pointY": 2
         }
       ]
     },
@@ -1684,6 +1699,21 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 1,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 13427,
+          "baseName": "records\\xpack3\\items\\relics\\01_x3_okeanos.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\XPack\\Item\\LootMagicalAffixes\\Relics\\Bonuses\\Offensive_Elemental_01.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 3,
           "pointY": 0
         }
       ]

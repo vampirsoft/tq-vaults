@@ -62,9 +62,24 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 33615936,
+          "var2": 2035248,
           "pointX": 1,
           "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 14328,
+          "baseName": "Records\\XPack3\\Items\\EquipmentWeapon\\Spear\\MI_N_Monkeyman.dbr",
+          "prefixName": "",
+          "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Rare_Pierce%Pierce_02.dbr",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 22802496,
+          "pointX": 1,
+          "pointY": 5
         }
       ]
     },
