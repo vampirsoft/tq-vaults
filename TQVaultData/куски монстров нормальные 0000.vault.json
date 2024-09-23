@@ -737,7 +737,7 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 763004152,
+          "var2": 2035248,
           "pointX": 9,
           "pointY": 3
         },
@@ -752,7 +752,7 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 836645808,
+          "var2": 2035248,
           "pointX": 0,
           "pointY": 6
         },
@@ -767,9 +767,54 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1157168704,
+          "var2": 2035248,
           "pointX": 6,
           "pointY": 3
+        },
+        {
+          "stackSize": 1,
+          "seed": 27371,
+          "baseName": "records\\item\\animalrelics\\01_multacts_venomsac.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Offensive_DamagePoison_01.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 7,
+          "pointY": 3
+        },
+        {
+          "stackSize": 1,
+          "seed": 19625,
+          "baseName": "Records\\Item\\AnimalRelics\\01_MultActs_VenomSac.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Offensive_DamagePoison_01.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1467663416,
+          "pointX": 6,
+          "pointY": 4
+        },
+        {
+          "stackSize": 1,
+          "seed": 12982,
+          "baseName": "Records\\Item\\AnimalRelics\\01_MultActs_VenomSac.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Offensive_ReducedAttackSpeed_01.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 860298440,
+          "pointX": 7,
+          "pointY": 4
         }
       ]
     },
@@ -1165,6 +1210,36 @@
           "var2": 2035248,
           "pointX": 1,
           "pointY": 2
+        },
+        {
+          "stackSize": 1,
+          "seed": 15582,
+          "baseName": "Records\\Item\\AnimalRelics\\01_Act3_VinyGrowth.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AbilityDefensive_02.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 16,
+          "pointY": 1
+        },
+        {
+          "stackSize": 1,
+          "seed": 5528,
+          "baseName": "Records\\Item\\AnimalRelics\\01_Act2_VileIchor.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Offensive_Stun_01.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 883088584,
+          "pointX": 0,
+          "pointY": 3
         }
       ]
     },
@@ -1199,6 +1274,51 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 1,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 8531,
+          "baseName": "records\\xpack3\\items\\charms\\01_x3_insectwings.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\item\\lootmagicalaffixes\\prefix\\default\\offensive_damagelife_01.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 0,
+          "pointY": 1
+        },
+        {
+          "stackSize": 1,
+          "seed": 24680,
+          "baseName": "records\\xpack3\\items\\charms\\01_x3_insectwings.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\item\\lootmagicalaffixes\\prefix\\default\\offensive_leechlife_03.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 842696464,
+          "pointX": 1,
+          "pointY": 1
+        },
+        {
+          "stackSize": 1,
+          "seed": 32742,
+          "baseName": "records\\xpack\\item\\charms\\01_act4_spinyshell.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AbilityDefensive_02.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 497011840,
+          "pointX": 2,
           "pointY": 0
         }
       ]

@@ -137,7 +137,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 26144832,
+          "var2": 2035248,
           "pointX": 6,
           "pointY": 0
         },
@@ -154,6 +154,51 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 4,
+          "pointY": 3
+        },
+        {
+          "stackSize": 1,
+          "seed": 25149,
+          "baseName": "Records\\XPack3\\Items\\EquipmentWeapon\\1hRanged\\MI_N_PotamoiWarrior.dbr",
+          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Offensive_DamageCold_03.dbr",
+          "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AttributeDexterity_03.dbr",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 8,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 30839,
+          "baseName": "Records\\XPack3\\Items\\EquipmentWeapon\\1hRanged\\MI_N_Monkeyman.dbr",
+          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Offensive_DamagePierce_01.dbr",
+          "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AttributeDexterity_02.dbr",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 29618240,
+          "pointX": 6,
+          "pointY": 3
+        },
+        {
+          "stackSize": 1,
+          "seed": 14789,
+          "baseName": "Records\\XPack3\\Items\\EquipmentWeapon\\1hRanged\\MI_N_PotamoiWarrior.dbr",
+          "prefixName": "",
+          "suffixName": "records\\item\\lootmagicalaffixes\\suffix\\default\\rare_betrayer_01.dbr",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 35516480,
+          "pointX": 8,
           "pointY": 3
         }
       ]
