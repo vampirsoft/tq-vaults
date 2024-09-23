@@ -98,6 +98,21 @@
         },
         {
           "stackSize": 1,
+          "seed": 13638,
+          "baseName": "Records\\Item\\EquipmentRing\\C04_Ring01.dbr",
+          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Defensive_ResistFire_02.dbr",
+          "suffixName": "Records\\XPack\\Item\\LootMagicalAffixes\\Suffix\\Default\\PetBonus_HealthArmor_01.dbr",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1221237464,
+          "pointX": 0,
+          "pointY": 3
+        },
+        {
+          "stackSize": 1,
           "seed": 30097,
           "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Ring\\C02_Ring01.dbr",
           "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Defensive_ResistLightning_02.dbr",
@@ -107,8 +122,8 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
-          "pointX": 0,
+          "var2": 2035248,
+          "pointX": 1,
           "pointY": 3
         }
       ]
