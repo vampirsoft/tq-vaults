@@ -65,6 +65,36 @@
           "var2": 2035248,
           "pointX": 5,
           "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 24342,
+          "baseName": "Records\\XPack3\\Items\\EquipmentWeapon\\Axe\\MI_N_EmbalmedPriest.dbr",
+          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Offensive_DamageLightning_03.dbr",
+          "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Offensive_+%Lightning_01.dbr",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 3,
+          "pointY": 3
+        },
+        {
+          "stackSize": 1,
+          "seed": 29815,
+          "baseName": "Records\\XPack3\\Items\\EquipmentWeapon\\Axe\\MI_N_Serpentoid.dbr",
+          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Offensive_DamageBonus_03.dbr",
+          "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AttributeStrength_03.dbr",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 26013760,
+          "pointX": 5,
+          "pointY": 3
         }
       ]
     },

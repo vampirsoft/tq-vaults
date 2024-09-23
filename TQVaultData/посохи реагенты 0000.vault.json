@@ -212,9 +212,24 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 255455296,
+          "var2": 2035248,
           "pointX": 6,
           "pointY": 8
+        },
+        {
+          "stackSize": 1,
+          "seed": 7223,
+          "baseName": "Records\\XPack3\\Items\\EquipmentWeapon\\Staff\\M_N_Serpentoid_Fire.dbr",
+          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Offensive_DamageLightning_03.dbr",
+          "suffixName": "records\\xpack3\\items\\lootmagicalaffixes\\suffix\\default\\rare_extrarelic_01.dbr",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 35516480,
+          "pointX": 16,
+          "pointY": 16
         }
       ]
     },
