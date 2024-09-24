@@ -242,7 +242,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 29618240,
+          "var2": 2035248,
           "pointX": 7,
           "pointY": 0
         },
@@ -257,8 +257,23 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 35516480,
+          "var2": 2035248,
           "pointX": 3,
+          "pointY": 4
+        },
+        {
+          "stackSize": 1,
+          "seed": 29031,
+          "baseName": "Records\\XPack3\\Items\\EquipmentWeapon\\Sword\\MI_N_TritonWarrior.dbr",
+          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Offensive_ReducedAttackSpeed_02.dbr",
+          "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AttributeDexterity_03.dbr",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 29880384,
+          "pointX": 5,
           "pointY": 4
         }
       ]

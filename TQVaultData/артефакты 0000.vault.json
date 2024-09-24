@@ -1,0 +1,71 @@
+﻿{
+  "disabledtooltip": [],
+  "currentlyFocusedSackNumber": 0,
+  "currentlySelectedSackNumber": 0,
+  "sacks": [
+    {
+      "iconinfo": null,
+      "items": [
+        {
+          "stackSize": 1,
+          "seed": 25601,
+          "baseName": "Records\\XPack\\Item\\Artifacts\\N_LA_ShroudOfEternalNight.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_SpeedAttack_01.dbr",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 27388907,
+          "pointX": 16,
+          "pointY": 0
+        }
+      ]
+    },
+    {
+      "iconinfo": null,
+      "items": []
+    },
+    {
+      "iconinfo": null,
+      "items": []
+    },
+    {
+      "iconinfo": null,
+      "items": []
+    },
+    {
+      "iconinfo": null,
+      "items": []
+    },
+    {
+      "iconinfo": null,
+      "items": []
+    },
+    {
+      "iconinfo": null,
+      "items": []
+    },
+    {
+      "iconinfo": null,
+      "items": []
+    },
+    {
+      "iconinfo": null,
+      "items": []
+    },
+    {
+      "iconinfo": null,
+      "items": []
+    },
+    {
+      "iconinfo": null,
+      "items": []
+    },
+    {
+      "iconinfo": null,
+      "items": []
+    }
+  ]
+}

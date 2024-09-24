@@ -362,9 +362,39 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 12,
           "pointY": 4
+        },
+        {
+          "stackSize": 1,
+          "seed": 5324,
+          "baseName": "Records\\XPack3\\Items\\EquipmentArmor\\Armband\\u_n_02.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 10,
+          "pointY": 4
+        },
+        {
+          "stackSize": 1,
+          "seed": 32037,
+          "baseName": "Records\\Item\\EquipmentArmband\\Um_N_Scholar'sBangle.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 6,
+          "pointY": 6
         }
       ]
     },

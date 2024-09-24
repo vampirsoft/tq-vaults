@@ -92,9 +92,24 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 26013760,
+          "var2": 2035248,
           "pointX": 5,
           "pointY": 3
+        },
+        {
+          "stackSize": 1,
+          "seed": 6355,
+          "baseName": "Records\\XPack3\\Items\\EquipmentWeapon\\Axe\\MI_N_PotamoiWarrior.dbr",
+          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Offensive_DamageCold_03.dbr",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 29880384,
+          "pointX": 7,
+          "pointY": 0
         }
       ]
     },
