@@ -152,7 +152,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 32305216,
+          "var2": 2035248,
           "pointX": 12,
           "pointY": 0
         },
@@ -167,7 +167,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 35516480,
+          "var2": 2035248,
           "pointX": 12,
           "pointY": 3
         },
@@ -182,9 +182,24 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 35516480,
+          "var2": 2035248,
           "pointX": 4,
           "pointY": 3
+        },
+        {
+          "stackSize": 1,
+          "seed": 6020,
+          "baseName": "records\\xpack3\\items\\equipmentweapon\\shield\\m_n_serpentoid.dbr",
+          "prefixName": "",
+          "suffixName": "records\\xpack3\\items\\lootmagicalaffixes\\suffix\\default\\rare_extrarelic_01.dbr",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 14,
+          "pointY": 0
         }
       ]
     },

@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 0,
+  "currentlySelectedSackNumber": 3,
   "sacks": [
     {
       "iconinfo": null,
@@ -332,7 +332,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 853866656,
+          "var2": 2035248,
           "pointX": 12,
           "pointY": 0
         }
@@ -517,7 +517,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 853866656,
+          "var2": 2035248,
           "pointX": 14,
           "pointY": 0
         }
@@ -833,21 +833,6 @@
         },
         {
           "stackSize": 1,
-          "seed": 27481,
-          "baseName": "Records\\XPack3\\Items\\EquipmentArmor\\Torso\\MI_N_CrabmanMelee.dbr",
-          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Defensive_ResistMulti_LightningCold_03.dbr",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 10,
-          "pointY": 0
-        },
-        {
-          "stackSize": 1,
           "seed": 10429,
           "baseName": "Records\\XPack3\\Items\\EquipmentArmor\\Torso\\MI_N_PotamoiWarriorMelee.dbr",
           "prefixName": "",
@@ -878,21 +863,6 @@
         },
         {
           "stackSize": 1,
-          "seed": 5243,
-          "baseName": "Records\\XPack3\\Items\\EquipmentArmor\\Torso\\MI_N_CrabmanMelee.dbr",
-          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Character_AttributeEnergy_02.dbr",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 10,
-          "pointY": 3
-        },
-        {
-          "stackSize": 1,
           "seed": 18939,
           "baseName": "Records\\XPack3\\Items\\EquipmentArmor\\Torso\\MI_N_TritonWitchMage.dbr",
           "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Defensive_Protection_04.dbr",
@@ -902,7 +872,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 32305216,
+          "var2": 2035248,
           "pointX": 14,
           "pointY": 0
         },
@@ -917,7 +887,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 16,
           "pointY": 0
         },
@@ -932,7 +902,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 35516480,
+          "var2": 2035248,
           "pointX": 4,
           "pointY": 3
         },
@@ -947,24 +917,84 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 35516480,
+          "var2": 2035248,
           "pointX": 12,
           "pointY": 3
         },
         {
           "stackSize": 1,
-          "seed": 16346,
-          "baseName": "Records\\XPack3\\Items\\EquipmentArmor\\Torso\\MI_N_CrabmanMelee.dbr",
-          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Character_AttributeEnergy_02.dbr",
+          "seed": 31038,
+          "baseName": "Records\\XPack3\\Items\\EquipmentArmor\\Torso\\MI_N_TritonWarriorMelee.dbr",
+          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Character_ReducedEquipReq_01.dbr",
           "suffixName": "",
           "relicName": "",
           "relicBonus": "",
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 35516480,
-          "pointX": 10,
+          "var2": 2035248,
+          "pointX": 6,
           "pointY": 6
+        },
+        {
+          "stackSize": 1,
+          "seed": 29121,
+          "baseName": "Records\\XPack3\\Items\\EquipmentArmor\\Torso\\MI_N_CoralGuardianMelee.dbr",
+          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Rare_StrLife_02.dbr",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 2,
+          "pointY": 3
+        },
+        {
+          "stackSize": 1,
+          "seed": 5264,
+          "baseName": "Records\\XPack3\\Items\\EquipmentArmor\\Torso\\MI_N_SerpentoidMelee.dbr",
+          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Rare_HonorGuards_01.dbr",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 4,
+          "pointY": 6
+        },
+        {
+          "stackSize": 1,
+          "seed": 2580,
+          "baseName": "Records\\XPack3\\Items\\EquipmentArmor\\Torso\\MI_N_PotamoiWarriorMelee.dbr",
+          "prefixName": "",
+          "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_RegenLife_02.dbr",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 29880384,
+          "pointX": 12,
+          "pointY": 6
+        },
+        {
+          "stackSize": 1,
+          "seed": 32582,
+          "baseName": "Records\\XPack3\\Items\\EquipmentArmor\\Torso\\MI_N_SerpentoidMelee.dbr",
+          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Rare_Exalted_01.dbr",
+          "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Retaliation_Pierce_01.dbr",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 29880384,
+          "pointX": 4,
+          "pointY": 9
         }
       ]
     },

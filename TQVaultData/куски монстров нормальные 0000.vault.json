@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 0,
+  "currentlySelectedSackNumber": 2,
   "sacks": [
     {
       "iconinfo": null,
@@ -797,7 +797,7 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1467663416,
+          "var2": 2035248,
           "pointX": 6,
           "pointY": 4
         },
@@ -812,7 +812,7 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 860298440,
+          "var2": 2035248,
           "pointX": 7,
           "pointY": 4
         }
@@ -1237,7 +1237,7 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 883088584,
+          "var2": 2035248,
           "pointX": 0,
           "pointY": 3
         }
@@ -1302,7 +1302,7 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 842696464,
+          "var2": 2035248,
           "pointX": 1,
           "pointY": 1
         },
@@ -1317,9 +1317,84 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 497011840,
+          "var2": 2035248,
           "pointX": 2,
           "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 20766,
+          "baseName": "Records\\XPack\\Item\\Charms\\01_Act4_SpinyShell.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AttributeStrength_01.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 3,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 1747,
+          "baseName": "records\\xpack\\item\\charms\\01_act4_torturedsoul.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\item\\lootmagicalaffixes\\prefix\\default\\rare_ritual_01.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 4,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 20964,
+          "baseName": "Records\\XPack\\Item\\Charms\\01_Act4_TorturedSoul.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Offensive_+%Damage to Demons_01.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 783851640,
+          "pointX": 5,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 2798,
+          "baseName": "Records\\XPack\\Item\\Charms\\01_Act4_TorturedSoul.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\item\\lootmagicalaffixes\\suffix\\default\\offensive_+%damage to undead_01.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 778803160,
+          "pointX": 4,
+          "pointY": 1
+        },
+        {
+          "stackSize": 1,
+          "seed": 2779,
+          "baseName": "records\\xpack\\item\\charms\\01_act4_spinyshell.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AttributeStrength_01.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 242190400,
+          "pointX": 2,
+          "pointY": 1
         }
       ]
     },

@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 3,
+  "currentlySelectedSackNumber": 2,
   "sacks": [
     {
       "iconinfo": null,
@@ -1695,6 +1695,21 @@
           "var2": 2035248,
           "pointX": 15,
           "pointY": 1
+        },
+        {
+          "stackSize": 1,
+          "seed": 14088,
+          "baseName": "Records\\Item\\Relics\\01_Act3_MonkeyKingsTrickery.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AbilityDefensive_03.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 478148624,
+          "pointX": 5,
+          "pointY": 1
         }
       ]
     },
@@ -1787,7 +1802,7 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 796392592,
+          "var2": 2035248,
           "pointX": 0,
           "pointY": 1
         },
@@ -1802,8 +1817,23 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 2,
+          "pointY": 1
+        },
+        {
+          "stackSize": 1,
+          "seed": 17004,
+          "baseName": "records\\xpack3\\items\\relics\\01_x3_atlasendurance.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Character_AttributeEnergy_02.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 1,
           "pointY": 1
         }
       ]

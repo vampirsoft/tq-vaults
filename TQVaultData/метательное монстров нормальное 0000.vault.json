@@ -182,7 +182,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 29618240,
+          "var2": 2035248,
           "pointX": 6,
           "pointY": 3
         },
@@ -197,9 +197,39 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 35516480,
+          "var2": 2035248,
           "pointX": 8,
           "pointY": 3
+        },
+        {
+          "stackSize": 1,
+          "seed": 28363,
+          "baseName": "Records\\XPack3\\Items\\EquipmentWeapon\\1hRanged\\MI_N_PotamoiWarrior.dbr",
+          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Offensive_DamagePierce_02.dbr",
+          "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AttributeIntelligence_02.dbr",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 26013760,
+          "pointX": 8,
+          "pointY": 6
+        },
+        {
+          "stackSize": 1,
+          "seed": 894,
+          "baseName": "Records\\XPack3\\Items\\EquipmentWeapon\\1hRanged\\MI_N_PotamoiWarrior.dbr",
+          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Offensive_DamageFire_03.dbr",
+          "suffixName": "records\\xpack3\\items\\lootmagicalaffixes\\suffix\\default\\rare_extrarelic_01.dbr",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 26013760,
+          "pointX": 8,
+          "pointY": 9
         }
       ]
     },
