@@ -38,36 +38,6 @@
         },
         {
           "stackSize": 1,
-          "seed": 9114,
-          "baseName": "Records\\Item\\EquipmentWeapon\\Bow\\MI_N_DuneRaider.dbr",
-          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Offensive_LeechMana_02.dbr",
-          "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Offensive_+%Damage_01.dbr",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 1,
-          "pointY": 0
-        },
-        {
-          "stackSize": 1,
-          "seed": 11564,
-          "baseName": "Records\\Item\\EquipmentWeapon\\Bow\\MI_N_DuneRaider.dbr",
-          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Offensive_DamageFire_02.dbr",
-          "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AttributeDexterity_02.dbr",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 1,
-          "pointY": 4
-        },
-        {
-          "stackSize": 1,
           "seed": 30664,
           "baseName": "Records\\XPack3\\Items\\EquipmentWeapon\\Bow\\MI_N_EmbalmedPriest.dbr",
           "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Offensive_DamagePierce_02.dbr",
@@ -92,8 +62,23 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 26013760,
+          "var2": 2035248,
           "pointX": 3,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 30609,
+          "baseName": "Records\\XPack\\Item\\EquipmentWeapons\\Bow\\MI_N_Anouran.dbr",
+          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Offensive_DamagePoison_03.dbr",
+          "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AttributeDexterity_03.dbr",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 37810240,
+          "pointX": 4,
           "pointY": 0
         }
       ]

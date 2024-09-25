@@ -272,7 +272,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 2,
           "pointY": 1
         },
@@ -290,6 +290,21 @@
           "var2": 2035248,
           "pointX": 10,
           "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 12362,
+          "baseName": "Records\\Item\\EquipmentAmulet\\C03_Amulet04.dbr",
+          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Character_SkillMasteryC_01.dbr",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1,
+          "pointX": 12,
+          "pointY": 1
         }
       ]
     },

@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 2,
+  "currentlySelectedSackNumber": 3,
   "sacks": [
     {
       "iconinfo": null,
@@ -965,6 +965,21 @@
           "var2": 2035248,
           "pointX": 12,
           "pointY": 3
+        },
+        {
+          "stackSize": 1,
+          "seed": 9081,
+          "baseName": "Records\\Item\\Relics\\01_Act1_HecatesCrescent.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Defensive_ResistFire_01.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 999577760,
+          "pointX": 6,
+          "pointY": 5
         }
       ]
     },
@@ -1375,6 +1390,21 @@
           "var2": 2035248,
           "pointX": 1,
           "pointY": 2
+        },
+        {
+          "stackSize": 1,
+          "seed": 15857,
+          "baseName": "Records\\Item\\Relics\\01_Act2_UdjatOfHorus.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AbilityDefensive_03.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 8,
+          "pointY": 1
         }
       ]
     },
@@ -1707,9 +1737,54 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 478148624,
+          "var2": 2035248,
           "pointX": 5,
           "pointY": 1
+        },
+        {
+          "stackSize": 1,
+          "seed": 6157,
+          "baseName": "Records\\Item\\Relics\\01_Act3_DragonKingsDomain.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Character_AttributeEnergy_02.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1429333080,
+          "pointX": 11,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 19489,
+          "baseName": "Records\\XPack\\Item\\Relics\\01_Act4_BladeOfThanatos.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Offensive_Stun_02.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 14,
+          "pointY": 2
+        },
+        {
+          "stackSize": 1,
+          "seed": 1815,
+          "baseName": "Records\\XPack\\Item\\Relics\\01_Act4_BladeOfThanatos.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Offensive_Stun_02.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 856593600,
+          "pointX": 15,
+          "pointY": 2
         }
       ]
     },
@@ -1835,6 +1910,21 @@
           "var2": 2035248,
           "pointX": 1,
           "pointY": 1
+        },
+        {
+          "stackSize": 1,
+          "seed": 23362,
+          "baseName": "Records\\XPack\\Item\\Relics\\01_Act4_ChillOfTartarus.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Offensive_ReducedAttackSpeed_02.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 5,
+          "pointY": 0
         }
       ]
     },
