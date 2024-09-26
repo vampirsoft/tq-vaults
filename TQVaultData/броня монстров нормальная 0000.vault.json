@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 2,
+  "currentlySelectedSackNumber": 0,
   "sacks": [
     {
       "iconinfo": null,
@@ -335,6 +335,21 @@
           "var2": 2035248,
           "pointX": 12,
           "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 8054,
+          "baseName": "Records\\Item\\EquipmentArmor\\MI_N_DuneRaiderB.dbr",
+          "prefixName": "",
+          "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AbilityDefensive_02.dbr",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 40890432,
+          "pointX": 16,
+          "pointY": 9
         }
       ]
     },
@@ -762,7 +777,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 37810240,
+          "var2": 2035248,
           "pointX": 12,
           "pointY": 2
         }
@@ -977,8 +992,38 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 37810240,
+          "var2": 2035248,
           "pointX": 10,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 31143,
+          "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Torso\\MI_N_LamiaMelee.dbr",
+          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Rare_Juggernaught'sArmor_01.dbr",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 10,
+          "pointY": 3
+        },
+        {
+          "stackSize": 1,
+          "seed": 23880,
+          "baseName": "Records\\XPack3\\Items\\EquipmentArmor\\Torso\\MI_N_SerpentoidMelee.dbr",
+          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Character_AttributeEnergy_02.dbr",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 4,
           "pointY": 0
         }
       ]
@@ -997,7 +1042,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 29880384,
+          "var2": 2035248,
           "pointX": 0,
           "pointY": 0
         },
@@ -1012,7 +1057,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 37810240,
+          "var2": 2035248,
           "pointX": 2,
           "pointY": 0
         },
@@ -1027,8 +1072,38 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 37810240,
+          "var2": 2035248,
           "pointX": 4,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 7267,
+          "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Torso\\MI_N_KeresMage.dbr",
+          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Character_ReducedEquipReq_01.dbr",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 6,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 15429,
+          "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Torso\\MI_N_EmpusaMage.dbr",
+          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Defensive_Protection_04.dbr",
+          "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AttributeStrength_03.dbr",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 8,
           "pointY": 0
         }
       ]

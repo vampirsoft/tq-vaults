@@ -977,7 +977,7 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 999577760,
+          "var2": 2035248,
           "pointX": 6,
           "pointY": 5
         }
@@ -1405,6 +1405,21 @@
           "var2": 2035248,
           "pointX": 8,
           "pointY": 1
+        },
+        {
+          "stackSize": 1,
+          "seed": 18400,
+          "baseName": "Records\\Item\\Relics\\01_Act2_AnubisWrath.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Offensive_+%Damage to Demons_01.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 826352800,
+          "pointX": 14,
+          "pointY": 0
         }
       ]
     },
@@ -1752,7 +1767,7 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1429333080,
+          "var2": 2035248,
           "pointX": 11,
           "pointY": 0
         },
@@ -1767,7 +1782,7 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 14,
           "pointY": 2
         },
@@ -1782,9 +1797,24 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 856593600,
+          "var2": 2035248,
           "pointX": 15,
           "pointY": 2
+        },
+        {
+          "stackSize": 1,
+          "seed": 9070,
+          "baseName": "Records\\Item\\Relics\\01_Act3_GuanYusGrace.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AbilityDefensive_03.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 2,
+          "pointY": 1
         }
       ]
     },
@@ -1922,8 +1952,53 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 5,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 6902,
+          "baseName": "Records\\XPack\\Item\\Relics\\01_Act4_ChillOfTartarus.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Offensive_ReducedAttackSpeed_01.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 4,
+          "pointY": 1
+        },
+        {
+          "stackSize": 1,
+          "seed": 389,
+          "baseName": "Records\\XPack\\Item\\Relics\\01_Act4_ShadeOfHektor.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Defensive_%Protection_01.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 6,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 12685,
+          "baseName": "Records\\XPack\\Item\\Relics\\01_Act4_CunningOfOddyseus.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Character_AttributeEnergy_01.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 8,
           "pointY": 0
         }
       ]
