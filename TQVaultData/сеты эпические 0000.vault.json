@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 7,
+  "currentlySelectedSackNumber": 3,
   "sacks": [
     {
       "iconinfo": null,
@@ -785,6 +785,21 @@
           "var2": 2035248,
           "pointX": 0,
           "pointY": 3
+        },
+        {
+          "stackSize": 1,
+          "seed": 3362,
+          "baseName": "Records\\Item\\EquipmentArmor\\US_N_Ramses'RoyalArmor.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 40890432,
+          "pointX": 16,
+          "pointY": 4
         }
       ]
     },
@@ -1047,7 +1062,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 14,
           "pointY": 4
         }
@@ -1432,7 +1447,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 37810240,
+          "var2": 2035248,
           "pointX": 4,
           "pointY": 6
         }

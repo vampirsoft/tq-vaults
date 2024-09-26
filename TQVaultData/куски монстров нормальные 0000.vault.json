@@ -815,6 +815,21 @@
           "var2": 2035248,
           "pointX": 7,
           "pointY": 4
+        },
+        {
+          "stackSize": 1,
+          "seed": 13801,
+          "baseName": "Records\\Item\\AnimalRelics\\01_MultActs_DiseasedPlumage.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Defensive_Protection_01.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 487113424,
+          "pointX": 10,
+          "pointY": 2
         }
       ]
     },
@@ -1252,9 +1267,54 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 869703888,
+          "var2": 2035248,
           "pointX": 2,
           "pointY": 2
+        },
+        {
+          "stackSize": 1,
+          "seed": 17637,
+          "baseName": "Records\\Item\\AnimalRelics\\01_Act2_LupineClaw.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Offensive_ReducedAttackSpeed_01.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 937342080,
+          "pointX": 4,
+          "pointY": 2
+        },
+        {
+          "stackSize": 1,
+          "seed": 4566,
+          "baseName": "Records\\Item\\AnimalRelics\\01_MultActs_SpectralMatter.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AttributeEnergy_02.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1261463624,
+          "pointX": 3,
+          "pointY": 2
+        },
+        {
+          "stackSize": 1,
+          "seed": 22153,
+          "baseName": "Records\\Item\\AnimalRelics\\01_MultActs_RigidCarapace.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AttributeStrength_01.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 526224520,
+          "pointX": 6,
+          "pointY": 1
         }
       ]
     },
