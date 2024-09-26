@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 1,
+  "currentlySelectedSackNumber": 2,
   "sacks": [
     {
       "iconinfo": null,
@@ -827,7 +827,7 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 487113424,
+          "var2": 2035248,
           "pointX": 10,
           "pointY": 2
         }
@@ -1282,7 +1282,7 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 937342080,
+          "var2": 2035248,
           "pointX": 4,
           "pointY": 2
         },
@@ -1297,7 +1297,7 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1261463624,
+          "var2": 2035248,
           "pointX": 3,
           "pointY": 2
         },
@@ -1312,7 +1312,7 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 526224520,
+          "var2": 2035248,
           "pointX": 6,
           "pointY": 1
         }
@@ -1470,6 +1470,36 @@
           "var2": 2035248,
           "pointX": 2,
           "pointY": 1
+        },
+        {
+          "stackSize": 1,
+          "seed": 12647,
+          "baseName": "Records\\XPack\\Item\\Charms\\01_Act4_SpinyShell.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AttributeStrength_01.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 829990136,
+          "pointX": 3,
+          "pointY": 1
+        },
+        {
+          "stackSize": 1,
+          "seed": 806,
+          "baseName": "records\\xpack\\item\\charms\\01_act4_spinyshell.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\item\\lootmagicalaffixes\\suffix\\default\\retaliation_pierce_02.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1070278576,
+          "pointX": 2,
+          "pointY": 2
         }
       ]
     },

@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 2,
+  "currentlySelectedSackNumber": 3,
   "sacks": [
     {
       "iconinfo": null,
@@ -672,7 +672,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 41676864,
+          "var2": 2035248,
           "pointX": 16,
           "pointY": 2
         }
@@ -683,10 +683,10 @@
       "items": [
         {
           "stackSize": 1,
-          "seed": 7106,
-          "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Greaves\\MI_N_AnouranMage.dbr",
-          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Defensive_ResistPierce_02.dbr",
-          "suffixName": "Records\\XPack\\Item\\LootMagicalAffixes\\Suffix\\Default\\Defensive_ResistSlow_02.dbr",
+          "seed": 2186,
+          "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Armband\\MI_N_EmpusaMage.dbr",
+          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Defensive_ResistFire_02.dbr",
+          "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AbilityDefensive_04.dbr",
           "relicName": "",
           "relicBonus": "",
           "var1": 0,
@@ -694,6 +694,21 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 0,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 10404,
+          "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Armband\\MI_N_TroglodyteMelee.dbr",
+          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Character_AttributeEnergy_02.dbr",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 261091392,
+          "pointX": 2,
           "pointY": 0
         }
       ]

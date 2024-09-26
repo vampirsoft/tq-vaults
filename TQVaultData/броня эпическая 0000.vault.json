@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 0,
+  "currentlySelectedSackNumber": 1,
   "sacks": [
     {
       "iconinfo": null,
@@ -403,21 +403,6 @@
         },
         {
           "stackSize": 1,
-          "seed": 19974,
-          "baseName": "Records\\Item\\EquipmentArmor\\U_N_Glaevin'sBreastplate.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 16,
-          "pointY": 0
-        },
-        {
-          "stackSize": 1,
           "seed": 4268,
           "baseName": "Records\\Item\\EquipmentArmor\\Um_N_Physician'sRobe.dbr",
           "prefixName": "",
@@ -459,12 +444,12 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 16,
-          "pointY": 3
+          "pointY": 0
         },
         {
           "stackSize": 1,
-          "seed": 24512,
-          "baseName": "Records\\Item\\EquipmentArmor\\U_N_Glaevin'sBreastplate.dbr",
+          "seed": 17924,
+          "baseName": "Records\\Item\\EquipmentArmor\\Um_N_Physician'sRobe.dbr",
           "prefixName": "",
           "suffixName": "",
           "relicName": "",
@@ -472,24 +457,9 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 16,
+          "var2": 1065353216,
+          "pointX": 12,
           "pointY": 6
-        },
-        {
-          "stackSize": 1,
-          "seed": 1826,
-          "baseName": "Records\\Item\\EquipmentArmor\\U_N_Glaevin'sBreastplate.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 16,
-          "pointY": 9
         }
       ]
     },
@@ -627,7 +597,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 12,
           "pointY": 0
         }
