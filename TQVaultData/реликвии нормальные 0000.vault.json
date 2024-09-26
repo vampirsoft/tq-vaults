@@ -1417,7 +1417,7 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 826352800,
+          "var2": 2035248,
           "pointX": 14,
           "pointY": 0
         }
@@ -1815,6 +1815,51 @@
           "var2": 2035248,
           "pointX": 2,
           "pointY": 1
+        },
+        {
+          "stackSize": 1,
+          "seed": 4386,
+          "baseName": "Records\\XPack\\Item\\Relics\\01_Act4_BladeOfThanatos.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Offensive_ReducedAttackSpeed_01.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 14,
+          "pointY": 3
+        },
+        {
+          "stackSize": 1,
+          "seed": 30152,
+          "baseName": "Records\\Item\\Relics\\01_Act3_DragonKingsDomain.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AttributeLife_02.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 10,
+          "pointY": 1
+        },
+        {
+          "stackSize": 1,
+          "seed": 18957,
+          "baseName": "Records\\Item\\Relics\\01_Act3_LiNezhasGuile.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AttributeDexterity_03.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 1,
+          "pointY": 0
         }
       ]
     },
@@ -2000,6 +2045,66 @@
           "var2": 2035248,
           "pointX": 8,
           "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 20991,
+          "baseName": "Records\\XPack\\Item\\Relics\\01_Act4_RageOfAres.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\AnimalRelics\\Bonuses\\Offensive_+%Damage_02.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 10,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 16990,
+          "baseName": "Records\\XPack\\Item\\Relics\\01_Act4_ChillOfTartarus.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Offensive_ReducedAttackSpeed_01.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 5,
+          "pointY": 1
+        },
+        {
+          "stackSize": 1,
+          "seed": 10256,
+          "baseName": "Records\\XPack\\Item\\Relics\\01_Act4_ChillOfTartarus.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\XPack\\Item\\LootMagicalAffixes\\Relics\\Bonuses\\Offensive_Elemental_01.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1099586760,
+          "pointX": 4,
+          "pointY": 2
+        },
+        {
+          "stackSize": 1,
+          "seed": 20714,
+          "baseName": "Records\\XPack\\Item\\Relics\\01_Act4_ChillOfTartarus.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Offensive_ReducedAttackSpeed_01.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 885003744,
+          "pointX": 5,
+          "pointY": 2
         }
       ]
     },

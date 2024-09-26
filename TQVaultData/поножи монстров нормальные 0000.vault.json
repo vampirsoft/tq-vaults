@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 1,
+  "currentlySelectedSackNumber": 2,
   "sacks": [
     {
       "iconinfo": null,
@@ -442,7 +442,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 41676864,
+          "var2": 2035248,
           "pointX": 16,
           "pointY": 0
         }
@@ -450,7 +450,68 @@
     },
     {
       "iconinfo": null,
-      "items": []
+      "items": [
+        {
+          "stackSize": 1,
+          "seed": 9185,
+          "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Greaves\\MI_N_FormicidMelee02.dbr",
+          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Defensive_ResistPierce_02.dbr",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 0,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 29881,
+          "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Greaves\\MI_N_FormicidMelee02.dbr",
+          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Defensive_Protection_03.dbr",
+          "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AttributeIntelligence_02.dbr",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 257093696,
+          "pointX": 0,
+          "pointY": 2
+        },
+        {
+          "stackSize": 1,
+          "seed": 1537,
+          "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Greaves\\MI_N_FormicidMage02.dbr",
+          "prefixName": "",
+          "suffixName": "Records\\XPack\\Item\\LootMagicalAffixes\\Suffix\\Default\\Defensive_ResistSleep_01.dbr",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 257093696,
+          "pointX": 2,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 27490,
+          "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Greaves\\MI_N_TroglodyteMelee.dbr",
+          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Defensive_ResistPoison_03.dbr",
+          "suffixName": "Records\\XPack\\Item\\LootMagicalAffixes\\Suffix\\Default\\Defensive_ResistSlow_02.dbr",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 257093696,
+          "pointX": 4,
+          "pointY": 0
+        }
+      ]
     },
     {
       "iconinfo": null,

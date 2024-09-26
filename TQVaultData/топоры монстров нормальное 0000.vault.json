@@ -107,9 +107,39 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 29880384,
+          "var2": 2035248,
           "pointX": 7,
           "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 26073,
+          "baseName": "Records\\XPack\\Item\\EquipmentWeapons\\Axe\\MI_N_Formicid.dbr",
+          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Offensive_DamageBonus_03.dbr",
+          "suffixName": "Records\\XPack\\Item\\LootMagicalAffixes\\Suffix\\Default\\Rare_LifeDmgReducedResist_02.dbr",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 41087040,
+          "pointX": 9,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 14958,
+          "baseName": "Records\\XPack\\Item\\EquipmentWeapons\\Axe\\MI_N_Formicid.dbr",
+          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Offensive_LeechMana_02.dbr",
+          "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Offensive_+%Damage_02.dbr",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 41087040,
+          "pointX": 9,
+          "pointY": 3
         }
       ]
     },

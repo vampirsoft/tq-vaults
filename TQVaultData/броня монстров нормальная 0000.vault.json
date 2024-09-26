@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 0,
+  "currentlySelectedSackNumber": 4,
   "sacks": [
     {
       "iconinfo": null,
@@ -347,7 +347,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 40890432,
+          "var2": 2035248,
           "pointX": 16,
           "pointY": 9
         }
@@ -1063,6 +1063,21 @@
         },
         {
           "stackSize": 1,
+          "seed": 3789,
+          "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Torso\\MI_N_FormicidMelee02.dbr",
+          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Character_ReducedEquipReq_01.dbr",
+          "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_RegenLife_02.dbr",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 4,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
           "seed": 32185,
           "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Torso\\MI_N_AnouranMage.dbr",
           "prefixName": "",
@@ -1073,7 +1088,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 4,
+          "pointX": 6,
           "pointY": 0
         },
         {
@@ -1088,7 +1103,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 6,
+          "pointX": 8,
           "pointY": 0
         },
         {
@@ -1103,7 +1118,67 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 8,
+          "pointX": 10,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 7641,
+          "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Torso\\MI_N_FormicidMelee02.dbr",
+          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Defensive_ResistFire_02.dbr",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 257093696,
+          "pointX": 4,
+          "pointY": 3
+        },
+        {
+          "stackSize": 1,
+          "seed": 17728,
+          "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Torso\\MI_N_AnouranMage.dbr",
+          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Defensive_Protection_03.dbr",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 257093696,
+          "pointX": 6,
+          "pointY": 3
+        },
+        {
+          "stackSize": 1,
+          "seed": 1524,
+          "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Torso\\MI_N_EmpusaMage.dbr",
+          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Character_AttributeEnergy_02.dbr",
+          "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AttributeEnergy_03.dbr",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 257093696,
+          "pointX": 10,
+          "pointY": 3
+        },
+        {
+          "stackSize": 1,
+          "seed": 29376,
+          "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Torso\\MI_N_KeresMelee.dbr",
+          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Character_ReducedEquipReq_01.dbr",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 257093696,
+          "pointX": 12,
           "pointY": 0
         }
       ]
