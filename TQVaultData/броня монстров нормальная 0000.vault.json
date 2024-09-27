@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 4,
+  "currentlySelectedSackNumber": 0,
   "sacks": [
     {
       "iconinfo": null,
@@ -350,6 +350,21 @@
           "var2": 2035248,
           "pointX": 16,
           "pointY": 9
+        },
+        {
+          "stackSize": 1,
+          "seed": 8916,
+          "baseName": "Records\\Item\\EquipmentArmor\\MI_N_Arachnos.dbr",
+          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Defensive_ResistLightning_01.dbr",
+          "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AttributeIntelligence_01.dbr",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 31256640,
+          "pointX": 2,
+          "pointY": 6
         }
       ]
     },
@@ -1297,7 +1312,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 267055168,
+          "var2": 2035248,
           "pointX": 10,
           "pointY": 9
         }

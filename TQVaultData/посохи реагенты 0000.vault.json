@@ -8,21 +8,6 @@
       "items": [
         {
           "stackSize": 1,
-          "seed": 7919,
-          "baseName": "Records\\Item\\EquipmentWeapon\\Staff\\C02_Frost01.dbr",
-          "prefixName": "",
-          "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Offensive_+%Cold_01.dbr",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 0,
-          "pointY": 0
-        },
-        {
-          "stackSize": 1,
           "seed": 25517,
           "baseName": "Records\\Item\\EquipmentWeapon\\Staff\\C03_Frost03.dbr",
           "prefixName": "Records\\XPack\\Item\\LootMagicalAffixes\\Prefix\\Default\\PetBonus_ElementalDmg_01.dbr",
@@ -49,21 +34,6 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 6,
-          "pointY": 4
-        },
-        {
-          "stackSize": 1,
-          "seed": 25795,
-          "baseName": "Records\\Item\\EquipmentWeapon\\Staff\\C02_Frost03.dbr",
-          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Offensive_DamageCold_01.dbr",
-          "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AttributeIntelligence_01.dbr",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 0,
           "pointY": 4
         },
         {
@@ -227,9 +197,24 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 35516480,
+          "var2": 2035248,
           "pointX": 16,
           "pointY": 16
+        },
+        {
+          "stackSize": 1,
+          "seed": 25795,
+          "baseName": "Records\\Item\\EquipmentWeapon\\Staff\\C02_Frost03.dbr",
+          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Offensive_DamageCold_01.dbr",
+          "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AttributeIntelligence_01.dbr",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 0,
+          "pointY": 4
         }
       ]
     },

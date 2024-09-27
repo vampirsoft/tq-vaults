@@ -173,21 +173,6 @@
         },
         {
           "stackSize": 1,
-          "seed": 16560,
-          "baseName": "Records\\Item\\EquipmentRing\\U_N_StormEye.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 3,
-          "pointY": 0
-        },
-        {
-          "stackSize": 1,
           "seed": 22186,
           "baseName": "Records\\Item\\EquipmentRing\\U_N_Brimstone.dbr",
           "prefixName": "",
@@ -215,36 +200,6 @@
           "var2": 2035248,
           "pointX": 0,
           "pointY": 5
-        },
-        {
-          "stackSize": 1,
-          "seed": 1503,
-          "baseName": "Records\\Item\\EquipmentRing\\U_N_StormEye.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 3,
-          "pointY": 1
-        },
-        {
-          "stackSize": 1,
-          "seed": 1880,
-          "baseName": "Records\\Item\\EquipmentRing\\U_N_StormEye.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 3,
-          "pointY": 2
         },
         {
           "stackSize": 1,
@@ -467,7 +422,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 11,
           "pointY": 0
         }
