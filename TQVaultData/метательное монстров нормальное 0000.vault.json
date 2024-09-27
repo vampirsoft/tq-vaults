@@ -212,7 +212,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 26013760,
+          "var2": 2035248,
           "pointX": 8,
           "pointY": 6
         },
@@ -227,9 +227,39 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 26013760,
+          "var2": 2035248,
           "pointX": 8,
           "pointY": 9
+        },
+        {
+          "stackSize": 1,
+          "seed": 6002,
+          "baseName": "records\\xpack2\\item\\equipmentweapons\\1hranged\\MI_N_machae.dbr",
+          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Offensive_DamageBonus_02.dbr",
+          "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AttributeIntelligence_03.dbr",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 40169536,
+          "pointX": 9,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 10626,
+          "baseName": "records\\xpack2\\item\\equipmentweapons\\1hranged\\MI_N_machae.dbr",
+          "prefixName": "",
+          "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Offensive_Damage%LifeLeech_01.dbr",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 9,
+          "pointY": 3
         }
       ]
     },

@@ -1420,6 +1420,21 @@
           "var2": 2035248,
           "pointX": 14,
           "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 21122,
+          "baseName": "Records\\Item\\Relics\\01_Act3_CodeOfHammurabi.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Defensive_ResistCold_01.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1140738176,
+          "pointX": 16,
+          "pointY": 1
         }
       ]
     },
@@ -1857,8 +1872,23 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 1,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 13572,
+          "baseName": "Records\\Item\\Relics\\01_Act3_ShenNongsDarkMedicine.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Relics\\Bonuses\\Offensive_DamageBonus_03.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 7,
           "pointY": 0
         }
       ]
@@ -2087,7 +2117,7 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1099586760,
+          "var2": 2035248,
           "pointX": 4,
           "pointY": 2
         },
@@ -2102,9 +2132,24 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 885003744,
+          "var2": 2035248,
           "pointX": 5,
           "pointY": 2
+        },
+        {
+          "stackSize": 1,
+          "seed": 12786,
+          "baseName": "Records\\Item\\Relics\\01_Act3_JadeEmperorsSerenity.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Character_AttributeEnergy_02.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1057345064,
+          "pointX": 12,
+          "pointY": 0
         }
       ]
     },
