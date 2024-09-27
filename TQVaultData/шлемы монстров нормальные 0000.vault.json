@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 3,
+  "currentlySelectedSackNumber": 2,
   "sacks": [
     {
       "iconinfo": null,
@@ -612,7 +612,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 257093696,
+          "var2": 2035248,
           "pointX": 8,
           "pointY": 2
         },
@@ -627,7 +627,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 257093696,
+          "var2": 2035248,
           "pointX": 10,
           "pointY": 0
         },
@@ -642,7 +642,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 257093696,
+          "var2": 2035248,
           "pointX": 12,
           "pointY": 0
         },
@@ -657,7 +657,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 257093696,
+          "var2": 2035248,
           "pointX": 14,
           "pointY": 0
         },
@@ -672,9 +672,69 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 257093696,
+          "var2": 2035248,
           "pointX": 16,
           "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 20565,
+          "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Helm\\MI_N_KeresMage.dbr",
+          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Character_AttributeEnergy_02.dbr",
+          "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Retaliation_Pierce_01.dbr",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 16,
+          "pointY": 2
+        },
+        {
+          "stackSize": 1,
+          "seed": 24268,
+          "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Helm\\MI_N_EmpusaMage.dbr",
+          "prefixName": "",
+          "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Retaliation_LeechLife_01.dbr",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 12,
+          "pointY": 2
+        },
+        {
+          "stackSize": 1,
+          "seed": 9308,
+          "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Helm\\MI_N_FormicidMelee02.dbr",
+          "prefixName": "",
+          "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Retaliation_Pierce_01.dbr",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 10,
+          "pointY": 2
+        },
+        {
+          "stackSize": 1,
+          "seed": 10836,
+          "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Helm\\MI_N_EmpusaMage.dbr",
+          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Defensive_ResistLightning_02.dbr",
+          "suffixName": "Records\\XPack\\Item\\LootMagicalAffixes\\Suffix\\Default\\Defensive_ResistSleep_01.dbr",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 40169536,
+          "pointX": 12,
+          "pointY": 4
         }
       ]
     },
@@ -692,7 +752,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 257093696,
+          "var2": 2035248,
           "pointX": 0,
           "pointY": 0
         }

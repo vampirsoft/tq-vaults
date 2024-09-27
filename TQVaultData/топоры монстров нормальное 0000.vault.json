@@ -122,7 +122,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 41087040,
+          "var2": 2035248,
           "pointX": 9,
           "pointY": 0
         },
@@ -137,8 +137,53 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 41087040,
+          "var2": 2035248,
           "pointX": 9,
+          "pointY": 3
+        },
+        {
+          "stackSize": 1,
+          "seed": 24428,
+          "baseName": "Records\\XPack\\Item\\EquipmentWeapons\\Axe\\MI_N_Formicid.dbr",
+          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Offensive_LeechMana_02.dbr",
+          "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Offensive_+%Cold_01.dbr",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 9,
+          "pointY": 6
+        },
+        {
+          "stackSize": 1,
+          "seed": 20163,
+          "baseName": "Records\\XPack\\Item\\EquipmentWeapons\\Axe\\MI_N_Machae.dbr",
+          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Offensive_DamageFire_03.dbr",
+          "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_SpeedAttack_02.dbr",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 40169536,
+          "pointX": 11,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 19574,
+          "baseName": "Records\\XPack\\Item\\EquipmentWeapons\\Axe\\MI_N_Machae.dbr",
+          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Rare_OA%CurrentLife_02.dbr",
+          "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AttributeStrength_02.dbr",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 40169536,
+          "pointX": 11,
           "pointY": 3
         }
       ]

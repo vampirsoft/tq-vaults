@@ -197,7 +197,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 257093696,
+          "var2": 2035248,
           "pointX": 7,
           "pointY": 6
         },
@@ -212,9 +212,24 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 1,
           "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 31431,
+          "baseName": "Records\\XPack\\Item\\EquipmentWeapons\\Club\\MI_N_Troglodyte.dbr",
+          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Offensive_LeechMana_02.dbr",
+          "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AbilityOffensive_03.dbr",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 261091392,
+          "pointX": 7,
+          "pointY": 9
         }
       ]
     },
