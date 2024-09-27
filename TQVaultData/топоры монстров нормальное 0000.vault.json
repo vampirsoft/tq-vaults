@@ -167,7 +167,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 40169536,
+          "var2": 2035248,
           "pointX": 11,
           "pointY": 0
         },
@@ -182,9 +182,24 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 40169536,
+          "var2": 2035248,
           "pointX": 11,
           "pointY": 3
+        },
+        {
+          "stackSize": 1,
+          "seed": 32533,
+          "baseName": "Records\\XPack\\Item\\EquipmentWeapons\\Axe\\MI_N_Formicid.dbr",
+          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Offensive_ReducedAttackSpeed_02.dbr",
+          "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Offensive_Damage%LifeLeech_01.dbr",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 267055168,
+          "pointX": 9,
+          "pointY": 9
         }
       ]
     },
