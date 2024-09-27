@@ -452,9 +452,24 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 415453528,
+          "var2": 2035248,
           "pointX": 6,
           "pointY": 2
+        },
+        {
+          "stackSize": 1,
+          "seed": 17412,
+          "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Ring\\U_N_003.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 11,
+          "pointY": 0
         }
       ]
     },

@@ -152,9 +152,39 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 29880384,
+          "var2": 2035248,
           "pointX": 4,
           "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 23004,
+          "baseName": "Records\\XPack\\Item\\EquipmentWeapons\\Spear\\MI_N_Melinoe.dbr",
+          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Offensive_DamagePoison_03.dbr",
+          "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Offensive_ReducedProtection_02.dbr",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 5,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 9643,
+          "baseName": "Records\\XPack\\Item\\EquipmentWeapons\\Spear\\MI_N_Melinoe.dbr",
+          "prefixName": "",
+          "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Rare_SpeedAttack%Dodge_01.dbr",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 267055168,
+          "pointX": 5,
+          "pointY": 5
         }
       ]
     },

@@ -23,9 +23,9 @@
         },
         {
           "stackSize": 1,
-          "seed": 19586,
-          "baseName": "Records\\Item\\EquipmentRing\\C01_Ring01.dbr",
-          "prefixName": "Records\\XPack\\Item\\LootMagicalAffixes\\Prefix\\Default\\PetBonus_PhysicalDmg_01.dbr",
+          "seed": 6097,
+          "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Ring\\C02_Ring02.dbr",
+          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Offensive_DamageCold_01.dbr",
           "suffixName": "",
           "relicName": "",
           "relicBonus": "",
@@ -33,23 +33,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 0,
-          "pointY": 1
-        },
-        {
-          "stackSize": 1,
-          "seed": 11943,
-          "baseName": "Records\\Item\\EquipmentRing\\C02_Ring01.dbr",
-          "prefixName": "Records\\XPack\\Item\\LootMagicalAffixes\\Prefix\\Default\\PetBonus_ElementalDmg_01.dbr",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 0,
-          "pointY": 2
+          "pointX": 7,
+          "pointY": 0
         },
         {
           "stackSize": 1,
@@ -63,7 +48,37 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
+          "pointX": 17,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 19586,
+          "baseName": "Records\\Item\\EquipmentRing\\C01_Ring01.dbr",
+          "prefixName": "Records\\XPack\\Item\\LootMagicalAffixes\\Prefix\\Default\\PetBonus_PhysicalDmg_01.dbr",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
           "pointX": 1,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 11943,
+          "baseName": "Records\\Item\\EquipmentRing\\C02_Ring01.dbr",
+          "prefixName": "Records\\XPack\\Item\\LootMagicalAffixes\\Prefix\\Default\\PetBonus_ElementalDmg_01.dbr",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 2,
           "pointY": 0
         },
         {
@@ -78,8 +93,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 0,
-          "pointY": 3
+          "pointX": 3,
+          "pointY": 0
         },
         {
           "stackSize": 1,
@@ -93,8 +108,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 1,
-          "pointY": 3
+          "pointX": 3,
+          "pointY": 1
         },
         {
           "stackSize": 1,
@@ -108,7 +123,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 6,
+          "pointX": 8,
           "pointY": 0
         },
         {
@@ -123,14 +138,14 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 6,
+          "pointX": 8,
           "pointY": 1
         },
         {
           "stackSize": 1,
-          "seed": 6097,
-          "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Ring\\C02_Ring02.dbr",
-          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Offensive_DamageCold_01.dbr",
+          "seed": 8746,
+          "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Ring\\C02_Ring05.dbr",
+          "prefixName": "Records\\XPack\\Item\\LootMagicalAffixes\\Prefix\\Default\\PetBonus_ElementalDmg_03.dbr",
           "suffixName": "",
           "relicName": "",
           "relicBonus": "",
@@ -138,8 +153,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 1065353216,
-          "pointX": 7,
-          "pointY": 0
+          "pointX": 2,
+          "pointY": 1
         }
       ]
     },

@@ -830,6 +830,21 @@
           "var2": 2035248,
           "pointX": 10,
           "pointY": 2
+        },
+        {
+          "stackSize": 1,
+          "seed": 19358,
+          "baseName": "Records\\Item\\AnimalRelics\\01_MultActs_DemonsBlood.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Defensive_ResistFire_01.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 13,
+          "pointY": 2
         }
       ]
     },
@@ -1315,6 +1330,21 @@
           "var2": 2035248,
           "pointX": 6,
           "pointY": 1
+        },
+        {
+          "stackSize": 1,
+          "seed": 12164,
+          "baseName": "Records\\Item\\AnimalRelics\\01_MultActs_SpectralMatter.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\AnimalRelics\\Bonuses\\Offensive_%ManaBurn_01.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 856281864,
+          "pointX": 2,
+          "pointY": 3
         }
       ]
     },
@@ -1482,7 +1512,7 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 829990136,
+          "var2": 2035248,
           "pointX": 3,
           "pointY": 1
         },
@@ -1497,8 +1527,68 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1070278576,
+          "var2": 2035248,
           "pointX": 2,
+          "pointY": 2
+        },
+        {
+          "stackSize": 1,
+          "seed": 13983,
+          "baseName": "Records\\XPack\\Item\\Charms\\01_Act4_TorturedSoul.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Defensive_ResistFire_01.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 5,
+          "pointY": 1
+        },
+        {
+          "stackSize": 1,
+          "seed": 31345,
+          "baseName": "Records\\XPack\\Item\\Charms\\01_Act4_TorturedSoul.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\item\\lootmagicalaffixes\\suffix\\default\\offensive_+%damage to undead_01.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 4,
+          "pointY": 2
+        },
+        {
+          "stackSize": 1,
+          "seed": 6444,
+          "baseName": "Records\\XPack\\Item\\Charms\\01_Act4_FurysHeartblood.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\item\\lootmagicalaffixes\\suffix\\default\\offensive_stun_03.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 765965408,
+          "pointX": 6,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 17457,
+          "baseName": "Records\\XPack\\Item\\Charms\\01_Act4_TorturedSoul.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Defensive_ResistFire_01.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 797440064,
+          "pointX": 5,
           "pointY": 2
         }
       ]
