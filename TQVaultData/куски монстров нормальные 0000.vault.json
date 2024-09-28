@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 2,
+  "currentlySelectedSackNumber": 0,
   "sacks": [
     {
       "iconinfo": null,
@@ -713,21 +713,6 @@
         },
         {
           "stackSize": 1,
-          "seed": 26936,
-          "baseName": "Records\\Item\\AnimalRelics\\01_MultActs_MechanicalParts.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Defensive_Protection_01.dbr",
-          "var1": 5,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 15,
-          "pointY": 1
-        },
-        {
-          "stackSize": 1,
           "seed": 27671,
           "baseName": "Records\\Item\\AnimalRelics\\01_Act1_BatFang.dbr",
           "prefixName": "",
@@ -845,6 +830,66 @@
           "var2": 2035248,
           "pointX": 13,
           "pointY": 2
+        },
+        {
+          "stackSize": 1,
+          "seed": 12174,
+          "baseName": "Records\\Item\\AnimalRelics\\01_MultActs_VenomSac.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Offensive_DamagePoison_01.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 6,
+          "pointY": 5
+        },
+        {
+          "stackSize": 1,
+          "seed": 17072,
+          "baseName": "Records\\Item\\AnimalRelics\\01_Act1_BatFang.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Offensive_LeechMana_01.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 8,
+          "pointY": 4
+        },
+        {
+          "stackSize": 1,
+          "seed": 12230,
+          "baseName": "Records\\Item\\AnimalRelics\\01_MultActs_VenomSac.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "records\\item\\lootmagicalaffixes\\relics\\bonuses\\offensive_%poison_01.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 7,
+          "pointY": 5
+        },
+        {
+          "stackSize": 1,
+          "seed": 15831,
+          "baseName": "Records\\Item\\AnimalRelics\\01_Act1_BoarsHide.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Defensive_Protection_01.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 3,
+          "pointY": 3
         }
       ]
     },
@@ -1330,21 +1375,6 @@
           "var2": 2035248,
           "pointX": 6,
           "pointY": 1
-        },
-        {
-          "stackSize": 1,
-          "seed": 12164,
-          "baseName": "Records\\Item\\AnimalRelics\\01_MultActs_SpectralMatter.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "Records\\Item\\LootMagicalAffixes\\AnimalRelics\\Bonuses\\Offensive_%ManaBurn_01.dbr",
-          "var1": 5,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 856281864,
-          "pointX": 2,
-          "pointY": 3
         }
       ]
     },
@@ -1572,7 +1602,7 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 765965408,
+          "var2": 2035248,
           "pointX": 6,
           "pointY": 0
         },
@@ -1587,7 +1617,7 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 797440064,
+          "var2": 2035248,
           "pointX": 5,
           "pointY": 2
         }

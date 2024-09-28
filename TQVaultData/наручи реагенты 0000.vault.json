@@ -128,6 +128,21 @@
         },
         {
           "stackSize": 1,
+          "seed": 13210,
+          "baseName": "records\\xpack3\\items\\equipmentarmor\\armband\\m_n_monkeymanmelee.dbr",
+          "prefixName": "",
+          "suffixName": "records\\xpack3\\items\\lootmagicalaffixes\\suffix\\default\\rare_extrarelic_01.dbr",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 16,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
           "seed": 29428,
           "baseName": "Records\\Item\\EquipmentArmband\\C03_Bracelet02.dbr",
           "prefixName": "",
@@ -140,21 +155,6 @@
           "var2": 2035248,
           "pointX": 12,
           "pointY": 4
-        },
-        {
-          "stackSize": 1,
-          "seed": 13210,
-          "baseName": "records\\xpack3\\items\\equipmentarmor\\armband\\m_n_monkeymanmelee.dbr",
-          "prefixName": "",
-          "suffixName": "records\\xpack3\\items\\lootmagicalaffixes\\suffix\\default\\rare_extrarelic_01.dbr",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1065353216,
-          "pointX": 16,
-          "pointY": 0
         }
       ]
     },
