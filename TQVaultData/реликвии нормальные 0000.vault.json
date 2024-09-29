@@ -1052,7 +1052,7 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 16,
           "pointY": 4
         },
@@ -1067,7 +1067,7 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 5,
           "pointY": 4
         },
@@ -1082,9 +1082,24 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 870343896,
+          "var2": 2035248,
           "pointX": 11,
           "pointY": 3
+        },
+        {
+          "stackSize": 1,
+          "seed": 11588,
+          "baseName": "records\\item\\relics\\01_act1_aegisofathena.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AttributeLife_02.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 8,
+          "pointY": 4
         }
       ]
     },
@@ -1552,7 +1567,7 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1000676536,
+          "var2": 2035248,
           "pointX": 2,
           "pointY": 2
         },
@@ -1567,7 +1582,7 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 15,
           "pointY": 0
         },
@@ -1582,7 +1597,7 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 6,
           "pointY": 2
         },
@@ -1597,8 +1612,23 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 9,
+          "pointY": 1
+        },
+        {
+          "stackSize": 1,
+          "seed": 9526,
+          "baseName": "Records\\Item\\Relics\\01_Act3_CodeOfHammurabi.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Relics\\Bonuses\\Character_%Intelligence_01.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 17,
           "pointY": 1
         }
       ]
@@ -2085,6 +2115,36 @@
           "var2": 2035248,
           "pointX": 15,
           "pointY": 3
+        },
+        {
+          "stackSize": 1,
+          "seed": 944,
+          "baseName": "Records\\Item\\Relics\\01_Act3_YenLoWangsBloodletting.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Offensive_LeechLife_02.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 9,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 22641,
+          "baseName": "Records\\Item\\Relics\\01_Act3_LiNezhasGuile.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AbilityDefensive_03.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 0,
+          "pointY": 1
         }
       ]
     },
@@ -2404,6 +2464,66 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 15,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 23682,
+          "baseName": "Records\\XPack\\Item\\Relics\\01_Act4_IronWillOfAjax.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Defensive_StunResist_01.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 16,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 25083,
+          "baseName": "Records\\XPack\\Item\\Relics\\01_Act4_ShadeOfHektor.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Defensive_ResistPierce_03.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 831697976,
+          "pointX": 6,
+          "pointY": 1
+        },
+        {
+          "stackSize": 1,
+          "seed": 24223,
+          "baseName": "Records\\XPack\\Item\\Relics\\01_Act4_IronWillOfAjax.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Defensive_%Protection_01.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 958091272,
+          "pointX": 17,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 3643,
+          "baseName": "Records\\XPack\\Item\\Relics\\01_Act4_CunningOfOddyseus.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AttributeIntelligence_02.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 158420992,
+          "pointX": 9,
           "pointY": 0
         }
       ]
