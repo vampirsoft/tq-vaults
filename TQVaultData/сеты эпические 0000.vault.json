@@ -8,21 +8,6 @@
       "items": [
         {
           "stackSize": 1,
-          "seed": 10779,
-          "baseName": "Records\\Item\\EquipmentGreaves\\USm_N_Oracle'sGarments.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 16,
-          "pointY": 0
-        },
-        {
-          "stackSize": 1,
           "seed": 22577,
           "baseName": "Records\\Item\\EquipmentArmband\\USm_N_Oracle'sGarments.dbr",
           "prefixName": "",
@@ -80,21 +65,6 @@
           "var2": 2035248,
           "pointX": 2,
           "pointY": 2
-        },
-        {
-          "stackSize": 1,
-          "seed": 5985,
-          "baseName": "Records\\Item\\EquipmentGreaves\\USm_N_Oracle'sGarments.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 14,
-          "pointY": 0
         },
         {
           "stackSize": 1,
@@ -173,36 +143,6 @@
         },
         {
           "stackSize": 1,
-          "seed": 18789,
-          "baseName": "Records\\Item\\EquipmentGreaves\\USm_N_Oracle'sGarments.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 12,
-          "pointY": 0
-        },
-        {
-          "stackSize": 1,
-          "seed": 13963,
-          "baseName": "Records\\Item\\EquipmentGreaves\\USm_N_Oracle'sGarments.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 10,
-          "pointY": 0
-        },
-        {
-          "stackSize": 1,
           "seed": 18057,
           "baseName": "Records\\Item\\EquipmentArmband\\USm_N_Necromancer'sHabiliment.dbr",
           "prefixName": "",
@@ -227,9 +167,24 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 0,
           "pointY": 9
+        },
+        {
+          "stackSize": 1,
+          "seed": 30895,
+          "baseName": "Records\\Item\\EquipmentGreaves\\USm_N_Oracle'sGarments.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 16,
+          "pointY": 0
         }
       ]
     },
@@ -502,8 +457,38 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 4,
+          "pointY": 2
+        },
+        {
+          "stackSize": 1,
+          "seed": 18874,
+          "baseName": "Records\\Item\\EquipmentArmband\\US_N_ThebanPanoply.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 16,
+          "pointY": 9
+        },
+        {
+          "stackSize": 1,
+          "seed": 16367,
+          "baseName": "Records\\Item\\EquipmentHelm\\US_N_ThebanPanoply.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 12,
           "pointY": 2
         }
       ]
@@ -702,7 +687,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 6,
           "pointY": 7
         }
@@ -785,6 +770,21 @@
           "var2": 2035248,
           "pointX": 16,
           "pointY": 4
+        },
+        {
+          "stackSize": 1,
+          "seed": 21701,
+          "baseName": "Records\\Item\\EquipmentArmband\\US_N_Ramses'RoyalArmor.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 16,
+          "pointY": 7
         }
       ]
     },
@@ -865,6 +865,21 @@
           "var2": 2035248,
           "pointX": 2,
           "pointY": 7
+        },
+        {
+          "stackSize": 1,
+          "seed": 5133,
+          "baseName": "Records\\Item\\EquipmentHelm\\US_N_BabylonianRaiment.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 2,
+          "pointY": 5
         }
       ]
     },

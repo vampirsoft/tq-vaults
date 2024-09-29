@@ -410,6 +410,51 @@
           "var2": 2035248,
           "pointX": 9,
           "pointY": 1
+        },
+        {
+          "stackSize": 1,
+          "seed": 19167,
+          "baseName": "Records\\Item\\EquipmentAmulet\\U_N_Frostmoon.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 1,
+          "pointY": 3
+        },
+        {
+          "stackSize": 1,
+          "seed": 4309,
+          "baseName": "Records\\Item\\EquipmentAmulet\\U_N_ElectrumCharm.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 6,
+          "pointY": 1
+        },
+        {
+          "stackSize": 1,
+          "seed": 3580,
+          "baseName": "Records\\Item\\EquipmentAmulet\\U_N_LadyY-ab'sScarab.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 4,
+          "pointY": 1
         }
       ]
     },

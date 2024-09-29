@@ -92,9 +92,24 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 1,
           "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 5343,
+          "baseName": "Records\\Item\\EquipmentWeapon\\Bow\\MI_N_DuneRaider.dbr",
+          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Offensive_LeechMana_02.dbr",
+          "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Offensive_+%Lightning_01.dbr",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 29356096,
+          "pointX": 1,
+          "pointY": 4
         }
       ]
     },

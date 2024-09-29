@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 0,
+  "currentlySelectedSackNumber": 2,
   "sacks": [
     {
       "iconinfo": null,
@@ -302,9 +302,39 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 35975232,
+          "var2": 2035248,
           "pointX": 4,
           "pointY": 4
+        },
+        {
+          "stackSize": 1,
+          "seed": 16232,
+          "baseName": "Records\\Item\\EquipmentHelm\\MI_N_DesertHag.dbr",
+          "prefixName": "",
+          "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AttributeIntelligence_03.dbr",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 12,
+          "pointY": 4
+        },
+        {
+          "stackSize": 1,
+          "seed": 6551,
+          "baseName": "Records\\Item\\EquipmentHelm\\MI_N_GorgonMelee.dbr",
+          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Defensive_ResistFire_01.dbr",
+          "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AttributeIntelligence_01.dbr",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 4,
+          "pointY": 6
         }
       ]
     },
@@ -794,6 +824,51 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 10,
+          "pointY": 4
+        },
+        {
+          "stackSize": 1,
+          "seed": 25532,
+          "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Helm\\MI_N_EmpusaMage.dbr",
+          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Character_AttributeEnergy_02.dbr",
+          "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Retaliation_LeechLife_01.dbr",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 29749312,
+          "pointX": 12,
+          "pointY": 8
+        },
+        {
+          "stackSize": 1,
+          "seed": 18482,
+          "baseName": "records\\xpack\\item\\equipmentarmor\\helm\\mi_n_lamiamelee.dbr",
+          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Defensive_Protection_04.dbr",
+          "suffixName": "Records\\XPack\\Item\\LootMagicalAffixes\\Suffix\\Default\\Defensive_ResistSleep_01.dbr",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 29749312,
+          "pointX": 4,
+          "pointY": 4
+        },
+        {
+          "stackSize": 1,
+          "seed": 7162,
+          "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Helm\\MI_N_MachaeMelee.dbr",
+          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Defensive_Protection_04.dbr",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 29749312,
+          "pointX": 14,
           "pointY": 4
         }
       ]

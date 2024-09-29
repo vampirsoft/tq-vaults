@@ -335,6 +335,36 @@
           "var2": 2035248,
           "pointX": 16,
           "pointY": 6
+        },
+        {
+          "stackSize": 1,
+          "seed": 1899,
+          "baseName": "Records\\Item\\EquipmentHelm\\Um_N_WhiteCrown.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 4,
+          "pointY": 2
+        },
+        {
+          "stackSize": 1,
+          "seed": 8005,
+          "baseName": "Records\\Item\\EquipmentHelm\\Um_N_RedCrown.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 2,
+          "pointY": 2
         }
       ]
     },
@@ -457,7 +487,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 8,
           "pointY": 0
         },
@@ -472,7 +502,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 10,
           "pointY": 0
         }

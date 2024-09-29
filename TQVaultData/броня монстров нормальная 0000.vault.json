@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 0,
+  "currentlySelectedSackNumber": 4,
   "sacks": [
     {
       "iconinfo": null,
@@ -377,8 +377,23 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 35975232,
+          "var2": 2035248,
           "pointX": 8,
+          "pointY": 12
+        },
+        {
+          "stackSize": 1,
+          "seed": 26477,
+          "baseName": "Records\\Item\\EquipmentArmor\\MI_N_DuneRaiderB.dbr",
+          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Rare_StrLife_02.dbr",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 16,
           "pointY": 12
         }
       ]
@@ -1330,6 +1345,36 @@
           "var2": 2035248,
           "pointX": 10,
           "pointY": 9
+        },
+        {
+          "stackSize": 1,
+          "seed": 1524,
+          "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Torso\\MI_N_AnouranMage.dbr",
+          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Character_AttributeEnergy_02.dbr",
+          "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AttributeEnergy_03.dbr",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 29749312,
+          "pointX": 6,
+          "pointY": 9
+        },
+        {
+          "stackSize": 1,
+          "seed": 20864,
+          "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Torso\\MI_N_MachaeMelee.dbr",
+          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Character_AttributeEnergy_02.dbr",
+          "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Retaliation_Pierce_01.dbr",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 29749312,
+          "pointX": 14,
+          "pointY": 6
         }
       ]
     },

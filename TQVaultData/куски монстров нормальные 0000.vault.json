@@ -890,6 +890,81 @@
           "var2": 2035248,
           "pointX": 3,
           "pointY": 3
+        },
+        {
+          "stackSize": 1,
+          "seed": 28082,
+          "baseName": "Records\\Item\\AnimalRelics\\01_Act1_BatFang.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Offensive_ReducedAttackSpeed_01.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 654763256,
+          "pointX": 9,
+          "pointY": 4
+        },
+        {
+          "stackSize": 1,
+          "seed": 10071,
+          "baseName": "Records\\Item\\AnimalRelics\\01_Act1_PristinePlumage.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Defensive_ResistPoison_01.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1094430872,
+          "pointX": 1,
+          "pointY": 6
+        },
+        {
+          "stackSize": 1,
+          "seed": 3311,
+          "baseName": "Records\\Item\\AnimalRelics\\01_MultActs_DemonsBlood.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\AnimalRelics\\Bonuses\\Defensive_LifeResist_01.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 756278392,
+          "pointX": 12,
+          "pointY": 3
+        },
+        {
+          "stackSize": 1,
+          "seed": 25701,
+          "baseName": "Records\\Item\\AnimalRelics\\01_MultActs_MechanicalParts.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AbilityOffensive_02.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1074607224,
+          "pointX": 15,
+          "pointY": 1
+        },
+        {
+          "stackSize": 1,
+          "seed": 32183,
+          "baseName": "Records\\Item\\AnimalRelics\\01_MultActs_VenomSac.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Offensive_DamagePoison_01.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1010981040,
+          "pointX": 6,
+          "pointY": 6
         }
       ]
     },
@@ -1374,6 +1449,21 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 6,
+          "pointY": 1
+        },
+        {
+          "stackSize": 1,
+          "seed": 19526,
+          "baseName": "Records\\Item\\AnimalRelics\\01_MultActs_RigidCarapace.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Defensive_ResistPierce_02.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1135637624,
+          "pointX": 7,
           "pointY": 1
         }
       ]

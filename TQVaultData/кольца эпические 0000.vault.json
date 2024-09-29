@@ -38,21 +38,6 @@
         },
         {
           "stackSize": 1,
-          "seed": 17434,
-          "baseName": "Records\\Item\\EquipmentRing\\U_N_BloodStone.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 2,
-          "pointY": 0
-        },
-        {
-          "stackSize": 1,
           "seed": 23863,
           "baseName": "Records\\Item\\EquipmentRing\\U_N_OathRing.dbr",
           "prefixName": "",
@@ -64,21 +49,6 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 0,
-          "pointY": 1
-        },
-        {
-          "stackSize": 1,
-          "seed": 1839,
-          "baseName": "Records\\Item\\EquipmentRing\\U_N_BloodStone.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 2,
           "pointY": 1
         },
         {
@@ -124,36 +94,6 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 0,
-          "pointY": 3
-        },
-        {
-          "stackSize": 1,
-          "seed": 18862,
-          "baseName": "Records\\Item\\EquipmentRing\\U_N_BloodStone.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 2,
-          "pointY": 2
-        },
-        {
-          "stackSize": 1,
-          "seed": 3228,
-          "baseName": "Records\\Item\\EquipmentRing\\U_N_BloodStone.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 2,
           "pointY": 3
         },
         {
@@ -245,21 +185,6 @@
           "var2": 2035248,
           "pointX": 5,
           "pointY": 2
-        },
-        {
-          "stackSize": 1,
-          "seed": 19198,
-          "baseName": "Records\\Item\\EquipmentRing\\U_N_BloodStone.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 2,
-          "pointY": 4
         },
         {
           "stackSize": 1,
@@ -437,7 +362,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 4,
           "pointY": 1
         },
@@ -452,13 +377,28 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 4,
           "pointY": 2
         },
         {
           "stackSize": 1,
-          "seed": 8074,
+          "seed": 19322,
+          "baseName": "Records\\Item\\EquipmentRing\\U_N_CartoucheRing.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 687681392,
+          "pointX": 5,
+          "pointY": 3
+        },
+        {
+          "stackSize": 1,
+          "seed": 13274,
           "baseName": "Records\\Item\\EquipmentRing\\U_N_BloodStone.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -469,7 +409,22 @@
           "relicBonus2": "",
           "var2": 1065353216,
           "pointX": 2,
-          "pointY": 5
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 3228,
+          "baseName": "Records\\Item\\EquipmentRing\\U_N_BloodStone.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 2,
+          "pointY": 1
         }
       ]
     },
