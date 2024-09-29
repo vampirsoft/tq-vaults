@@ -1357,7 +1357,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 29749312,
+          "var2": 2035248,
           "pointX": 6,
           "pointY": 9
         },
@@ -1372,9 +1372,39 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 29749312,
+          "var2": 2035248,
           "pointX": 14,
           "pointY": 6
+        },
+        {
+          "stackSize": 1,
+          "seed": 30696,
+          "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Torso\\MI_N_MachaeMelee.dbr",
+          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Defensive_ResistPierce_02.dbr",
+          "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AbilityDefensive_04.dbr",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 26800192,
+          "pointX": 14,
+          "pointY": 9
+        },
+        {
+          "stackSize": 1,
+          "seed": 11412,
+          "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Torso\\MI_N_GigantesMelee.dbr",
+          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Defensive_Protection_04.dbr",
+          "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Defensive_%Protection_01.dbr",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 26800192,
+          "pointX": 16,
+          "pointY": 0
         }
       ]
     },

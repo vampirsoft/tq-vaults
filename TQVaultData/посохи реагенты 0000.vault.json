@@ -215,6 +215,21 @@
           "var2": 2035248,
           "pointX": 0,
           "pointY": 4
+        },
+        {
+          "stackSize": 1,
+          "seed": 6862,
+          "baseName": "Records\\XPack\\Item\\EquipmentWeapons\\Staff\\C02_Lightning03.dbr",
+          "prefixName": "Records\\XPack\\Item\\LootMagicalAffixes\\Prefix\\Default\\Rare_PetBonus_%SpeedHealth_01.dbr",
+          "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AttributeLife_04.dbr",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 26800192,
+          "pointX": 0,
+          "pointY": 16
         }
       ]
     },

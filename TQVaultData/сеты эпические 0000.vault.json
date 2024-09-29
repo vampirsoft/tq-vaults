@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 0,
+  "currentlySelectedSackNumber": 8,
   "sacks": [
     {
       "iconinfo": null,
@@ -182,7 +182,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 16,
           "pointY": 0
         }
@@ -472,7 +472,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 16,
           "pointY": 9
         },
@@ -487,7 +487,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 12,
           "pointY": 2
         }
@@ -782,7 +782,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 16,
           "pointY": 7
         }
@@ -877,7 +877,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 2,
           "pointY": 5
         }
@@ -1450,6 +1450,51 @@
           "var2": 2035248,
           "pointX": 14,
           "pointY": 7
+        },
+        {
+          "stackSize": 1,
+          "seed": 20043,
+          "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Greaves\\U_N_001.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 10,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 6453,
+          "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Greaves\\USm_N_001.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 2,
+          "pointY": 2
+        },
+        {
+          "stackSize": 1,
+          "seed": 18669,
+          "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Armband\\USm_N_001.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 2,
+          "pointY": 0
         }
       ]
     },
@@ -1560,6 +1605,36 @@
           "var2": 2035248,
           "pointX": 2,
           "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 10884,
+          "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Helm\\US_N_001.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 0,
+          "pointY": 10
+        },
+        {
+          "stackSize": 1,
+          "seed": 16260,
+          "baseName": "Records\\XPack\\Item\\EquipmentWeapons\\Spear\\US_N_001.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 0,
+          "pointY": 12
         }
       ]
     },
@@ -1610,6 +1685,21 @@
           "var2": 2035248,
           "pointX": 14,
           "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 17887,
+          "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Torso\\U_N_002.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 16,
+          "pointY": 2
         }
       ]
     },

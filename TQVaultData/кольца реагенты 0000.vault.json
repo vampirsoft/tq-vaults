@@ -167,7 +167,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 7,
           "pointY": 1
         },
@@ -182,9 +182,39 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 15,
+          "var2": 2035248,
           "pointX": 11,
           "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 8469,
+          "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Ring\\C02_Ring02.dbr",
+          "prefixName": "",
+          "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Offensive_+%Lightning_01.dbr",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 994785456,
+          "pointX": 9,
+          "pointY": 1
+        },
+        {
+          "stackSize": 1,
+          "seed": 30716,
+          "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Ring\\C02_Ring02.dbr",
+          "prefixName": "Records\\XPack\\Item\\LootMagicalAffixes\\Prefix\\Default\\PetBonus_PhysicalDmg_03.dbr",
+          "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AttributeDexterity_03.dbr",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 665392968,
+          "pointX": 1,
+          "pointY": 1
         }
       ]
     },

@@ -227,9 +227,24 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 0,
           "pointY": 6
+        },
+        {
+          "stackSize": 1,
+          "seed": 6460,
+          "baseName": "Records\\Item\\EquipmentWeapon\\Club\\U_N_QuicksilverBludgeon.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 12,
+          "pointY": 0
         }
       ]
     },
