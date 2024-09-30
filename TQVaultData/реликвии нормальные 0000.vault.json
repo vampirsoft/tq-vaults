@@ -1100,6 +1100,21 @@
           "var2": 2035248,
           "pointX": 8,
           "pointY": 4
+        },
+        {
+          "stackSize": 1,
+          "seed": 3120,
+          "baseName": "Records\\Item\\Relics\\01_Act1_ZeusThunderbolt.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Relics\\Bonuses\\Offensive_DamageBonus_01.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 14,
+          "pointY": 3
         }
       ]
     },
@@ -1627,9 +1642,39 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 17,
           "pointY": 1
+        },
+        {
+          "stackSize": 1,
+          "seed": 8623,
+          "baseName": "Records\\Item\\Relics\\01_Act2_AmunRasGlory.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AttributeIntelligence_02.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 12,
+          "pointY": 1
+        },
+        {
+          "stackSize": 1,
+          "seed": 27977,
+          "baseName": "Records\\Item\\Relics\\01_Act2_DjedOfOsiris.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Offensive_LeechLife_02.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 5,
+          "pointY": 2
         }
       ]
     },
@@ -2142,8 +2187,23 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 0,
+          "pointY": 1
+        },
+        {
+          "stackSize": 1,
+          "seed": 14591,
+          "baseName": "Records\\Item\\Relics\\01_Act3_DragonKingsDomain.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Defensive_Protection_03.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 11,
           "pointY": 1
         }
       ]
@@ -2492,7 +2552,7 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 831697976,
+          "var2": 2035248,
           "pointX": 6,
           "pointY": 1
         },
@@ -2507,7 +2567,7 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 958091272,
+          "var2": 2035248,
           "pointX": 17,
           "pointY": 0
         },
@@ -2522,8 +2582,23 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 158420992,
+          "var2": 2035248,
           "pointX": 9,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 25901,
+          "baseName": "Records\\XPack\\Item\\Relics\\01_Act4_RageOfAres.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Offensive_ReducedAttackSpeed_01.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 11,
           "pointY": 0
         }
       ]

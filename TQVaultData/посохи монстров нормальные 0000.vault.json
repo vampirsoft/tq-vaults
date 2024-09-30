@@ -137,9 +137,24 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 256503872,
+          "var2": 2035248,
           "pointX": 8,
           "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 2854,
+          "baseName": "Records\\XPack\\Item\\EquipmentWeapons\\Staff\\MI_N_Empousa.dbr",
+          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Character_SkillMasteryF_01.dbr",
+          "suffixName": "Records\\XPack\\Item\\LootMagicalAffixes\\Suffix\\Default\\Rare_-%speedBleedDmg%Bleed_01.dbr",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 22278208,
+          "pointX": 4,
+          "pointY": 4
         }
       ]
     },
