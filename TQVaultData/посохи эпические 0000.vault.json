@@ -1,26 +1,11 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 1,
+  "currentlySelectedSackNumber": 0,
   "sacks": [
     {
       "iconinfo": null,
       "items": [
-        {
-          "stackSize": 1,
-          "seed": 6481,
-          "baseName": "Records\\Item\\EquipmentWeapon\\Staff\\U_N_Elafros.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 4,
-          "pointY": 0
-        },
         {
           "stackSize": 1,
           "seed": 29312,
@@ -35,51 +20,6 @@
           "var2": 2035248,
           "pointX": 6,
           "pointY": 0
-        },
-        {
-          "stackSize": 1,
-          "seed": 32133,
-          "baseName": "Records\\Item\\EquipmentWeapon\\Staff\\U_N_OchetosStaff.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 8,
-          "pointY": 0
-        },
-        {
-          "stackSize": 1,
-          "seed": 27313,
-          "baseName": "Records\\Item\\EquipmentWeapon\\Staff\\U_N_OchetosStaff.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 8,
-          "pointY": 4
-        },
-        {
-          "stackSize": 1,
-          "seed": 4874,
-          "baseName": "Records\\Item\\EquipmentWeapon\\Staff\\U_N_Elafros.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 4,
-          "pointY": 4
         },
         {
           "stackSize": 1,
@@ -98,21 +38,6 @@
         },
         {
           "stackSize": 1,
-          "seed": 13266,
-          "baseName": "Records\\Item\\EquipmentWeapon\\Staff\\U_N_Elafros.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 4,
-          "pointY": 8
-        },
-        {
-          "stackSize": 1,
           "seed": 22060,
           "baseName": "Records\\Item\\EquipmentWeapon\\Staff\\U_N_Pharaoh'sStandard.dbr",
           "prefixName": "",
@@ -124,21 +49,6 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 10,
-          "pointY": 0
-        },
-        {
-          "stackSize": 1,
-          "seed": 17126,
-          "baseName": "Records\\Item\\EquipmentWeapon\\Staff\\U_N_StaffOfNabukhuthnusar.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 12,
           "pointY": 0
         },
         {
@@ -188,8 +98,8 @@
         },
         {
           "stackSize": 1,
-          "seed": 26030,
-          "baseName": "Records\\Item\\EquipmentWeapon\\Staff\\U_N_StaffOfNabukhuthnusar.dbr",
+          "seed": 27616,
+          "baseName": "Records\\Item\\EquipmentWeapon\\Staff\\U_N_GlowingRod.dbr",
           "prefixName": "",
           "suffixName": "",
           "relicName": "",
@@ -198,12 +108,12 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 12,
-          "pointY": 4
+          "pointX": 0,
+          "pointY": 0
         },
         {
           "stackSize": 1,
-          "seed": 28219,
+          "seed": 17126,
           "baseName": "Records\\Item\\EquipmentWeapon\\Staff\\U_N_StaffOfNabukhuthnusar.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -212,13 +122,13 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 12,
-          "pointY": 8
+          "var2": 253685824,
+          "pointX": 8,
+          "pointY": 0
         },
         {
           "stackSize": 1,
-          "seed": 7019,
+          "seed": 32133,
           "baseName": "Records\\Item\\EquipmentWeapon\\Staff\\U_N_OchetosStaff.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -227,9 +137,9 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 8,
-          "pointY": 8
+          "var2": 1065353216,
+          "pointX": 12,
+          "pointY": 0
         },
         {
           "stackSize": 1,
@@ -242,23 +152,8 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 2035248,
+          "var2": 1065353216,
           "pointX": 4,
-          "pointY": 12
-        },
-        {
-          "stackSize": 1,
-          "seed": 27616,
-          "baseName": "Records\\Item\\EquipmentWeapon\\Staff\\U_N_GlowingRod.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 0,
           "pointY": 0
         }
       ]
@@ -367,7 +262,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 2,
           "pointY": 0
         },
@@ -382,7 +277,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 8,
           "pointY": 0
         }

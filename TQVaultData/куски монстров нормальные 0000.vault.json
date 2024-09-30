@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 0,
+  "currentlySelectedSackNumber": 1,
   "sacks": [
     {
       "iconinfo": null,
@@ -902,7 +902,7 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 654763256,
+          "var2": 2035248,
           "pointX": 9,
           "pointY": 4
         },
@@ -917,7 +917,7 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1094430872,
+          "var2": 2035248,
           "pointX": 1,
           "pointY": 6
         },
@@ -932,7 +932,7 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 756278392,
+          "var2": 2035248,
           "pointX": 12,
           "pointY": 3
         },
@@ -947,7 +947,7 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1074607224,
+          "var2": 2035248,
           "pointX": 15,
           "pointY": 1
         },
@@ -962,9 +962,39 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1010981040,
+          "var2": 2035248,
           "pointX": 6,
           "pointY": 6
+        },
+        {
+          "stackSize": 1,
+          "seed": 11026,
+          "baseName": "Records\\Item\\AnimalRelics\\01_Act2_HagsSkin.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AttributeDexterity_01.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 843562832,
+          "pointX": 17,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 4592,
+          "baseName": "Records\\Item\\AnimalRelics\\01_MultActs_DiseasedPlumage.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "records\\item\\lootmagicalaffixes\\relics\\bonuses\\offensive_%poison_01.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 879676600,
+          "pointX": 11,
+          "pointY": 2
         }
       ]
     },
@@ -1462,9 +1492,39 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1135637624,
+          "var2": 2035248,
           "pointX": 7,
           "pointY": 1
+        },
+        {
+          "stackSize": 1,
+          "seed": 21054,
+          "baseName": "Records\\Item\\AnimalRelics\\01_Act2_LupineClaw.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\AnimalRelics\\Bonuses\\Offensive_DamageBonus_01.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 790271544,
+          "pointX": 5,
+          "pointY": 2
+        },
+        {
+          "stackSize": 1,
+          "seed": 32385,
+          "baseName": "Records\\Item\\AnimalRelics\\01_MultActs_SpectralMatter.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Offensive_LeechMana_01.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 958320896,
+          "pointX": 2,
+          "pointY": 3
         }
       ]
     },
