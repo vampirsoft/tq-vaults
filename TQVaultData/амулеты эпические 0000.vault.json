@@ -23,21 +23,6 @@
         },
         {
           "stackSize": 1,
-          "seed": 18147,
-          "baseName": "Records\\Item\\EquipmentAmulet\\U_N_Paean.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 0,
-          "pointY": 0
-        },
-        {
-          "stackSize": 1,
           "seed": 17961,
           "baseName": "Records\\Item\\EquipmentAmulet\\U_N_Moonclaw.dbr",
           "prefixName": "",
@@ -467,9 +452,39 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 13,
           "pointY": 1
+        },
+        {
+          "stackSize": 1,
+          "seed": 7471,
+          "baseName": "Records\\Item\\EquipmentAmulet\\U_N_Moonclaw.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 2,
+          "pointY": 1
+        },
+        {
+          "stackSize": 1,
+          "seed": 18147,
+          "baseName": "Records\\Item\\EquipmentAmulet\\U_N_Paean.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 46592064,
+          "pointX": 0,
+          "pointY": 0
         }
       ]
     },
