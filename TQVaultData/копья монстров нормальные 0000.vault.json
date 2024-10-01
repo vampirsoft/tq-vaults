@@ -197,9 +197,24 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 29749312,
+          "var2": 2035248,
           "pointX": 5,
           "pointY": 10
+        },
+        {
+          "stackSize": 1,
+          "seed": 638,
+          "baseName": "records\\xpack2\\item\\equipmentweapons\\spear\\MI_N_merfolk.dbr",
+          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Offensive_DamagePierce_03.dbr",
+          "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AttributeIntelligence_02.dbr",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 33681472,
+          "pointX": 6,
+          "pointY": 0
         }
       ]
     },
