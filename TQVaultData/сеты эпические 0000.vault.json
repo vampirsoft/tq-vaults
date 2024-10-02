@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 9,
+  "currentlySelectedSackNumber": 0,
   "sacks": [
     {
       "iconinfo": null,
@@ -185,6 +185,36 @@
           "var2": 2035248,
           "pointX": 2,
           "pointY": 4
+        },
+        {
+          "stackSize": 1,
+          "seed": 26605,
+          "baseName": "Records\\Item\\EquipmentArmband\\USm_N_Necromancer'sHabiliment.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 2,
+          "pointY": 2
+        },
+        {
+          "stackSize": 1,
+          "seed": 23943,
+          "baseName": "Records\\Item\\EquipmentWeapon\\Staff\\US_N_Necromancer'sHabiliment.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 2,
+          "pointY": 9
         }
       ]
     },
@@ -505,6 +535,21 @@
           "var2": 2035248,
           "pointX": 4,
           "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 9911,
+          "baseName": "Records\\Item\\EquipmentArmor\\US_N_ThebanPanoply.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 14,
+          "pointY": 6
         }
       ]
     },
@@ -1677,7 +1722,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 2,
           "pointY": 7
         }
@@ -1757,7 +1802,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 39186496,
+          "var2": 2035248,
           "pointX": 14,
           "pointY": 2
         }
