@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 4,
+  "currentlySelectedSackNumber": 0,
   "sacks": [
     {
       "iconinfo": null,
@@ -320,6 +320,36 @@
           "var2": 2035248,
           "pointX": 8,
           "pointY": 12
+        },
+        {
+          "stackSize": 1,
+          "seed": 4380,
+          "baseName": "Records\\Item\\EquipmentArmor\\MI_N_DuneRaiderB.dbr",
+          "prefixName": "",
+          "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AttributeEnergy_01.dbr",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 992099384,
+          "pointX": 16,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 1524,
+          "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Torso\\MI_N_EmpusaMage.dbr",
+          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Character_AttributeEnergy_02.dbr",
+          "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AttributeEnergy_03.dbr",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 39186496,
+          "pointX": 12,
+          "pointY": 0
         }
       ]
     },
@@ -983,16 +1013,16 @@
         },
         {
           "stackSize": 1,
-          "seed": 23880,
-          "baseName": "Records\\XPack3\\Items\\EquipmentArmor\\Torso\\MI_N_SerpentoidMelee.dbr",
-          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Character_AttributeEnergy_02.dbr",
-          "suffixName": "",
+          "seed": 651,
+          "baseName": "records\\xpack2\\item\\equipmentarmor\\torso\\mi_n_merfolk.dbr",
+          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Defensive_Protection_04.dbr",
+          "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AttributeLife_03.dbr",
           "relicName": "",
           "relicBonus": "",
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 2035248,
+          "var2": 39186496,
           "pointX": 4,
           "pointY": 0
         }
@@ -1078,21 +1108,6 @@
         },
         {
           "stackSize": 1,
-          "seed": 29376,
-          "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Torso\\MI_N_KeresMelee.dbr",
-          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Character_ReducedEquipReq_01.dbr",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 12,
-          "pointY": 0
-        },
-        {
-          "stackSize": 1,
           "seed": 28758,
           "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Torso\\MI_N_KeresMelee.dbr",
           "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Defensive_ResistLightning_02.dbr",
@@ -1150,6 +1165,66 @@
           "var2": 2035248,
           "pointX": 16,
           "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 29376,
+          "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Torso\\MI_N_KeresMelee.dbr",
+          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Character_ReducedEquipReq_01.dbr",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 12,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 2177,
+          "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Torso\\MI_N_MachaeMelee.dbr",
+          "prefixName": "",
+          "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AttributeStrength_03.dbr",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 39186496,
+          "pointX": 14,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 1524,
+          "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Torso\\MI_N_AnouranMage.dbr",
+          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Character_AttributeEnergy_02.dbr",
+          "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AttributeEnergy_03.dbr",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 39186496,
+          "pointX": 6,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 10362,
+          "baseName": "records\\xpack2\\item\\equipmentarmor\\torso\\mi_n_banditgreek.dbr",
+          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Defensive_ResistLightning_02.dbr",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 39186496,
+          "pointX": 10,
+          "pointY": 0
         }
       ]
     },
@@ -1167,7 +1242,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 39186496,
+          "var2": 2035248,
           "pointX": 0,
           "pointY": 0
         },
@@ -1182,8 +1257,23 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 39186496,
+          "var2": 2035248,
           "pointX": 2,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 23880,
+          "baseName": "Records\\XPack3\\Items\\EquipmentArmor\\Torso\\MI_N_SerpentoidMelee.dbr",
+          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Character_AttributeEnergy_02.dbr",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 4,
           "pointY": 0
         }
       ]
