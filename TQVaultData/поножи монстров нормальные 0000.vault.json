@@ -298,21 +298,6 @@
         },
         {
           "stackSize": 1,
-          "seed": 17806,
-          "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Greaves\\C01_GreavesMage03.dbr",
-          "prefixName": "",
-          "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Rare_Pegasus_01.dbr",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 8,
-          "pointY": 0
-        },
-        {
-          "stackSize": 1,
           "seed": 20329,
           "baseName": "Records\\XPack3\\Items\\EquipmentArmor\\Greaves\\MI_N_SerpentoidMelee.dbr",
           "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Character_AttributeEnergy_02.dbr",
@@ -444,6 +429,21 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 16,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 17806,
+          "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Greaves\\C01_GreavesMage03.dbr",
+          "prefixName": "",
+          "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Rare_Pegasus_01.dbr",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 8,
           "pointY": 0
         }
       ]
@@ -672,7 +672,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 26800192,
+          "var2": 2035248,
           "pointX": 8,
           "pointY": 6
         },
@@ -687,7 +687,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 26800192,
+          "var2": 2035248,
           "pointX": 10,
           "pointY": 0
         },
@@ -702,7 +702,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 26800192,
+          "var2": 2035248,
           "pointX": 12,
           "pointY": 0
         }
