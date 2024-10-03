@@ -287,9 +287,39 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 39186496,
+          "var2": 2035248,
           "pointX": 8,
           "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 24719,
+          "baseName": "Records\\Item\\EquipmentWeapon\\Spear\\U_N_Huntsman'sBarb.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 1,
+          "pointY": 10
+        },
+        {
+          "stackSize": 1,
+          "seed": 6139,
+          "baseName": "Records\\XPack\\Item\\equipmentWeapons\\Spear\\U_N_002.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 8,
+          "pointY": 5
         }
       ]
     },
