@@ -152,8 +152,23 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 22278208,
+          "var2": 2035248,
           "pointX": 4,
+          "pointY": 4
+        },
+        {
+          "stackSize": 1,
+          "seed": 5503,
+          "baseName": "Records\\Item\\EquipmentWeapon\\Staff\\MI_N_SatyrMage.dbr",
+          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Character_ReducedEquipReq_01.dbr",
+          "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_SpeedAttack_01.dbr",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 269480000,
+          "pointX": 8,
           "pointY": 4
         }
       ]

@@ -317,9 +317,24 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 31256640,
+          "var2": 2035248,
           "pointX": 0,
           "pointY": 8
+        },
+        {
+          "stackSize": 1,
+          "seed": 9862,
+          "baseName": "Records\\Item\\EquipmentWeapon\\Sword\\MI_N_Arachnos.dbr",
+          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Offensive_LeechLife_01.dbr",
+          "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Offensive_+%Damage_01.dbr",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 269480000,
+          "pointX": 0,
+          "pointY": 12
         }
       ]
     },

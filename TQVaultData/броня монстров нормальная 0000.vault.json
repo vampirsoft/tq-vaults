@@ -332,7 +332,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 992099384,
+          "var2": 2035248,
           "pointX": 16,
           "pointY": 0
         },
@@ -347,9 +347,39 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 39186496,
+          "var2": 2035248,
           "pointX": 12,
           "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 30696,
+          "baseName": "Records\\Item\\EquipmentArmor\\MI_N_Arachnos.dbr",
+          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Defensive_ResistLightning_01.dbr",
+          "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AbilityDefensive_01.dbr",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 2,
+          "pointY": 9
+        },
+        {
+          "stackSize": 1,
+          "seed": 986,
+          "baseName": "Records\\Item\\EquipmentArmor\\MI_N_SatyrBrute.dbr",
+          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Defensive_ResistFire_01.dbr",
+          "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AttributeStrength_01.dbr",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 31453248,
+          "pointX": 0,
+          "pointY": 3
         }
       ]
     },
@@ -1022,7 +1052,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 39186496,
+          "var2": 2035248,
           "pointX": 4,
           "pointY": 0
         }
@@ -1192,7 +1222,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 39186496,
+          "var2": 2035248,
           "pointX": 14,
           "pointY": 0
         },
@@ -1207,7 +1237,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 39186496,
+          "var2": 2035248,
           "pointX": 6,
           "pointY": 0
         },
@@ -1222,7 +1252,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 39186496,
+          "var2": 2035248,
           "pointX": 10,
           "pointY": 0
         }
