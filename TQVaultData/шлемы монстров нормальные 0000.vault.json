@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 0,
+  "currentlySelectedSackNumber": 3,
   "sacks": [
     {
       "iconinfo": null,
@@ -962,7 +962,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 258535488,
+          "var2": 2035248,
           "pointX": 6,
           "pointY": 0
         },
@@ -977,7 +977,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 258535488,
+          "var2": 2035248,
           "pointX": 8,
           "pointY": 0
         },
@@ -992,9 +992,24 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 258535488,
+          "var2": 2035248,
           "pointX": 10,
           "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 15786,
+          "baseName": "records\\xpack2\\item\\equipmentarmor\\helm\\mi_n_troll.dbr",
+          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Defensive_ResistPierce_02.dbr",
+          "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AttributeDexterity_02.dbr",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 40955968,
+          "pointX": 10,
+          "pointY": 2
         }
       ]
     },
