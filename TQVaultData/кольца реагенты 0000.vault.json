@@ -197,7 +197,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 994785456,
+          "var2": 2035248,
           "pointX": 9,
           "pointY": 1
         },
@@ -212,9 +212,24 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 665392968,
+          "var2": 2035248,
           "pointX": 1,
           "pointY": 1
+        },
+        {
+          "stackSize": 1,
+          "seed": 28409,
+          "baseName": "Records\\XPack2\\Item\\equipmentArmor\\Ring\\C01_Ring05.dbr",
+          "prefixName": "Records\\XPack\\Item\\LootMagicalAffixes\\Prefix\\Default\\PetBonus_ElementalDmg_02.dbr",
+          "suffixName": "Records\\XPack\\Item\\LootMagicalAffixes\\Suffix\\Default\\PetBonus_HealthArmor_02.dbr",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 806713000,
+          "pointX": 5,
+          "pointY": 0
         }
       ]
     },
