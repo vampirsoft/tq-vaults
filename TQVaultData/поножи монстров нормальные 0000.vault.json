@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 2,
+  "currentlySelectedSackNumber": 0,
   "sacks": [
     {
       "iconinfo": null,
@@ -229,6 +229,21 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 12,
+          "pointY": 2
+        },
+        {
+          "stackSize": 1,
+          "seed": 15745,
+          "baseName": "Records\\Item\\EquipmentGreaves\\MI_N_DuneRaider.dbr",
+          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Defensive_ResistFire_01.dbr",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 2,
           "pointY": 2
         }
       ]
@@ -732,7 +747,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 40955968,
+          "var2": 2035248,
           "pointX": 14,
           "pointY": 2
         }

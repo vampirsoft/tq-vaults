@@ -323,21 +323,6 @@
         },
         {
           "stackSize": 1,
-          "seed": 15041,
-          "baseName": "Records\\XPack3\\Items\\EquipmentArmor\\Amulet\\u_n_01.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 12,
-          "pointY": 0
-        },
-        {
-          "stackSize": 1,
           "seed": 16674,
           "baseName": "Records\\Item\\EquipmentAmulet\\U_N_ShardoftheElements.dbr",
           "prefixName": "",
@@ -497,7 +482,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 3,
           "pointY": 2
         },
@@ -512,9 +497,24 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 0,
           "pointY": 1
+        },
+        {
+          "stackSize": 1,
+          "seed": 28248,
+          "baseName": "Records\\Item\\EquipmentAmulet\\U_N_Venomheart.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 13389952,
+          "pointX": 5,
+          "pointY": 2
         }
       ]
     },
