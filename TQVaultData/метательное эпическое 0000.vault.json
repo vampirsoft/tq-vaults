@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 1,
+  "currentlySelectedSackNumber": 0,
   "sacks": [
     {
       "iconinfo": null,
@@ -20,81 +20,6 @@
           "var2": 2035248,
           "pointX": 2,
           "pointY": 3
-        },
-        {
-          "stackSize": 1,
-          "seed": 7142,
-          "baseName": "records\\xpack2\\item\\equipmentweapons\\1hranged\\u_n_04.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 6,
-          "pointY": 0
-        },
-        {
-          "stackSize": 1,
-          "seed": 28545,
-          "baseName": "records\\xpack2\\item\\equipmentweapons\\1hranged\\u_n_06.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 8,
-          "pointY": 0
-        },
-        {
-          "stackSize": 1,
-          "seed": 19922,
-          "baseName": "records\\xpack2\\item\\equipmentweapons\\1hranged\\u_n_04.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 6,
-          "pointY": 3
-        },
-        {
-          "stackSize": 1,
-          "seed": 2249,
-          "baseName": "records\\xpack2\\item\\equipmentweapons\\1hranged\\u_n_06.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 8,
-          "pointY": 3
-        },
-        {
-          "stackSize": 1,
-          "seed": 6279,
-          "baseName": "records\\xpack2\\item\\equipmentweapons\\1hranged\\u_n_04.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 6,
-          "pointY": 6
         },
         {
           "stackSize": 1,
@@ -233,22 +158,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 17920,
-          "baseName": "records\\xpack2\\item\\equipmentweapons\\1hranged\\u_n_04.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 6,
-          "pointY": 9
-        },
-        {
-          "stackSize": 1,
-          "seed": 31562,
+          "seed": 2249,
           "baseName": "records\\xpack2\\item\\equipmentweapons\\1hranged\\u_n_06.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -257,13 +167,13 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 2035248,
+          "var2": 1065353216,
           "pointX": 8,
-          "pointY": 6
+          "pointY": 0
         },
         {
           "stackSize": 1,
-          "seed": 3424,
+          "seed": 28545,
           "baseName": "records\\xpack2\\item\\equipmentweapons\\1hranged\\u_n_06.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -272,9 +182,9 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 2035248,
+          "var2": 1065353216,
           "pointX": 8,
-          "pointY": 9
+          "pointY": 3
         }
       ]
     },
@@ -457,7 +367,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 12,
           "pointY": 0
         }
