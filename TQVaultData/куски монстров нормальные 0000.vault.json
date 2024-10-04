@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 1,
+  "currentlySelectedSackNumber": 0,
   "sacks": [
     {
       "iconinfo": null,
@@ -1130,6 +1130,21 @@
           "var2": 2035248,
           "pointX": 14,
           "pointY": 2
+        },
+        {
+          "stackSize": 1,
+          "seed": 30688,
+          "baseName": "Records\\Item\\AnimalRelics\\01_Act1_BatFang.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Offensive_LeechMana_01.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 833323168,
+          "pointX": 8,
+          "pointY": 6
         }
       ]
     },
@@ -1792,9 +1807,84 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1096538240,
+          "var2": 2035248,
           "pointX": 2,
           "pointY": 4
+        },
+        {
+          "stackSize": 1,
+          "seed": 1294,
+          "baseName": "Records\\Item\\AnimalRelics\\01_Act2_LupineClaw.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Offensive_+%Damage to Demons_01.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 5,
+          "pointY": 3
+        },
+        {
+          "stackSize": 1,
+          "seed": 14928,
+          "baseName": "Records\\Item\\AnimalRelics\\01_Act2_VileIchor.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Offensive_DamagePoison_01.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 1,
+          "pointY": 4
+        },
+        {
+          "stackSize": 1,
+          "seed": 22935,
+          "baseName": "Records\\Item\\AnimalRelics\\01_MultActs_RigidCarapace.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AbilityDefensive_02.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 7,
+          "pointY": 2
+        },
+        {
+          "stackSize": 1,
+          "seed": 7920,
+          "baseName": "Records\\Item\\AnimalRelics\\01_Act2_LupineClaw.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Offensive_LeechMana_01.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 914985208,
+          "pointX": 4,
+          "pointY": 4
+        },
+        {
+          "stackSize": 1,
+          "seed": 3993,
+          "baseName": "Records\\Item\\AnimalRelics\\01_Act3_VinyGrowth.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AttributeLife_01.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 833470752,
+          "pointX": 17,
+          "pointY": 2
         }
       ]
     },
