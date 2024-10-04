@@ -218,21 +218,6 @@
         },
         {
           "stackSize": 1,
-          "seed": 2818,
-          "baseName": "records\\xpack3\\items\\equipmentarmor\\ring\\u_n_02.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 7,
-          "pointY": 0
-        },
-        {
-          "stackSize": 1,
           "seed": 17287,
           "baseName": "records\\xpack3\\items\\equipmentarmor\\ring\\u_n_03.dbr",
           "prefixName": "",
@@ -557,9 +542,24 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 4,
           "pointY": 3
+        },
+        {
+          "stackSize": 1,
+          "seed": 31035,
+          "baseName": "records\\xpack2\\item\\equipmentarmor\\ring\\u_n_001.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 14,
+          "pointY": 0
         }
       ]
     },

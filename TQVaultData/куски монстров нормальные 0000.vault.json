@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 2,
+  "currentlySelectedSackNumber": 0,
   "sacks": [
     {
       "iconinfo": null,
@@ -1097,8 +1097,23 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 169141016,
+          "var2": 2035248,
           "pointX": 2,
+          "pointY": 5
+        },
+        {
+          "stackSize": 1,
+          "seed": 11530,
+          "baseName": "Records\\Item\\AnimalRelics\\01_Act1_BatFang.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Offensive_LeechMana_01.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 873410720,
+          "pointX": 9,
           "pointY": 5
         }
       ]
@@ -1672,7 +1687,7 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065184336,
+          "var2": 2035248,
           "pointX": 4,
           "pointY": 3
         },
@@ -1687,7 +1702,7 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1345721560,
+          "var2": 2035248,
           "pointX": 17,
           "pointY": 1
         },
@@ -1702,7 +1717,7 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 792726616,
+          "var2": 2035248,
           "pointX": 16,
           "pointY": 2
         },
@@ -1717,8 +1732,23 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 838382992,
+          "var2": 2035248,
           "pointX": 6,
+          "pointY": 2
+        },
+        {
+          "stackSize": 1,
+          "seed": 29998,
+          "baseName": "Records\\Item\\AnimalRelics\\01_Act3_RaptorTooth.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AbilityOffensive_01.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 767251592,
+          "pointX": 12,
           "pointY": 2
         }
       ]
@@ -1977,7 +2007,7 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 417337392,
+          "var2": 2035248,
           "pointX": 8,
           "pointY": 0
         }
