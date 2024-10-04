@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 2,
+  "currentlySelectedSackNumber": 1,
   "sacks": [
     {
       "iconinfo": null,
@@ -358,21 +358,6 @@
         },
         {
           "stackSize": 1,
-          "seed": 30970,
-          "baseName": "Records\\Item\\EquipmentArmor\\Um_N_Mirage.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 4,
-          "pointY": 0
-        },
-        {
-          "stackSize": 1,
           "seed": 15961,
           "baseName": "Records\\Item\\EquipmentArmor\\U_N_SandstalkerArmor.dbr",
           "prefixName": "",
@@ -385,21 +370,6 @@
           "var2": 2035248,
           "pointX": 6,
           "pointY": 0
-        },
-        {
-          "stackSize": 1,
-          "seed": 18935,
-          "baseName": "Records\\Item\\EquipmentArmor\\Um_N_Mirage.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 4,
-          "pointY": 3
         },
         {
           "stackSize": 1,
@@ -538,6 +508,21 @@
         },
         {
           "stackSize": 1,
+          "seed": 6052,
+          "baseName": "Records\\Item\\EquipmentArmor\\U_N_SandstalkerArmor.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 6,
+          "pointY": 3
+        },
+        {
+          "stackSize": 1,
           "seed": 1729,
           "baseName": "Records\\Item\\EquipmentArmor\\Um_N_Physician'sRobe.dbr",
           "prefixName": "",
@@ -562,24 +547,9 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 2035248,
+          "var2": 992099384,
           "pointX": 4,
-          "pointY": 6
-        },
-        {
-          "stackSize": 1,
-          "seed": 6052,
-          "baseName": "Records\\Item\\EquipmentArmor\\U_N_SandstalkerArmor.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 6,
-          "pointY": 3
+          "pointY": 0
         }
       ]
     },
@@ -792,7 +762,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 2,
           "pointY": 3
         }
