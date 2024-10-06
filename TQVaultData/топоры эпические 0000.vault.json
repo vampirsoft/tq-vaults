@@ -218,21 +218,6 @@
         },
         {
           "stackSize": 1,
-          "seed": 23133,
-          "baseName": "Records\\Item\\QuestItems\\QI_SickleOfKronos.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 16,
-          "pointY": 0
-        },
-        {
-          "stackSize": 1,
           "seed": 21770,
           "baseName": "Records\\XPack3\\Items\\EquipmentWeapon\\Axe\\u_n_02.dbr",
           "prefixName": "",
@@ -347,9 +332,39 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 8,
           "pointY": 3
+        },
+        {
+          "stackSize": 1,
+          "seed": 23133,
+          "baseName": "Records\\Item\\QuestItems\\QI_SickleOfKronos.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 16,
+          "pointY": 17
+        },
+        {
+          "stackSize": 1,
+          "seed": 8713,
+          "baseName": "Records\\Item\\EquipmentWeapon\\Axe\\U_N_Adranis.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 16,
+          "pointY": 0
         }
       ]
     },

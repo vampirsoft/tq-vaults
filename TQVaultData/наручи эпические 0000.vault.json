@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 1,
+  "currentlySelectedSackNumber": 0,
   "sacks": [
     {
       "iconinfo": null,
@@ -263,36 +263,6 @@
         },
         {
           "stackSize": 1,
-          "seed": 23707,
-          "baseName": "Records\\XPack3\\Items\\EquipmentArmor\\Armband\\u_n_02.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 10,
-          "pointY": 0
-        },
-        {
-          "stackSize": 1,
-          "seed": 15870,
-          "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Armband\\Um_N_001.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 12,
-          "pointY": 0
-        },
-        {
-          "stackSize": 1,
           "seed": 15841,
           "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Armband\\Um_N_003.dbr",
           "prefixName": "",
@@ -305,36 +275,6 @@
           "var2": 2035248,
           "pointX": 14,
           "pointY": 0
-        },
-        {
-          "stackSize": 1,
-          "seed": 11861,
-          "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Armband\\Um_N_001.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 12,
-          "pointY": 2
-        },
-        {
-          "stackSize": 1,
-          "seed": 5324,
-          "baseName": "Records\\XPack3\\Items\\EquipmentArmor\\Armband\\u_n_02.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 10,
-          "pointY": 2
         },
         {
           "stackSize": 1,
@@ -353,36 +293,6 @@
         },
         {
           "stackSize": 1,
-          "seed": 24077,
-          "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Armband\\Um_N_001.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 12,
-          "pointY": 4
-        },
-        {
-          "stackSize": 1,
-          "seed": 5324,
-          "baseName": "Records\\XPack3\\Items\\EquipmentArmor\\Armband\\u_n_02.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 10,
-          "pointY": 4
-        },
-        {
-          "stackSize": 1,
           "seed": 32037,
           "baseName": "Records\\Item\\EquipmentArmband\\Um_N_Scholar'sBangle.dbr",
           "prefixName": "",
@@ -394,21 +304,6 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 6,
-          "pointY": 6
-        },
-        {
-          "stackSize": 1,
-          "seed": 6851,
-          "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Armband\\Um_N_001.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 12,
           "pointY": 6
         },
         {
@@ -440,21 +335,6 @@
           "var2": 2035248,
           "pointX": 14,
           "pointY": 2
-        },
-        {
-          "stackSize": 1,
-          "seed": 15115,
-          "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Armband\\Um_N_001.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 12,
-          "pointY": 8
         },
         {
           "stackSize": 1,
@@ -533,21 +413,6 @@
         },
         {
           "stackSize": 1,
-          "seed": 3141,
-          "baseName": "Records\\XPack3\\Items\\EquipmentArmor\\Armband\\u_n_02.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1065353216,
-          "pointX": 10,
-          "pointY": 6
-        },
-        {
-          "stackSize": 1,
           "seed": 15840,
           "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Armband\\Um_N_003.dbr",
           "prefixName": "",
@@ -557,9 +422,39 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 14,
           "pointY": 4
+        },
+        {
+          "stackSize": 1,
+          "seed": 12488,
+          "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Armband\\Um_N_001.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1110516619,
+          "pointX": 12,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 5324,
+          "baseName": "Records\\XPack3\\Items\\EquipmentArmor\\Armband\\u_n_02.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1110516619,
+          "pointX": 10,
+          "pointY": 0
         }
       ]
     },
@@ -712,7 +607,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 2,
           "pointY": 4
         },
@@ -727,9 +622,24 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 12,
           "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 23684,
+          "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Armband\\U_N_002.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 4,
+          "pointY": 4
         }
       ]
     },

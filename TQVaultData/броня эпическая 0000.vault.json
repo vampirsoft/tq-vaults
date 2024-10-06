@@ -562,9 +562,24 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 16,
           "pointY": 3
+        },
+        {
+          "stackSize": 1,
+          "seed": 12829,
+          "baseName": "Records\\Item\\EquipmentArmor\\U_N_Glaevin'sBreastplate.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 16,
+          "pointY": 6
         }
       ]
     },
@@ -603,36 +618,6 @@
         },
         {
           "stackSize": 1,
-          "seed": 27150,
-          "baseName": "Records\\XPack3\\Items\\EquipmentArmor\\Torso\\um_n_01.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 6,
-          "pointY": 0
-        },
-        {
-          "stackSize": 1,
-          "seed": 32108,
-          "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Torso\\Um_N_003.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 2,
-          "pointY": 0
-        },
-        {
-          "stackSize": 1,
           "seed": 19119,
           "baseName": "Records\\Item\\EquipmentArmor\\U_N_GalionCuirass.dbr",
           "prefixName": "",
@@ -645,21 +630,6 @@
           "var2": 2035248,
           "pointX": 8,
           "pointY": 0
-        },
-        {
-          "stackSize": 1,
-          "seed": 2869,
-          "baseName": "Records\\XPack3\\Items\\EquipmentArmor\\Torso\\um_n_01.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 6,
-          "pointY": 3
         },
         {
           "stackSize": 1,
@@ -768,21 +738,6 @@
         },
         {
           "stackSize": 1,
-          "seed": 24156,
-          "baseName": "Records\\XPack\\Item\\equipmentArmor\\Torso\\Um_N_003.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 2,
-          "pointY": 3
-        },
-        {
-          "stackSize": 1,
           "seed": 6482,
           "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Torso\\Um_N_002.dbr",
           "prefixName": "",
@@ -798,22 +753,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 6830,
-          "baseName": "Records\\XPack3\\Items\\EquipmentArmor\\Torso\\um_n_01.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1065353216,
-          "pointX": 6,
-          "pointY": 6
-        },
-        {
-          "stackSize": 1,
-          "seed": 4694,
+          "seed": 9366,
           "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Torso\\Um_N_003.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -822,9 +762,39 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
+          "pointX": 6,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 9772,
+          "baseName": "Records\\XPack3\\Items\\EquipmentArmor\\Torso\\um_n_01.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
           "pointX": 2,
-          "pointY": 6
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 2572,
+          "baseName": "Records\\Item\\EquipmentArmor\\U_N_TunicoftheSilverBow.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 12,
+          "pointY": 3
         }
       ]
     },

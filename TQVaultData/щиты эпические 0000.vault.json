@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 1,
+  "currentlySelectedSackNumber": 0,
   "sacks": [
     {
       "iconinfo": null,
@@ -373,21 +373,6 @@
         },
         {
           "stackSize": 1,
-          "seed": 468,
-          "baseName": "Records\\XPack3\\Items\\EquipmentWeapon\\Shield\\u_n_01.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 16,
-          "pointY": 0
-        },
-        {
-          "stackSize": 1,
           "seed": 17527,
           "baseName": "Records\\Item\\EquipmentShield\\U_N_Thutmose'Buckler.dbr",
           "prefixName": "",
@@ -463,36 +448,6 @@
         },
         {
           "stackSize": 1,
-          "seed": 21442,
-          "baseName": "Records\\Item\\EquipmentShield\\U_N_ShieldofBalance.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 14,
-          "pointY": 0
-        },
-        {
-          "stackSize": 1,
-          "seed": 9179,
-          "baseName": "Records\\Item\\EquipmentShield\\U_N_ShieldofBalance.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 14,
-          "pointY": 3
-        },
-        {
-          "stackSize": 1,
           "seed": 16420,
           "baseName": "Records\\Item\\EquipmentShield\\U_N_NubianDeflector.dbr",
           "prefixName": "",
@@ -553,7 +508,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 31090,
+          "seed": 468,
           "baseName": "Records\\XPack3\\Items\\EquipmentWeapon\\Shield\\u_n_01.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -562,43 +517,13 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 2035248,
+          "var2": 1110516619,
           "pointX": 16,
-          "pointY": 3
+          "pointY": 0
         },
         {
           "stackSize": 1,
-          "seed": 25489,
-          "baseName": "Records\\XPack3\\Items\\EquipmentWeapon\\Shield\\u_n_01.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1065353216,
-          "pointX": 16,
-          "pointY": 6
-        },
-        {
-          "stackSize": 1,
-          "seed": 26320,
-          "baseName": "Records\\XPack3\\Items\\EquipmentWeapon\\Shield\\u_n_01.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1065353216,
-          "pointX": 16,
-          "pointY": 9
-        },
-        {
-          "stackSize": 1,
-          "seed": 32065,
+          "seed": 9179,
           "baseName": "Records\\Item\\EquipmentShield\\U_N_ShieldofBalance.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -607,30 +532,15 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 1110516619,
           "pointX": 14,
-          "pointY": 6
+          "pointY": 0
         }
       ]
     },
     {
       "iconinfo": null,
       "items": [
-        {
-          "stackSize": 1,
-          "seed": 30388,
-          "baseName": "Records\\XPack\\Item\\EquipmentWeapons\\Shield\\U_N_001.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 0,
-          "pointY": 0
-        },
         {
           "stackSize": 1,
           "seed": 31033,
@@ -645,21 +555,6 @@
           "var2": 2035248,
           "pointX": 2,
           "pointY": 0
-        },
-        {
-          "stackSize": 1,
-          "seed": 28457,
-          "baseName": "Records\\XPack\\Item\\EquipmentWeapons\\Shield\\U_N_001.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 0,
-          "pointY": 3
         },
         {
           "stackSize": 1,
@@ -678,21 +573,6 @@
         },
         {
           "stackSize": 1,
-          "seed": 18755,
-          "baseName": "Records\\XPack\\Item\\EquipmentWeapons\\Shield\\U_N_001.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 0,
-          "pointY": 6
-        },
-        {
-          "stackSize": 1,
           "seed": 25527,
           "baseName": "Records\\XPack\\Item\\EquipmentWeapons\\Shield\\U_N_002.dbr",
           "prefixName": "",
@@ -705,36 +585,6 @@
           "var2": 2035248,
           "pointX": 2,
           "pointY": 3
-        },
-        {
-          "stackSize": 1,
-          "seed": 6736,
-          "baseName": "Records\\XPack\\Item\\EquipmentWeapons\\Shield\\U_N_001.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 0,
-          "pointY": 9
-        },
-        {
-          "stackSize": 1,
-          "seed": 23171,
-          "baseName": "Records\\XPack\\Item\\EquipmentWeapons\\Shield\\U_N_001.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 0,
-          "pointY": 12
         },
         {
           "stackSize": 1,
@@ -779,6 +629,51 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 8,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 19276,
+          "baseName": "Records\\Item\\EquipmentShield\\U_N_EarthenBarrier.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 10,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 11401,
+          "baseName": "Records\\Item\\EquipmentShield\\U_N_CeremonialBuckler.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 6,
+          "pointY": 3
+        },
+        {
+          "stackSize": 1,
+          "seed": 28457,
+          "baseName": "Records\\XPack\\Item\\EquipmentWeapons\\Shield\\U_N_001.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1110516619,
+          "pointX": 0,
           "pointY": 0
         }
       ]

@@ -98,21 +98,6 @@
         },
         {
           "stackSize": 1,
-          "seed": 17000,
-          "baseName": "Records\\XPack\\Item\\EquipmentWeapons\\Spear\\U_N_001.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 9,
-          "pointY": 0
-        },
-        {
-          "stackSize": 1,
           "seed": 26869,
           "baseName": "Records\\XPack3\\Items\\EquipmentWeapon\\Spear\\u_n_02.dbr",
           "prefixName": "",
@@ -125,21 +110,6 @@
           "var2": 2035248,
           "pointX": 17,
           "pointY": 0
-        },
-        {
-          "stackSize": 1,
-          "seed": 18723,
-          "baseName": "Records\\XPack\\Item\\EquipmentWeapons\\Spear\\U_N_001.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 9,
-          "pointY": 5
         },
         {
           "stackSize": 1,
@@ -263,21 +233,6 @@
         },
         {
           "stackSize": 1,
-          "seed": 16404,
-          "baseName": "Records\\XPack\\Item\\EquipmentWeapons\\Spear\\U_N_002.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 8,
-          "pointY": 0
-        },
-        {
-          "stackSize": 1,
           "seed": 24719,
           "baseName": "Records\\Item\\EquipmentWeapon\\Spear\\U_N_Huntsman'sBarb.dbr",
           "prefixName": "",
@@ -290,21 +245,6 @@
           "var2": 2035248,
           "pointX": 1,
           "pointY": 10
-        },
-        {
-          "stackSize": 1,
-          "seed": 6139,
-          "baseName": "Records\\XPack\\Item\\equipmentWeapons\\Spear\\U_N_002.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 8,
-          "pointY": 5
         },
         {
           "stackSize": 1,
@@ -368,21 +308,6 @@
         },
         {
           "stackSize": 1,
-          "seed": 9950,
-          "baseName": "Records\\XPack\\Item\\EquipmentWeapons\\Spear\\U_N_001.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 9,
-          "pointY": 10
-        },
-        {
-          "stackSize": 1,
           "seed": 7369,
           "baseName": "Records\\XPack3\\Items\\EquipmentWeapon\\Spear\\u_n_01.dbr",
           "prefixName": "",
@@ -392,9 +317,54 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 14,
           "pointY": 5
+        },
+        {
+          "stackSize": 1,
+          "seed": 10043,
+          "baseName": "Records\\XPack3\\Items\\EquipmentWeapon\\Spear\\u_n_01.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 14,
+          "pointY": 10
+        },
+        {
+          "stackSize": 1,
+          "seed": 321,
+          "baseName": "Records\\XPack3\\Items\\EquipmentWeapon\\Spear\\u_n_01.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 14,
+          "pointY": 15
+        },
+        {
+          "stackSize": 1,
+          "seed": 9950,
+          "baseName": "Records\\XPack\\Item\\EquipmentWeapons\\Spear\\U_N_001.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1110516619,
+          "pointX": 8,
+          "pointY": 0
         },
         {
           "stackSize": 1,
@@ -407,9 +377,9 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
-          "pointX": 8,
-          "pointY": 10
+          "var2": 1110516619,
+          "pointX": 9,
+          "pointY": 0
         }
       ]
     },
