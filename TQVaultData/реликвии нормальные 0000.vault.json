@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 4,
+  "currentlySelectedSackNumber": 1,
   "sacks": [
     {
       "iconinfo": null,
@@ -1930,6 +1930,21 @@
           "var2": 2035248,
           "pointX": 13,
           "pointY": 1
+        },
+        {
+          "stackSize": 1,
+          "seed": 31688,
+          "baseName": "Records\\Item\\Relics\\01_Act2_AnkhOfIsis.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AttributeLife_02.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 11,
+          "pointY": 1
         }
       ]
     },
@@ -2463,21 +2478,6 @@
         },
         {
           "stackSize": 1,
-          "seed": 14939,
-          "baseName": "Records\\XPack\\Item\\Relics\\01_Act4_BladeOfThanatos.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "records\\item\\lootmagicalaffixes\\suffix\\default\\character_speedattack_01.dbr",
-          "var1": 3,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 14,
-          "pointY": 4
-        },
-        {
-          "stackSize": 1,
           "seed": 31946,
           "baseName": "Records\\Item\\Relics\\01_Act3_YenLoWangsBloodletting.dbr",
           "prefixName": "",
@@ -2927,8 +2927,23 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 971646040,
+          "var2": 2035248,
           "pointX": 7,
+          "pointY": 1
+        },
+        {
+          "stackSize": 1,
+          "seed": 21752,
+          "baseName": "Records\\XPack\\Item\\Relics\\01_Act4_IronWillOfAjax.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Defensive_%Protection_01.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 16,
           "pointY": 1
         }
       ]
@@ -2977,7 +2992,7 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 693736768,
+          "var2": 2035248,
           "pointX": 4,
           "pointY": 0
         }

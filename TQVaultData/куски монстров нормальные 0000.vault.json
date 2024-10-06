@@ -1145,6 +1145,51 @@
           "var2": 2035248,
           "pointX": 8,
           "pointY": 6
+        },
+        {
+          "stackSize": 1,
+          "seed": 22442,
+          "baseName": "Records\\Item\\AnimalRelics\\01_MultActs_DiseasedPlumage.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AbilityOffensive_02.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 10,
+          "pointY": 3
+        },
+        {
+          "stackSize": 1,
+          "seed": 13270,
+          "baseName": "Records\\Item\\AnimalRelics\\01_MultActs_DemonsBlood.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\AnimalRelics\\Bonuses\\Defensive_LifeResist_01.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1244710008,
+          "pointX": 13,
+          "pointY": 3
+        },
+        {
+          "stackSize": 1,
+          "seed": 31487,
+          "baseName": "Records\\Item\\AnimalRelics\\01_MultActs_VenomSac.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "records\\item\\lootmagicalaffixes\\relics\\bonuses\\offensive_%poison_01.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 842609912,
+          "pointX": 6,
+          "pointY": 7
         }
       ]
     },
@@ -1957,9 +2002,24 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1090610296,
+          "var2": 2035248,
           "pointX": 6,
           "pointY": 3
+        },
+        {
+          "stackSize": 1,
+          "seed": 4497,
+          "baseName": "Records\\Item\\AnimalRelics\\01_Act2_LupineClaw.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Offensive_LeechMana_01.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 888329464,
+          "pointX": 5,
+          "pointY": 4
         }
       ]
     },

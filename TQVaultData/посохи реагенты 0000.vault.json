@@ -38,21 +38,6 @@
         },
         {
           "stackSize": 1,
-          "seed": 26823,
-          "baseName": "Records\\Item\\EquipmentWeapon\\Staff\\C04_Frost02.dbr",
-          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Character_SkillMasteryH_01.dbr",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 16,
-          "pointY": 0
-        },
-        {
-          "stackSize": 1,
           "seed": 9831,
           "baseName": "Records\\Item\\EquipmentWeapon\\Staff\\C04_Fire03.dbr",
           "prefixName": "",
@@ -227,9 +212,24 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 26800192,
+          "var2": 2035248,
           "pointX": 0,
           "pointY": 16
+        },
+        {
+          "stackSize": 1,
+          "seed": 26823,
+          "baseName": "Records\\Item\\EquipmentWeapon\\Staff\\C04_Frost02.dbr",
+          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Character_SkillMasteryH_01.dbr",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 16,
+          "pointY": 0
         }
       ]
     },

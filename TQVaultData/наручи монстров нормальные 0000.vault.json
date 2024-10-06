@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 3,
+  "currentlySelectedSackNumber": 0,
   "sacks": [
     {
       "iconinfo": null,
@@ -290,6 +290,51 @@
           "var2": 2035248,
           "pointX": 8,
           "pointY": 2
+        },
+        {
+          "stackSize": 1,
+          "seed": 20422,
+          "baseName": "Records\\Item\\EquipmentArmband\\MI_N_DuneRaider.dbr",
+          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Defensive_ResistPoison_02.dbr",
+          "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AttributeDexterity_03.dbr",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 14,
+          "pointY": 6
+        },
+        {
+          "stackSize": 1,
+          "seed": 24879,
+          "baseName": "Records\\Item\\EquipmentArmband\\MI_N_Reptilian.dbr",
+          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Character_ReducedEquipReq_01.dbr",
+          "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AttributeEnergy_02.dbr",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 10,
+          "pointY": 2
+        },
+        {
+          "stackSize": 1,
+          "seed": 19758,
+          "baseName": "Records\\Item\\EquipmentArmband\\MI_N_DuneRaider.dbr",
+          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Defensive_Protection_03.dbr",
+          "suffixName": "Records\\XPack\\Item\\LootMagicalAffixes\\Suffix\\Default\\Defensive_ResistSlow_01.dbr",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 260173888,
+          "pointX": 14,
+          "pointY": 8
         }
       ]
     },
@@ -977,7 +1022,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 269545536,
+          "var2": 2035248,
           "pointX": 12,
           "pointY": 0
         },
@@ -992,7 +1037,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 269545536,
+          "var2": 2035248,
           "pointX": 14,
           "pointY": 0
         }
