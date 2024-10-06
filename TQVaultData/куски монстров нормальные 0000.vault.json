@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 0,
+  "currentlySelectedSackNumber": 1,
   "sacks": [
     {
       "iconinfo": null,
@@ -1133,16 +1133,16 @@
         },
         {
           "stackSize": 1,
-          "seed": 30688,
+          "seed": 15549,
           "baseName": "Records\\Item\\AnimalRelics\\01_Act1_BatFang.dbr",
           "prefixName": "",
           "suffixName": "",
           "relicName": "",
-          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Offensive_LeechMana_01.dbr",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\AnimalRelics\\Bonuses\\Offensive_DamageBonus_01.dbr",
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 833323168,
+          "var2": 1254358128,
           "pointX": 8,
           "pointY": 6
         }
@@ -1867,7 +1867,7 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 914985208,
+          "var2": 2035248,
           "pointX": 4,
           "pointY": 4
         },
@@ -1882,9 +1882,69 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 833470752,
+          "var2": 2035248,
           "pointX": 17,
           "pointY": 2
+        },
+        {
+          "stackSize": 1,
+          "seed": 4704,
+          "baseName": "Records\\Item\\AnimalRelics\\01_MultActs_SpectralMatter.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AttributeEnergy_02.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 3,
+          "pointY": 4
+        },
+        {
+          "stackSize": 1,
+          "seed": 17356,
+          "baseName": "Records\\Item\\AnimalRelics\\01_Act3_VinyGrowth.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\AnimalRelics\\Bonuses\\Defensive_LifeResist_01.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1111603560,
+          "pointX": 16,
+          "pointY": 3
+        },
+        {
+          "stackSize": 1,
+          "seed": 13912,
+          "baseName": "Records\\Item\\AnimalRelics\\01_Act3_VinyGrowth.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\AnimalRelics\\Bonuses\\Defensive_LifeResist_01.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 419112216,
+          "pointX": 17,
+          "pointY": 3
+        },
+        {
+          "stackSize": 1,
+          "seed": 4117,
+          "baseName": "Records\\Item\\AnimalRelics\\01_Act3_VinyGrowth.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Defensive_ResistPierce_01.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1160409200,
+          "pointX": 16,
+          "pointY": 4
         }
       ]
     },

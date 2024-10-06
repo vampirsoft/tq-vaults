@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 0,
+  "currentlySelectedSackNumber": 1,
   "sacks": [
     {
       "iconinfo": null,
@@ -287,7 +287,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 55504960,
+          "var2": 2035248,
           "pointX": 8,
           "pointY": 2
         }
@@ -505,6 +505,21 @@
           "var2": 2035248,
           "pointX": 12,
           "pointY": 2
+        },
+        {
+          "stackSize": 1,
+          "seed": 30353,
+          "baseName": "Records\\Item\\EquipmentArmband\\MI_N_NeanderthalMelee.dbr",
+          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Defensive_ResistCold_02.dbr",
+          "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_RegenLife_02.dbr",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 264958016,
+          "pointX": 2,
+          "pointY": 4
         }
       ]
     },

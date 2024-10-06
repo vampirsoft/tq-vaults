@@ -260,6 +260,21 @@
           "var2": 2035248,
           "pointX": 0,
           "pointY": 4
+        },
+        {
+          "stackSize": 1,
+          "seed": 12561,
+          "baseName": "Records\\Item\\EquipmentGreaves\\MI_N_NeanderthalMage.dbr",
+          "prefixName": "",
+          "suffixName": "Records\\XPack\\Item\\LootMagicalAffixes\\Suffix\\Default\\Defensive_ResistSleep_01.dbr",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 6,
+          "pointY": 4
         }
       ]
     },
@@ -738,33 +753,18 @@
         },
         {
           "stackSize": 1,
-          "seed": 14178,
+          "seed": 20564,
           "baseName": "records\\xpack2\\item\\equipmentarmor\\greaves\\mi_n_troll.dbr",
-          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Character_ReducedEquipReq_01.dbr",
-          "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AttributeIntelligence_03.dbr",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 14,
-          "pointY": 0
-        },
-        {
-          "stackSize": 1,
-          "seed": 16672,
-          "baseName": "records\\xpack2\\item\\equipmentarmor\\greaves\\mi_n_troll.dbr",
-          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Rare_StrLife_03.dbr",
+          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Defensive_ResistLightning_02.dbr",
           "suffixName": "",
           "relicName": "",
           "relicBonus": "",
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 2035248,
+          "var2": 264958016,
           "pointX": 14,
-          "pointY": 2
+          "pointY": 0
         }
       ]
     },

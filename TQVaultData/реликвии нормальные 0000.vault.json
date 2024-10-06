@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 1,
+  "currentlySelectedSackNumber": 3,
   "sacks": [
     {
       "iconinfo": null,
@@ -1103,21 +1103,6 @@
         },
         {
           "stackSize": 1,
-          "seed": 12789,
-          "baseName": "Records\\Item\\Relics\\01_Act1_ArchimedesMirror.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Defensive_ResistPierce_02.dbr",
-          "var1": 3,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 12,
-          "pointY": 4
-        },
-        {
-          "stackSize": 1,
           "seed": 16979,
           "baseName": "Records\\Item\\Relics\\01_Act1_ArtemisBowstring.dbr",
           "prefixName": "",
@@ -1190,21 +1175,6 @@
           "var2": 2035248,
           "pointX": 9,
           "pointY": 4
-        },
-        {
-          "stackSize": 1,
-          "seed": 27189,
-          "baseName": "Records\\Item\\Relics\\01_Act1_GoldenFleece.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Defensive_ResistLightning_01.dbr",
-          "var1": 3,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 1,
-          "pointY": 2
         },
         {
           "stackSize": 1,
@@ -1912,7 +1882,7 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1431263424,
+          "var2": 2035248,
           "pointX": 4,
           "pointY": 4
         },
@@ -1927,7 +1897,7 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 15,
           "pointY": 1
         },
@@ -1942,7 +1912,7 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 10,
           "pointY": 1
         },
@@ -1957,7 +1927,7 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 763313384,
+          "var2": 2035248,
           "pointX": 13,
           "pointY": 1
         }
@@ -2505,6 +2475,21 @@
           "var2": 2035248,
           "pointX": 14,
           "pointY": 4
+        },
+        {
+          "stackSize": 1,
+          "seed": 31946,
+          "baseName": "Records\\Item\\Relics\\01_Act3_YenLoWangsBloodletting.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Offensive_LeechLife_02.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1017238736,
+          "pointX": 8,
+          "pointY": 1
         }
       ]
     },

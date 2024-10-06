@@ -257,9 +257,24 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 40955968,
+          "var2": 2035248,
           "pointX": 13,
           "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 12504,
+          "baseName": "Records\\Item\\EquipmentWeapon\\Axe\\MI_N_NeanderthalMelee.dbr",
+          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Offensive_DamageBonus_03.dbr",
+          "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AttributeDexterity_02.dbr",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 264958016,
+          "pointX": 2,
+          "pointY": 3
         }
       ]
     },
