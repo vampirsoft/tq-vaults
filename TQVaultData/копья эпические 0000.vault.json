@@ -248,21 +248,6 @@
         },
         {
           "stackSize": 1,
-          "seed": 3973,
-          "baseName": "Records\\Item\\EquipmentWeapon\\Spear\\U_N_Desert'sKiss.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 3,
-          "pointY": 5
-        },
-        {
-          "stackSize": 1,
           "seed": 13640,
           "baseName": "Records\\Item\\EquipmentWeapon\\Spear\\U_N_FireSpike.dbr",
           "prefixName": "",
@@ -317,8 +302,38 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 8,
+          "pointY": 5
+        },
+        {
+          "stackSize": 1,
+          "seed": 3973,
+          "baseName": "Records\\Item\\EquipmentWeapon\\Spear\\U_N_Desert'sKiss.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 13,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 20095,
+          "baseName": "Records\\Item\\EquipmentWeapon\\Spear\\U_N_Deshret.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 260173888,
+          "pointX": 5,
           "pointY": 5
         }
       ]

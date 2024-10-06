@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 8,
+  "currentlySelectedSackNumber": 7,
   "sacks": [
     {
       "iconinfo": null,
@@ -855,6 +855,21 @@
           "var2": 2035248,
           "pointX": 16,
           "pointY": 4
+        },
+        {
+          "stackSize": 1,
+          "seed": 12272,
+          "baseName": "Records\\Item\\EquipmentGreaves\\US_N_GebelTjauti.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 14,
+          "pointY": 4
         }
       ]
     },
@@ -979,6 +994,36 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 12,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 21882,
+          "baseName": "records\\xpack\\item\\le_new\\secreto_shield.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 2,
+          "pointY": 3
+        },
+        {
+          "stackSize": 1,
+          "seed": 11340,
+          "baseName": "records\\xpack\\item\\le_new\\secreto_club.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 2,
           "pointY": 0
         }
       ]
@@ -1468,21 +1513,6 @@
         },
         {
           "stackSize": 1,
-          "seed": 20938,
-          "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Greaves\\U_N_001.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 16,
-          "pointY": 0
-        },
-        {
-          "stackSize": 1,
           "seed": 22938,
           "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Armband\\U_N_001.dbr",
           "prefixName": "",
@@ -1510,21 +1540,6 @@
           "var2": 2035248,
           "pointX": 16,
           "pointY": 4
-        },
-        {
-          "stackSize": 1,
-          "seed": 15009,
-          "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Greaves\\U_N_001.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 14,
-          "pointY": 0
         },
         {
           "stackSize": 1,
@@ -1570,21 +1585,6 @@
           "var2": 2035248,
           "pointX": 16,
           "pointY": 7
-        },
-        {
-          "stackSize": 1,
-          "seed": 14879,
-          "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Greaves\\U_N_001.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 12,
-          "pointY": 0
         },
         {
           "stackSize": 1,
@@ -1678,21 +1678,6 @@
         },
         {
           "stackSize": 1,
-          "seed": 20043,
-          "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Greaves\\U_N_001.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 10,
-          "pointY": 0
-        },
-        {
-          "stackSize": 1,
           "seed": 6453,
           "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Greaves\\USm_N_001.dbr",
           "prefixName": "",
@@ -1750,6 +1735,21 @@
           "var2": 2035248,
           "pointX": 2,
           "pointY": 9
+        },
+        {
+          "stackSize": 1,
+          "seed": 15009,
+          "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Greaves\\U_N_001.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 16,
+          "pointY": 0
         }
       ]
     },
