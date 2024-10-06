@@ -422,8 +422,38 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 13,
+          "pointY": 4
+        },
+        {
+          "stackSize": 1,
+          "seed": 11222,
+          "baseName": "Records\\Item\\EquipmentWeapon\\Bow\\U_N_Silentflight.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 8,
+          "pointY": 4
+        },
+        {
+          "stackSize": 1,
+          "seed": 11189,
+          "baseName": "Records\\Item\\EquipmentWeapon\\Bow\\U_N_Cupid'sBow.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 10,
           "pointY": 4
         }
       ]
