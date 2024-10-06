@@ -332,9 +332,24 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 40824896,
+          "var2": 2035248,
           "pointX": 1,
           "pointY": 4
+        },
+        {
+          "stackSize": 1,
+          "seed": 22060,
+          "baseName": "records\\xpack2\\item\\equipmentweapons\\sword\\u_n_02.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 60878912,
+          "pointX": 13,
+          "pointY": 0
         }
       ]
     },
