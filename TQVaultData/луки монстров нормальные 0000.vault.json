@@ -137,9 +137,39 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 55504960,
+          "var2": 2035248,
           "pointX": 1,
           "pointY": 8
+        },
+        {
+          "stackSize": 1,
+          "seed": 11336,
+          "baseName": "Records\\XPack2\\Item\\EquipmentWeapons\\Bow\\MI_N_Draugr.dbr",
+          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Offensive_DamagePierce_02.dbr",
+          "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AttributeLife_03.dbr",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 5,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 7801,
+          "baseName": "Records\\XPack2\\Item\\EquipmentWeapons\\Bow\\MI_N_Draugr.dbr",
+          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Offensive_LeechMana_02.dbr",
+          "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_SpeedAttack_02.dbr",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 60878912,
+          "pointX": 5,
+          "pointY": 4
         }
       ]
     },

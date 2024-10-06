@@ -1172,7 +1172,7 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1244710008,
+          "var2": 2035248,
           "pointX": 13,
           "pointY": 3
         },
@@ -1187,7 +1187,7 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 842609912,
+          "var2": 2035248,
           "pointX": 6,
           "pointY": 7
         }
@@ -2017,9 +2017,39 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 888329464,
+          "var2": 2035248,
           "pointX": 5,
           "pointY": 4
+        },
+        {
+          "stackSize": 1,
+          "seed": 13591,
+          "baseName": "Records\\Item\\AnimalRelics\\01_Act3_VinyGrowth.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AbilityDefensive_02.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1420522224,
+          "pointX": 17,
+          "pointY": 4
+        },
+        {
+          "stackSize": 1,
+          "seed": 12481,
+          "baseName": "Records\\Item\\AnimalRelics\\01_MultActs_RigidCarapace.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "records\\item\\lootmagicalaffixes\\animalrelics\\bonuses\\defensive_bleedresist_01.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1402531920,
+          "pointX": 7,
+          "pointY": 3
         }
       ]
     },

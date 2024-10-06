@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 0,
+  "currentlySelectedSackNumber": 5,
   "sacks": [
     {
       "iconinfo": null,
@@ -392,7 +392,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 260173888,
+          "var2": 2035248,
           "pointX": 16,
           "pointY": 3
         }
@@ -1308,21 +1308,6 @@
       "items": [
         {
           "stackSize": 1,
-          "seed": 29173,
-          "baseName": "records\\xpack2\\item\\equipmentarmor\\torso\\u_n_04.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 0,
-          "pointY": 0
-        },
-        {
-          "stackSize": 1,
           "seed": 18135,
           "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Torso\\MI_N_MelinoeMage.dbr",
           "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Defensive_ResistFire_02.dbr",
@@ -1453,8 +1438,38 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 14,
+          "pointX": 0,
           "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 5430,
+          "baseName": "records\\xpack2\\item\\equipmentarmor\\torso\\mi_n_nerthusshaman.dbr",
+          "prefixName": "",
+          "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Retaliation_LeechLife_01.dbr",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 64745536,
+          "pointX": 0,
+          "pointY": 3
+        },
+        {
+          "stackSize": 1,
+          "seed": 24425,
+          "baseName": "records\\xpack2\\item\\equipmentarmor\\torso\\mi_n_kelpie.dbr",
+          "prefixName": "",
+          "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Retaliation_Pierce_02.dbr",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 64745536,
+          "pointX": 10,
+          "pointY": 6
         }
       ]
     },
