@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 3,
+  "currentlySelectedSackNumber": 4,
   "sacks": [
     {
       "iconinfo": null,
@@ -2487,7 +2487,7 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1017238736,
+          "var2": 2035248,
           "pointX": 8,
           "pointY": 1
         }
@@ -2915,6 +2915,21 @@
           "var2": 2035248,
           "pointX": 14,
           "pointY": 1
+        },
+        {
+          "stackSize": 1,
+          "seed": 18895,
+          "baseName": "Records\\XPack\\Item\\Relics\\01_Act4_ShadeOfHektor.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Defensive_ResistPierce_03.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 971646040,
+          "pointX": 7,
+          "pointY": 1
         }
       ]
     },
@@ -2949,6 +2964,21 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 2,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 9184,
+          "baseName": "records\\xpack2\\item\\relics\\01_act5_ogmioseloquence.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "records\\item\\lootmagicalaffixes\\suffix\\default\\character_speedattack_01.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 693736768,
+          "pointX": 4,
           "pointY": 0
         }
       ]

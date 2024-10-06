@@ -1142,7 +1142,7 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1254358128,
+          "var2": 2035248,
           "pointX": 8,
           "pointY": 6
         }
@@ -1912,7 +1912,7 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1111603560,
+          "var2": 2035248,
           "pointX": 16,
           "pointY": 3
         },
@@ -1927,7 +1927,7 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 419112216,
+          "var2": 2035248,
           "pointX": 17,
           "pointY": 3
         },
@@ -1942,9 +1942,24 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1160409200,
+          "var2": 2035248,
           "pointX": 16,
           "pointY": 4
+        },
+        {
+          "stackSize": 1,
+          "seed": 23447,
+          "baseName": "Records\\Item\\AnimalRelics\\01_MultActs_RigidCarapace.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Defensive_ResistFire_01.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1090610296,
+          "pointX": 6,
+          "pointY": 3
         }
       ]
     },
