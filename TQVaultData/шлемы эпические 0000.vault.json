@@ -377,7 +377,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 2,
           "pointY": 4
         },
@@ -392,7 +392,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 6,
           "pointY": 4
         }
@@ -564,6 +564,21 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 14,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 32292,
+          "baseName": "records\\xpack2\\item\\equipmentarmor\\helm\\u_n_05.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 264958016,
+          "pointX": 16,
           "pointY": 0
         }
       ]
