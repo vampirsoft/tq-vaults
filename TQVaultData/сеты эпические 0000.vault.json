@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 11,
+  "currentlySelectedSackNumber": 8,
   "sacks": [
     {
       "iconinfo": null,
@@ -1427,7 +1427,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 14,
           "pointY": 0
         },
@@ -1442,8 +1442,83 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 17,
+          "pointY": 7
+        },
+        {
+          "stackSize": 1,
+          "seed": 13965,
+          "baseName": "Records\\XPack3\\Items\\EquipmentArmor\\Torso\\um_n_Set09.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 12,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 24776,
+          "baseName": "records\\xpack3\\items\\equipmentarmor\\greaves\\out\\um_n_set09.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 14,
+          "pointY": 3
+        },
+        {
+          "stackSize": 1,
+          "seed": 25776,
+          "baseName": "Records\\Item\\EquipmentArmband\\USm_N_Ronzer'sGift.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 4,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 22343,
+          "baseName": "Records\\Item\\EquipmentArmband\\USm_N_Ronzer'sGift.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 6,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 13327,
+          "baseName": "records\\xpack3\\items\\equipmentarmor\\ring\\um_n_set09.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 15,
           "pointY": 7
         }
       ]
@@ -1812,7 +1887,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 14,
           "pointY": 0
         },
@@ -1827,9 +1902,39 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 2,
           "pointY": 12
+        },
+        {
+          "stackSize": 1,
+          "seed": 14208,
+          "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Helm\\US_N_001.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 2,
+          "pointY": 10
+        },
+        {
+          "stackSize": 1,
+          "seed": 19128,
+          "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Armband\\US_N_001.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 6,
+          "pointY": 5
         }
       ]
     },
@@ -2007,8 +2112,23 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 16,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 14578,
+          "baseName": "Records\\XPack3\\Items\\EquipmentWeapon\\Shield\\u_n_Set12.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 14,
           "pointY": 0
         }
       ]

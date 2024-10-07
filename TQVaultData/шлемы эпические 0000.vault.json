@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 0,
+  "currentlySelectedSackNumber": 1,
   "sacks": [
     {
       "iconinfo": null,
@@ -440,6 +440,51 @@
           "var2": 2035248,
           "pointX": 12,
           "pointY": 4
+        },
+        {
+          "stackSize": 1,
+          "seed": 7115,
+          "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Helm\\Um_N_001.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 16,
+          "pointY": 10
+        },
+        {
+          "stackSize": 1,
+          "seed": 6031,
+          "baseName": "Records\\Item\\EquipmentHelm\\U_N_MedeCap.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 10,
+          "pointY": 8
+        },
+        {
+          "stackSize": 1,
+          "seed": 27344,
+          "baseName": "Records\\Item\\EquipmentHelm\\Um_N_CrownoftheElements.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 8,
+          "pointY": 8
         }
       ]
     },
@@ -700,6 +745,21 @@
           "var2": 2035248,
           "pointX": 2,
           "pointY": 4
+        },
+        {
+          "stackSize": 1,
+          "seed": 1705,
+          "baseName": "Records\\XPack3\\Items\\EquipmentArmor\\Helm\\u_n_01.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 2,
+          "pointY": 6
         }
       ]
     },
