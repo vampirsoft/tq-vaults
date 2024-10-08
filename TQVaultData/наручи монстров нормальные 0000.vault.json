@@ -1052,9 +1052,24 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 60878912,
+          "var2": 2035248,
           "pointX": 10,
           "pointY": 4
+        },
+        {
+          "stackSize": 1,
+          "seed": 29052,
+          "baseName": "Records\\Item\\EquipmentArmband\\MI_N_GorgonMelee.dbr",
+          "prefixName": "",
+          "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AttributeIntelligence_02.dbr",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 63107136,
+          "pointX": 16,
+          "pointY": 0
         }
       ]
     },
