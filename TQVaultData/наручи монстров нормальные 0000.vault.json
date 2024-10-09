@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 3,
+  "currentlySelectedSackNumber": 0,
   "sacks": [
     {
       "iconinfo": null,
@@ -335,6 +335,21 @@
           "var2": 2035248,
           "pointX": 14,
           "pointY": 8
+        },
+        {
+          "stackSize": 1,
+          "seed": 13993,
+          "baseName": "Records\\Item\\EquipmentArmband\\MI_N_Reptilian.dbr",
+          "prefixName": "Records\\XPack\\Item\\LootMagicalAffixes\\Prefix\\Default\\Rare_DemonProtectStrArmor_01.dbr",
+          "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AttributeDexterity_03.dbr",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 56684608,
+          "pointX": 10,
+          "pointY": 4
         }
       ]
     },
@@ -564,6 +579,21 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 2,
+          "pointY": 4
+        },
+        {
+          "stackSize": 1,
+          "seed": 27183,
+          "baseName": "Records\\Item\\EquipmentArmband\\MI_N_NeanderthalMage.dbr",
+          "prefixName": "",
+          "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AttributeIntelligence_02.dbr",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 4,
           "pointY": 4
         }
       ]
@@ -1067,7 +1097,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 63107136,
+          "var2": 2035248,
           "pointX": 16,
           "pointY": 0
         }

@@ -362,8 +362,53 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 63107136,
+          "var2": 2035248,
           "pointX": 2,
+          "pointY": 6
+        },
+        {
+          "stackSize": 1,
+          "seed": 20465,
+          "baseName": "Records\\Item\\EquipmentHelm\\MI_N_NeanderthalMelee.dbr",
+          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Defensive_Protection_04.dbr",
+          "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AttributeStrength_02.dbr",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 14,
+          "pointY": 4
+        },
+        {
+          "stackSize": 1,
+          "seed": 27382,
+          "baseName": "Records\\Item\\EquipmentHelm\\MI_N_JackalmanMage.dbr",
+          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Defensive_ResistLightning_02.dbr",
+          "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Retaliation_Pierce_01.dbr",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 56684608,
+          "pointX": 10,
+          "pointY": 6
+        },
+        {
+          "stackSize": 1,
+          "seed": 11434,
+          "baseName": "Records\\Item\\EquipmentHelm\\MI_N_DesertHag.dbr",
+          "prefixName": "",
+          "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AttributeLife_01.dbr",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 56684608,
+          "pointX": 12,
           "pointY": 6
         }
       ]
@@ -1085,6 +1130,21 @@
           "var2": 2035248,
           "pointX": 10,
           "pointY": 6
+        },
+        {
+          "stackSize": 1,
+          "seed": 22565,
+          "baseName": "Records\\Item\\EquipmentHelm\\MI_N_IchthianMage.dbr",
+          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Defensive_Protection_04.dbr",
+          "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AttributeEnergy_03.dbr",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 16,
+          "pointY": 0
         }
       ]
     },
