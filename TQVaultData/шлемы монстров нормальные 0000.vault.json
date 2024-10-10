@@ -392,7 +392,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 56684608,
+          "var2": 2035248,
           "pointX": 10,
           "pointY": 6
         },
@@ -407,9 +407,39 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 56684608,
+          "var2": 2035248,
           "pointX": 12,
           "pointY": 6
+        },
+        {
+          "stackSize": 1,
+          "seed": 23520,
+          "baseName": "Records\\Item\\EquipmentHelm\\MI_N_TigermanChampion.dbr",
+          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Defensive_ResistLightning_02.dbr",
+          "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_RegenLife_02.dbr",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 16,
+          "pointY": 2
+        },
+        {
+          "stackSize": 1,
+          "seed": 12946,
+          "baseName": "Records\\Item\\EquipmentHelm\\MI_N_GorgonMelee.dbr",
+          "prefixName": "",
+          "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AttributeIntelligence_01.dbr",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 258732096,
+          "pointX": 4,
+          "pointY": 8
         }
       ]
     },
