@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 3,
+  "currentlySelectedSackNumber": 0,
   "sacks": [
     {
       "iconinfo": null,
@@ -1325,6 +1325,21 @@
           "var2": 2035248,
           "pointX": 15,
           "pointY": 3
+        },
+        {
+          "stackSize": 1,
+          "seed": 17190,
+          "baseName": "Records\\Item\\Relics\\01_Act1_Hermessandal.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Relics\\BonusesGreece\\01\\01_HermesSandal_AttEnergy.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 10,
+          "pointY": 4
         }
       ]
     },
@@ -2140,6 +2155,36 @@
           "var2": 2035248,
           "pointX": 10,
           "pointY": 2
+        },
+        {
+          "stackSize": 1,
+          "seed": 27475,
+          "baseName": "Records\\Item\\Relics\\01_Act1_ValorOfAchilles.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Relics\\Bonuses\\Offensive_+%Damage_01.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 2,
+          "pointY": 3
+        },
+        {
+          "stackSize": 1,
+          "seed": 10088,
+          "baseName": "Records\\Item\\Relics\\01_Act1_DionysusWineskin.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "records\\item\\lootmagicalaffixes\\animalrelics\\bonuses\\defensive_bleedresist_01.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 0,
+          "pointY": 4
         }
       ]
     },
@@ -2862,7 +2907,7 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 16,
           "pointY": 4
         }
@@ -3527,7 +3572,7 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 0,
           "pointY": 4
         }
@@ -3625,6 +3670,21 @@
           "var2": 2035248,
           "pointX": 3,
           "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 26706,
+          "baseName": "records\\xpack2\\item\\relics\\01_act5_eponashorses.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "records\\xpack\\item\\lootmagicalaffixes\\prefix\\default\\rare_petbonus_%speedhealth_01.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 789994632,
+          "pointX": 2,
+          "pointY": 1
         }
       ]
     },

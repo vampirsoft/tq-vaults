@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 2,
+  "currentlySelectedSackNumber": 5,
   "sacks": [
     {
       "iconinfo": null,
@@ -215,6 +215,36 @@
           "var2": 2035248,
           "pointX": 16,
           "pointY": 6
+        },
+        {
+          "stackSize": 1,
+          "seed": 16449,
+          "baseName": "Records\\Item\\EquipmentArmor\\MI_N_GorgonArcher.dbr",
+          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Defensive_ResistPoison_01.dbr",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 10,
+          "pointY": 3
+        },
+        {
+          "stackSize": 1,
+          "seed": 1010,
+          "baseName": "Records\\Item\\EquipmentArmor\\MI_N_GorgonMelee.dbr",
+          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Defensive_ResistFire_01.dbr",
+          "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Retaliation_Pierce_01.dbr",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 8,
+          "pointY": 3
         }
       ]
     },
@@ -732,7 +762,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 66908224,
+          "var2": 2035248,
           "pointX": 6,
           "pointY": 6
         },
@@ -747,7 +777,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 66908224,
+          "var2": 2035248,
           "pointX": 10,
           "pointY": 9
         },
@@ -762,7 +792,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 66908224,
+          "var2": 2035248,
           "pointX": 14,
           "pointY": 3
         },
@@ -1395,6 +1425,51 @@
           "var2": 2035248,
           "pointX": 10,
           "pointY": 6
+        },
+        {
+          "stackSize": 1,
+          "seed": 5430,
+          "baseName": "records\\xpack2\\item\\equipmentarmor\\torso\\mi_n_kelpie.dbr",
+          "prefixName": "",
+          "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Retaliation_LeechLife_01.dbr",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 53342272,
+          "pointX": 10,
+          "pointY": 9
+        },
+        {
+          "stackSize": 1,
+          "seed": 29532,
+          "baseName": "records\\xpack2\\item\\equipmentarmor\\torso\\mi_n_draugr.dbr",
+          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Character_AttributeEnergy_02.dbr",
+          "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AbilityDefensive_03.dbr",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 53342272,
+          "pointX": 14,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 30539,
+          "baseName": "records\\xpack2\\item\\equipmentarmor\\torso\\mi_n_troll.dbr",
+          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Defensive_ResistLightning_02.dbr",
+          "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AttributeEnergy_03.dbr",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 53342272,
+          "pointX": 8,
+          "pointY": 3
         }
       ]
     },
