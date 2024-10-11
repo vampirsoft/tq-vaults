@@ -302,9 +302,39 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 66908224,
+          "var2": 2035248,
           "pointX": 1,
           "pointY": 3
+        },
+        {
+          "stackSize": 1,
+          "seed": 22134,
+          "baseName": "Records\\XPack2\\Item\\EquipmentWeapons\\Club\\MI_N_Troll.dbr",
+          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Offensive_LeechLife_03.dbr",
+          "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AbilityOffensive_03.dbr",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 53342272,
+          "pointX": 10,
+          "pointY": 12
+        },
+        {
+          "stackSize": 1,
+          "seed": 13494,
+          "baseName": "Records\\XPack\\Item\\EquipmentWeapons\\Club\\MI_N_Anteok.dbr",
+          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Offensive_DamagePoison_02.dbr",
+          "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AttributeDexterity_03.dbr",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 53342272,
+          "pointX": 11,
+          "pointY": 0
         }
       ]
     },

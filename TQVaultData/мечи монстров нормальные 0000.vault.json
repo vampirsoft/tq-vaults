@@ -377,9 +377,24 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 66908224,
+          "var2": 2035248,
           "pointX": 2,
           "pointY": 16
+        },
+        {
+          "stackSize": 1,
+          "seed": 22779,
+          "baseName": "records\\xpack2\\item\\equipmentweapons\\sword\\MI_N_troll.dbr",
+          "prefixName": "",
+          "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Offensive_Damage%LifeLeech_01.dbr",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 53342272,
+          "pointX": 9,
+          "pointY": 8
         }
       ]
     },
