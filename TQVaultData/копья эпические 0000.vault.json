@@ -377,7 +377,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 14,
           "pointY": 0
         },
@@ -424,6 +424,21 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 15,
+          "pointY": 10
+        },
+        {
+          "stackSize": 1,
+          "seed": 11417,
+          "baseName": "Records\\XPack\\Item\\equipmentWeapons\\Spear\\U_N_002.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 9,
           "pointY": 10
         }
       ]
