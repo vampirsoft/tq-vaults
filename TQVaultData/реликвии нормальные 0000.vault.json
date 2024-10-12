@@ -2925,6 +2925,21 @@
           "var2": 2035248,
           "pointX": 15,
           "pointY": 5
+        },
+        {
+          "stackSize": 1,
+          "seed": 5705,
+          "baseName": "Records\\XPack\\Item\\Relics\\01_Act4_BladeOfThanatos.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Offensive_+%Damage to Undead_01.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 14,
+          "pointY": 6
         }
       ]
     },
@@ -3862,7 +3877,7 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 9,
           "pointY": 0
         },
@@ -3877,7 +3892,7 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 14,
           "pointY": 0
         },
@@ -3892,7 +3907,7 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 2,
           "pointY": 2
         },
@@ -3907,9 +3922,69 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 890906792,
+          "var2": 2035248,
           "pointX": 1,
           "pointY": 1
+        },
+        {
+          "stackSize": 1,
+          "seed": 21723,
+          "baseName": "records\\xpack2\\item\\relics\\01_act5_stewofeldhrimnir.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AttributeLife_02.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 7,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 27792,
+          "baseName": "records\\xpack2\\item\\relics\\01_act5_lightofbelenus.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Character_AttributeEnergy_02.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1058687200,
+          "pointX": 15,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 10639,
+          "baseName": "records\\xpack2\\item\\relics\\01_act5_donarshammer.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Offensive_+%Damage to Undead_01.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 0,
+          "pointY": 2
+        },
+        {
+          "stackSize": 1,
+          "seed": 20917,
+          "baseName": "records\\xpack2\\item\\relics\\01_act5_cernunnosmajesty.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Defensive_Protection_03.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 11,
+          "pointY": 0
         }
       ]
     },
