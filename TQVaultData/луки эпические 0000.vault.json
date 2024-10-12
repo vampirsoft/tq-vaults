@@ -602,9 +602,39 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 17,
           "pointY": 4
+        },
+        {
+          "stackSize": 1,
+          "seed": 19162,
+          "baseName": "Records\\XPack\\Item\\equipmentWeapons\\Bow\\U_N_001.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 12,
+          "pointY": 8
+        },
+        {
+          "stackSize": 1,
+          "seed": 14906,
+          "baseName": "records\\xpack2\\item\\equipmentweapons\\bow\\u_n_02.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 17,
+          "pointY": 8
         }
       ]
     },
