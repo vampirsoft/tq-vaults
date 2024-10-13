@@ -62,8 +62,23 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 14,
+          "pointY": 2
+        },
+        {
+          "stackSize": 1,
+          "seed": 22557,
+          "baseName": "records\\xpack2\\item\\equipmentarmor\\torso\\us_n_brennus.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 57471040,
+          "pointX": 12,
           "pointY": 2
         }
       ]
