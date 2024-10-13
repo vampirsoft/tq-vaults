@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 0,
+  "currentlySelectedSackNumber": 1,
   "sacks": [
     {
       "iconinfo": null,
@@ -292,8 +292,23 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 63959104,
+          "var2": 2035248,
           "pointX": 4,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 14601,
+          "baseName": "records\\xpack2\\item\\equipmentweapons\\shield\\MI_N_fjordmelee.dbr",
+          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Character_ReducedEquipReq_01.dbr",
+          "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_RegenLife_02.dbr",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 261091392,
+          "pointX": 6,
           "pointY": 0
         }
       ]
