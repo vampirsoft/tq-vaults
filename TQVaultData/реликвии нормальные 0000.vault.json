@@ -3635,6 +3635,21 @@
           "var2": 2035248,
           "pointX": 10,
           "pointY": 1
+        },
+        {
+          "stackSize": 1,
+          "seed": 30281,
+          "baseName": "Records\\XPack\\Item\\Relics\\01_Act4_PersephonesTears.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AttributeLife_02.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1313132592,
+          "pointX": 15,
+          "pointY": 1
         }
       ]
     },
@@ -3937,7 +3952,7 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 7,
           "pointY": 0
         },
@@ -3952,7 +3967,7 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1058687200,
+          "var2": 2035248,
           "pointX": 15,
           "pointY": 0
         },
@@ -3967,7 +3982,7 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 0,
           "pointY": 2
         },
@@ -3982,9 +3997,54 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 11,
           "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 14010,
+          "baseName": "records\\xpack2\\item\\relics\\01_act5_eponashorses.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "records\\xpack\\item\\lootmagicalaffixes\\prefix\\default\\rare_petbonus_%speedhealth_01.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 3,
+          "pointY": 2
+        },
+        {
+          "stackSize": 1,
+          "seed": 14361,
+          "baseName": "records\\xpack2\\item\\relics\\01_act5_wodanswisdom.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AttributeIntelligence_02.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 13,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 2692,
+          "baseName": "records\\xpack2\\item\\relics\\01_act5_lightofbelenus.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AttributeLife_02.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 14,
+          "pointY": 1
         }
       ]
     },

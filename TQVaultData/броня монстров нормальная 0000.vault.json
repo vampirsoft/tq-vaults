@@ -1482,9 +1482,24 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 66580544,
+          "var2": 2035248,
           "pointX": 16,
           "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 3729,
+          "baseName": "records\\xpack2\\item\\equipmentarmor\\torso\\mi_n_yerren.dbr",
+          "prefixName": "",
+          "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Retaliation_LeechLife_01.dbr",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 58191936,
+          "pointX": 16,
+          "pointY": 3
         }
       ]
     },
