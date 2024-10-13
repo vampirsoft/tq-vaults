@@ -347,9 +347,39 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 261091392,
+          "var2": 2035248,
           "pointX": 1,
           "pointY": 6
+        },
+        {
+          "stackSize": 1,
+          "seed": 32326,
+          "baseName": "Records\\XPack\\Item\\EquipmentWeapons\\Club\\MI_N_Anteok.dbr",
+          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Offensive_DamageCold_03.dbr",
+          "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Offensive_+%Damage_03.dbr",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 259977280,
+          "pointX": 11,
+          "pointY": 3
+        },
+        {
+          "stackSize": 1,
+          "seed": 32718,
+          "baseName": "Records\\XPack2\\Item\\EquipmentWeapons\\Club\\MI_N_Dvergr.dbr",
+          "prefixName": "",
+          "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Offensive_ReducedProtection_01.dbr",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 259977280,
+          "pointX": 12,
+          "pointY": 0
         }
       ]
     },
