@@ -293,21 +293,6 @@
         },
         {
           "stackSize": 1,
-          "seed": 321,
-          "baseName": "Records\\XPack3\\Items\\EquipmentWeapon\\Spear\\u_n_01.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 14,
-          "pointY": 15
-        },
-        {
-          "stackSize": 1,
           "seed": 9950,
           "baseName": "Records\\XPack\\Item\\EquipmentWeapons\\Spear\\U_N_001.dbr",
           "prefixName": "",
@@ -320,51 +305,6 @@
           "var2": 2035248,
           "pointX": 8,
           "pointY": 0
-        },
-        {
-          "stackSize": 1,
-          "seed": 4444,
-          "baseName": "Records\\XPack\\Item\\EquipmentWeapons\\Spear\\U_N_002.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 9,
-          "pointY": 0
-        },
-        {
-          "stackSize": 1,
-          "seed": 15778,
-          "baseName": "Records\\XPack3\\Items\\EquipmentWeapon\\Spear\\u_n_01.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 15,
-          "pointY": 15
-        },
-        {
-          "stackSize": 1,
-          "seed": 9468,
-          "baseName": "Records\\XPack\\Item\\equipmentWeapons\\Spear\\U_N_002.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 9,
-          "pointY": 5
         },
         {
           "stackSize": 1,
@@ -392,13 +332,13 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 2035248,
+          "var2": 1065353216,
           "pointX": 15,
           "pointY": 0
         },
         {
           "stackSize": 1,
-          "seed": 7369,
+          "seed": 15778,
           "baseName": "Records\\XPack3\\Items\\EquipmentWeapon\\Spear\\u_n_01.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -407,14 +347,14 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 2035248,
+          "var2": 1065353216,
           "pointX": 15,
           "pointY": 5
         },
         {
           "stackSize": 1,
-          "seed": 10043,
-          "baseName": "Records\\XPack3\\Items\\EquipmentWeapon\\Spear\\u_n_01.dbr",
+          "seed": 4444,
+          "baseName": "Records\\XPack\\Item\\EquipmentWeapons\\Spear\\U_N_002.dbr",
           "prefixName": "",
           "suffixName": "",
           "relicName": "",
@@ -422,39 +362,9 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 15,
-          "pointY": 10
-        },
-        {
-          "stackSize": 1,
-          "seed": 11417,
-          "baseName": "Records\\XPack\\Item\\equipmentWeapons\\Spear\\U_N_002.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
+          "var2": 1065353216,
           "pointX": 9,
-          "pointY": 10
-        },
-        {
-          "stackSize": 1,
-          "seed": 13508,
-          "baseName": "Records\\XPack\\Item\\equipmentWeapons\\Spear\\U_N_002.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 9,
-          "pointY": 15
+          "pointY": 0
         }
       ]
     },
@@ -472,7 +382,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 0,
           "pointY": 0
         }

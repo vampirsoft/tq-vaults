@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 2,
+  "currentlySelectedSackNumber": 1,
   "sacks": [
     {
       "iconinfo": null,
@@ -1310,6 +1310,21 @@
           "var2": 2035248,
           "pointX": 9,
           "pointY": 6
+        },
+        {
+          "stackSize": 1,
+          "seed": 14043,
+          "baseName": "Records\\Item\\AnimalRelics\\01_Act1_BoarsHide.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Defensive_Protection_01.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 3,
+          "pointY": 5
         }
       ]
     },
@@ -2128,21 +2143,6 @@
         },
         {
           "stackSize": 1,
-          "seed": 4497,
-          "baseName": "Records\\Item\\AnimalRelics\\01_Act2_LupineClaw.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Offensive_LeechMana_01.dbr",
-          "var1": 5,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 5,
-          "pointY": 4
-        },
-        {
-          "stackSize": 1,
           "seed": 13591,
           "baseName": "Records\\Item\\AnimalRelics\\01_Act3_VinyGrowth.dbr",
           "prefixName": "",
@@ -2248,21 +2248,6 @@
         },
         {
           "stackSize": 1,
-          "seed": 3918,
-          "baseName": "Records\\Item\\AnimalRelics\\01_Act2_LupineClaw.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "Records\\Item\\LootMagicalAffixes\\AnimalRelics\\Bonuses\\Offensive_DamageBonus_01.dbr",
-          "var1": 5,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 4,
-          "pointY": 5
-        },
-        {
-          "stackSize": 1,
           "seed": 6296,
           "baseName": "Records\\Item\\AnimalRelics\\01_Act3_RaptorTooth.dbr",
           "prefixName": "",
@@ -2304,21 +2289,6 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 1,
-          "pointY": 5
-        },
-        {
-          "stackSize": 1,
-          "seed": 26146,
-          "baseName": "Records\\Item\\AnimalRelics\\01_Act2_LupineClaw.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Offensive_+%Damage to Demons_01.dbr",
-          "var1": 5,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1243504392,
-          "pointX": 5,
           "pointY": 5
         }
       ]
@@ -2592,7 +2562,7 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1111811192,
+          "var2": 2035248,
           "pointX": 9,
           "pointY": 0
         }
