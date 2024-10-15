@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 1,
+  "currentlySelectedSackNumber": 0,
   "sacks": [
     {
       "iconinfo": null,
@@ -1355,6 +1355,36 @@
           "var2": 2035248,
           "pointX": 5,
           "pointY": 6
+        },
+        {
+          "stackSize": 1,
+          "seed": 5875,
+          "baseName": "Records\\Item\\Relics\\01_Act1_PrometheusFlame.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_SpeedAttack_01.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 3,
+          "pointY": 5
+        },
+        {
+          "stackSize": 1,
+          "seed": 20538,
+          "baseName": "Records\\Item\\Relics\\01_Act1_ArchimedesMirror.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Retaliation_Pierce_01.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 969864408,
+          "pointX": 12,
+          "pointY": 4
         }
       ]
     },
@@ -2242,7 +2272,7 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1035689864,
+          "var2": 2035248,
           "pointX": 4,
           "pointY": 5
         },
@@ -2257,7 +2287,7 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 15,
+          "var2": 2035248,
           "pointX": 8,
           "pointY": 3
         },
@@ -2272,9 +2302,39 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 859780416,
+          "var2": 2035248,
           "pointX": 15,
           "pointY": 2
+        },
+        {
+          "stackSize": 1,
+          "seed": 4893,
+          "baseName": "Records\\Item\\Relics\\01_Act2_AmunRasGlory.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Character_AttributeEnergy_02.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 12,
+          "pointY": 2
+        },
+        {
+          "stackSize": 1,
+          "seed": 9300,
+          "baseName": "Records\\Item\\Relics\\01_Act2_UdjatOfHorus.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Defensive_ResistCold_02.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 9,
+          "pointY": 3
         }
       ]
     },
