@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 3,
+  "currentlySelectedSackNumber": 4,
   "sacks": [
     {
       "iconinfo": null,
@@ -927,7 +927,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 16,
           "pointY": 6
         }
@@ -1112,7 +1112,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 14,
           "pointY": 4
         }
@@ -1270,6 +1270,21 @@
           "var2": 2035248,
           "pointX": 2,
           "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 14653,
+          "baseName": "Records\\Item\\EquipmentGreaves\\US_N_BabylonianRaiment.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 2,
+          "pointY": 9
         }
       ]
     },
