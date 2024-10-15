@@ -1283,36 +1283,6 @@
         },
         {
           "stackSize": 1,
-          "seed": 18583,
-          "baseName": "Records\\Item\\AnimalRelics\\01_MultActs_VenomSac.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Offensive_DamagePoison_01.dbr",
-          "var1": 5,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 7,
-          "pointY": 7
-        },
-        {
-          "stackSize": 1,
-          "seed": 15755,
-          "baseName": "Records\\Item\\AnimalRelics\\01_Act1_BatFang.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "Records\\Item\\LootMagicalAffixes\\AnimalRelics\\Bonuses\\Offensive_DamageBonus_01.dbr",
-          "var1": 5,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 9,
-          "pointY": 6
-        },
-        {
-          "stackSize": 1,
           "seed": 14043,
           "baseName": "Records\\Item\\AnimalRelics\\01_Act1_BoarsHide.dbr",
           "prefixName": "",
@@ -1352,9 +1322,24 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 869702864,
+          "var2": 2035248,
           "pointX": 15,
           "pointY": 3
+        },
+        {
+          "stackSize": 1,
+          "seed": 5548,
+          "baseName": "Records\\Item\\AnimalRelics\\01_Act1_PristinePlumage.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Defensive_ResistPoison_01.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 933354672,
+          "pointX": 1,
+          "pointY": 8
         }
       ]
     },
@@ -2425,6 +2410,36 @@
           "var2": 2035248,
           "pointX": 2,
           "pointY": 6
+        },
+        {
+          "stackSize": 1,
+          "seed": 12624,
+          "baseName": "Records\\Item\\AnimalRelics\\01_Act2_LupineClaw.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Offensive_LeechMana_01.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 4,
+          "pointY": 6
+        },
+        {
+          "stackSize": 1,
+          "seed": 16901,
+          "baseName": "Records\\Item\\AnimalRelics\\01_MultActs_RigidCarapace.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Defensive_ResistFire_01.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 6,
+          "pointY": 5
         }
       ]
     },
