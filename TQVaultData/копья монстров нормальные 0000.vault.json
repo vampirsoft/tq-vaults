@@ -257,9 +257,24 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 53342272,
+          "var2": 2035248,
           "pointX": 7,
           "pointY": 10
+        },
+        {
+          "stackSize": 1,
+          "seed": 29343,
+          "baseName": "records\\xpack2\\item\\equipmentweapons\\spear\\MI_N_einherjar.dbr",
+          "prefixName": "",
+          "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Offensive_ReducedProtection_02.dbr",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 56684608,
+          "pointX": 8,
+          "pointY": 0
         }
       ]
     },

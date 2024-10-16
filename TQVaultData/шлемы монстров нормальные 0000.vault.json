@@ -1000,6 +1000,36 @@
           "var2": 2035248,
           "pointX": 0,
           "pointY": 2
+        },
+        {
+          "stackSize": 1,
+          "seed": 23181,
+          "baseName": "records\\xpack2\\item\\equipmentarmor\\helm\\mi_n_einherjar.dbr",
+          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Defensive_ResistPierce_03.dbr",
+          "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AttributeEnergy_02.dbr",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 56684608,
+          "pointX": 2,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 22233,
+          "baseName": "records\\xpack2\\item\\equipmentarmor\\helm\\mi_n_alfr.dbr",
+          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Character_ReducedEquipReq_01.dbr",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 56684608,
+          "pointX": 4,
+          "pointY": 0
         }
       ]
     },

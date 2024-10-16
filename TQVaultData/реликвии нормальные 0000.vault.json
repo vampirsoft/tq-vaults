@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 0,
+  "currentlySelectedSackNumber": 4,
   "sacks": [
     {
       "iconinfo": null,
@@ -1442,7 +1442,7 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 14,
           "pointY": 4
         },
@@ -1457,7 +1457,7 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 745329304,
+          "var2": 2035248,
           "pointX": 8,
           "pointY": 5
         },
@@ -1472,9 +1472,24 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 17,
           "pointY": 5
+        },
+        {
+          "stackSize": 1,
+          "seed": 916,
+          "baseName": "Records\\Item\\Relics\\01_Act1_ArchimedesMirror.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Retaliation_Pierce_01.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 13,
+          "pointY": 4
         }
       ]
     },
@@ -4434,6 +4449,51 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 0,
+          "pointY": 3
+        },
+        {
+          "stackSize": 1,
+          "seed": 31259,
+          "baseName": "records\\xpack2\\item\\relics\\01_act5_sigurdscourage.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_SpeedRun_01.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 9,
+          "pointY": 1
+        },
+        {
+          "stackSize": 1,
+          "seed": 17675,
+          "baseName": "records\\xpack2\\item\\relics\\01_act5_wodanswisdom.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Character_AttributeEnergy_02.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 12,
+          "pointY": 1
+        },
+        {
+          "stackSize": 1,
+          "seed": 11029,
+          "baseName": "records\\xpack2\\item\\relics\\01_act5_eponashorses.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Relics\\BonusesGreece\\01\\01_HermesSandal_RegenLife.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 3,
           "pointY": 3
         }
       ]
