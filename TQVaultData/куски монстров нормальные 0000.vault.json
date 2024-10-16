@@ -1352,9 +1352,24 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1029558352,
+          "var2": 2035248,
           "pointX": 2,
           "pointY": 6
+        },
+        {
+          "stackSize": 1,
+          "seed": 24607,
+          "baseName": "records\\item\\animalrelics\\01_multacts_venomsac.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "records\\item\\lootmagicalaffixes\\relics\\bonuses\\offensive_%poison_01.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 784251320,
+          "pointX": 7,
+          "pointY": 7
         }
       ]
     },
