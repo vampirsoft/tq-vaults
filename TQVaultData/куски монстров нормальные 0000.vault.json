@@ -2482,7 +2482,7 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 865564816,
+          "var2": 2035248,
           "pointX": 5,
           "pointY": 6
         },
@@ -2497,9 +2497,24 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1078158824,
+          "var2": 2035248,
           "pointX": 4,
           "pointY": 7
+        },
+        {
+          "stackSize": 1,
+          "seed": 25297,
+          "baseName": "Records\\Item\\AnimalRelics\\01_MultActs_SpectralMatter.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Offensive_+%Damage to Undead_01.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 701741160,
+          "pointX": 3,
+          "pointY": 6
         }
       ]
     },
@@ -2832,7 +2847,7 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 822945872,
+          "var2": 2035248,
           "pointX": 13,
           "pointY": 0
         },
@@ -2847,7 +2862,7 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 416733160,
+          "var2": 2035248,
           "pointX": 12,
           "pointY": 1
         },
@@ -2862,7 +2877,7 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 878862400,
+          "var2": 2035248,
           "pointX": 13,
           "pointY": 1
         },
@@ -2877,9 +2892,39 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1149798528,
+          "var2": 2035248,
           "pointX": 12,
           "pointY": 2
+        },
+        {
+          "stackSize": 1,
+          "seed": 66,
+          "baseName": "records\\xpack2\\item\\charms\\01_act5_eitr.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Offensive_Stun_02.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 784325112,
+          "pointX": 14,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 13035,
+          "baseName": "records\\xpack2\\item\\charms\\01_act5_golemheart.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Offensive_ReducedAttackSpeed_01.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1087387792,
+          "pointX": 16,
+          "pointY": 0
         }
       ]
     },
