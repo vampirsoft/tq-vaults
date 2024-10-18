@@ -272,8 +272,23 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 56684608,
+          "var2": 2035248,
           "pointX": 8,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 7632,
+          "baseName": "records\\xpack2\\item\\equipmentweapons\\spear\\MI_N_eldjotun.dbr",
+          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Offensive_DamageBonus_03.dbr",
+          "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AbilityOffensive_03.dbr",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 253030464,
+          "pointX": 9,
           "pointY": 0
         }
       ]
