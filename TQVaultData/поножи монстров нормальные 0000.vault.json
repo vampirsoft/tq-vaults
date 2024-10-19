@@ -317,9 +317,24 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 47706176,
+          "var2": 2035248,
           "pointX": 10,
           "pointY": 8
+        },
+        {
+          "stackSize": 1,
+          "seed": 1759,
+          "baseName": "Records\\Item\\EquipmentGreaves\\MI_N_NeanderthalMelee.dbr",
+          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Rare_StrLife_01.dbr",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 55373888,
+          "pointX": 4,
+          "pointY": 6
         }
       ]
     },

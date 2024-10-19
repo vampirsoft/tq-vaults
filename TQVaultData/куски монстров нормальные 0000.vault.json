@@ -2602,8 +2602,23 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1151026376,
+          "var2": 2035248,
           "pointX": 16,
+          "pointY": 5
+        },
+        {
+          "stackSize": 1,
+          "seed": 5209,
+          "baseName": "Records\\Item\\AnimalRelics\\01_Act3_VinyGrowth.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AttributeLife_01.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 931554488,
+          "pointX": 17,
           "pointY": 5
         }
       ]
