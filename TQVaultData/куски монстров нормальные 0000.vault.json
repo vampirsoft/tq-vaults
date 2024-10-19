@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 3,
+  "currentlySelectedSackNumber": 1,
   "sacks": [
     {
       "iconinfo": null,
@@ -1382,7 +1382,7 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 848979904,
+          "var2": 2035248,
           "pointX": 13,
           "pointY": 4
         },
@@ -1397,7 +1397,7 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 824117320,
+          "var2": 2035248,
           "pointX": 12,
           "pointY": 5
         },
@@ -1412,7 +1412,7 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 828720256,
+          "var2": 2035248,
           "pointX": 13,
           "pointY": 5
         },
@@ -1427,7 +1427,7 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 830099632,
+          "var2": 2035248,
           "pointX": 12,
           "pointY": 6
         },
@@ -1442,7 +1442,7 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 960536664,
+          "var2": 2035248,
           "pointX": 14,
           "pointY": 4
         }
@@ -2590,6 +2590,21 @@
           "var2": 2035248,
           "pointX": 3,
           "pointY": 6
+        },
+        {
+          "stackSize": 1,
+          "seed": 29928,
+          "baseName": "Records\\Item\\AnimalRelics\\01_Act3_VinyGrowth.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AbilityDefensive_02.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1151026376,
+          "pointX": 16,
+          "pointY": 5
         }
       ]
     },
@@ -3017,7 +3032,7 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1035933112,
+          "var2": 2035248,
           "pointX": 0,
           "pointY": 0
         },
@@ -3032,7 +3047,7 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1029765984,
+          "var2": 2035248,
           "pointX": 1,
           "pointY": 0
         }
