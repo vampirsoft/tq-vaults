@@ -2617,9 +2617,39 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 931554488,
+          "var2": 2035248,
           "pointX": 17,
           "pointY": 5
+        },
+        {
+          "stackSize": 1,
+          "seed": 19624,
+          "baseName": "Records\\Item\\AnimalRelics\\01_MultActs_RigidCarapace.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Defensive_StunResist_01.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 900092784,
+          "pointX": 7,
+          "pointY": 5
+        },
+        {
+          "stackSize": 1,
+          "seed": 32725,
+          "baseName": "Records\\Item\\AnimalRelics\\01_Act3_YetiFur.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AbilityDefensive_02.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 826354856,
+          "pointX": 14,
+          "pointY": 1
         }
       ]
     },

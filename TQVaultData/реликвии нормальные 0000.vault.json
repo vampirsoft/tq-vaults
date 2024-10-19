@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 1,
+  "currentlySelectedSackNumber": 3,
   "sacks": [
     {
       "iconinfo": null,
@@ -2452,7 +2452,7 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 538448056,
+          "var2": 2035248,
           "pointX": 16,
           "pointY": 2
         }
@@ -3267,8 +3267,23 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 4,
+          "pointY": 2
+        },
+        {
+          "stackSize": 1,
+          "seed": 11080,
+          "baseName": "Records\\Item\\Relics\\01_Act3_DragonKingsDomain.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AttributeDexterity_03.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 768867608,
+          "pointX": 10,
           "pointY": 2
         }
       ]
@@ -4055,6 +4070,21 @@
           "var2": 2035248,
           "pointX": 13,
           "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 16036,
+          "baseName": "Records\\Item\\Relics\\01_Act3_JadeEmperorsSerenity.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Defensive_Protection_03.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 12,
+          "pointY": 1
         }
       ]
     },
