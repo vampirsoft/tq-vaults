@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 1,
+  "currentlySelectedSackNumber": 6,
   "sacks": [
     {
       "iconinfo": null,
@@ -502,7 +502,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 47706176,
+          "var2": 2035248,
           "pointX": 16,
           "pointY": 9
         }
@@ -732,7 +732,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 47706176,
+          "var2": 2035248,
           "pointX": 6,
           "pointY": 9
         },
@@ -747,7 +747,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 47706176,
+          "var2": 2035248,
           "pointX": 10,
           "pointY": 3
         }
@@ -1610,6 +1610,21 @@
           "var2": 2035248,
           "pointX": 14,
           "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 22133,
+          "baseName": "Records\\Item\\EquipmentArmor\\MI_N_RatmanMelee.dbr",
+          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Defensive_Protection_04.dbr",
+          "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AbilityDefensive_03.dbr",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 47706176,
+          "pointX": 14,
+          "pointY": 3
         }
       ]
     },
