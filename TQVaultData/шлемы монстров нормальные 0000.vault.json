@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 4,
+  "currentlySelectedSackNumber": 1,
   "sacks": [
     {
       "iconinfo": null,
@@ -520,6 +520,21 @@
           "var2": 2035248,
           "pointX": 14,
           "pointY": 2
+        },
+        {
+          "stackSize": 1,
+          "seed": 25834,
+          "baseName": "Records\\Item\\EquipmentHelm\\MI_N_Liche.dbr",
+          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Defensive_ResistPierce_02.dbr",
+          "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AbilityDefensive_03.dbr",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 47706176,
+          "pointX": 2,
+          "pointY": 4
         }
       ]
     },
@@ -1057,7 +1072,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 253030464,
+          "var2": 2035248,
           "pointX": 6,
           "pointY": 0
         }
