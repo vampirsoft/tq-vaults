@@ -427,8 +427,23 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 253030464,
+          "var2": 2035248,
           "pointX": 1,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 385,
+          "baseName": "Records\\Item\\EquipmentWeapon\\Spear\\U_N_HuHai'sPride.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 47706176,
+          "pointX": 2,
           "pointY": 0
         }
       ]
