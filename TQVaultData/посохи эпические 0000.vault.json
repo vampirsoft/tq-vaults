@@ -53,21 +53,6 @@
         },
         {
           "stackSize": 1,
-          "seed": 21727,
-          "baseName": "Records\\Item\\EquipmentWeapon\\Staff\\U_N_SpectralRod.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 14,
-          "pointY": 0
-        },
-        {
-          "stackSize": 1,
           "seed": 7474,
           "baseName": "Records\\Item\\EquipmentWeapon\\Staff\\U_N_Siphon.dbr",
           "prefixName": "",
@@ -158,51 +143,6 @@
         },
         {
           "stackSize": 1,
-          "seed": 29154,
-          "baseName": "Records\\Item\\EquipmentWeapon\\Staff\\U_N_SpectralRod.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 14,
-          "pointY": 4
-        },
-        {
-          "stackSize": 1,
-          "seed": 29060,
-          "baseName": "Records\\Item\\EquipmentWeapon\\Staff\\U_N_SpectralRod.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 14,
-          "pointY": 8
-        },
-        {
-          "stackSize": 1,
-          "seed": 28362,
-          "baseName": "Records\\Item\\EquipmentWeapon\\Staff\\U_N_SpectralRod.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 14,
-          "pointY": 12
-        },
-        {
-          "stackSize": 1,
           "seed": 19982,
           "baseName": "Records\\Item\\EquipmentWeapon\\Staff\\U_N_StaffoftheFalcon.dbr",
           "prefixName": "",
@@ -245,16 +185,11 @@
           "var2": 2035248,
           "pointX": 8,
           "pointY": 4
-        }
-      ]
-    },
-    {
-      "iconinfo": null,
-      "items": [
+        },
         {
           "stackSize": 1,
-          "seed": 2607,
-          "baseName": "Records\\Item\\EquipmentWeapon\\Staff\\U_N_Kirin.dbr",
+          "seed": 29060,
+          "baseName": "Records\\Item\\EquipmentWeapon\\Staff\\U_N_SpectralRod.dbr",
           "prefixName": "",
           "suffixName": "",
           "relicName": "",
@@ -262,10 +197,15 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 0,
+          "var2": 1065353216,
+          "pointX": 14,
           "pointY": 0
-        },
+        }
+      ]
+    },
+    {
+      "iconinfo": null,
+      "items": [
         {
           "stackSize": 1,
           "seed": 898,
@@ -517,9 +457,39 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 4,
           "pointY": 8
+        },
+        {
+          "stackSize": 1,
+          "seed": 27556,
+          "baseName": "Records\\Item\\EquipmentWeapon\\Staff\\U_N_StaffofKheprer.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 0,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 2607,
+          "baseName": "Records\\Item\\EquipmentWeapon\\Staff\\U_N_Kirin.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 16,
+          "pointY": 0
         }
       ]
     },
