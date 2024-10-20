@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 0,
+  "currentlySelectedSackNumber": 1,
   "sacks": [
     {
       "iconinfo": null,
@@ -242,7 +242,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 60354624,
+          "var2": 2035248,
           "pointX": 6,
           "pointY": 0
         }
@@ -535,6 +535,21 @@
           "var2": 2035248,
           "pointX": 16,
           "pointY": 12
+        },
+        {
+          "stackSize": 1,
+          "seed": 27362,
+          "baseName": "Records\\Item\\EquipmentArmor\\MI_N_DuneRaider.dbr",
+          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Rare_HonorGuards_01.dbr",
+          "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AttributeDexterity_02.dbr",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 50982976,
+          "pointX": 2,
+          "pointY": 6
         }
       ]
     },
