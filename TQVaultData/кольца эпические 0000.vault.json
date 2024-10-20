@@ -872,9 +872,24 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 15,
+          "var2": 2035248,
           "pointX": 10,
           "pointY": 5
+        },
+        {
+          "stackSize": 1,
+          "seed": 15604,
+          "baseName": "Records\\Item\\EquipmentRing\\U_N_BloodStone.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 2,
+          "pointY": 4
         }
       ]
     },

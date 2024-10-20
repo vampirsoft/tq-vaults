@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 1,
+  "currentlySelectedSackNumber": 0,
   "sacks": [
     {
       "iconinfo": null,
@@ -230,6 +230,21 @@
           "var2": 2035248,
           "pointX": 8,
           "pointY": 3
+        },
+        {
+          "stackSize": 1,
+          "seed": 17544,
+          "baseName": "Records\\Item\\EquipmentArmor\\MI_N_Wraith.dbr",
+          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Character_AttributeEnergy_01.dbr",
+          "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AttributeStrength_01.dbr",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 60354624,
+          "pointX": 6,
+          "pointY": 0
         }
       ]
     },
@@ -517,7 +532,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 55373888,
+          "var2": 2035248,
           "pointX": 16,
           "pointY": 12
         }
@@ -777,7 +792,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 55373888,
+          "var2": 2035248,
           "pointX": 0,
           "pointY": 3
         },
@@ -792,7 +807,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 55373888,
+          "var2": 2035248,
           "pointX": 8,
           "pointY": 3
         }

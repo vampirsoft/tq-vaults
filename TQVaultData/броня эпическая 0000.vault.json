@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 1,
+  "currentlySelectedSackNumber": 0,
   "sacks": [
     {
       "iconinfo": null,
@@ -395,6 +395,36 @@
           "var2": 2035248,
           "pointX": 4,
           "pointY": 15
+        },
+        {
+          "stackSize": 1,
+          "seed": 11521,
+          "baseName": "Records\\Item\\EquipmentArmor\\Um_N_Ephor's Garb.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 2,
+          "pointY": 9
+        },
+        {
+          "stackSize": 1,
+          "seed": 17476,
+          "baseName": "Records\\Item\\EquipmentArmor\\U_N_Maron'sGarment.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 12,
+          "pointY": 3
         }
       ]
     },
@@ -712,7 +742,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 12,
           "pointY": 15
         }

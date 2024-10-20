@@ -2632,7 +2632,7 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 900092784,
+          "var2": 2035248,
           "pointX": 7,
           "pointY": 5
         },
@@ -2647,9 +2647,24 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 826354856,
+          "var2": 2035248,
           "pointX": 14,
           "pointY": 1
+        },
+        {
+          "stackSize": 1,
+          "seed": 2681,
+          "baseName": "Records\\Item\\AnimalRelics\\01_Act3_RaptorTooth.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Offensive_ReducedAttackSpeed_01.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 374357936,
+          "pointX": 12,
+          "pointY": 3
         }
       ]
     },
