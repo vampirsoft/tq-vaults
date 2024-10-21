@@ -17,9 +17,39 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1408376008,
+          "var2": 2035248,
           "pointX": 0,
           "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 15632,
+          "baseName": "Records\\Item\\AnimalRelics\\02_Act1_PristinePlumage.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Defensive_Protection_02.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2021255360,
+          "pointX": 1,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 31967,
+          "baseName": "Records\\Item\\AnimalRelics\\02_Act1_PristinePlumage.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "records\\item\\lootmagicalaffixes\\animalrelics\\bonuses\\defensive_bleedresist_02.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2095311336,
+          "pointX": 0,
+          "pointY": 1
         }
       ]
     },
