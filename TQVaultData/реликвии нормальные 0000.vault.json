@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 1,
+  "currentlySelectedSackNumber": 0,
   "sacks": [
     {
       "iconinfo": null,
@@ -1535,6 +1535,21 @@
           "var2": 2035248,
           "pointX": 11,
           "pointY": 4
+        },
+        {
+          "stackSize": 1,
+          "seed": 24251,
+          "baseName": "Records\\Item\\Relics\\01_Act1_ZeusThunderbolt.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AttributeDexterity_02.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 930389192,
+          "pointX": 15,
+          "pointY": 4
         }
       ]
     },
@@ -2527,7 +2542,7 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 8,
           "pointY": 4
         },
@@ -2542,7 +2557,7 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 816480400,
+          "var2": 2035248,
           "pointX": 9,
           "pointY": 4
         },
@@ -2557,7 +2572,7 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 10,
           "pointY": 3
         },
@@ -2572,7 +2587,7 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 15,
+          "var2": 2035248,
           "pointX": 5,
           "pointY": 5
         }
