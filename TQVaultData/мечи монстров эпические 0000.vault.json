@@ -1,0 +1,71 @@
+﻿{
+  "disabledtooltip": [],
+  "currentlyFocusedSackNumber": 0,
+  "currentlySelectedSackNumber": 0,
+  "sacks": [
+    {
+      "iconinfo": null,
+      "items": [
+        {
+          "stackSize": 1,
+          "seed": 2971,
+          "baseName": "Records\\Item\\EquipmentWeapon\\Sword\\MI_E_Arachnos.dbr",
+          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Offensive_ReducedAttackSpeed_02.dbr",
+          "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Offensive_+%Fire_02.dbr",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 58978368,
+          "pointX": 0,
+          "pointY": 0
+        }
+      ]
+    },
+    {
+      "iconinfo": null,
+      "items": []
+    },
+    {
+      "iconinfo": null,
+      "items": []
+    },
+    {
+      "iconinfo": null,
+      "items": []
+    },
+    {
+      "iconinfo": null,
+      "items": []
+    },
+    {
+      "iconinfo": null,
+      "items": []
+    },
+    {
+      "iconinfo": null,
+      "items": []
+    },
+    {
+      "iconinfo": null,
+      "items": []
+    },
+    {
+      "iconinfo": null,
+      "items": []
+    },
+    {
+      "iconinfo": null,
+      "items": []
+    },
+    {
+      "iconinfo": null,
+      "items": []
+    },
+    {
+      "iconinfo": null,
+      "items": []
+    }
+  ]
+}
