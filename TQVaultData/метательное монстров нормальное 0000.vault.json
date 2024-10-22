@@ -377,7 +377,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 60354624,
+          "var2": 2035248,
           "pointX": 0,
           "pointY": 6
         },
@@ -392,9 +392,24 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 60354624,
+          "var2": 2035248,
           "pointX": 2,
           "pointY": 12
+        },
+        {
+          "stackSize": 1,
+          "seed": 5763,
+          "baseName": "Records\\XPack3\\Items\\EquipmentWeapon\\1hRanged\\MI_N_Monkeyman.dbr",
+          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Offensive_DamageLightning_02.dbr",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 269086784,
+          "pointX": 6,
+          "pointY": 6
         }
       ]
     },
