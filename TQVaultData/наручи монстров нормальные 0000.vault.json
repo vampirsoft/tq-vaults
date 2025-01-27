@@ -362,7 +362,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 56094784,
+          "var2": 2035248,
           "pointX": 4,
           "pointY": 4
         },
@@ -377,7 +377,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 56094784,
+          "var2": 2035248,
           "pointX": 2,
           "pointY": 4
         }
@@ -1217,9 +1217,24 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 56094784,
+          "var2": 2035248,
           "pointX": 16,
           "pointY": 2
+        },
+        {
+          "stackSize": 1,
+          "seed": 31661,
+          "baseName": "Records\\Item\\EquipmentArmband\\MI_N_GorgonMelee.dbr",
+          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Character_AttributeEnergy_01.dbr",
+          "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AttributeEnergy_01.dbr",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 259387456,
+          "pointX": 16,
+          "pointY": 4
         }
       ]
     },

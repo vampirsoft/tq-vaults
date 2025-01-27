@@ -317,8 +317,38 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 54652992,
+          "var2": 2035248,
           "pointX": 8,
+          "pointY": 9
+        },
+        {
+          "stackSize": 1,
+          "seed": 5805,
+          "baseName": "Records\\Item\\EquipmentArmor\\MI_N_GorgonMelee.dbr",
+          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Rare_VeteransArmor_01.dbr",
+          "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_RegenLife_01.dbr",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 259387456,
+          "pointX": 8,
+          "pointY": 12
+        },
+        {
+          "stackSize": 1,
+          "seed": 15669,
+          "baseName": "Records\\Item\\EquipmentArmor\\MI_N_GorgonArcher.dbr",
+          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Defensive_Protection_03.dbr",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 259387456,
+          "pointX": 10,
           "pointY": 9
         }
       ]
