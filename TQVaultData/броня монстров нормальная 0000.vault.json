@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 0,
+  "currentlySelectedSackNumber": 1,
   "sacks": [
     {
       "iconinfo": null,
@@ -332,7 +332,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 259387456,
+          "var2": 2035248,
           "pointX": 8,
           "pointY": 12
         },
@@ -347,7 +347,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 259387456,
+          "var2": 2035248,
           "pointX": 10,
           "pointY": 9
         }
@@ -654,6 +654,21 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 2,
+          "pointY": 6
+        },
+        {
+          "stackSize": 1,
+          "seed": 25202,
+          "baseName": "Records\\Item\\EquipmentArmor\\MI_N_Reptilian.dbr",
+          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Character_AttributeEnergy_01.dbr",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1804791872,
+          "pointX": 4,
           "pointY": 6
         }
       ]

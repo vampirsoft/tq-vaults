@@ -17,7 +17,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 0,
           "pointY": 0
         },
@@ -32,7 +32,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 1,
           "pointY": 0
         },
@@ -47,7 +47,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 34205760,
+          "var2": 2035248,
           "pointX": 2,
           "pointY": 0
         },
@@ -62,8 +62,23 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 28045376,
+          "var2": 2035248,
           "pointX": 2,
+          "pointY": 4
+        },
+        {
+          "stackSize": 1,
+          "seed": 17684,
+          "baseName": "Records\\Item\\EquipmentWeapon\\Bow\\C03_Bow03.dbr",
+          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Character_SkillMasteryC_01.dbr",
+          "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AttributeDexterity_01.dbr",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 0,
           "pointY": 4
         }
       ]
