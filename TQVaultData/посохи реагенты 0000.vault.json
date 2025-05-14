@@ -242,7 +242,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 261615680,
+          "var2": 2035248,
           "pointX": 6,
           "pointY": 16
         },
@@ -257,9 +257,24 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 261615680,
+          "var2": 2035248,
           "pointX": 8,
           "pointY": 16
+        },
+        {
+          "stackSize": 1,
+          "seed": 17425,
+          "baseName": "Records\\Item\\EquipmentWeapon\\Staff\\C05_Frost01.dbr",
+          "prefixName": "Records\\XPack\\Item\\LootMagicalAffixes\\Prefix\\Default\\PetBonus_PhysicalDmg_01.dbr",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 0,
+          "pointY": 12
         }
       ]
     },

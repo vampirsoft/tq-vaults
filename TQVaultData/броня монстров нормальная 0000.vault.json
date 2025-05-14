@@ -667,9 +667,39 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1804791872,
+          "var2": 2035248,
           "pointX": 4,
           "pointY": 6
+        },
+        {
+          "stackSize": 1,
+          "seed": 9624,
+          "baseName": "Records\\Item\\EquipmentArmor\\MI_N_JackalmanMelee.dbr",
+          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Defensive_ResistCold_02.dbr",
+          "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AttributeIntelligence_01.dbr",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1412231232,
+          "pointX": 6,
+          "pointY": 6
+        },
+        {
+          "stackSize": 1,
+          "seed": 30081,
+          "baseName": "Records\\Item\\EquipmentArmor\\MI_N_JackalmanMelee.dbr",
+          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Defensive_ResistPoison_01.dbr",
+          "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AttributeEnergy_03.dbr",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1412231232,
+          "pointX": 6,
+          "pointY": 9
         }
       ]
     },

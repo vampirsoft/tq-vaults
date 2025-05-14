@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 4,
+  "currentlySelectedSackNumber": 2,
   "sacks": [
     {
       "iconinfo": null,
@@ -1035,6 +1035,21 @@
           "var2": 2035248,
           "pointX": 6,
           "pointY": 3
+        },
+        {
+          "stackSize": 1,
+          "seed": 23405,
+          "baseName": "Records\\Item\\EquipmentArmor\\U_N_TheJackel'sFesteringGarb.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 14,
+          "pointY": 9
         }
       ]
     },
@@ -1282,7 +1297,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 2,
           "pointY": 0
         }

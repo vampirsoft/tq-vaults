@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 1,
+  "currentlySelectedSackNumber": 0,
   "sacks": [
     {
       "iconinfo": null,
@@ -289,6 +289,21 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 2,
+          "pointY": 6
+        },
+        {
+          "stackSize": 1,
+          "seed": 26791,
+          "baseName": "records\\xpack2\\item\\equipmentweapons\\1hranged\\u_n_06.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 4,
           "pointY": 6
         }
       ]
@@ -622,7 +637,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 12,
           "pointY": 17
         }
