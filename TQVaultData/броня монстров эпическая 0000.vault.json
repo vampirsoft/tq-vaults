@@ -17,8 +17,23 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 58978368,
+          "var2": 2035248,
           "pointX": 0,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 20808,
+          "baseName": "Records\\Item\\EquipmentArmor\\MI_E_Wraith.dbr",
+          "prefixName": "",
+          "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AttributeEnergy_03.dbr",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 261615680,
+          "pointX": 2,
           "pointY": 0
         }
       ]

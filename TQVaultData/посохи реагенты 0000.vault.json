@@ -230,6 +230,36 @@
           "var2": 2035248,
           "pointX": 16,
           "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 27546,
+          "baseName": "Records\\Item\\EquipmentWeapon\\Staff\\C12_Frost02.dbr",
+          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Offensive_DamageLightning_03.dbr",
+          "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Offensive_Damage%LifeLeech_01.dbr",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 261615680,
+          "pointX": 6,
+          "pointY": 16
+        },
+        {
+          "stackSize": 1,
+          "seed": 26193,
+          "baseName": "Records\\Item\\EquipmentWeapon\\Staff\\C12_Frost03.dbr",
+          "prefixName": "Records\\XPack\\Item\\LootMagicalAffixes\\Prefix\\Default\\PetBonus_PhysicalDmg_03.dbr",
+          "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Offensive_Damage%LifeLeech_01.dbr",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 261615680,
+          "pointX": 8,
+          "pointY": 16
         }
       ]
     },

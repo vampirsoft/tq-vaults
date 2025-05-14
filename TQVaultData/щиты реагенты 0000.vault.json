@@ -65,6 +65,21 @@
           "var2": 2035248,
           "pointX": 2,
           "pointY": 2
+        },
+        {
+          "stackSize": 1,
+          "seed": 31877,
+          "baseName": "records\\item\\equipmentshield\\default\\shieldlargeroundwood02b_01.dbr",
+          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Character_SkillMasteryB_02.dbr",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 8,
+          "pointY": 0
         }
       ]
     },

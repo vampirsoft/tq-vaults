@@ -62,8 +62,38 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1442230392,
+          "var2": 2035248,
           "pointX": 2,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 19966,
+          "baseName": "Records\\Item\\AnimalRelics\\02_Act1_PristinePlumage.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Defensive_Protection_02.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1506126144,
+          "pointX": 1,
+          "pointY": 1
+        },
+        {
+          "stackSize": 1,
+          "seed": 32241,
+          "baseName": "Records\\Item\\AnimalRelics\\02_MultActs_VenomSac.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "records\\item\\lootmagicalaffixes\\relics\\bonuses\\offensive_%poison_02.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1289490584,
+          "pointX": 3,
           "pointY": 0
         }
       ]
