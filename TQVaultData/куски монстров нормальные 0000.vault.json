@@ -1532,7 +1532,7 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 847233248,
+          "var2": 2035248,
           "pointX": 17,
           "pointY": 1
         },
@@ -1547,9 +1547,39 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 869145880,
+          "var2": 2035248,
           "pointX": 14,
           "pointY": 5
+        },
+        {
+          "stackSize": 1,
+          "seed": 5039,
+          "baseName": "records\\item\\animalrelics\\01_multacts_venomsac.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "records\\item\\lootmagicalaffixes\\relics\\bonuses\\offensive_%poison_01.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 924830936,
+          "pointX": 6,
+          "pointY": 8
+        },
+        {
+          "stackSize": 1,
+          "seed": 27439,
+          "baseName": "Records\\Item\\AnimalRelics\\01_MultActs_DiseasedPlumage.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "records\\item\\lootmagicalaffixes\\relics\\bonuses\\offensive_%poison_01.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 690179984,
+          "pointX": 11,
+          "pointY": 4
         }
       ]
     },
@@ -2800,6 +2830,51 @@
           "var2": 2035248,
           "pointX": 0,
           "pointY": 6
+        },
+        {
+          "stackSize": 1,
+          "seed": 29661,
+          "baseName": "Records\\Item\\AnimalRelics\\01_MultActs_RigidCarapace.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AttributeLife_01.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1072214096,
+          "pointX": 6,
+          "pointY": 6
+        },
+        {
+          "stackSize": 1,
+          "seed": 30620,
+          "baseName": "Records\\Item\\AnimalRelics\\01_MultActs_RigidCarapace.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "records\\item\\lootmagicalaffixes\\animalrelics\\bonuses\\defensive_bleedresist_01.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1087717584,
+          "pointX": 7,
+          "pointY": 6
+        },
+        {
+          "stackSize": 1,
+          "seed": 2102,
+          "baseName": "Records\\Item\\AnimalRelics\\01_MultActs_SpectralMatter.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Offensive_+%Damage to Undead_01.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 656586984,
+          "pointX": 2,
+          "pointY": 7
         }
       ]
     },
@@ -3244,6 +3319,21 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 1,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 657,
+          "baseName": "records\\item\\HCDungeon\\05_X4_GoldenScarab_N_Charm.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "records\\XPack4\\Item\\LootMagicalAffixes\\Charms\\GoldenScarab_N_4.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 991286440,
+          "pointX": 2,
           "pointY": 0
         }
       ]
