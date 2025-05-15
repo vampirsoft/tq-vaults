@@ -757,7 +757,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1413476416,
+          "var2": 2035248,
           "pointX": 4,
           "pointY": 12
         },
@@ -772,7 +772,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1413476416,
+          "var2": 2035248,
           "pointX": 2,
           "pointY": 12
         },
@@ -787,9 +787,24 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1413476416,
+          "var2": 2035248,
           "pointX": 6,
           "pointY": 12
+        },
+        {
+          "stackSize": 1,
+          "seed": 32470,
+          "baseName": "Records\\Item\\EquipmentArmor\\MI_N_RatmanChampion.dbr",
+          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Rare_HonorGuards_02.dbr",
+          "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AttributeLife_02.dbr",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 262074432,
+          "pointX": 14,
+          "pointY": 6
         }
       ]
     },
@@ -1065,6 +1080,36 @@
           "var2": 2035248,
           "pointX": 8,
           "pointY": 3
+        },
+        {
+          "stackSize": 1,
+          "seed": 8695,
+          "baseName": "Records\\Item\\EquipmentArmor\\MI_N_TigermanChampion.dbr",
+          "prefixName": "",
+          "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AttributeIntelligence_03.dbr",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 262074432,
+          "pointX": 6,
+          "pointY": 12
+        },
+        {
+          "stackSize": 1,
+          "seed": 9394,
+          "baseName": "Records\\Item\\EquipmentArmor\\MI_N_TropicalArachnos.dbr",
+          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Rare_StrLife_01.dbr",
+          "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AttributeEnergy_02.dbr",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 262074432,
+          "pointX": 14,
+          "pointY": 6
         }
       ]
     },

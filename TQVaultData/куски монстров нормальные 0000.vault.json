@@ -2932,9 +2932,24 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 944949024,
+          "var2": 2035248,
           "pointX": 5,
           "pointY": 8
+        },
+        {
+          "stackSize": 1,
+          "seed": 2768,
+          "baseName": "Records\\Item\\AnimalRelics\\01_Act3_PengClaw.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\AnimalRelics\\Bonuses\\Offensive_+%Damage_01.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1017905000,
+          "pointX": 11,
+          "pointY": 1
         }
       ]
     },
