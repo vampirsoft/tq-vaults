@@ -302,9 +302,24 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 55373888,
+          "var2": 2035248,
           "pointX": 0,
           "pointY": 10
+        },
+        {
+          "stackSize": 1,
+          "seed": 27223,
+          "baseName": "Records\\Item\\EquipmentWeapon\\Spear\\MI_N_IchthianMelee.dbr",
+          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Offensive_ReducedAttackSpeed_02.dbr",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1413148736,
+          "pointX": 0,
+          "pointY": 15
         }
       ]
     },

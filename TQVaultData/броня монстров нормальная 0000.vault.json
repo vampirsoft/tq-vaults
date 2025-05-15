@@ -712,7 +712,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1413476416,
+          "var2": 2035248,
           "pointX": 4,
           "pointY": 9
         },
@@ -727,9 +727,24 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1413476416,
+          "var2": 2035248,
           "pointX": 2,
           "pointY": 9
+        },
+        {
+          "stackSize": 1,
+          "seed": 12369,
+          "baseName": "Records\\Item\\EquipmentArmor\\MI_N_IchthianMelee.dbr",
+          "prefixName": "",
+          "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AttributeEnergy_02.dbr",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1413148736,
+          "pointX": 16,
+          "pointY": 15
         }
       ]
     },

@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 0,
+  "currentlySelectedSackNumber": 1,
   "sacks": [
     {
       "iconinfo": null,
@@ -1562,7 +1562,7 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 924830936,
+          "var2": 2035248,
           "pointX": 6,
           "pointY": 8
         },
@@ -1577,9 +1577,24 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 690179984,
+          "var2": 2035248,
           "pointX": 11,
           "pointY": 4
+        },
+        {
+          "stackSize": 1,
+          "seed": 15025,
+          "baseName": "Records\\Item\\AnimalRelics\\01_MultActs_MechanicalParts.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AttributeStrength_01.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 843496528,
+          "pointX": 15,
+          "pointY": 5
         }
       ]
     },
@@ -2842,7 +2857,7 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1072214096,
+          "var2": 2035248,
           "pointX": 6,
           "pointY": 6
         },
@@ -2857,7 +2872,7 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1087717584,
+          "var2": 2035248,
           "pointX": 7,
           "pointY": 6
         },
@@ -2872,9 +2887,24 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 656586984,
+          "var2": 2035248,
           "pointX": 2,
           "pointY": 7
+        },
+        {
+          "stackSize": 1,
+          "seed": 17095,
+          "baseName": "Records\\Item\\AnimalRelics\\01_Act2_LupineClaw.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Offensive_LeechMana_01.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1046043920,
+          "pointX": 4,
+          "pointY": 8
         }
       ]
     },
@@ -3332,7 +3362,7 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 991286440,
+          "var2": 2035248,
           "pointX": 2,
           "pointY": 0
         }
