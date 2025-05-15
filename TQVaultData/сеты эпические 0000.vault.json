@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 2,
+  "currentlySelectedSackNumber": 8,
   "sacks": [
     {
       "iconinfo": null,
@@ -1197,7 +1197,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 14,
           "pointY": 8
         }
@@ -2210,6 +2210,21 @@
           "var2": 2035248,
           "pointX": 4,
           "pointY": 2
+        },
+        {
+          "stackSize": 1,
+          "seed": 21559,
+          "baseName": "Records\\XPack3\\Items\\EquipmentArmor\\Torso\\um_n_Set09.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 10,
+          "pointY": 0
         }
       ]
     },
@@ -2455,6 +2470,21 @@
           "var2": 2035248,
           "pointX": 12,
           "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 21421,
+          "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Torso\\USm_N_001.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 4,
+          "pointY": 6
         }
       ]
     },
@@ -2760,6 +2790,21 @@
           "var2": 2035248,
           "pointX": 2,
           "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 8088,
+          "baseName": "Records\\XPack3\\Items\\EquipmentArmor\\Torso\\u_n_Set10.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 12,
+          "pointY": 2
         }
       ]
     },
