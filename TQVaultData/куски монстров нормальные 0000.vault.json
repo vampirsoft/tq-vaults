@@ -1592,7 +1592,7 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 843496528,
+          "var2": 2035248,
           "pointX": 15,
           "pointY": 5
         }
@@ -2902,8 +2902,38 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1046043920,
+          "var2": 2035248,
           "pointX": 4,
+          "pointY": 8
+        },
+        {
+          "stackSize": 1,
+          "seed": 31004,
+          "baseName": "Records\\Item\\AnimalRelics\\01_MultActs_SpectralMatter.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\AnimalRelics\\Bonuses\\Offensive_%ManaBurn_01.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 3,
+          "pointY": 7
+        },
+        {
+          "stackSize": 1,
+          "seed": 4510,
+          "baseName": "Records\\Item\\AnimalRelics\\01_Act2_LupineClaw.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_SpeedAttack_01.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 944949024,
+          "pointX": 5,
           "pointY": 8
         }
       ]
