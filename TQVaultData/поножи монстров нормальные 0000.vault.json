@@ -392,7 +392,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 262074432,
+          "var2": 2035248,
           "pointX": 10,
           "pointY": 10
         },
@@ -407,7 +407,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 262074432,
+          "var2": 2035248,
           "pointX": 4,
           "pointY": 10
         },
@@ -422,9 +422,24 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 262074432,
+          "var2": 2035248,
           "pointX": 6,
           "pointY": 6
+        },
+        {
+          "stackSize": 1,
+          "seed": 23150,
+          "baseName": "Records\\Item\\EquipmentGreaves\\MI_N_TigermanMelee.dbr",
+          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Rare_StrLife_01.dbr",
+          "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_SpeedRun_02.dbr",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 59895872,
+          "pointX": 10,
+          "pointY": 12
         }
       ]
     },
