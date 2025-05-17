@@ -2947,9 +2947,24 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1017905000,
+          "var2": 2035248,
           "pointX": 11,
           "pointY": 1
+        },
+        {
+          "stackSize": 1,
+          "seed": 28691,
+          "baseName": "Records\\Item\\AnimalRelics\\01_MultActs_RigidCarapace.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AttributeStrength_01.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 882377760,
+          "pointX": 6,
+          "pointY": 7
         }
       ]
     },

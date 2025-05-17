@@ -317,9 +317,24 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
-          "pointX": 10,
+          "var2": 2035248,
+          "pointX": 12,
           "pointY": 2
+        },
+        {
+          "stackSize": 1,
+          "seed": 26073,
+          "baseName": "records\\xpack2\\item\\equipmentweapons\\1hranged\\u_n_08.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 59895872,
+          "pointX": 12,
+          "pointY": 4
         }
       ]
     },

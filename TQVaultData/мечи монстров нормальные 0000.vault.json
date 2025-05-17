@@ -422,9 +422,24 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 253030464,
+          "var2": 2035248,
           "pointX": 11,
           "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 15349,
+          "baseName": "Records\\Item\\EquipmentWeapon\\Sword\\MI_N_TigermanMelee.dbr",
+          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Offensive_DamagePierce_03.dbr",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 59895872,
+          "pointX": 3,
+          "pointY": 16
         }
       ]
     },
