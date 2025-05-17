@@ -3882,9 +3882,24 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1179280448,
+          "var2": 2035248,
           "pointX": 6,
           "pointY": 2
+        },
+        {
+          "stackSize": 1,
+          "seed": 9816,
+          "baseName": "records\\xpack3\\items\\relics\\01_x3_poseidonstrident.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\item\\lootmagicalaffixes\\prefix\\Default\\defensive_resistlightning_01.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 13,
+          "pointY": 4
         }
       ]
     },
