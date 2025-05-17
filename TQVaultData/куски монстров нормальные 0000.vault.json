@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 1,
+  "currentlySelectedSackNumber": 0,
   "sacks": [
     {
       "iconinfo": null,
@@ -2992,7 +2992,7 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 763881064,
+          "var2": 2035248,
           "pointX": 16,
           "pointY": 6
         }
@@ -3454,6 +3454,21 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 2,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 32336,
+          "baseName": "Records\\XPack\\Item\\Charms\\01_Act4_HydradonHide.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Defensive_ResistPierce_01.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 417344720,
+          "pointX": 4,
           "pointY": 0
         }
       ]

@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 1,
+  "currentlySelectedSackNumber": 0,
   "sacks": [
     {
       "iconinfo": null,
@@ -440,6 +440,21 @@
           "var2": 2035248,
           "pointX": 10,
           "pointY": 6
+        },
+        {
+          "stackSize": 1,
+          "seed": 28239,
+          "baseName": "Records\\Item\\EquipmentWeapon\\Club\\U_N_Ravager.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 268759104,
+          "pointX": 5,
+          "pointY": 6
         }
       ]
     },
@@ -487,7 +502,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 15,
+          "var2": 2035248,
           "pointX": 1,
           "pointY": 0
         }

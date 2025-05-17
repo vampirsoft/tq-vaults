@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 0,
+  "currentlySelectedSackNumber": 1,
   "sacks": [
     {
       "iconinfo": null,
@@ -242,8 +242,23 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 10,
+          "pointY": 4
+        },
+        {
+          "stackSize": 1,
+          "seed": 11336,
+          "baseName": "Records\\Item\\EquipmentWeapon\\Staff\\U_N_SpectralRod.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 14,
           "pointY": 4
         }
       ]
@@ -564,6 +579,21 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 10,
+          "pointY": 8
+        },
+        {
+          "stackSize": 1,
+          "seed": 1376,
+          "baseName": "Records\\Item\\EquipmentWeapon\\Staff\\U_N_Fulminator.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 2,
           "pointY": 8
         }
       ]

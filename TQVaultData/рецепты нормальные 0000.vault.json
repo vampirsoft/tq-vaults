@@ -2727,9 +2727,39 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1025430632,
+          "var2": 2035248,
           "pointX": 0,
           "pointY": 7
+        },
+        {
+          "stackSize": 1,
+          "seed": 28278,
+          "baseName": "Records\\XPack\\Item\\Artifacts\\ArcaneFormulae\\N_LA_CrystalTear_Formula.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 2,
+          "pointY": 4
+        },
+        {
+          "stackSize": 1,
+          "seed": 30035,
+          "baseName": "Records\\XPack\\Item\\Artifacts\\ArcaneFormulae\\N_LA_Bloodrage_Formula.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 354962896,
+          "pointX": 0,
+          "pointY": 8
         }
       ]
     },
