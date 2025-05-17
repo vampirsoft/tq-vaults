@@ -2962,9 +2962,24 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 882377760,
+          "var2": 2035248,
           "pointX": 6,
           "pointY": 7
+        },
+        {
+          "stackSize": 1,
+          "seed": 15626,
+          "baseName": "Records\\Item\\AnimalRelics\\01_Act3_RaptorTooth.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Offensive_ReducedProtection_02.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1045401688,
+          "pointX": 13,
+          "pointY": 3
         }
       ]
     },

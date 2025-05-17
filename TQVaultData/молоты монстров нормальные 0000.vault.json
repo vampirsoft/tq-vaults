@@ -392,9 +392,24 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 253030464,
+          "var2": 2035248,
           "pointX": 12,
           "pointY": 3
+        },
+        {
+          "stackSize": 1,
+          "seed": 18665,
+          "baseName": "Records\\Item\\EquipmentWeapon\\Club\\MI_N_IchthianMelee.dbr",
+          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Offensive_DamageFire_03.dbr",
+          "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AttributeDexterity_02.dbr",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 59895872,
+          "pointX": 1,
+          "pointY": 9
         }
       ]
     },

@@ -272,9 +272,24 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1413476416,
+          "var2": 2035248,
           "pointX": 3,
           "pointY": 16
+        },
+        {
+          "stackSize": 1,
+          "seed": 19483,
+          "baseName": "Records\\XPack\\Item\\EquipmentWeapons\\Bow\\MI_N_Anouran.dbr",
+          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Offensive_DamageCold_03.dbr",
+          "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AttributeDexterity_03.dbr",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 59895872,
+          "pointX": 4,
+          "pointY": 4
         }
       ]
     },

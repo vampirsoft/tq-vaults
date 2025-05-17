@@ -362,7 +362,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 9,
           "pointY": 3
         },
@@ -377,7 +377,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 673979536,
+          "var2": 2035248,
           "pointX": 7,
           "pointY": 0
         },
@@ -394,6 +394,21 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 7,
+          "pointY": 4
+        },
+        {
+          "stackSize": 1,
+          "seed": 9742,
+          "baseName": "Records\\Item\\EquipmentRing\\C06_Ring02.dbr",
+          "prefixName": "",
+          "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Offensive_+%Fire_01.dbr",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 809108624,
+          "pointX": 8,
           "pointY": 4
         }
       ]
