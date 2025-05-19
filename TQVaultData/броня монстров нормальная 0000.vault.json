@@ -805,6 +805,36 @@
           "var2": 2035248,
           "pointX": 14,
           "pointY": 6
+        },
+        {
+          "stackSize": 1,
+          "seed": 679,
+          "baseName": "Records\\Item\\EquipmentArmor\\MI_N_IchthianMelee.dbr",
+          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Defensive_ResistLightning_02.dbr",
+          "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AttributeLife_03.dbr",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 58978368,
+          "pointX": 14,
+          "pointY": 17
+        },
+        {
+          "stackSize": 1,
+          "seed": 27400,
+          "baseName": "Records\\Item\\EquipmentArmor\\MI_N_Yerren.dbr",
+          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Defensive_ResistLightning_02.dbr",
+          "suffixName": "Records\\XPack\\Item\\LootMagicalAffixes\\Suffix\\Default\\Defensive_ResistSlow_01.dbr",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 58978368,
+          "pointX": 12,
+          "pointY": 3
         }
       ]
     },
@@ -1167,9 +1197,54 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 59895872,
+          "var2": 2035248,
           "pointX": 6,
           "pointY": 15
+        },
+        {
+          "stackSize": 1,
+          "seed": 7595,
+          "baseName": "Records\\Item\\EquipmentArmor\\MI_N_NeanderthalMelee.dbr",
+          "prefixName": "",
+          "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Retaliation_LeechLife_01.dbr",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 58978368,
+          "pointX": 0,
+          "pointY": 6
+        },
+        {
+          "stackSize": 1,
+          "seed": 2074,
+          "baseName": "Records\\Item\\EquipmentArmor\\MI_N_TigermanMelee.dbr",
+          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Character_AttributeEnergy_02.dbr",
+          "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AttributeIntelligence_02.dbr",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 58978368,
+          "pointX": 4,
+          "pointY": 6
+        },
+        {
+          "stackSize": 1,
+          "seed": 3227,
+          "baseName": "Records\\Item\\EquipmentArmor\\MI_N_NeanderthalMelee.dbr",
+          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Defensive_ResistPierce_03.dbr",
+          "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AttributeEnergy_02.dbr",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 58978368,
+          "pointX": 0,
+          "pointY": 9
         }
       ]
     },
