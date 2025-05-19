@@ -158,21 +158,6 @@
         },
         {
           "stackSize": 1,
-          "seed": 361,
-          "baseName": "Records\\Item\\EquipmentWeapon\\Axe\\U_N_CreepingDeath.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 14,
-          "pointY": 0
-        },
-        {
-          "stackSize": 1,
           "seed": 8713,
           "baseName": "Records\\Item\\EquipmentWeapon\\Axe\\U_N_Adranis.dbr",
           "prefixName": "",
@@ -458,8 +443,8 @@
         },
         {
           "stackSize": 1,
-          "seed": 18058,
-          "baseName": "Records\\Item\\EquipmentWeapon\\Axe\\U_N_CreepingDeath.dbr",
+          "seed": 30816,
+          "baseName": "Records\\XPack3\\Items\\EquipmentWeapon\\Axe\\u_n_03.dbr",
           "prefixName": "",
           "suffixName": "",
           "relicName": "",
@@ -467,9 +452,9 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 60485696,
+          "var2": 1065353216,
           "pointX": 14,
-          "pointY": 4
+          "pointY": 0
         }
       ]
     },
@@ -523,21 +508,6 @@
         },
         {
           "stackSize": 1,
-          "seed": 29029,
-          "baseName": "records\\xpack2\\item\\equipmentweapons\\axe\\u_n_02.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 6,
-          "pointY": 0
-        },
-        {
-          "stackSize": 1,
           "seed": 14021,
           "baseName": "Records\\Item\\EquipmentWeapon\\Axe\\U_N_Brigand'sAxe.dbr",
           "prefixName": "",
@@ -553,8 +523,8 @@
         },
         {
           "stackSize": 1,
-          "seed": 21025,
-          "baseName": "Records\\XPack\\Item\\equipmentWeapons\\Axe\\U_N_002.dbr",
+          "seed": 9043,
+          "baseName": "Records\\Item\\EquipmentWeapon\\Axe\\U_N_Brigand'sAxe.dbr",
           "prefixName": "",
           "suffixName": "",
           "relicName": "",
@@ -563,8 +533,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 7,
-          "pointY": 0
+          "pointX": 0,
+          "pointY": 8
         },
         {
           "stackSize": 1,
@@ -578,13 +548,13 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 9,
+          "pointX": 8,
           "pointY": 0
         },
         {
           "stackSize": 1,
-          "seed": 9043,
-          "baseName": "Records\\Item\\EquipmentWeapon\\Axe\\U_N_Brigand'sAxe.dbr",
+          "seed": 21025,
+          "baseName": "Records\\XPack\\Item\\equipmentWeapons\\Axe\\U_N_002.dbr",
           "prefixName": "",
           "suffixName": "",
           "relicName": "",
@@ -593,8 +563,53 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 0,
-          "pointY": 8
+          "pointX": 6,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 29029,
+          "baseName": "records\\xpack2\\item\\equipmentweapons\\axe\\u_n_02.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 10,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 361,
+          "baseName": "Records\\Item\\EquipmentWeapon\\Axe\\U_N_CreepingDeath.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 11,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 18058,
+          "baseName": "Records\\Item\\EquipmentWeapon\\Axe\\U_N_CreepingDeath.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 11,
+          "pointY": 4
         }
       ]
     },

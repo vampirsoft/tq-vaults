@@ -772,9 +772,24 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 48689216,
+          "var2": 2035248,
           "pointX": 16,
           "pointY": 4
+        },
+        {
+          "stackSize": 1,
+          "seed": 7512,
+          "baseName": "Records\\XPack3\\Items\\EquipmentArmor\\Helm\\MI_N_SerpentoidMelee.dbr",
+          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Defensive_ResistPoison_03.dbr",
+          "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AttributeStrength_03.dbr",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 59895872,
+          "pointX": 8,
+          "pointY": 6
         }
       ]
     },

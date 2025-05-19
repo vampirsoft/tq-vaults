@@ -608,21 +608,6 @@
         },
         {
           "stackSize": 1,
-          "seed": 5437,
-          "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Amulet\\C02_Amulet05.dbr",
-          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Rare_Sacraficial_01.dbr",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 1,
-          "pointY": 4
-        },
-        {
-          "stackSize": 1,
           "seed": 26686,
           "baseName": "Records\\XPack3\\Items\\EquipmentWeapon\\Staff\\M_L_PotamoiMage_Frost.dbr",
           "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Offensive_LeechLife_05.dbr",
@@ -752,7 +737,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 48689216,
+          "var2": 2035248,
           "pointX": 14,
           "pointY": 12
         },
@@ -767,7 +752,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 48689216,
+          "var2": 2035248,
           "pointX": 16,
           "pointY": 12
         },
@@ -782,7 +767,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 48689216,
+          "var2": 2035248,
           "pointX": 17,
           "pointY": 7
         },
@@ -797,7 +782,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 48689216,
+          "var2": 2035248,
           "pointX": 16,
           "pointY": 7
         },
@@ -812,7 +797,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 48689216,
+          "var2": 2035248,
           "pointX": 15,
           "pointY": 7
         },
@@ -827,7 +812,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 48689216,
+          "var2": 2035248,
           "pointX": 14,
           "pointY": 7
         },
@@ -842,7 +827,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 12,
           "pointY": 5
         },
@@ -857,7 +842,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 48689216,
+          "var2": 2035248,
           "pointX": 16,
           "pointY": 4
         },
@@ -872,7 +857,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 14,
           "pointY": 4
         },
@@ -887,7 +872,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 48689216,
+          "var2": 2035248,
           "pointX": 16,
           "pointY": 1
         },
@@ -902,8 +887,38 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 48689216,
+          "var2": 2035248,
           "pointX": 0,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 19866,
+          "baseName": "records\\xpack3\\items\\equipmentarmor\\helm\\m_n_tritonwarriormelee.dbr",
+          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Defensive_Protection_04.dbr",
+          "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AttributeLife_03.dbr",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 14,
+          "pointY": 2
+        },
+        {
+          "stackSize": 1,
+          "seed": 5451,
+          "baseName": "Records\\XPack3\\Items\\EquipmentWeapon\\Spear\\M_N_Serpentoid.dbr",
+          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Offensive_LeechMana_02.dbr",
+          "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Rare_SpeedAttack%Dex_01.dbr",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 59895872,
+          "pointX": 2,
           "pointY": 0
         },
         {
@@ -918,23 +933,38 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 1,
-          "pointY": 3
+          "pointX": 16,
+          "pointY": 0
         },
         {
           "stackSize": 1,
-          "seed": 19866,
-          "baseName": "records\\xpack3\\items\\equipmentarmor\\helm\\m_n_tritonwarriormelee.dbr",
-          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Defensive_Protection_04.dbr",
-          "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AttributeLife_03.dbr",
+          "seed": 5437,
+          "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Amulet\\C02_Amulet05.dbr",
+          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Rare_Sacraficial_01.dbr",
+          "suffixName": "",
           "relicName": "",
           "relicBonus": "",
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
-          "pointX": 14,
-          "pointY": 2
+          "var2": 2035248,
+          "pointX": 17,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 7274,
+          "baseName": "Records\\XPack3\\Items\\EquipmentWeapon\\Spear\\M_N_Serpentoid.dbr",
+          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Offensive_DamageCold_03.dbr",
+          "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Offensive_+%Damage_03.dbr",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 59895872,
+          "pointX": 1,
+          "pointY": 0
         }
       ]
     },

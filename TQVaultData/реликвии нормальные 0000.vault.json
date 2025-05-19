@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 2,
+  "currentlySelectedSackNumber": 3,
   "sacks": [
     {
       "iconinfo": null,
@@ -3957,7 +3957,7 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 14,
           "pointY": 7
         },
@@ -3972,7 +3972,7 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 792517776,
+          "var2": 2035248,
           "pointX": 4,
           "pointY": 3
         }
@@ -4835,6 +4835,21 @@
           "var2": 2035248,
           "pointX": 2,
           "pointY": 5
+        },
+        {
+          "stackSize": 1,
+          "seed": 11042,
+          "baseName": "records\\xpack3\\items\\relics\\01_x3_atlasendurance.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Defensive_ResistLightning_01.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1007667952,
+          "pointX": 1,
+          "pointY": 4
         }
       ]
     },
