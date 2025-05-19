@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 0,
+  "currentlySelectedSackNumber": 3,
   "sacks": [
     {
       "iconinfo": null,
@@ -1607,7 +1607,7 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1072324784,
+          "var2": 2035248,
           "pointX": 7,
           "pointY": 8
         }
@@ -3574,6 +3574,21 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 4,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 8382,
+          "baseName": "records/xpack3/items/charms/01_x3_quest_artifice.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 1,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 698076856,
+          "pointX": 6,
           "pointY": 0
         }
       ]

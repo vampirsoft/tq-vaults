@@ -2605,6 +2605,21 @@
           "var2": 2035248,
           "pointX": 8,
           "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 15645,
+          "baseName": "Records\\XPack\\Item\\EquipmentWeapons\\Staff\\USm_N_001.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 4,
+          "pointY": 9
         }
       ]
     },
@@ -2967,9 +2982,24 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 64417856,
+          "var2": 2035248,
           "pointX": 8,
           "pointY": 7
+        },
+        {
+          "stackSize": 1,
+          "seed": 15020,
+          "baseName": "Records\\XPack3\\Items\\EquipmentArmor\\Armband\\u_n_Set10.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 12,
+          "pointY": 0
         }
       ]
     },

@@ -407,9 +407,39 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 59895872,
+          "var2": 2035248,
           "pointX": 1,
           "pointY": 9
+        },
+        {
+          "stackSize": 1,
+          "seed": 2976,
+          "baseName": "Records\\XPack3\\Items\\EquipmentWeapon\\Club\\MI_N_Serpentoid.dbr",
+          "prefixName": "",
+          "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AttributeStrength_02.dbr",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 48689216,
+          "pointX": 2,
+          "pointY": 9
+        },
+        {
+          "stackSize": 1,
+          "seed": 17549,
+          "baseName": "Records\\XPack3\\Items\\EquipmentWeapon\\Club\\MI_N_PotamoiWarrior.dbr",
+          "prefixName": "",
+          "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AbilityOffensive_04.dbr",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 48689216,
+          "pointX": 5,
+          "pointY": 3
         }
       ]
     },

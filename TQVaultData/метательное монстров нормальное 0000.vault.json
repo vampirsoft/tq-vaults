@@ -407,9 +407,24 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 269086784,
+          "var2": 2035248,
           "pointX": 6,
           "pointY": 6
+        },
+        {
+          "stackSize": 1,
+          "seed": 2019,
+          "baseName": "Records\\XPack3\\Items\\EquipmentWeapon\\1hRanged\\MI_N_PotamoiWarrior.dbr",
+          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Offensive_DamageLightning_03.dbr",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 48689216,
+          "pointX": 8,
+          "pointY": 12
         }
       ]
     },

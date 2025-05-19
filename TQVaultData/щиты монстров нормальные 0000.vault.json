@@ -257,8 +257,38 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 60485696,
+          "var2": 2035248,
           "pointX": 8,
+          "pointY": 3
+        },
+        {
+          "stackSize": 1,
+          "seed": 16192,
+          "baseName": "Records\\XPack3\\Items\\EquipmentWeapon\\Shield\\MI_N_TritonWarrior.dbr",
+          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Character_ReducedEquipReq_01.dbr",
+          "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AttributeIntelligence_03.dbr",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 48689216,
+          "pointX": 12,
+          "pointY": 6
+        },
+        {
+          "stackSize": 1,
+          "seed": 14759,
+          "baseName": "Records\\XPack3\\Items\\EquipmentWeapon\\Shield\\MI_N_PotamoiWarrior.dbr",
+          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Defensive_ResistPierce_02.dbr",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 48689216,
+          "pointX": 10,
           "pointY": 3
         }
       ]

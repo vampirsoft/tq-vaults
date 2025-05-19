@@ -1062,9 +1062,39 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 269348928,
+          "var2": 2035248,
           "pointX": 4,
           "pointY": 4
+        },
+        {
+          "stackSize": 1,
+          "seed": 22819,
+          "baseName": "Records\\XPack3\\Items\\EquipmentArmor\\Armband\\MI_N_TritonWarriorMelee.dbr",
+          "prefixName": "",
+          "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AttributeIntelligence_03.dbr",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 48689216,
+          "pointX": 6,
+          "pointY": 6
+        },
+        {
+          "stackSize": 1,
+          "seed": 8233,
+          "baseName": "Records\\XPack3\\Items\\EquipmentArmor\\Armband\\MI_N_TritonWitchMage.dbr",
+          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Defensive_Protection_04.dbr",
+          "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AttributeEnergy_03.dbr",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 48689216,
+          "pointX": 12,
+          "pointY": 2
         }
       ]
     },
