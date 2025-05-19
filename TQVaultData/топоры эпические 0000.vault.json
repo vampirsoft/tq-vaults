@@ -452,8 +452,23 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 64417856,
+          "var2": 2035248,
           "pointX": 16,
+          "pointY": 4
+        },
+        {
+          "stackSize": 1,
+          "seed": 18058,
+          "baseName": "Records\\Item\\EquipmentWeapon\\Axe\\U_N_CreepingDeath.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 60485696,
+          "pointX": 14,
           "pointY": 4
         }
       ]

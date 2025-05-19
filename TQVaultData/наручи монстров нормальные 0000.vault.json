@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 5,
+  "currentlySelectedSackNumber": 0,
   "sacks": [
     {
       "iconinfo": null,
@@ -757,7 +757,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 58978368,
+          "var2": 2035248,
           "pointX": 4,
           "pointY": 8
         },
@@ -772,7 +772,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 58978368,
+          "var2": 2035248,
           "pointX": 4,
           "pointY": 10
         },
@@ -787,7 +787,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 58978368,
+          "var2": 2035248,
           "pointX": 2,
           "pointY": 12
         }
@@ -1587,8 +1587,23 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 58978368,
+          "var2": 2035248,
           "pointX": 2,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 21738,
+          "baseName": "Records\\XPack3\\Items\\EquipmentArmor\\Armband\\MI_N_HesperideMage.dbr",
+          "prefixName": "",
+          "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Rare_Glade_Armor_01.dbr",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 60485696,
+          "pointX": 4,
           "pointY": 0
         }
       ]
