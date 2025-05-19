@@ -962,9 +962,24 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 349242424,
+          "var2": 2035248,
           "pointX": 14,
           "pointY": 14
+        },
+        {
+          "stackSize": 1,
+          "seed": 12928,
+          "baseName": "Records\\XPack\\Item\\Artifacts\\ArcaneFormulae\\N_GA_EyeOfTheHeavens_Formula.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 12,
+          "pointY": 12
         }
       ]
     },
