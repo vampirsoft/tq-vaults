@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 1,
+  "currentlySelectedSackNumber": 8,
   "sacks": [
     {
       "iconinfo": null,
@@ -2052,7 +2052,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 8,
           "pointY": 4
         }
@@ -2955,6 +2955,21 @@
           "var2": 2035248,
           "pointX": 8,
           "pointY": 5
+        },
+        {
+          "stackSize": 1,
+          "seed": 32182,
+          "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Armband\\US_N_001.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 64417856,
+          "pointX": 8,
+          "pointY": 7
         }
       ]
     },

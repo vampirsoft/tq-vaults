@@ -332,9 +332,24 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 268759104,
+          "var2": 2035248,
           "pointX": 10,
           "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 12137,
+          "baseName": "Records\\XPack3\\Items\\EquipmentWeapon\\Spear\\MI_N_Monkeyman.dbr",
+          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Offensive_DamagePierce_03.dbr",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 64417856,
+          "pointX": 1,
+          "pointY": 10
         }
       ]
     },
