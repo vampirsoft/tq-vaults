@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 3,
+  "currentlySelectedSackNumber": 1,
   "sacks": [
     {
       "iconinfo": null,
@@ -1463,21 +1463,6 @@
         },
         {
           "stackSize": 1,
-          "seed": 27032,
-          "baseName": "Records\\Item\\AnimalRelics\\01_Act1_BoarsHide.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AbilityDefensive_02.dbr",
-          "var1": 5,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 3,
-          "pointY": 6
-        },
-        {
-          "stackSize": 1,
           "seed": 6917,
           "baseName": "Records\\Item\\AnimalRelics\\01_MultActs_MechanicalParts.dbr",
           "prefixName": "",
@@ -1610,6 +1595,21 @@
           "var2": 2035248,
           "pointX": 7,
           "pointY": 8
+        },
+        {
+          "stackSize": 1,
+          "seed": 8071,
+          "baseName": "Records\\Item\\AnimalRelics\\01_MultActs_VenomSac.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Offensive_ReducedAttackSpeed_01.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1005876472,
+          "pointX": 6,
+          "pointY": 9
         }
       ]
     },
@@ -2968,21 +2968,6 @@
         },
         {
           "stackSize": 1,
-          "seed": 28691,
-          "baseName": "Records\\Item\\AnimalRelics\\01_MultActs_RigidCarapace.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AttributeStrength_01.dbr",
-          "var1": 5,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 6,
-          "pointY": 7
-        },
-        {
-          "stackSize": 1,
           "seed": 15626,
           "baseName": "Records\\Item\\AnimalRelics\\01_Act3_RaptorTooth.dbr",
           "prefixName": "",
@@ -3587,7 +3572,7 @@
           "var1": 1,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 698076856,
+          "var2": 2035248,
           "pointX": 6,
           "pointY": 0
         }

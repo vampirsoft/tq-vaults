@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 3,
+  "currentlySelectedSackNumber": 0,
   "sacks": [
     {
       "iconinfo": null,
@@ -1625,21 +1625,6 @@
           "var2": 2035248,
           "pointX": 9,
           "pointY": 5
-        },
-        {
-          "stackSize": 1,
-          "seed": 30438,
-          "baseName": "Records\\Item\\Relics\\01_Act1_PrometheusFlame.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_SpeedAttack_01.dbr",
-          "var1": 3,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 2,
-          "pointY": 6
         },
         {
           "stackSize": 1,
@@ -4847,7 +4832,7 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1007667952,
+          "var2": 2035248,
           "pointX": 1,
           "pointY": 4
         }
