@@ -488,21 +488,6 @@
         },
         {
           "stackSize": 1,
-          "seed": 3069,
-          "baseName": "Records\\Item\\EquipmentAmulet\\U_N_Paean.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 0,
-          "pointY": 1
-        },
-        {
-          "stackSize": 1,
           "seed": 28248,
           "baseName": "Records\\Item\\EquipmentAmulet\\U_N_Venomheart.dbr",
           "prefixName": "",
@@ -992,7 +977,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 9,
           "pointY": 2
         },
@@ -1007,9 +992,24 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 12,
           "pointY": 2
+        },
+        {
+          "stackSize": 1,
+          "seed": 30745,
+          "baseName": "Records\\Item\\EquipmentAmulet\\U_N_Wellspring.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 3,
+          "pointY": 4
         }
       ]
     },
