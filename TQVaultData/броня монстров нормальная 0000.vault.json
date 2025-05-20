@@ -10,8 +10,8 @@
           "stackSize": 1,
           "seed": 8832,
           "baseName": "Records\\Item\\EquipmentArmor\\MI_N_SatyrBrute.dbr",
-          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Defensive_ResistLightning_01.dbr",
-          "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AttributeStrength_01.dbr",
+          "prefixName": "",
+          "suffixName": "",
           "relicName": "",
           "relicBonus": "",
           "var1": 0,
@@ -100,8 +100,8 @@
           "stackSize": 1,
           "seed": 986,
           "baseName": "Records\\Item\\EquipmentArmor\\MI_N_SatyrBrute.dbr",
-          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Defensive_ResistFire_01.dbr",
-          "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AttributeStrength_01.dbr",
+          "prefixName": "",
+          "suffixName": "",
           "relicName": "",
           "relicBonus": "",
           "var1": 0,
@@ -130,8 +130,8 @@
           "stackSize": 1,
           "seed": 9932,
           "baseName": "Records\\Item\\EquipmentArmor\\MI_N_SatyrBrute.dbr",
-          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Defensive_ResistCold_01.dbr",
-          "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AttributeLife_01.dbr",
+          "prefixName": "",
+          "suffixName": "",
           "relicName": "",
           "relicBonus": "",
           "var1": 0,
@@ -335,6 +335,21 @@
           "var2": 2035248,
           "pointX": 10,
           "pointY": 9
+        },
+        {
+          "stackSize": 1,
+          "seed": 30696,
+          "baseName": "Records\\Item\\EquipmentArmor\\MI_N_Wraith.dbr",
+          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Defensive_ResistLightning_01.dbr",
+          "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AbilityDefensive_02.dbr",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 58978368,
+          "pointX": 6,
+          "pointY": 3
         }
       ]
     },
@@ -2210,6 +2225,21 @@
           "var2": 2035248,
           "pointX": 14,
           "pointY": 3
+        },
+        {
+          "stackSize": 1,
+          "seed": 30696,
+          "baseName": "Records\\Item\\EquipmentArmor\\MI_N_Centaur.dbr",
+          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Defensive_ResistLightning_01.dbr",
+          "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AbilityDefensive_01.dbr",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 58978368,
+          "pointX": 16,
+          "pointY": 0
         }
       ]
     },
