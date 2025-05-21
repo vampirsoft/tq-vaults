@@ -697,9 +697,24 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 58978368,
+          "var2": 2035248,
           "pointX": 8,
           "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 32752,
+          "baseName": "Records\\Item\\EquipmentGreaves\\MI_N_Wraith.dbr",
+          "prefixName": "",
+          "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AttributeStrength_01.dbr",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 254275648,
+          "pointX": 8,
+          "pointY": 2
         }
       ]
     },

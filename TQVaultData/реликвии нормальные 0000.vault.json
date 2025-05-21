@@ -1667,7 +1667,7 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 0,
+          "var2": 2035248,
           "pointX": 7,
           "pointY": 6
         },
@@ -1682,7 +1682,7 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1047608488,
+          "var2": 2035248,
           "pointX": 4,
           "pointY": 8
         },
@@ -1697,8 +1697,23 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 15,
+          "pointY": 5
+        },
+        {
+          "stackSize": 1,
+          "seed": 9244,
+          "baseName": "Records\\Item\\Relics\\01_Act1_ArchimedesMirror.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Retaliation_LeechLife_01.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1017304280,
+          "pointX": 13,
           "pointY": 5
         }
       ]
@@ -3037,7 +3052,7 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 753045552,
+          "var2": 2035248,
           "pointX": 0,
           "pointY": 5
         }
