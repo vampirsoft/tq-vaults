@@ -362,9 +362,39 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 254275648,
+          "var2": 2035248,
           "pointX": 6,
           "pointY": 6
+        },
+        {
+          "stackSize": 1,
+          "seed": 2178,
+          "baseName": "Records\\Item\\EquipmentArmor\\MI_N_Boarman.dbr",
+          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Defensive_Protection_02.dbr",
+          "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_RegenLife_02.dbr",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 254275648,
+          "pointX": 4,
+          "pointY": 6
+        },
+        {
+          "stackSize": 1,
+          "seed": 12567,
+          "baseName": "Records\\Item\\EquipmentArmor\\MI_N_Arachnos.dbr",
+          "prefixName": "",
+          "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AttributeStrength_01.dbr",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 254275648,
+          "pointX": 2,
+          "pointY": 3
         }
       ]
     },
