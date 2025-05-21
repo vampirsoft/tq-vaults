@@ -407,9 +407,24 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 15,
+          "var2": 2035248,
           "pointX": 0,
           "pointY": 5
+        },
+        {
+          "stackSize": 1,
+          "seed": 10501,
+          "baseName": "Records\\Item\\EquipmentAmulet\\C02_Amulet05.dbr",
+          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Rare_Prismatic_01.dbr",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 17191872,
+          "pointX": 16,
+          "pointY": 6
         }
       ]
     },
