@@ -527,7 +527,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 255193152,
+          "var2": 2035248,
           "pointX": 4,
           "pointY": 10
         },
@@ -542,9 +542,24 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 255193152,
+          "var2": 2035248,
           "pointX": 8,
           "pointY": 6
+        },
+        {
+          "stackSize": 1,
+          "seed": 10054,
+          "baseName": "Records\\Item\\EquipmentHelm\\MI_N_GorgonArcher.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 253620288,
+          "pointX": 4,
+          "pointY": 12
         }
       ]
     },
