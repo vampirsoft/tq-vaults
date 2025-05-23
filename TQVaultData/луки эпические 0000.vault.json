@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 0,
+  "currentlySelectedSackNumber": 1,
   "sacks": [
     {
       "iconinfo": null,
@@ -797,7 +797,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 3,
           "pointY": 16
         },
@@ -812,7 +812,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 58454080,
+          "var2": 2035248,
           "pointX": 1,
           "pointY": 8
         }
@@ -880,6 +880,21 @@
           "var2": 2035248,
           "pointX": 2,
           "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 15877,
+          "baseName": "Records\\Item\\EquipmentWeapon\\Bow\\U_N_BowoftheNile.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 1,
+          "pointY": 4
         }
       ]
     },

@@ -10,15 +10,30 @@
           "stackSize": 1,
           "seed": 1368,
           "baseName": "records\\xpack2\\item\\equipmentweapons\\1hranged\\mi_e_skeleton.dbr",
-          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Offensive_DamageLife_02.dbr",
-          "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Offensive_+%Lightning_03.dbr",
+          "prefixName": "",
+          "suffixName": "",
           "relicName": "",
           "relicBonus": "",
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 62255168,
+          "var2": 2035248,
           "pointX": 0,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 1646,
+          "baseName": "records\\xpack2\\item\\equipmentweapons\\1hranged\\mi_e_maenad.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 260960320,
+          "pointX": 2,
           "pointY": 0
         }
       ]

@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 0,
+  "currentlySelectedSackNumber": 1,
   "sacks": [
     {
       "iconinfo": null,
@@ -332,7 +332,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 0,
           "pointY": 5
         }
@@ -384,6 +384,21 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 1,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 1364,
+          "baseName": "records\\xpack2\\item\\equipmentweapons\\spear\\u_n_03.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 260960320,
+          "pointX": 2,
           "pointY": 0
         }
       ]
