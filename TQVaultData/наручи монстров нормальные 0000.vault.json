@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 3,
+  "currentlySelectedSackNumber": 2,
   "sacks": [
     {
       "iconinfo": null,
@@ -452,9 +452,24 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 58454080,
+          "var2": 2035248,
           "pointX": 6,
           "pointY": 4
+        },
+        {
+          "stackSize": 1,
+          "seed": 24078,
+          "baseName": "Records\\Item\\EquipmentArmband\\MI_N_Arachnos.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 68415552,
+          "pointX": 0,
+          "pointY": 6
         }
       ]
     },
@@ -944,21 +959,6 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 8,
-          "pointY": 0
-        },
-        {
-          "stackSize": 1,
-          "seed": 24652,
-          "baseName": "records\\xpack3\\items\\equipmentarmor\\armband\\m_n_potamoimagemage.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 10,
           "pointY": 0
         },
         {
@@ -1472,7 +1472,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 58454080,
+          "var2": 2035248,
           "pointX": 16,
           "pointY": 6
         }

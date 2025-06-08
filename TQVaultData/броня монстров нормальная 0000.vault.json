@@ -482,9 +482,39 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 58454080,
+          "var2": 2035248,
           "pointX": 6,
           "pointY": 17
+        },
+        {
+          "stackSize": 1,
+          "seed": 23600,
+          "baseName": "Records\\Item\\EquipmentArmor\\MI_N_Arachnos.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 68415552,
+          "pointX": 2,
+          "pointY": 6
+        },
+        {
+          "stackSize": 1,
+          "seed": 14199,
+          "baseName": "Records\\Item\\EquipmentArmor\\MI_N_Centaur.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 68415552,
+          "pointX": 6,
+          "pointY": 3
         }
       ]
     },

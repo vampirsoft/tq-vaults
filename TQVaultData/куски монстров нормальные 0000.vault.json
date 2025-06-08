@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 1,
+  "currentlySelectedSackNumber": 0,
   "sacks": [
     {
       "iconinfo": null,
@@ -1757,9 +1757,24 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 820383768,
+          "var2": 2035248,
           "pointX": 10,
           "pointY": 5
+        },
+        {
+          "stackSize": 1,
+          "seed": 30714,
+          "baseName": "Records\\Item\\AnimalRelics\\01_MultActs_VenomSac.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Offensive_Stun_01.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 825944256,
+          "pointX": 6,
+          "pointY": 10
         }
       ]
     },
