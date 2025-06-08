@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 0,
+  "currentlySelectedSackNumber": 1,
   "sacks": [
     {
       "iconinfo": null,
@@ -1697,7 +1697,7 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 766378112,
+          "var2": 2035248,
           "pointX": 14,
           "pointY": 6
         },
@@ -1712,7 +1712,7 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 844353384,
+          "var2": 2035248,
           "pointX": 0,
           "pointY": 10
         },
@@ -1727,7 +1727,7 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 837247120,
+          "var2": 2035248,
           "pointX": 1,
           "pointY": 10
         },
@@ -1742,9 +1742,24 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 907865352,
+          "var2": 2035248,
           "pointX": 8,
           "pointY": 7
+        },
+        {
+          "stackSize": 1,
+          "seed": 20246,
+          "baseName": "Records\\Item\\AnimalRelics\\01_MultActs_DiseasedPlumage.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "records\\item\\lootmagicalaffixes\\relics\\bonuses\\offensive_%poison_01.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 820383768,
+          "pointX": 10,
+          "pointY": 5
         }
       ]
     },
@@ -3009,21 +3024,6 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 6,
-          "pointY": 6
-        },
-        {
-          "stackSize": 1,
-          "seed": 30620,
-          "baseName": "Records\\Item\\AnimalRelics\\01_MultActs_RigidCarapace.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "records\\item\\lootmagicalaffixes\\animalrelics\\bonuses\\defensive_bleedresist_01.dbr",
-          "var1": 5,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 7,
           "pointY": 6
         },
         {
