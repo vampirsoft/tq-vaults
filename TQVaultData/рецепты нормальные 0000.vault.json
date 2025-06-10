@@ -1007,8 +1007,68 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1145879720,
+          "var2": 2035248,
           "pointX": 4,
+          "pointY": 7
+        },
+        {
+          "stackSize": 1,
+          "seed": 5092,
+          "baseName": "Records\\XPack\\Item\\Artifacts\\ArcaneFormulae\\N_LA_ShroudOfEternalNight_Formula.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1146290264,
+          "pointX": 16,
+          "pointY": 5
+        },
+        {
+          "stackSize": 1,
+          "seed": 9355,
+          "baseName": "Records\\XPack\\Item\\Artifacts\\ArcaneFormulae\\N_LA_ShroudOfEternalNight_Formula.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 16,
+          "pointY": 6
+        },
+        {
+          "stackSize": 1,
+          "seed": 32265,
+          "baseName": "Records\\XPack\\Item\\Artifacts\\ArcaneFormulae\\N_LA_Deathrattle_Formula.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1288446808,
+          "pointX": 4,
+          "pointY": 8
+        },
+        {
+          "stackSize": 1,
+          "seed": 30677,
+          "baseName": "Records\\XPack\\Item\\Artifacts\\ArcaneFormulae\\N_LA_AmberFlask_Formula.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1284553832,
+          "pointX": 10,
           "pointY": 7
         }
       ]
@@ -2395,6 +2455,21 @@
           "var2": 2035248,
           "pointX": 6,
           "pointY": 4
+        },
+        {
+          "stackSize": 1,
+          "seed": 16881,
+          "baseName": "Records\\XPack\\Item\\Artifacts\\ArcaneFormulae\\N_LA_Leafsong_Formula.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 0,
+          "pointY": 7
         }
       ]
     },

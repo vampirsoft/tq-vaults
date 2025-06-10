@@ -287,8 +287,23 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 4,
+          "pointY": 4
+        },
+        {
+          "stackSize": 1,
+          "seed": 17847,
+          "baseName": "Records\\Item\\EquipmentWeapon\\Staff\\U_N_Siphon.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 2,
           "pointY": 4
         }
       ]

@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 0,
+  "currentlySelectedSackNumber": 1,
   "sacks": [
     {
       "iconinfo": null,
@@ -1358,21 +1358,6 @@
         },
         {
           "stackSize": 1,
-          "seed": 5875,
-          "baseName": "Records\\Item\\Relics\\01_Act1_PrometheusFlame.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_SpeedAttack_01.dbr",
-          "var1": 3,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 3,
-          "pointY": 5
-        },
-        {
-          "stackSize": 1,
           "seed": 20538,
           "baseName": "Records\\Item\\Relics\\01_Act1_ArchimedesMirror.dbr",
           "prefixName": "",
@@ -1832,7 +1817,7 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1090198592,
+          "var2": 2035248,
           "pointX": 8,
           "pointY": 7
         },
@@ -1847,23 +1832,8 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 9,
-          "pointY": 7
-        },
-        {
-          "stackSize": 1,
-          "seed": 19417,
-          "baseName": "Records\\Item\\Relics\\01_Act1_HecatesCrescent.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AttributeIntelligence_02.dbr",
-          "var1": 3,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1065353216,
-          "pointX": 7,
           "pointY": 7
         },
         {
@@ -1877,9 +1847,54 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 15,
           "pointY": 6
+        },
+        {
+          "stackSize": 1,
+          "seed": 14731,
+          "baseName": "Records\\Item\\Relics\\01_Act1_ArtemisBowstring.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_SpeedAttack_01.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 17,
+          "pointY": 6
+        },
+        {
+          "stackSize": 1,
+          "seed": 11769,
+          "baseName": "Records\\Item\\Relics\\01_Act1_ZeusThunderbolt.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Relics\\Bonuses\\Offensive_DamageCold_01.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 694956040,
+          "pointX": 14,
+          "pointY": 7
+        },
+        {
+          "stackSize": 1,
+          "seed": 9954,
+          "baseName": "Records\\Item\\Relics\\01_Act1_PrometheusFlame.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Offensive_+%Fire_02.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 3,
+          "pointY": 5
         }
       ]
     },
@@ -3073,21 +3088,6 @@
         },
         {
           "stackSize": 1,
-          "seed": 29090,
-          "baseName": "Records\\Item\\Relics\\01_Act2_AmunRasGlory.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Defensive_ResistLightning_01.dbr",
-          "var1": 3,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 12,
-          "pointY": 3
-        },
-        {
-          "stackSize": 1,
           "seed": 28396,
           "baseName": "Records\\Item\\Relics\\01_Act2_AnkhOfIsis.dbr",
           "prefixName": "",
@@ -3160,21 +3160,6 @@
           "var2": 2035248,
           "pointX": 5,
           "pointY": 7
-        },
-        {
-          "stackSize": 1,
-          "seed": 20165,
-          "baseName": "Records\\Item\\Relics\\01_Act2_AmunRasGlory.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Defensive_ResistLightning_01.dbr",
-          "var1": 3,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 13,
-          "pointY": 3
         },
         {
           "stackSize": 1,
