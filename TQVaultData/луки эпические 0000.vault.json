@@ -872,9 +872,24 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 6,
           "pointY": 8
+        },
+        {
+          "stackSize": 1,
+          "seed": 5900,
+          "baseName": "Records\\Item\\EquipmentWeapon\\Bow\\U_N_HornsofCyprus.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 2,
+          "pointY": 4
         }
       ]
     },

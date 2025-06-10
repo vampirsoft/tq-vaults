@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 1,
+  "currentlySelectedSackNumber": 0,
   "sacks": [
     {
       "iconinfo": null,
@@ -500,6 +500,66 @@
           "var2": 2035248,
           "pointX": 12,
           "pointY": 8
+        },
+        {
+          "stackSize": 1,
+          "seed": 26008,
+          "baseName": "Records\\Item\\EquipmentArmband\\USm_N_Oracle'sGarments.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 10,
+          "pointY": 8
+        },
+        {
+          "stackSize": 1,
+          "seed": 8144,
+          "baseName": "Records\\Item\\EquipmentArmor\\USm_N_Necromancer'sHabiliment.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 8,
+          "pointY": 6
+        },
+        {
+          "stackSize": 1,
+          "seed": 6867,
+          "baseName": "Records\\Item\\EquipmentHelm\\USm_N_Necromancer'sHabiliment.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 6,
+          "pointY": 4
+        },
+        {
+          "stackSize": 1,
+          "seed": 6589,
+          "baseName": "Records\\Item\\EquipmentWeapon\\Staff\\US_N_Necromancer'sHabiliment.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 6,
+          "pointY": 9
         }
       ]
     },
@@ -997,9 +1057,24 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 6,
           "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 22123,
+          "baseName": "Records\\Item\\EquipmentGreaves\\US_N_ThebanPanoply.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 12,
+          "pointY": 4
         }
       ]
     },
