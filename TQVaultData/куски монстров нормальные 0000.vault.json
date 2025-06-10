@@ -1817,7 +1817,7 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 747268336,
+          "var2": 2035248,
           "pointX": 9,
           "pointY": 7
         },
@@ -1832,7 +1832,7 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1093478464,
+          "var2": 2035248,
           "pointX": 12,
           "pointY": 7
         },
@@ -1847,9 +1847,24 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1407376488,
+          "var2": 2035248,
           "pointX": 11,
           "pointY": 5
+        },
+        {
+          "stackSize": 1,
+          "seed": 27582,
+          "baseName": "Records\\Item\\AnimalRelics\\01_Act1_PristinePlumage.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AbilityDefensive_01.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1032229856,
+          "pointX": 0,
+          "pointY": 11
         }
       ]
     },

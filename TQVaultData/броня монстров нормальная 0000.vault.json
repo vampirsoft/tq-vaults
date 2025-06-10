@@ -437,7 +437,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 53407808,
+          "var2": 2035248,
           "pointX": 12,
           "pointY": 0
         },
@@ -452,7 +452,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 53407808,
+          "var2": 2035248,
           "pointX": 12,
           "pointY": 3
         },
@@ -467,7 +467,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 53407808,
+          "var2": 2035248,
           "pointX": 4,
           "pointY": 9
         },
@@ -482,7 +482,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 53407808,
+          "var2": 2035248,
           "pointX": 6,
           "pointY": 6
         },
@@ -497,8 +497,38 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 53407808,
+          "var2": 2035248,
           "pointX": 4,
+          "pointY": 17
+        },
+        {
+          "stackSize": 1,
+          "seed": 19905,
+          "baseName": "Records\\Item\\EquipmentArmor\\MI_N_GorgonArcher.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 50393152,
+          "pointX": 10,
+          "pointY": 12
+        },
+        {
+          "stackSize": 1,
+          "seed": 25575,
+          "baseName": "Records\\Item\\EquipmentArmor\\MI_N_GorgonMelee.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 50393152,
+          "pointX": 2,
           "pointY": 17
         }
       ]
