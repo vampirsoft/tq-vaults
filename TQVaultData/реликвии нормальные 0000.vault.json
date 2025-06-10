@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 0,
+  "currentlySelectedSackNumber": 1,
   "sacks": [
     {
       "iconinfo": null,
@@ -1907,7 +1907,7 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 782085544,
+          "var2": 2035248,
           "pointX": 7,
           "pointY": 7
         },
@@ -1922,7 +1922,7 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 6,
           "pointY": 8
         },
@@ -1937,9 +1937,39 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 831346232,
+          "var2": 2035248,
           "pointX": 12,
           "pointY": 7
+        },
+        {
+          "stackSize": 1,
+          "seed": 27669,
+          "baseName": "Records\\Item\\Relics\\01_Act1_HeraclesMight.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AttributeLife_02.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 349778256,
+          "pointX": 5,
+          "pointY": 9
+        },
+        {
+          "stackSize": 1,
+          "seed": 935,
+          "baseName": "Records\\Item\\Relics\\01_Act1_PrometheusFlame.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_SpeedAttack_01.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 459430176,
+          "pointX": 2,
+          "pointY": 6
         }
       ]
     },
@@ -3013,21 +3043,6 @@
         },
         {
           "stackSize": 1,
-          "seed": 27756,
-          "baseName": "Records\\Item\\Relics\\01_Act2_AmunRasGlory.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "records\\item\\lootmagicalaffixes\\animalrelics\\bonuses\\defensive_liferesist_01.dbr",
-          "var1": 3,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 13,
-          "pointY": 2
-        },
-        {
-          "stackSize": 1,
           "seed": 1796,
           "baseName": "Records\\Item\\Relics\\01_Act2_SetsBetrayal.dbr",
           "prefixName": "",
@@ -3325,6 +3340,21 @@
           "var2": 2035248,
           "pointX": 3,
           "pointY": 5
+        },
+        {
+          "stackSize": 1,
+          "seed": 14973,
+          "baseName": "Records\\Item\\Relics\\01_Act1_DionysusWineskin.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AttributeStrength_02.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 0,
+          "pointY": 7
         }
       ]
     },
