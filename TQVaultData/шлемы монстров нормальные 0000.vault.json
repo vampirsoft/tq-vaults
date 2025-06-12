@@ -572,7 +572,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 50393152,
+          "var2": 2035248,
           "pointX": 4,
           "pointY": 14
         },
@@ -587,9 +587,24 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 50393152,
+          "var2": 2035248,
           "pointX": 2,
           "pointY": 10
+        },
+        {
+          "stackSize": 1,
+          "seed": 4015,
+          "baseName": "Records\\Item\\EquipmentHelm\\MI_N_JackalmanMage.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 51769408,
+          "pointX": 10,
+          "pointY": 12
         }
       ]
     },

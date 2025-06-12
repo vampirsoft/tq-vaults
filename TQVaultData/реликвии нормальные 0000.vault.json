@@ -1952,7 +1952,7 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 349778256,
+          "var2": 2035248,
           "pointX": 5,
           "pointY": 9
         },
@@ -1967,7 +1967,7 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 459430176,
+          "var2": 2035248,
           "pointX": 2,
           "pointY": 6
         }
@@ -3352,9 +3352,54 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 0,
           "pointY": 7
+        },
+        {
+          "stackSize": 1,
+          "seed": 19944,
+          "baseName": "Records\\Item\\Relics\\01_Act2_SetsBetrayal.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AttributeIntelligence_02.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 6,
+          "pointY": 5
+        },
+        {
+          "stackSize": 1,
+          "seed": 16665,
+          "baseName": "Records\\Item\\Relics\\01_Act2_AmunRasGlory.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AttributeLife_02.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 356291776,
+          "pointX": 13,
+          "pointY": 2
+        },
+        {
+          "stackSize": 1,
+          "seed": 7086,
+          "baseName": "Records\\Item\\Relics\\01_Act2_UdjatOfHorus.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Defensive_Protection_03.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 9,
+          "pointY": 5
         }
       ]
     },
