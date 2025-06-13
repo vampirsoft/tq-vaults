@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 1,
+  "currentlySelectedSackNumber": 0,
   "sacks": [
     {
       "iconinfo": null,
@@ -1937,7 +1937,7 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 889096008,
+          "var2": 2035248,
           "pointX": 6,
           "pointY": 11
         },
@@ -1952,8 +1952,23 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1148901440,
+          "var2": 2035248,
           "pointX": 10,
+          "pointY": 6
+        },
+        {
+          "stackSize": 1,
+          "seed": 11401,
+          "baseName": "Records\\Item\\AnimalRelics\\01_MultActs_MechanicalParts.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AbilityOffensive_02.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1209960608,
+          "pointX": 15,
           "pointY": 6
         }
       ]
@@ -3427,7 +3442,7 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 865454144,
+          "var2": 2035248,
           "pointX": 7,
           "pointY": 6
         },
@@ -3442,7 +3457,7 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 999461776,
+          "var2": 2035248,
           "pointX": 2,
           "pointY": 8
         },
@@ -3457,7 +3472,7 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 932940136,
+          "var2": 2035248,
           "pointX": 0,
           "pointY": 7
         },
@@ -3472,9 +3487,84 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 429293680,
+          "var2": 2035248,
           "pointX": 5,
           "pointY": 9
+        },
+        {
+          "stackSize": 1,
+          "seed": 2561,
+          "baseName": "Records\\Item\\AnimalRelics\\01_Act2_LupineClaw.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Offensive_ReducedAttackSpeed_01.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 389633088,
+          "pointX": 4,
+          "pointY": 10
+        },
+        {
+          "stackSize": 1,
+          "seed": 6273,
+          "baseName": "Records\\Item\\AnimalRelics\\01_Act2_VileIchor.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Offensive_Stun_01.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 346757264,
+          "pointX": 1,
+          "pointY": 7
+        },
+        {
+          "stackSize": 1,
+          "seed": 1156,
+          "baseName": "Records\\Item\\AnimalRelics\\01_Act2_VileIchor.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Offensive_Stun_01.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1166120584,
+          "pointX": 0,
+          "pointY": 8
+        },
+        {
+          "stackSize": 1,
+          "seed": 13117,
+          "baseName": "Records\\Item\\AnimalRelics\\01_MultActs_SpectralMatter.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AttributeIntelligence_02.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1209979056,
+          "pointX": 3,
+          "pointY": 8
+        },
+        {
+          "stackSize": 1,
+          "seed": 20167,
+          "baseName": "Records\\Item\\AnimalRelics\\01_MultActs_RigidCarapace.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "records\\item\\lootmagicalaffixes\\animalrelics\\bonuses\\defensive_bleedresist_01.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1114511776,
+          "pointX": 6,
+          "pointY": 7
         }
       ]
     },
