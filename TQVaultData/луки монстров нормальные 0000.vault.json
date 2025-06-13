@@ -275,6 +275,21 @@
           "var2": 2035248,
           "pointX": 4,
           "pointY": 4
+        },
+        {
+          "stackSize": 1,
+          "seed": 11163,
+          "baseName": "Records\\Item\\EquipmentWeapon\\Bow\\MI_N_DuneRaider.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 60420160,
+          "pointX": 4,
+          "pointY": 16
         }
       ]
     },

@@ -1693,21 +1693,6 @@
         },
         {
           "stackSize": 1,
-          "seed": 19200,
-          "baseName": "Records\\XPack\\Item\\Artifacts\\ArcaneFormulae\\N_LA_Cinderbolt_Formula.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 12,
-          "pointY": 6
-        },
-        {
-          "stackSize": 1,
           "seed": 19585,
           "baseName": "Records\\XPack\\Item\\Artifacts\\ArcaneFormulae\\N_LA_Cinderbolt_Formula.dbr",
           "prefixName": "",
@@ -2497,9 +2482,39 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 12,
           "pointY": 14
+        },
+        {
+          "stackSize": 1,
+          "seed": 19200,
+          "baseName": "Records\\XPack\\Item\\Artifacts\\ArcaneFormulae\\N_LA_Cinderbolt_Formula.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 12,
+          "pointY": 6
+        },
+        {
+          "stackSize": 1,
+          "seed": 18901,
+          "baseName": "Records\\XPack\\Item\\Artifacts\\ArcaneFormulae\\N_LA_RazorClaw_Formula.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 10,
+          "pointY": 6
         }
       ]
     },

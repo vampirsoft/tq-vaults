@@ -302,9 +302,39 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 2,
           "pointY": 4
+        },
+        {
+          "stackSize": 1,
+          "seed": 23448,
+          "baseName": "Records\\Item\\EquipmentWeapon\\Staff\\U_N_Siphon.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 2,
+          "pointY": 8
+        },
+        {
+          "stackSize": 1,
+          "seed": 24230,
+          "baseName": "Records\\Item\\EquipmentWeapon\\Staff\\U_N_SpectralRod.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 14,
+          "pointY": 8
         }
       ]
     },
