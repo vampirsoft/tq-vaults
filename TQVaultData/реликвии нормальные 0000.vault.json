@@ -1823,21 +1823,6 @@
         },
         {
           "stackSize": 1,
-          "seed": 9687,
-          "baseName": "records\\item\\relics\\01_act1_aegisofathena.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AttributeLife_02.dbr",
-          "var1": 3,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 9,
-          "pointY": 7
-        },
-        {
-          "stackSize": 1,
           "seed": 22999,
           "baseName": "Records\\Item\\Relics\\01_Act1_ZeusThunderbolt.dbr",
           "prefixName": "",
@@ -1982,7 +1967,7 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1126114464,
+          "var2": 2035248,
           "pointX": 16,
           "pointY": 7
         }
@@ -3453,7 +3438,7 @@
           "prefixName": "",
           "suffixName": "",
           "relicName": "",
-          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Defensive_ResistFire_01.dbr",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Character_AttributeEnergy_02.dbr",
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
@@ -4448,7 +4433,7 @@
           "prefixName": "",
           "suffixName": "",
           "relicName": "",
-          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_SpeedAttack_01.dbr",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AttributeDexterity_03.dbr",
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
