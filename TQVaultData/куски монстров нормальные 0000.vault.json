@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 0,
+  "currentlySelectedSackNumber": 1,
   "sacks": [
     {
       "iconinfo": null,
@@ -1967,9 +1967,24 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1209960608,
+          "var2": 2035248,
           "pointX": 15,
           "pointY": 6
+        },
+        {
+          "stackSize": 1,
+          "seed": 25444,
+          "baseName": "Records\\Item\\AnimalRelics\\01_MultActs_MechanicalParts.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AbilityDefensive_02.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 684237056,
+          "pointX": 14,
+          "pointY": 7
         }
       ]
     },
@@ -3502,7 +3517,7 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 389633088,
+          "var2": 2035248,
           "pointX": 4,
           "pointY": 10
         },
@@ -3517,7 +3532,7 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 346757264,
+          "var2": 2035248,
           "pointX": 1,
           "pointY": 7
         },
@@ -3532,7 +3547,7 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1166120584,
+          "var2": 2035248,
           "pointX": 0,
           "pointY": 8
         },
@@ -3547,7 +3562,7 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1209979056,
+          "var2": 2035248,
           "pointX": 3,
           "pointY": 8
         },
@@ -3562,9 +3577,54 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1114511776,
+          "var2": 2035248,
           "pointX": 6,
           "pointY": 7
+        },
+        {
+          "stackSize": 1,
+          "seed": 25116,
+          "baseName": "Records\\Item\\AnimalRelics\\01_Act2_LupineClaw.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Offensive_LeechMana_01.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 873460920,
+          "pointX": 5,
+          "pointY": 10
+        },
+        {
+          "stackSize": 1,
+          "seed": 11328,
+          "baseName": "Records\\Item\\AnimalRelics\\01_MultActs_RigidCarapace.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Defensive_ResistFire_01.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 168706040,
+          "pointX": 7,
+          "pointY": 7
+        },
+        {
+          "stackSize": 1,
+          "seed": 25369,
+          "baseName": "Records\\Item\\AnimalRelics\\01_MultActs_SpectralMatter.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Offensive_LeechMana_01.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1082233048,
+          "pointX": 2,
+          "pointY": 9
         }
       ]
     },

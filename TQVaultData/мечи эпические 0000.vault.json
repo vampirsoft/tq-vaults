@@ -647,7 +647,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 60420160,
+          "var2": 2035248,
           "pointX": 5,
           "pointY": 8
         }
@@ -715,6 +715,21 @@
           "var2": 2035248,
           "pointX": 0,
           "pointY": 8
+        },
+        {
+          "stackSize": 1,
+          "seed": 11777,
+          "baseName": "Records\\Item\\EquipmentWeapon\\Sword\\U_N_Marduk'sRage.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 4,
+          "pointY": 0
         }
       ]
     },

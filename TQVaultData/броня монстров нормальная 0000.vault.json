@@ -1057,8 +1057,23 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 47181888,
+          "var2": 2035248,
           "pointX": 6,
+          "pointY": 17
+        },
+        {
+          "stackSize": 1,
+          "seed": 1044,
+          "baseName": "Records\\Item\\EquipmentArmor\\MI_N_IchthianMelee.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 262402112,
+          "pointX": 12,
           "pointY": 17
         }
       ]
