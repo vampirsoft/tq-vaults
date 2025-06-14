@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 1,
+  "currentlySelectedSackNumber": 0,
   "sacks": [
     {
       "iconinfo": null,
@@ -1967,8 +1967,23 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1161122904,
+          "var2": 2035248,
           "pointX": 15,
+          "pointY": 7
+        },
+        {
+          "stackSize": 1,
+          "seed": 2071,
+          "baseName": "Records\\Item\\Relics\\01_Act1_ArtemisBowstring.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AttributeDexterity_02.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1126114464,
+          "pointX": 16,
           "pointY": 7
         }
       ]
@@ -3487,7 +3502,7 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 856089792,
+          "var2": 2035248,
           "pointX": 10,
           "pointY": 5
         },
@@ -3502,7 +3517,7 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1092305072,
+          "var2": 2035248,
           "pointX": 5,
           "pointY": 8
         },
@@ -3517,7 +3532,7 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 9,
           "pointY": 6
         }
