@@ -1085,6 +1085,36 @@
           "var2": 2035248,
           "pointX": 6,
           "pointY": 6
+        },
+        {
+          "stackSize": 1,
+          "seed": 11765,
+          "baseName": "Records\\Item\\EquipmentAmulet\\U_N_ShardoftheElements.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 7,
+          "pointY": 10
+        },
+        {
+          "stackSize": 1,
+          "seed": 61,
+          "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Amulet\\U_N_001.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 13,
+          "pointY": 4
         }
       ]
     },
