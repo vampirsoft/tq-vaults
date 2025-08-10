@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 2,
+  "currentlySelectedSackNumber": 4,
   "sacks": [
     {
       "iconinfo": null,
@@ -1677,7 +1677,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 6,
           "pointY": 2
         },
@@ -1692,7 +1692,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 6,
           "pointY": 0
         },
@@ -1707,9 +1707,39 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 12,
           "pointY": 2
+        },
+        {
+          "stackSize": 1,
+          "seed": 27761,
+          "baseName": "Records\\Item\\EquipmentGreaves\\US_N_GebelTjauti.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 12,
+          "pointY": 6
+        },
+        {
+          "stackSize": 1,
+          "seed": 27404,
+          "baseName": "Records\\Item\\EquipmentGreaves\\US_N_ObsidianArmor.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 0,
+          "pointY": 12
         }
       ]
     },
@@ -2289,6 +2319,21 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 0,
+          "pointY": 14
+        },
+        {
+          "stackSize": 1,
+          "seed": 10655,
+          "baseName": "Records\\Item\\EquipmentGreaves\\US_N_BabylonianRaiment.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 2,
           "pointY": 14
         }
       ]

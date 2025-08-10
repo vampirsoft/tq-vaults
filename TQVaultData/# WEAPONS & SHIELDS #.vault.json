@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 0,
+  "currentlySelectedSackNumber": 6,
   "sacks": [
     {
       "iconinfo": null,
@@ -4689,36 +4689,6 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 11,
-          "pointY": 10
-        },
-        {
-          "stackSize": 1,
-          "seed": 16507,
-          "baseName": "records\\item\\equipmentweapon\\spear\\u_n_nuba'snagamaki.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 10,
-          "pointY": 10
-        },
-        {
-          "stackSize": 1,
-          "seed": 20967,
-          "baseName": "Records\\Item\\EquipmentWeapon\\Spear\\U_N_SpearofArgo.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 9,
           "pointY": 10
         },
         {

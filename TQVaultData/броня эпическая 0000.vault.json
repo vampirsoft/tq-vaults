@@ -587,7 +587,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 12,
           "pointY": 17
         }
@@ -1075,6 +1075,21 @@
           "var2": 2035248,
           "pointX": 6,
           "pointY": 9
+        },
+        {
+          "stackSize": 1,
+          "seed": 20139,
+          "baseName": "Records\\Item\\EquipmentArmor\\Um_N_Physician'sRobe.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 16,
+          "pointY": 14
         }
       ]
     },
@@ -1652,9 +1667,24 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 8,
           "pointY": 3
+        },
+        {
+          "stackSize": 1,
+          "seed": 29705,
+          "baseName": "Records\\Item\\EquipmentArmor\\Um_N_Ben'haamon'sKilt.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 8,
+          "pointY": 6
         }
       ]
     },

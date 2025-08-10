@@ -617,9 +617,24 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 60420160,
+          "var2": 2035248,
           "pointX": 12,
           "pointY": 10
+        },
+        {
+          "stackSize": 1,
+          "seed": 31956,
+          "baseName": "Records\\Item\\EquipmentHelm\\MI_N_DesertHag.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 62844992,
+          "pointX": 12,
+          "pointY": 12
         }
       ]
     },
