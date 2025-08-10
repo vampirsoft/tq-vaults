@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 1,
+  "currentlySelectedSackNumber": 3,
   "sacks": [
     {
       "iconinfo": null,
@@ -3577,7 +3577,7 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 423094208,
+          "var2": 2035248,
           "pointX": 7,
           "pointY": 6
         },
@@ -3592,7 +3592,7 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 422013256,
+          "var2": 2035248,
           "pointX": 4,
           "pointY": 9
         },
@@ -3607,7 +3607,7 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 15,
           "pointY": 4
         },
@@ -3622,7 +3622,7 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1290067320,
+          "var2": 2035248,
           "pointX": 10,
           "pointY": 6
         },
@@ -3637,7 +3637,7 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 865684744,
+          "var2": 2035248,
           "pointX": 13,
           "pointY": 3
         },
@@ -3652,7 +3652,7 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 865684744,
+          "var2": 2035248,
           "pointX": 12,
           "pointY": 4
         },
@@ -3667,7 +3667,7 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 14,
           "pointY": 5
         },
@@ -3682,7 +3682,7 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1290067320,
+          "var2": 2035248,
           "pointX": 11,
           "pointY": 6
         },
@@ -3697,7 +3697,7 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 422013256,
+          "var2": 2035248,
           "pointX": 5,
           "pointY": 9
         },
@@ -3712,7 +3712,7 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 423094208,
+          "var2": 2035248,
           "pointX": 6,
           "pointY": 7
         }
@@ -5600,6 +5600,21 @@
           "var2": 2035248,
           "pointX": 1,
           "pointY": 4
+        },
+        {
+          "stackSize": 1,
+          "seed": 15534,
+          "baseName": "Records\\XPack\\Item\\Relics\\01_Act4_ChillOfTartarus.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Relics\\Bonuses\\Offensive_DamageCold_02.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 4,
+          "pointY": 6
         }
       ]
     },
