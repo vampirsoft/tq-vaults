@@ -1072,8 +1072,23 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 262402112,
+          "var2": 2035248,
           "pointX": 12,
+          "pointY": 17
+        },
+        {
+          "stackSize": 1,
+          "seed": 28479,
+          "baseName": "Records\\Item\\EquipmentArmor\\MI_N_Reptilian.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 65335360,
+          "pointX": 8,
           "pointY": 17
         }
       ]
