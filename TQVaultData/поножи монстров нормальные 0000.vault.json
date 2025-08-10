@@ -470,6 +470,21 @@
           "var2": 2035248,
           "pointX": 0,
           "pointY": 6
+        },
+        {
+          "stackSize": 1,
+          "seed": 27343,
+          "baseName": "Records\\Item\\EquipmentGreaves\\MI_N_Mummy.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 65925184,
+          "pointX": 0,
+          "pointY": 8
         }
       ]
     },
@@ -1277,7 +1292,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 65335360,
+          "var2": 2035248,
           "pointX": 8,
           "pointY": 2
         }

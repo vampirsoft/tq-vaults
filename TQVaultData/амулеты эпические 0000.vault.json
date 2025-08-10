@@ -1097,7 +1097,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 7,
           "pointY": 10
         },
@@ -1112,9 +1112,39 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 13,
           "pointY": 4
+        },
+        {
+          "stackSize": 1,
+          "seed": 15041,
+          "baseName": "Records\\XPack3\\Items\\EquipmentArmor\\Amulet\\u_n_01.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 12,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 26236,
+          "baseName": "Records\\XPack3\\Items\\EquipmentArmor\\Amulet\\u_n_01.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 12,
+          "pointY": 1
         }
       ]
     },
