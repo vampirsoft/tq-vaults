@@ -733,7 +733,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 26609,
+          "seed": 29837,
           "baseName": "Records\\Item\\EquipmentWeapon\\Sword\\U_N_Marduk'sRage.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -744,7 +744,22 @@
           "relicBonus2": "",
           "var2": 1065353216,
           "pointX": 4,
-          "pointY": 3
+          "pointY": 8
+        },
+        {
+          "stackSize": 1,
+          "seed": 26609,
+          "baseName": "Records\\Item\\EquipmentWeapon\\Sword\\U_N_Marduk'sRage.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 4,
+          "pointY": 4
         }
       ]
     },
