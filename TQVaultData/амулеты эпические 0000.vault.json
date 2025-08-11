@@ -1127,7 +1127,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 12,
           "pointY": 0
         },
@@ -1142,9 +1142,24 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 12,
           "pointY": 1
+        },
+        {
+          "stackSize": 1,
+          "seed": 29387,
+          "baseName": "Records\\Item\\EquipmentAmulet\\U_N_Venomheart.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 5,
+          "pointY": 7
         }
       ]
     },

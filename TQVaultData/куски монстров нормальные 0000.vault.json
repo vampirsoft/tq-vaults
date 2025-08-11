@@ -2042,7 +2042,7 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 429139560,
+          "var2": 2035248,
           "pointX": 7,
           "pointY": 11
         },
@@ -2057,7 +2057,7 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 778561952,
+          "var2": 2035248,
           "pointX": 15,
           "pointY": 7
         }
@@ -3832,7 +3832,7 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 244091504,
+          "var2": 2035248,
           "pointX": 6,
           "pointY": 9
         },
@@ -3847,9 +3847,24 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 671967464,
+          "var2": 2035248,
           "pointX": 3,
           "pointY": 10
+        },
+        {
+          "stackSize": 1,
+          "seed": 18757,
+          "baseName": "Records\\Item\\AnimalRelics\\01_Act3_SaberClaw.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AbilityOffensive_02.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 941440048,
+          "pointX": 8,
+          "pointY": 2
         }
       ]
     },
