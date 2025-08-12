@@ -3907,7 +3907,7 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 992608472,
+          "var2": 2035248,
           "pointX": 7,
           "pointY": 9
         },
@@ -3922,9 +3922,39 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 895192304,
+          "var2": 2035248,
           "pointX": 11,
           "pointY": 2
+        },
+        {
+          "stackSize": 1,
+          "seed": 20040,
+          "baseName": "Records\\Item\\AnimalRelics\\01_Act3_VinyGrowth.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Defensive_Protection_01.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 900083560,
+          "pointX": 17,
+          "pointY": 6
+        },
+        {
+          "stackSize": 1,
+          "seed": 30416,
+          "baseName": "Records\\Item\\AnimalRelics\\01_Act3_RaptorTooth.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AbilityOffensive_01.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 863500480,
+          "pointX": 13,
+          "pointY": 5
         }
       ]
     },
