@@ -673,21 +673,6 @@
         },
         {
           "stackSize": 1,
-          "seed": 1301,
-          "baseName": "Records\\Item\\EquipmentHelm\\MI_N_Liche.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 2,
-          "pointY": 0
-        },
-        {
-          "stackSize": 1,
           "seed": 18250,
           "baseName": "Records\\Item\\EquipmentHelm\\MI_N_TigermanMage.dbr",
           "prefixName": "",
@@ -715,21 +700,6 @@
           "var2": 2035248,
           "pointX": 6,
           "pointY": 0
-        },
-        {
-          "stackSize": 1,
-          "seed": 22842,
-          "baseName": "Records\\Item\\EquipmentHelm\\MI_N_Liche.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 2,
-          "pointY": 2
         },
         {
           "stackSize": 1,
@@ -868,21 +838,6 @@
         },
         {
           "stackSize": 1,
-          "seed": 25834,
-          "baseName": "Records\\Item\\EquipmentHelm\\MI_N_Liche.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 2,
-          "pointY": 4
-        },
-        {
-          "stackSize": 1,
           "seed": 10688,
           "baseName": "Records\\Item\\EquipmentHelm\\MI_N_TigermanMage.dbr",
           "prefixName": "",
@@ -952,8 +907,38 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 2006249536,
+          "var2": 2035248,
           "pointX": 6,
+          "pointY": 2
+        },
+        {
+          "stackSize": 1,
+          "seed": 1301,
+          "baseName": "Records\\Item\\EquipmentHelm\\MI_N_Liche.dbr",
+          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Rare_Hallowed_01.dbr",
+          "suffixName": "Records\\XPack\\Item\\LootMagicalAffixes\\Suffix\\Default\\Rare_%xp%elementalResist_01.dbr",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 32239680,
+          "pointX": 2,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 22842,
+          "baseName": "Records\\Item\\EquipmentHelm\\MI_N_Liche.dbr",
+          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Rare_Hallowed_01.dbr",
+          "suffixName": "Records\\XPack\\Item\\LootMagicalAffixes\\Suffix\\Default\\Rare_%xp%elementalResist_01.dbr",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 32239680,
+          "pointX": 2,
           "pointY": 2
         }
       ]
@@ -1582,8 +1567,23 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 2006249536,
+          "var2": 2035248,
           "pointX": 12,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 15345,
+          "baseName": "Records\\Item\\EquipmentHelm\\MI_N_SatyrMage.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 23982144,
+          "pointX": 14,
           "pointY": 0
         }
       ]

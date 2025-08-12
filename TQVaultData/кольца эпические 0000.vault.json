@@ -1118,8 +1118,8 @@
         },
         {
           "stackSize": 1,
-          "seed": 9973,
-          "baseName": "records\\xpack3\\items\\equipmentarmor\\ring\\u_n_01.dbr",
+          "seed": 20892,
+          "baseName": "Records\\Item\\EquipmentRing\\U_N_Captain'sSignet.dbr",
           "prefixName": "",
           "suffixName": "",
           "relicName": "",
@@ -1128,23 +1128,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 8,
-          "pointY": 0
-        },
-        {
-          "stackSize": 1,
-          "seed": 8180,
-          "baseName": "records\\xpack3\\items\\equipmentarmor\\ring\\u_n_01.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 8,
-          "pointY": 1
+          "pointX": 6,
+          "pointY": 8
         },
         {
           "stackSize": 1,
@@ -1157,14 +1142,14 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 2035248,
+          "var2": 773836992,
           "pointX": 8,
-          "pointY": 2
+          "pointY": 0
         },
         {
           "stackSize": 1,
-          "seed": 20892,
-          "baseName": "Records\\Item\\EquipmentRing\\U_N_Captain'sSignet.dbr",
+          "seed": 9973,
+          "baseName": "records\\xpack3\\items\\equipmentarmor\\ring\\u_n_01.dbr",
           "prefixName": "",
           "suffixName": "",
           "relicName": "",
@@ -1172,9 +1157,9 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
-          "pointX": 6,
-          "pointY": 8
+          "var2": 773836992,
+          "pointX": 8,
+          "pointY": 1
         }
       ]
     },

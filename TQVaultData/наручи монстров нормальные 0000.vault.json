@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 3,
+  "currentlySelectedSackNumber": 0,
   "sacks": [
     {
       "iconinfo": null,
@@ -34,21 +34,6 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 4,
-          "pointY": 0
-        },
-        {
-          "stackSize": 1,
-          "seed": 1443,
-          "baseName": "Records\\Item\\EquipmentArmband\\MI_N_Wraith.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 6,
           "pointY": 0
         },
         {
@@ -338,36 +323,6 @@
         },
         {
           "stackSize": 1,
-          "seed": 22780,
-          "baseName": "Records\\Item\\EquipmentArmband\\MI_N_Wraith.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 6,
-          "pointY": 2
-        },
-        {
-          "stackSize": 1,
-          "seed": 21836,
-          "baseName": "Records\\Item\\EquipmentArmband\\MI_N_Wraith.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 6,
-          "pointY": 4
-        },
-        {
-          "stackSize": 1,
           "seed": 24078,
           "baseName": "Records\\Item\\EquipmentArmband\\MI_N_Arachnos.dbr",
           "prefixName": "",
@@ -485,6 +440,51 @@
           "var2": 2035248,
           "pointX": 12,
           "pointY": 8
+        },
+        {
+          "stackSize": 1,
+          "seed": 21836,
+          "baseName": "Records\\Item\\EquipmentArmband\\MI_N_Wraith.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 6,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 22780,
+          "baseName": "Records\\Item\\EquipmentArmband\\MI_N_Wraith.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 6,
+          "pointY": 2
+        },
+        {
+          "stackSize": 1,
+          "seed": 1443,
+          "baseName": "Records\\Item\\EquipmentArmband\\MI_N_Wraith.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 6,
+          "pointY": 4
         }
       ]
     },
@@ -922,7 +922,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 2006249536,
+          "var2": 2035248,
           "pointX": 2,
           "pointY": 16
         }

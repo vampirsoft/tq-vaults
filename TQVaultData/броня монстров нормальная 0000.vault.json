@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 2,
+  "currentlySelectedSackNumber": 0,
   "sacks": [
     {
       "iconinfo": null,
@@ -368,21 +368,6 @@
         },
         {
           "stackSize": 1,
-          "seed": 31258,
-          "baseName": "Records\\Item\\EquipmentArmor\\MI_N_Centaur.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 6,
-          "pointY": 0
-        },
-        {
-          "stackSize": 1,
           "seed": 19938,
           "baseName": "Records\\Item\\EquipmentArmor\\MI_N_GorgonMelee.dbr",
           "prefixName": "",
@@ -410,21 +395,6 @@
           "var2": 2035248,
           "pointX": 2,
           "pointY": 6
-        },
-        {
-          "stackSize": 1,
-          "seed": 14199,
-          "baseName": "Records\\Item\\EquipmentArmor\\MI_N_Centaur.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 6,
-          "pointY": 3
         },
         {
           "stackSize": 1,
@@ -470,21 +440,6 @@
           "var2": 2035248,
           "pointX": 4,
           "pointY": 9
-        },
-        {
-          "stackSize": 1,
-          "seed": 20102,
-          "baseName": "Records\\Item\\EquipmentArmor\\MI_N_Centaur.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 6,
-          "pointY": 6
         },
         {
           "stackSize": 1,
@@ -542,7 +497,52 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 2035248,
+          "var2": 32239680,
+          "pointX": 6,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 14199,
+          "baseName": "Records\\Item\\EquipmentArmor\\MI_N_Centaur.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 32239680,
+          "pointX": 6,
+          "pointY": 3
+        },
+        {
+          "stackSize": 1,
+          "seed": 20102,
+          "baseName": "Records\\Item\\EquipmentArmor\\MI_N_Centaur.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 32239680,
+          "pointX": 6,
+          "pointY": 6
+        },
+        {
+          "stackSize": 1,
+          "seed": 31258,
+          "baseName": "Records\\Item\\EquipmentArmor\\MI_N_Centaur.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 32239680,
           "pointX": 6,
           "pointY": 9
         }
@@ -1587,7 +1587,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 2006249536,
+          "var2": 2035248,
           "pointX": 2,
           "pointY": 6
         }

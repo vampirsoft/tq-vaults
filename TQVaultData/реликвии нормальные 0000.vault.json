@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 1,
+  "currentlySelectedSackNumber": 2,
   "sacks": [
     {
       "iconinfo": null,
@@ -2878,21 +2878,6 @@
         },
         {
           "stackSize": 1,
-          "seed": 4893,
-          "baseName": "Records\\Item\\Relics\\01_Act2_AmunRasGlory.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Character_AttributeEnergy_02.dbr",
-          "var1": 3,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 12,
-          "pointY": 2
-        },
-        {
-          "stackSize": 1,
           "seed": 9300,
           "baseName": "Records\\Item\\Relics\\01_Act2_UdjatOfHorus.dbr",
           "prefixName": "",
@@ -3373,21 +3358,6 @@
         },
         {
           "stackSize": 1,
-          "seed": 16665,
-          "baseName": "Records\\Item\\Relics\\01_Act2_AmunRasGlory.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AttributeLife_02.dbr",
-          "var1": 3,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 13,
-          "pointY": 2
-        },
-        {
-          "stackSize": 1,
           "seed": 7086,
           "baseName": "Records\\Item\\Relics\\01_Act2_UdjatOfHorus.dbr",
           "prefixName": "",
@@ -3429,21 +3399,6 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 15,
-          "pointY": 3
-        },
-        {
-          "stackSize": 1,
-          "seed": 9051,
-          "baseName": "Records\\Item\\Relics\\01_Act2_AmunRasGlory.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Character_AttributeEnergy_02.dbr",
-          "var1": 3,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 12,
           "pointY": 3
         },
         {
@@ -3757,7 +3712,7 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 16,
           "pointY": 3
         }
@@ -4814,6 +4769,21 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 3,
+          "pointY": 2
+        },
+        {
+          "stackSize": 1,
+          "seed": 4454,
+          "baseName": "Records\\Item\\Relics\\01_Act3_ShenNongsDarkMedicine.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Offensive_ReducedAttackSpeed_01.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 7,
           "pointY": 2
         }
       ]
