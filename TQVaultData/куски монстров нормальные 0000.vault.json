@@ -3877,7 +3877,7 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 959596856,
+          "var2": 2035248,
           "pointX": 13,
           "pointY": 4
         },
@@ -3892,9 +3892,39 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 340644920,
+          "var2": 2035248,
           "pointX": 12,
           "pointY": 5
+        },
+        {
+          "stackSize": 1,
+          "seed": 2026,
+          "baseName": "Records\\Item\\AnimalRelics\\01_MultActs_RigidCarapace.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AttributeLife_01.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 992608472,
+          "pointX": 7,
+          "pointY": 9
+        },
+        {
+          "stackSize": 1,
+          "seed": 11276,
+          "baseName": "Records\\Item\\AnimalRelics\\01_Act3_PengClaw.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_SpeedAttack_01.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 895192304,
+          "pointX": 11,
+          "pointY": 2
         }
       ]
     },

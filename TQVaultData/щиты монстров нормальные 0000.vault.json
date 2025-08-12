@@ -260,6 +260,21 @@
           "var2": 2035248,
           "pointX": 14,
           "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 3144,
+          "baseName": "Records\\Item\\EquipmentShield\\MI_N_TropicalArachnos.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2006249536,
+          "pointX": 2,
+          "pointY": 9
         }
       ]
     },

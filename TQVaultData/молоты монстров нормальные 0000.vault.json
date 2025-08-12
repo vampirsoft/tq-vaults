@@ -452,9 +452,24 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 2006249536,
+          "var2": 2035248,
           "pointX": 1,
           "pointY": 12
+        },
+        {
+          "stackSize": 1,
+          "seed": 4409,
+          "baseName": "Records\\Item\\EquipmentWeapon\\Club\\MI_N_IchthianMelee.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2006249536,
+          "pointX": 1,
+          "pointY": 15
         }
       ]
     },
