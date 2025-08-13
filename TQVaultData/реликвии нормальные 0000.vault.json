@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 3,
+  "currentlySelectedSackNumber": 2,
   "sacks": [
     {
       "iconinfo": null,
@@ -4815,6 +4815,36 @@
           "var2": 2035248,
           "pointX": 1,
           "pointY": 2
+        },
+        {
+          "stackSize": 1,
+          "seed": 7009,
+          "baseName": "Records\\Item\\Relics\\01_Act3_GuanYusGrace.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "records\\item\\lootmagicalaffixes\\animalrelics\\bonuses\\defensive_bleedresist_01.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 2,
+          "pointY": 3
+        },
+        {
+          "stackSize": 1,
+          "seed": 26449,
+          "baseName": "Records\\Item\\Relics\\01_Act3_ShenNongsDarkMedicine.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Relics\\Bonuses\\Offensive_%Poison_01.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 812960800,
+          "pointX": 6,
+          "pointY": 3
         }
       ]
     },
@@ -5792,7 +5822,7 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 796363032,
+          "var2": 2035248,
           "pointX": 6,
           "pointY": 3
         },
@@ -5807,7 +5837,7 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 983853432,
+          "var2": 2035248,
           "pointX": 9,
           "pointY": 1
         },
@@ -5822,7 +5852,7 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 17,
           "pointY": 2
         }

@@ -1233,21 +1233,6 @@
         },
         {
           "stackSize": 1,
-          "seed": 31316,
-          "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Helm\\MI_N_FormicidMelee01.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 10,
-          "pointY": 6
-        },
-        {
-          "stackSize": 1,
           "seed": 15652,
           "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Helm\\MI_N_TroglodyteMelee.dbr",
           "prefixName": "",
@@ -1257,9 +1242,54 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 55111744,
+          "var2": 2035248,
           "pointX": 8,
           "pointY": 4
+        },
+        {
+          "stackSize": 1,
+          "seed": 10840,
+          "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Helm\\MI_N_FormicidMelee02.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 57471040,
+          "pointX": 10,
+          "pointY": 6
+        },
+        {
+          "stackSize": 1,
+          "seed": 12424,
+          "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Helm\\MI_N_EmpusaMage.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 57471040,
+          "pointX": 12,
+          "pointY": 2
+        },
+        {
+          "stackSize": 1,
+          "seed": 8973,
+          "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Helm\\MI_N_TroglodyteMelee.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 57471040,
+          "pointX": 8,
+          "pointY": 6
         }
       ]
     },
@@ -1629,6 +1659,21 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 14,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 31316,
+          "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Helm\\MI_N_FormicidMelee01.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 16,
           "pointY": 0
         }
       ]

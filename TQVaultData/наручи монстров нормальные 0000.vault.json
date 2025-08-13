@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 5,
+  "currentlySelectedSackNumber": 3,
   "sacks": [
     {
       "iconinfo": null,
@@ -1637,9 +1637,39 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 55111744,
+          "var2": 2035248,
           "pointX": 2,
           "pointY": 6
+        },
+        {
+          "stackSize": 1,
+          "seed": 7738,
+          "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Armband\\MI_N_TroglodyteMelee.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 57471040,
+          "pointX": 2,
+          "pointY": 8
+        },
+        {
+          "stackSize": 1,
+          "seed": 26137,
+          "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Armband\\MI_N_TroglodyteMelee.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 57471040,
+          "pointX": 2,
+          "pointY": 10
         }
       ]
     },
@@ -1917,7 +1947,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 55111744,
+          "var2": 2035248,
           "pointX": 6,
           "pointY": 0
         },
@@ -1947,7 +1977,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 55111744,
+          "var2": 2035248,
           "pointX": 6,
           "pointY": 2
         }
