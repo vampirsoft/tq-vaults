@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 2,
+  "currentlySelectedSackNumber": 3,
   "sacks": [
     {
       "iconinfo": null,
@@ -4797,7 +4797,7 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 803570872,
+          "var2": 2035248,
           "pointX": 5,
           "pointY": 3
         }
@@ -5690,6 +5690,36 @@
           "var2": 2035248,
           "pointX": 4,
           "pointY": 6
+        },
+        {
+          "stackSize": 1,
+          "seed": 2270,
+          "baseName": "Records\\XPack\\Item\\Relics\\01_Act4_PersephonesTears.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Character_AttributeEnergy_02.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 913013336,
+          "pointX": 15,
+          "pointY": 2
+        },
+        {
+          "stackSize": 1,
+          "seed": 21402,
+          "baseName": "Records\\XPack\\Item\\Relics\\01_Act4_IronWillOfAjax.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Defensive_%Protection_01.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 16,
+          "pointY": 2
         }
       ]
     },

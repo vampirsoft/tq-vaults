@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 1,
+  "currentlySelectedSackNumber": 2,
   "sacks": [
     {
       "iconinfo": null,
@@ -2617,7 +2617,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 384876304,
+          "var2": 2035248,
           "pointX": 10,
           "pointY": 8
         }
@@ -3195,6 +3195,21 @@
           "var2": 2035248,
           "pointX": 2,
           "pointY": 5
+        },
+        {
+          "stackSize": 1,
+          "seed": 18803,
+          "baseName": "Records\\XPack\\Item\\Artifacts\\ArcaneFormulae\\N_LA_CrystalTear_Formula.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 832582872,
+          "pointX": 2,
+          "pointY": 6
         }
       ]
     },
