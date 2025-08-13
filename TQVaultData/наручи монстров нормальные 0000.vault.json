@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 0,
+  "currentlySelectedSackNumber": 2,
   "sacks": [
     {
       "iconinfo": null,
@@ -1272,9 +1272,24 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 55111744,
+          "var2": 2035248,
           "pointX": 16,
           "pointY": 6
+        },
+        {
+          "stackSize": 1,
+          "seed": 17509,
+          "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Armband\\MI_N_LamiaMelee.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 55111744,
+          "pointX": 16,
+          "pointY": 8
         }
       ]
     },

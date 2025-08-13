@@ -1052,9 +1052,24 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 14,
           "pointY": 17
+        },
+        {
+          "stackSize": 1,
+          "seed": 28758,
+          "baseName": "Records\\XPack\\Item\\Artifacts\\ArcaneFormulae\\N_GA_DruidicWreath_Formula.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 345285864,
+          "pointX": 2,
+          "pointY": 14
         }
       ]
     },

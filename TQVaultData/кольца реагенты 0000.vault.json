@@ -407,9 +407,24 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 809108624,
+          "var2": 2035248,
           "pointX": 8,
           "pointY": 4
+        },
+        {
+          "stackSize": 1,
+          "seed": 23077,
+          "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Ring\\C02_Ring01.dbr",
+          "prefixName": "Records\\XPack\\Item\\LootMagicalAffixes\\Prefix\\Default\\Rare_CastSpeed%ElementalDmg_01.dbr",
+          "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AttributeStrength_03.dbr",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 17,
+          "pointY": 7
         }
       ]
     },

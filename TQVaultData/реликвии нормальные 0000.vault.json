@@ -4812,7 +4812,7 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 1,
           "pointY": 2
         }
@@ -5747,7 +5747,7 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 7,
           "pointY": 2
         },
@@ -5762,9 +5762,24 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 5,
           "pointY": 6
+        },
+        {
+          "stackSize": 1,
+          "seed": 9932,
+          "baseName": "Records\\XPack\\Item\\Relics\\01_Act4_RageOfAres.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AbilityOffensive_02.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 11,
+          "pointY": 1
         }
       ]
     },
