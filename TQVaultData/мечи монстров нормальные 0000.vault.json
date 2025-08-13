@@ -527,7 +527,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 2006249536,
+          "var2": 2035248,
           "pointX": 6,
           "pointY": 16
         },
@@ -542,7 +542,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 2006249536,
+          "var2": 2035248,
           "pointX": 7,
           "pointY": 16
         },
@@ -557,9 +557,24 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 2006249536,
+          "var2": 2035248,
           "pointX": 8,
           "pointY": 16
+        },
+        {
+          "stackSize": 1,
+          "seed": 18936,
+          "baseName": "Records\\XPack\\Item\\EquipmentWeapons\\Sword\\MI_N_Melinoe.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2006249536,
+          "pointX": 12,
+          "pointY": 0
         }
       ]
     },
