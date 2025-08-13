@@ -2107,7 +2107,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 55111744,
+          "var2": 2035248,
           "pointX": 4,
           "pointY": 6
         },
@@ -2122,9 +2122,24 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 55111744,
+          "var2": 2035248,
           "pointX": 12,
           "pointY": 9
+        },
+        {
+          "stackSize": 1,
+          "seed": 4632,
+          "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Torso\\MI_N_KeresMelee.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 57471040,
+          "pointX": 12,
+          "pointY": 12
         }
       ]
     },

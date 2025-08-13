@@ -482,9 +482,24 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 55111744,
+          "var2": 2035248,
           "pointX": 7,
           "pointY": 6
+        },
+        {
+          "stackSize": 1,
+          "seed": 7530,
+          "baseName": "Records\\XPack\\Item\\EquipmentWeapons\\Club\\MI_N_Troglodyte.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 57471040,
+          "pointX": 7,
+          "pointY": 9
         }
       ]
     },
