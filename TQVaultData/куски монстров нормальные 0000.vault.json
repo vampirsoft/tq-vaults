@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 0,
+  "currentlySelectedSackNumber": 3,
   "sacks": [
     {
       "iconinfo": null,
@@ -2072,7 +2072,7 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 360855648,
+          "var2": 2035248,
           "pointX": 13,
           "pointY": 8
         }
@@ -4489,6 +4489,21 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 6,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 19219,
+          "baseName": "Records\\XPack\\Item\\Charms\\01_Act4_HydradonHide.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Defensive_Protection_04.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 855804056,
+          "pointX": 5,
           "pointY": 0
         }
       ]
