@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 2,
+  "currentlySelectedSackNumber": 5,
   "sacks": [
     {
       "iconinfo": null,
@@ -1287,7 +1287,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 55111744,
+          "var2": 2035248,
           "pointX": 16,
           "pointY": 8
         }
@@ -1625,6 +1625,21 @@
           "var2": 2035248,
           "pointX": 16,
           "pointY": 8
+        },
+        {
+          "stackSize": 1,
+          "seed": 4960,
+          "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Armband\\MI_N_TroglodyteMelee.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 55111744,
+          "pointX": 2,
+          "pointY": 6
         }
       ]
     },
@@ -1893,6 +1908,21 @@
         },
         {
           "stackSize": 1,
+          "seed": 14671,
+          "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Armband\\MI_N_AnouranMage.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 55111744,
+          "pointX": 6,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
           "seed": 1456,
           "baseName": "Records\\Item\\EquipmentArmband\\MI_N_JackalmanMage.dbr",
           "prefixName": "",
@@ -1904,6 +1934,21 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 4,
+          "pointY": 2
+        },
+        {
+          "stackSize": 1,
+          "seed": 6892,
+          "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Armband\\MI_N_AnouranMage.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 55111744,
+          "pointX": 6,
           "pointY": 2
         }
       ]

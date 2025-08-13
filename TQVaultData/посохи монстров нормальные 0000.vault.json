@@ -302,9 +302,24 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 267317312,
+          "var2": 2035248,
           "pointX": 0,
           "pointY": 12
+        },
+        {
+          "stackSize": 1,
+          "seed": 7688,
+          "baseName": "Records\\XPack\\Item\\EquipmentWeapons\\Staff\\MI_N_Keres.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 55111744,
+          "pointX": 6,
+          "pointY": 8
         }
       ]
     },
