@@ -1182,9 +1182,39 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 55308352,
+          "var2": 2035248,
           "pointX": 8,
           "pointY": 8
+        },
+        {
+          "stackSize": 1,
+          "seed": 10255,
+          "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Greaves\\MI_N_MachaeMelee.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 55308352,
+          "pointX": 8,
+          "pointY": 10
+        },
+        {
+          "stackSize": 1,
+          "seed": 15154,
+          "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Greaves\\MI_N_FormicidMelee02.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 55308352,
+          "pointX": 0,
+          "pointY": 10
         }
       ]
     },

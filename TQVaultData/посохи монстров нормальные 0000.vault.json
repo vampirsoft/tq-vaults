@@ -347,9 +347,24 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 57471040,
+          "var2": 2035248,
           "pointX": 4,
           "pointY": 8
+        },
+        {
+          "stackSize": 1,
+          "seed": 14336,
+          "baseName": "Records\\XPack\\Item\\EquipmentWeapons\\Staff\\MI_N_Empousa.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 55308352,
+          "pointX": 4,
+          "pointY": 12
         }
       ]
     },

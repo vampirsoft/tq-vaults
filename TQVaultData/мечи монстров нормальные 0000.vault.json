@@ -572,9 +572,24 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 2006249536,
+          "var2": 2035248,
           "pointX": 12,
           "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 9194,
+          "baseName": "Records\\XPack\\Item\\EquipmentWeapons\\Sword\\MI_N_Anouran.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 55308352,
+          "pointX": 8,
+          "pointY": 8
         }
       ]
     },
