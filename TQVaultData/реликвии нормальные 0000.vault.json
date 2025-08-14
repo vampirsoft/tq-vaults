@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 3,
+  "currentlySelectedSackNumber": 2,
   "sacks": [
     {
       "iconinfo": null,
@@ -4857,9 +4857,24 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 811122264,
+          "var2": 2035248,
           "pointX": 8,
           "pointY": 3
+        },
+        {
+          "stackSize": 1,
+          "seed": 9682,
+          "baseName": "Records\\Item\\Relics\\01_Act3_MonkeyKingsTrickery.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AttributeIntelligence_03.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1260582040,
+          "pointX": 4,
+          "pointY": 4
         }
       ]
     },
@@ -5882,7 +5897,7 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 14,
           "pointY": 3
         },
@@ -5897,7 +5912,7 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 462888048,
+          "var2": 2035248,
           "pointX": 10,
           "pointY": 2
         }

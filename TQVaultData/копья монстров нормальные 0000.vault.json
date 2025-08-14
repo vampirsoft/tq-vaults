@@ -392,7 +392,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 55111744,
+          "var2": 2035248,
           "pointX": 10,
           "pointY": 5
         },
@@ -407,9 +407,24 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 55111744,
+          "var2": 2035248,
           "pointX": 10,
           "pointY": 10
+        },
+        {
+          "stackSize": 1,
+          "seed": 2808,
+          "baseName": "Records\\XPack\\Item\\EquipmentWeapons\\Spear\\MI_N_Melinoe.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 55308352,
+          "pointX": 5,
+          "pointY": 15
         }
       ]
     },
