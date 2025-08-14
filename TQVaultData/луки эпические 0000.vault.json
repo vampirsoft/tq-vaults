@@ -992,9 +992,24 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 9,
           "pointY": 12
+        },
+        {
+          "stackSize": 1,
+          "seed": 29703,
+          "baseName": "Records\\Item\\EquipmentWeapon\\Bow\\U_N_TendonRipper.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 255979584,
+          "pointX": 15,
+          "pointY": 8
         }
       ]
     },
@@ -1075,6 +1090,21 @@
           "var2": 2035248,
           "pointX": 1,
           "pointY": 4
+        },
+        {
+          "stackSize": 1,
+          "seed": 17839,
+          "baseName": "Records\\Item\\EquipmentWeapon\\Bow\\U_E_Iaculus.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 3,
+          "pointY": 0
         }
       ]
     },

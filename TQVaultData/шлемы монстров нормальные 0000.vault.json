@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 3,
+  "currentlySelectedSackNumber": 2,
   "sacks": [
     {
       "iconinfo": null,
@@ -1302,9 +1302,39 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 57471040,
+          "var2": 2035248,
           "pointX": 14,
           "pointY": 6
+        },
+        {
+          "stackSize": 1,
+          "seed": 25919,
+          "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Helm\\MI_N_KeresMage.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 255979584,
+          "pointX": 16,
+          "pointY": 4
+        },
+        {
+          "stackSize": 1,
+          "seed": 1395,
+          "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Helm\\MI_N_MachaeMelee.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 255979584,
+          "pointX": 14,
+          "pointY": 8
         }
       ]
     },
@@ -1547,7 +1577,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 57471040,
+          "var2": 2035248,
           "pointX": 0,
           "pointY": 4
         }
