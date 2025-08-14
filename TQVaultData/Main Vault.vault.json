@@ -1142,7 +1142,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 55308352,
+          "var2": 2035248,
           "pointX": 13,
           "pointY": 0
         }
@@ -1162,7 +1162,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 55308352,
+          "var2": 2035248,
           "pointX": 0,
           "pointY": 15
         },
@@ -1177,7 +1177,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 55308352,
+          "var2": 2035248,
           "pointX": 1,
           "pointY": 15
         },
@@ -1192,7 +1192,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 55308352,
+          "var2": 2035248,
           "pointX": 0,
           "pointY": 10
         },
@@ -1207,7 +1207,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 55308352,
+          "var2": 2035248,
           "pointX": 1,
           "pointY": 10
         },
@@ -1222,7 +1222,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 55308352,
+          "var2": 2035248,
           "pointX": 0,
           "pointY": 0
         },
@@ -1237,7 +1237,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 55308352,
+          "var2": 2035248,
           "pointX": 0,
           "pointY": 4
         },
@@ -1252,7 +1252,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 55308352,
+          "var2": 2035248,
           "pointX": 2,
           "pointY": 15
         },
@@ -1267,7 +1267,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 55308352,
+          "var2": 2035248,
           "pointX": 0,
           "pointY": 8
         },
@@ -1282,7 +1282,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 55308352,
+          "var2": 2035248,
           "pointX": 2,
           "pointY": 13
         },
@@ -1297,7 +1297,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 358086120,
+          "var2": 2035248,
           "pointX": 3,
           "pointY": 16
         },
@@ -1312,9 +1312,24 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 910731432,
+          "var2": 2035248,
           "pointX": 2,
           "pointY": 11
+        },
+        {
+          "stackSize": 1,
+          "seed": 1967,
+          "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Torso\\MI_N_GigantesMelee.dbr",
+          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Defensive_ResistPierce_02.dbr",
+          "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AttributeLife_04.dbr",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 255979584,
+          "pointX": 2,
+          "pointY": 9
         },
         {
           "stackSize": 1,
@@ -1329,7 +1344,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 2,
-          "pointY": 8
+          "pointY": 6
         }
       ]
     },
