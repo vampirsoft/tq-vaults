@@ -347,9 +347,24 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 264761408,
+          "var2": 2035248,
           "pointX": 8,
           "pointY": 15
+        },
+        {
+          "stackSize": 1,
+          "seed": 26783,
+          "baseName": "Records\\XPack\\Item\\EquipmentWeapons\\Axe\\MI_N_Machae.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 55308352,
+          "pointX": 12,
+          "pointY": 17
         }
       ]
     },

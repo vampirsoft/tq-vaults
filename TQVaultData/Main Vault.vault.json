@@ -1058,21 +1058,6 @@
         },
         {
           "stackSize": 1,
-          "seed": 31713,
-          "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Armband\\C01_Armband01.dbr",
-          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Defensive_Protection_04.dbr",
-          "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Rare_SpeedAttack%Dodge_01.dbr",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 12,
-          "pointY": 3
-        },
-        {
-          "stackSize": 1,
           "seed": 32217,
           "baseName": "records\\xpack3\\items\\equipmentarmor\\torso\\m_e_monkeymanmage.dbr",
           "prefixName": "",
@@ -1127,8 +1112,38 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 264761408,
+          "var2": 2035248,
           "pointX": 9,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 1624,
+          "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Armband\\M_N_MachaeMelee.dbr",
+          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Defensive_ResistPierce_03.dbr",
+          "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AttributeEnergy_02.dbr",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 55308352,
+          "pointX": 8,
+          "pointY": 4
+        },
+        {
+          "stackSize": 1,
+          "seed": 26030,
+          "baseName": "Records\\XPack\\Item\\EquipmentWeapons\\Spear\\MI_N_Melinoe.dbr",
+          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Offensive_DamageBonus_03.dbr",
+          "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AttributeIntelligence_02.dbr",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 55308352,
+          "pointX": 12,
           "pointY": 0
         }
       ]
