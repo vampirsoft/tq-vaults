@@ -1037,7 +1037,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 57471040,
+          "var2": 2035248,
           "pointX": 10,
           "pointY": 0
         },
@@ -1052,7 +1052,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 57471040,
+          "var2": 2035248,
           "pointX": 10,
           "pointY": 3
         },
@@ -1097,7 +1097,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 57471040,
+          "var2": 2035248,
           "pointX": 8,
           "pointY": 6
         },
@@ -1114,6 +1114,21 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 8,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 16804,
+          "baseName": "Records\\XPack\\Item\\EquipmentWeapons\\Bow\\C02_Bow03.dbr",
+          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Offensive_DamageLife_01.dbr",
+          "suffixName": "records\\item\\lootmagicalaffixes\\suffix\\default\\rare_siren_01.dbr",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 264761408,
+          "pointX": 9,
           "pointY": 0
         }
       ]
