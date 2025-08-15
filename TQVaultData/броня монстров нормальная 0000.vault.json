@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 0,
+  "currentlySelectedSackNumber": 4,
   "sacks": [
     {
       "iconinfo": null,
@@ -497,7 +497,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 269480000,
+          "var2": 2035248,
           "pointX": 6,
           "pointY": 0
         },
@@ -512,7 +512,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 0,
+          "var2": 2035248,
           "pointX": 6,
           "pointY": 3
         },
@@ -527,7 +527,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 0,
+          "var2": 2035248,
           "pointX": 6,
           "pointY": 6
         },
@@ -542,7 +542,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 0,
+          "var2": 2035248,
           "pointX": 6,
           "pointY": 9
         }
@@ -1120,6 +1120,21 @@
           "var2": 2035248,
           "pointX": 10,
           "pointY": 9
+        },
+        {
+          "stackSize": 1,
+          "seed": 28883,
+          "baseName": "Records\\Item\\EquipmentArmor\\MI_N_RatmanChampion.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 57274432,
+          "pointX": 14,
+          "pointY": 9
         }
       ]
     },
@@ -1632,7 +1647,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 52162624,
+          "var2": 2035248,
           "pointX": 10,
           "pointY": 17
         }
@@ -1925,6 +1940,21 @@
           "var2": 2035248,
           "pointX": 8,
           "pointY": 3
+        },
+        {
+          "stackSize": 1,
+          "seed": 18347,
+          "baseName": "records\\xpack2\\item\\equipmentarmor\\torso\\mi_n_centaur.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 57274432,
+          "pointX": 16,
+          "pointY": 0
         }
       ]
     },
@@ -2215,6 +2245,21 @@
           "var2": 2035248,
           "pointX": 16,
           "pointY": 3
+        },
+        {
+          "stackSize": 1,
+          "seed": 2749,
+          "baseName": "records\\xpack2\\item\\equipmentarmor\\torso\\mi_n_banditgreek.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 57274432,
+          "pointX": 10,
+          "pointY": 3
         }
       ]
     },
@@ -2490,6 +2535,21 @@
           "var2": 2035248,
           "pointX": 4,
           "pointY": 3
+        },
+        {
+          "stackSize": 1,
+          "seed": 2909,
+          "baseName": "records\\xpack2\\item\\equipmentarmor\\torso\\mi_n_troll.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 57274432,
+          "pointX": 8,
+          "pointY": 6
         }
       ]
     },
@@ -2687,7 +2747,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 52162624,
+          "var2": 2035248,
           "pointX": 14,
           "pointY": 9
         }

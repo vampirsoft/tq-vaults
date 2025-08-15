@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 3,
+  "currentlySelectedSackNumber": 2,
   "sacks": [
     {
       "iconinfo": null,
@@ -4875,6 +4875,36 @@
           "var2": 2035248,
           "pointX": 15,
           "pointY": 7
+        },
+        {
+          "stackSize": 1,
+          "seed": 24750,
+          "baseName": "Records\\Item\\Relics\\01_Act3_DragonKingsDomain.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_RegenLife_03.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 10,
+          "pointY": 3
+        },
+        {
+          "stackSize": 1,
+          "seed": 23571,
+          "baseName": "Records\\XPack\\Item\\Relics\\01_Act4_BladeOfThanatos.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Offensive_+%Damage to Undead_01.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 383748864,
+          "pointX": 14,
+          "pointY": 8
         }
       ]
     },
@@ -5957,9 +5987,24 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 767694912,
+          "var2": 2035248,
           "pointX": 13,
           "pointY": 2
+        },
+        {
+          "stackSize": 1,
+          "seed": 31300,
+          "baseName": "Records\\XPack\\Item\\Relics\\01_Act4_IronWillOfAjax.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Defensive_%Protection_01.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 806711480,
+          "pointX": 16,
+          "pointY": 3
         }
       ]
     },
