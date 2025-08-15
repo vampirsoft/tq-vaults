@@ -602,8 +602,38 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 254799936,
+          "var2": 2035248,
           "pointX": 9,
+          "pointY": 16
+        },
+        {
+          "stackSize": 1,
+          "seed": 5803,
+          "baseName": "Records\\Item\\EquipmentWeapon\\Sword\\MI_N_TigermanMelee.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 52162624,
+          "pointX": 10,
+          "pointY": 16
+        },
+        {
+          "stackSize": 1,
+          "seed": 5803,
+          "baseName": "Records\\Item\\EquipmentWeapon\\Sword\\MI_N_TigermanMelee.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 52162624,
+          "pointX": 11,
           "pointY": 16
         }
       ]

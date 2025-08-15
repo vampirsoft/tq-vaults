@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 5,
+  "currentlySelectedSackNumber": 1,
   "sacks": [
     {
       "iconinfo": null,
@@ -954,6 +954,21 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 12,
+          "pointY": 4
+        },
+        {
+          "stackSize": 1,
+          "seed": 3134,
+          "baseName": "Records\\Item\\EquipmentArmband\\MI_N_TropicalArachnos.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 52162624,
+          "pointX": 8,
           "pointY": 4
         }
       ]
@@ -2067,7 +2082,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 55308352,
+          "var2": 2035248,
           "pointX": 6,
           "pointY": 4
         },
@@ -2082,7 +2097,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 55308352,
+          "var2": 2035248,
           "pointX": 6,
           "pointY": 6
         }

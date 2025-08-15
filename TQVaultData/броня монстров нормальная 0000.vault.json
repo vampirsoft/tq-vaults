@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 2,
+  "currentlySelectedSackNumber": 0,
   "sacks": [
     {
       "iconinfo": null,
@@ -488,6 +488,21 @@
         },
         {
           "stackSize": 1,
+          "seed": 16962,
+          "baseName": "Records\\Item\\EquipmentArmor\\MI_N_Centaur.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 269480000,
+          "pointX": 6,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
           "seed": 30696,
           "baseName": "Records\\Item\\EquipmentArmor\\MI_N_Centaur.dbr",
           "prefixName": "",
@@ -497,22 +512,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 6,
-          "pointY": 0
-        },
-        {
-          "stackSize": 1,
-          "seed": 14199,
-          "baseName": "Records\\Item\\EquipmentArmor\\MI_N_Centaur.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
+          "var2": 0,
           "pointX": 6,
           "pointY": 3
         },
@@ -527,7 +527,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 2035248,
+          "var2": 0,
           "pointX": 6,
           "pointY": 6
         },
@@ -542,7 +542,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 2035248,
+          "var2": 0,
           "pointX": 6,
           "pointY": 9
         }
@@ -1602,7 +1602,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 254799936,
+          "var2": 2035248,
           "pointX": 8,
           "pointY": 17
         },
@@ -1617,9 +1617,24 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 254799936,
+          "var2": 2035248,
           "pointX": 10,
           "pointY": 12
+        },
+        {
+          "stackSize": 1,
+          "seed": 32605,
+          "baseName": "Records\\Item\\EquipmentArmor\\MI_N_TigermanChampion.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 52162624,
+          "pointX": 10,
+          "pointY": 17
         }
       ]
     },
@@ -2660,6 +2675,21 @@
           "var2": 2035248,
           "pointX": 14,
           "pointY": 6
+        },
+        {
+          "stackSize": 1,
+          "seed": 19554,
+          "baseName": "Records\\Item\\EquipmentArmor\\MI_N_RatmanMelee.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 52162624,
+          "pointX": 14,
+          "pointY": 9
         }
       ]
     },

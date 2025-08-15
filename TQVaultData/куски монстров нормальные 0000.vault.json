@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 2,
+  "currentlySelectedSackNumber": 1,
   "sacks": [
     {
       "iconinfo": null,
@@ -3970,6 +3970,21 @@
           "var2": 2035248,
           "pointX": 13,
           "pointY": 5
+        },
+        {
+          "stackSize": 1,
+          "seed": 6404,
+          "baseName": "Records\\Item\\AnimalRelics\\01_MultActs_SpectralMatter.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AttributeIntelligence_02.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1180641688,
+          "pointX": 2,
+          "pointY": 11
         }
       ]
     },
@@ -4437,7 +4452,7 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 929192112,
+          "var2": 2035248,
           "pointX": 4,
           "pointY": 3
         },
@@ -4452,7 +4467,7 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 676378952,
+          "var2": 2035248,
           "pointX": 7,
           "pointY": 0
         }

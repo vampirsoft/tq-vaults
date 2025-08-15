@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 1,
+  "currentlySelectedSackNumber": 0,
   "sacks": [
     {
       "iconinfo": null,
@@ -650,6 +650,36 @@
           "var2": 2035248,
           "pointX": 0,
           "pointY": 2
+        },
+        {
+          "stackSize": 1,
+          "seed": 26637,
+          "baseName": "Records\\Item\\EquipmentHelm\\MI_N_TigermanChampion.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 52162624,
+          "pointX": 16,
+          "pointY": 6
+        },
+        {
+          "stackSize": 1,
+          "seed": 32642,
+          "baseName": "Records\\Item\\EquipmentHelm\\MI_N_Arachnos.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 263843904,
+          "pointX": 0,
+          "pointY": 4
         }
       ]
     },
@@ -915,8 +945,8 @@
           "stackSize": 1,
           "seed": 1301,
           "baseName": "Records\\Item\\EquipmentHelm\\MI_N_Liche.dbr",
-          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Rare_Hallowed_01.dbr",
-          "suffixName": "Records\\XPack\\Item\\LootMagicalAffixes\\Suffix\\Default\\Rare_%xp%elementalResist_01.dbr",
+          "prefixName": "",
+          "suffixName": "",
           "relicName": "",
           "relicBonus": "",
           "var1": 0,
@@ -930,8 +960,8 @@
           "stackSize": 1,
           "seed": 22842,
           "baseName": "Records\\Item\\EquipmentHelm\\MI_N_Liche.dbr",
-          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Rare_Hallowed_01.dbr",
-          "suffixName": "Records\\XPack\\Item\\LootMagicalAffixes\\Suffix\\Default\\Rare_%xp%elementalResist_01.dbr",
+          "prefixName": "",
+          "suffixName": "",
           "relicName": "",
           "relicBonus": "",
           "var1": 0,
@@ -952,9 +982,24 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 254799936,
+          "var2": 2035248,
           "pointX": 4,
           "pointY": 4
+        },
+        {
+          "stackSize": 1,
+          "seed": 10810,
+          "baseName": "Records\\Item\\EquipmentHelm\\MI_N_TigermanMage.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 52162624,
+          "pointX": 4,
+          "pointY": 6
         }
       ]
     },
@@ -1459,21 +1504,6 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 12,
-          "pointY": 0
-        },
-        {
-          "stackSize": 1,
-          "seed": 13049,
-          "baseName": "Records\\Item\\EquipmentHelm\\MI_N_GoldenSkeleton.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 14,
           "pointY": 0
         },
         {
