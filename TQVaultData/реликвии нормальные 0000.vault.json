@@ -1508,21 +1508,6 @@
         },
         {
           "stackSize": 1,
-          "seed": 9448,
-          "baseName": "Records\\Item\\Relics\\01_Act1_GoldenFleece.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Character_AttributeEnergy_02.dbr",
-          "var1": 3,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 1,
-          "pointY": 3
-        },
-        {
-          "stackSize": 1,
           "seed": 32210,
           "baseName": "Records\\Item\\Relics\\01_Act1_ArchimedesMirror.dbr",
           "prefixName": "",
@@ -2503,21 +2488,6 @@
         },
         {
           "stackSize": 1,
-          "seed": 8623,
-          "baseName": "Records\\Item\\Relics\\01_Act2_AmunRasGlory.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AttributeIntelligence_02.dbr",
-          "var1": 3,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 12,
-          "pointY": 1
-        },
-        {
-          "stackSize": 1,
           "seed": 27977,
           "baseName": "Records\\Item\\Relics\\01_Act2_DjedOfOsiris.dbr",
           "prefixName": "",
@@ -2664,21 +2634,6 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 10,
-          "pointY": 1
-        },
-        {
-          "stackSize": 1,
-          "seed": 22735,
-          "baseName": "Records\\Item\\Relics\\01_Act2_AmunRasGlory.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Defensive_ResistCold_01.dbr",
-          "var1": 3,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 13,
           "pointY": 1
         },
         {
@@ -3727,7 +3682,7 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 17,
           "pointY": 3
         }
