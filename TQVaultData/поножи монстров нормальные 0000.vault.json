@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 2,
+  "currentlySelectedSackNumber": 1,
   "sacks": [
     {
       "iconinfo": null,
@@ -733,21 +733,6 @@
         },
         {
           "stackSize": 1,
-          "seed": 32752,
-          "baseName": "Records\\Item\\EquipmentGreaves\\MI_N_Wraith.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 8,
-          "pointY": 0
-        },
-        {
-          "stackSize": 1,
           "seed": 10998,
           "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Greaves\\MI_N_AnouranMelee.dbr",
           "prefixName": "",
@@ -1227,7 +1212,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 57274432,
+          "var2": 2035248,
           "pointX": 10,
           "pointY": 2
         }

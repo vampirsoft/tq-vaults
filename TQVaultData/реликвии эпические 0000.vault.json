@@ -8,21 +8,6 @@
       "items": [
         {
           "stackSize": 1,
-          "seed": 7406,
-          "baseName": "Records\\Item\\Relics\\02_Act1_Hermessandal.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Relics\\BonusesGreece\\02\\01_HermesSandal_AttEnergy.dbr",
-          "var1": 3,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 0,
-          "pointY": 0
-        },
-        {
-          "stackSize": 1,
           "seed": 22504,
           "baseName": "Records\\Item\\Relics\\02_Act1_HeraclesMight.dbr",
           "prefixName": "",
@@ -47,7 +32,7 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 4,
           "pointY": 0
         }

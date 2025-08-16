@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 2,
+  "currentlySelectedSackNumber": 0,
   "sacks": [
     {
       "iconinfo": null,
@@ -4887,7 +4887,7 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 10,
           "pointY": 3
         },
@@ -4902,7 +4902,7 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 383748864,
+          "var2": 2035248,
           "pointX": 14,
           "pointY": 8
         }
@@ -6002,7 +6002,7 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 806711480,
+          "var2": 2035248,
           "pointX": 16,
           "pointY": 3
         }
