@@ -167,7 +167,7 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1315895520,
+          "var2": 2035248,
           "pointX": 10,
           "pointY": 0
         },
@@ -182,7 +182,7 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 666104184,
+          "var2": 2035248,
           "pointX": 11,
           "pointY": 0
         },
@@ -197,8 +197,23 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 874351688,
+          "var2": 2035248,
           "pointX": 2,
+          "pointY": 1
+        },
+        {
+          "stackSize": 1,
+          "seed": 13748,
+          "baseName": "Records\\Item\\AnimalRelics\\02_Act1_BatFang.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Offensive_LeechMana_02.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 828489024,
+          "pointX": 10,
           "pointY": 1
         }
       ]

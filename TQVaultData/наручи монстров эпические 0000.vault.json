@@ -47,9 +47,24 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 57471040,
+          "var2": 2035248,
           "pointX": 0,
           "pointY": 2
+        },
+        {
+          "stackSize": 1,
+          "seed": 25648,
+          "baseName": "Records\\Item\\EquipmentArmband\\MI_E_GorgonMelee.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 262729792,
+          "pointX": 4,
+          "pointY": 0
         }
       ]
     },
