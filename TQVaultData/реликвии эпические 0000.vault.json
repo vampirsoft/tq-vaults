@@ -47,7 +47,7 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 744680568,
+          "var2": 2035248,
           "pointX": 0,
           "pointY": 0
         },
@@ -62,7 +62,7 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1188490344,
+          "var2": 2035248,
           "pointX": 6,
           "pointY": 0
         },
@@ -77,8 +77,23 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 816898104,
+          "var2": 2035248,
           "pointX": 8,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 14102,
+          "baseName": "Records\\Item\\Relics\\02_Act1_HecatesCrescent.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "records\\item\\lootmagicalaffixes\\animalrelics\\bonuses\\defensive_liferesist_02.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 358314200,
+          "pointX": 10,
           "pointY": 0
         }
       ]

@@ -47,9 +47,24 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 260960320,
+          "var2": 2035248,
           "pointX": 0,
           "pointY": 6
+        },
+        {
+          "stackSize": 1,
+          "seed": 4271,
+          "baseName": "Records\\Item\\EquipmentShield\\MI_E_Centaur.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 268628032,
+          "pointX": 0,
+          "pointY": 9
         }
       ]
     },

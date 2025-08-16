@@ -1007,9 +1007,24 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 255979584,
+          "var2": 2035248,
           "pointX": 15,
           "pointY": 8
+        },
+        {
+          "stackSize": 1,
+          "seed": 8719,
+          "baseName": "records\\xpack2\\item\\equipmentweapons\\bow\\u_n_02.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 268628032,
+          "pointX": 17,
+          "pointY": 12
         }
       ]
     },
@@ -1102,7 +1117,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 3,
           "pointY": 0
         }
