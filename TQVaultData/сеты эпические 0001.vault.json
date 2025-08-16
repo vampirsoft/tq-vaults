@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 1,
+  "currentlySelectedSackNumber": 5,
   "sacks": [
     {
       "iconinfo": null,
@@ -202,7 +202,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 52162624,
+          "var2": 2035248,
           "pointX": 14,
           "pointY": 4
         },
@@ -217,7 +217,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 16,
           "pointY": 9
         },
@@ -284,6 +284,36 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 16,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 10645,
+          "baseName": "Records\\Item\\EquipmentHelm\\USm_E_Pyromancer'sGuard.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 16,
+          "pointY": 2
+        },
+        {
+          "stackSize": 1,
+          "seed": 5437,
+          "baseName": "Records\\Item\\EquipmentShield\\US_E_Warden'sCharge.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 57471040,
+          "pointX": 2,
           "pointY": 0
         }
       ]
@@ -354,6 +384,21 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 16,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 3282,
+          "baseName": "Records\\Item\\EquipmentArmor\\USm_E_HabilimentsoftheDruid.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 2,
           "pointY": 0
         }
       ]
