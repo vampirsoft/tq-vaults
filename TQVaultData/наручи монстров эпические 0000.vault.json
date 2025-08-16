@@ -92,7 +92,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 268628032,
+          "var2": 2035248,
           "pointX": 6,
           "pointY": 0
         },
@@ -107,9 +107,39 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 268628032,
+          "var2": 2035248,
           "pointX": 8,
           "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 6259,
+          "baseName": "Records\\Item\\EquipmentArmband\\MI_E_GorgonMelee.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 55767104,
+          "pointX": 4,
+          "pointY": 4
+        },
+        {
+          "stackSize": 1,
+          "seed": 30155,
+          "baseName": "Records\\Item\\EquipmentArmband\\MI_E_SatyrMage.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 55767104,
+          "pointX": 2,
+          "pointY": 2
         }
       ]
     },
