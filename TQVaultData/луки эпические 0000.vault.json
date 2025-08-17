@@ -1022,7 +1022,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 268628032,
+          "var2": 2035248,
           "pointX": 17,
           "pointY": 12
         }
@@ -1119,6 +1119,21 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 3,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 17438,
+          "baseName": "Records\\Item\\EquipmentWeapon\\Bow\\U_E_Dreadwind.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 47968320,
+          "pointX": 4,
           "pointY": 0
         }
       ]

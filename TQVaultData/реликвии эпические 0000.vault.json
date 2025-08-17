@@ -137,7 +137,7 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 808381512,
+          "var2": 2035248,
           "pointX": 5,
           "pointY": 0
         },
@@ -152,7 +152,7 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 1,
           "pointY": 0
         },
@@ -167,7 +167,7 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1389580408,
+          "var2": 2035248,
           "pointX": 3,
           "pointY": 0
         },
@@ -182,8 +182,23 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 14,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 9096,
+          "baseName": "Records\\Item\\Relics\\02_Act1_ZeusThunderbolt.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Offensive_Stun_03.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 752866392,
+          "pointX": 16,
           "pointY": 0
         }
       ]

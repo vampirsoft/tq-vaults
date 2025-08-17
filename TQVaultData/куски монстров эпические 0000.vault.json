@@ -227,9 +227,39 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 788426904,
+          "var2": 2035248,
           "pointX": 11,
           "pointY": 1
+        },
+        {
+          "stackSize": 1,
+          "seed": 13926,
+          "baseName": "Records\\Item\\AnimalRelics\\02_Act1_PristinePlumage.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Defensive_ResistPoison_02.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 788267200,
+          "pointX": 0,
+          "pointY": 2
+        },
+        {
+          "stackSize": 1,
+          "seed": 5939,
+          "baseName": "Records\\Item\\AnimalRelics\\02_Act1_PristinePlumage.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Defensive_Protection_02.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1227906152,
+          "pointX": 1,
+          "pointY": 2
         }
       ]
     },
