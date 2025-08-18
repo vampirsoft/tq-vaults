@@ -152,9 +152,39 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 47968320,
+          "var2": 2035248,
           "pointX": 6,
           "pointY": 4
+        },
+        {
+          "stackSize": 1,
+          "seed": 26115,
+          "baseName": "Records\\Item\\EquipmentHelm\\MI_E_GorgonMelee.dbr",
+          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Defensive_Protection_05.dbr",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 48689216,
+          "pointX": 6,
+          "pointY": 6
+        },
+        {
+          "stackSize": 1,
+          "seed": 273,
+          "baseName": "Records\\Item\\EquipmentHelm\\MI_E_GorgonMelee.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 48689216,
+          "pointX": 6,
+          "pointY": 8
         }
       ]
     },

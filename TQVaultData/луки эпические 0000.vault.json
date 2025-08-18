@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 0,
+  "currentlySelectedSackNumber": 1,
   "sacks": [
     {
       "iconinfo": null,
@@ -1132,8 +1132,23 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 47968320,
+          "var2": 2035248,
           "pointX": 4,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 12468,
+          "baseName": "Records\\Item\\EquipmentWeapon\\Bow\\U_E_SpectralWarbow.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 48689216,
+          "pointX": 5,
           "pointY": 0
         }
       ]

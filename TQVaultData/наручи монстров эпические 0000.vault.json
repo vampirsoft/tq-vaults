@@ -152,9 +152,24 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 47968320,
+          "var2": 2035248,
           "pointX": 4,
           "pointY": 6
+        },
+        {
+          "stackSize": 1,
+          "seed": 32643,
+          "baseName": "Records\\Item\\EquipmentArmband\\MI_E_GorgonArcher.dbr",
+          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Character_ReducedEquipReq_02.dbr",
+          "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AttributeDexterity_05.dbr",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 48689216,
+          "pointX": 10,
+          "pointY": 0
         }
       ]
     },
