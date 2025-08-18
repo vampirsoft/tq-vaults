@@ -3422,8 +3422,23 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 879803936,
+          "var2": 2035248,
           "pointX": 16,
+          "pointY": 1
+        },
+        {
+          "stackSize": 1,
+          "seed": 5694,
+          "baseName": "Records\\XPack\\Item\\Artifacts\\ArcaneFormulae\\E_LA_JadeTotem_Formula.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 6,
           "pointY": 1
         }
       ]
