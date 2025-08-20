@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 2,
+  "currentlySelectedSackNumber": 6,
   "sacks": [
     {
       "iconinfo": null,
@@ -402,7 +402,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 2,
           "pointY": 7
         }
@@ -580,6 +580,21 @@
           "var2": 2035248,
           "pointX": 0,
           "pointY": 7
+        },
+        {
+          "stackSize": 1,
+          "seed": 21631,
+          "baseName": "Records\\Item\\EquipmentHelm\\USm_E_HabilimentsoftheDruid.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 0,
+          "pointY": 9
         }
       ]
     },
@@ -620,7 +635,23 @@
     },
     {
       "iconinfo": null,
-      "items": []
+      "items": [
+        {
+          "stackSize": 1,
+          "seed": 21461,
+          "baseName": "Records\\Item\\EquipmentArmband\\US_E_TheSphinx.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 1,
+          "pointY": 0
+        }
+      ]
     },
     {
       "iconinfo": null,
