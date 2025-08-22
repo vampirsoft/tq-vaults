@@ -347,7 +347,7 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 809841784,
+          "var2": 2035248,
           "pointX": 5,
           "pointY": 0
         },
@@ -362,7 +362,7 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1139009352,
+          "var2": 2035248,
           "pointX": 16,
           "pointY": 0
         },
@@ -377,15 +377,46 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 306418776,
+          "var2": 2035248,
           "pointX": 17,
           "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 13678,
+          "baseName": "Records\\Item\\AnimalRelics\\02_Act2_LupineClaw.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Offensive_+%Damage to Demons_01.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 797578408,
+          "pointX": 16,
+          "pointY": 1
         }
       ]
     },
     {
       "iconinfo": null,
-      "items": []
+      "items": [
+        {
+          "stackSize": 1,
+          "seed": 4638,
+          "baseName": "Records\\Item\\AnimalRelics\\02_MultActs_RigidCarapace.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Defensive_ResistFire_02.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1099705544,
+          "pointX": 0,
+          "pointY": 0
+        }
+      ]
     },
     {
       "iconinfo": null,

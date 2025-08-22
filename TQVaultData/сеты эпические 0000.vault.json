@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 2,
+  "currentlySelectedSackNumber": 0,
   "sacks": [
     {
       "iconinfo": null,
@@ -1033,21 +1033,6 @@
         },
         {
           "stackSize": 1,
-          "seed": 3628,
-          "baseName": "Records\\Item\\EquipmentHelm\\US_N_ThebanPanoply.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 8,
-          "pointY": 2
-        },
-        {
-          "stackSize": 1,
           "seed": 29656,
           "baseName": "Records\\Item\\EquipmentShield\\US_N_ThebanPanoply.dbr",
           "prefixName": "",
@@ -1164,6 +1149,21 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 14,
+          "pointY": 11
+        },
+        {
+          "stackSize": 1,
+          "seed": 3628,
+          "baseName": "Records\\Item\\EquipmentHelm\\US_N_ThebanPanoply.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 12,
           "pointY": 11
         }
       ]
