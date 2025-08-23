@@ -2278,21 +2278,6 @@
         },
         {
           "stackSize": 1,
-          "seed": 4455,
-          "baseName": "Records\\Item\\EquipmentGreaves\\US_N_SafeguardoftheMantis.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 8,
-          "pointY": 0
-        },
-        {
-          "stackSize": 1,
           "seed": 21607,
           "baseName": "Records\\Item\\EquipmentGreaves\\US_N_BabylonianRaiment.dbr",
           "prefixName": "",
@@ -2425,6 +2410,21 @@
           "var2": 2035248,
           "pointX": 16,
           "pointY": 2
+        },
+        {
+          "stackSize": 1,
+          "seed": 4455,
+          "baseName": "Records\\Item\\EquipmentGreaves\\US_N_SafeguardoftheMantis.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 14,
+          "pointY": 18
         }
       ]
     },
@@ -3433,21 +3433,6 @@
         },
         {
           "stackSize": 1,
-          "seed": 19783,
-          "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Greaves\\U_N_001.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 8,
-          "pointY": 0
-        },
-        {
-          "stackSize": 1,
           "seed": 15645,
           "baseName": "Records\\XPack\\Item\\EquipmentWeapons\\Staff\\USm_N_001.dbr",
           "prefixName": "",
@@ -3549,6 +3534,21 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 16,
+          "pointY": 9
+        },
+        {
+          "stackSize": 1,
+          "seed": 19783,
+          "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Greaves\\U_N_001.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 14,
           "pointY": 9
         }
       ]
