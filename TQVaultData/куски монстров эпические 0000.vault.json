@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 0,
+  "currentlySelectedSackNumber": 1,
   "sacks": [
     {
       "iconinfo": null,
@@ -467,7 +467,7 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 998783112,
+          "var2": 2035248,
           "pointX": 15,
           "pointY": 0
         },
@@ -482,8 +482,23 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 856095880,
+          "var2": 2035248,
           "pointX": 5,
+          "pointY": 1
+        },
+        {
+          "stackSize": 1,
+          "seed": 3951,
+          "baseName": "Records\\Item\\AnimalRelics\\02_Act2_HagsSkin.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "records\\item\\lootmagicalaffixes\\animalrelics\\bonuses\\defensive_bleedresist_02.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1196561504,
+          "pointX": 14,
           "pointY": 1
         }
       ]
@@ -595,6 +610,21 @@
           "var2": 2035248,
           "pointX": 2,
           "pointY": 2
+        },
+        {
+          "stackSize": 1,
+          "seed": 24670,
+          "baseName": "Records\\Item\\AnimalRelics\\02_MultActs_SpectralMatter.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\AnimalRelics\\Bonuses\\Offensive_%ManaBurn_02.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 965206584,
+          "pointX": 4,
+          "pointY": 0
         }
       ]
     },

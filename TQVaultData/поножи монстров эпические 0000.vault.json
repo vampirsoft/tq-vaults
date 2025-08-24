@@ -47,9 +47,24 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1479471168,
+          "var2": 2035248,
           "pointX": 4,
           "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 5573,
+          "baseName": "Records\\Item\\EquipmentGreaves\\MI_E_DuneRaider.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1632104512,
+          "pointX": 2,
+          "pointY": 2
         }
       ]
     },
