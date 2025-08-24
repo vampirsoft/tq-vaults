@@ -422,7 +422,7 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1287034680,
+          "var2": 2035248,
           "pointX": 17,
           "pointY": 1
         },
@@ -437,7 +437,7 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 374510624,
+          "var2": 2035248,
           "pointX": 16,
           "pointY": 2
         },
@@ -452,8 +452,38 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1369908480,
+          "var2": 2035248,
           "pointX": 4,
+          "pointY": 1
+        },
+        {
+          "stackSize": 1,
+          "seed": 19856,
+          "baseName": "Records\\Item\\AnimalRelics\\02_Act2_HagsSkin.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "records\\item\\lootmagicalaffixes\\animalrelics\\bonuses\\defensive_bleedresist_02.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 998783112,
+          "pointX": 15,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 11055,
+          "baseName": "Records\\Item\\AnimalRelics\\02_MultActs_DiseasedPlumage.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "records\\item\\lootmagicalaffixes\\relics\\bonuses\\offensive_%poison_02.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 856095880,
+          "pointX": 5,
           "pointY": 1
         }
       ]
@@ -517,7 +547,7 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1301118216,
+          "var2": 2035248,
           "pointX": 1,
           "pointY": 0
         },
@@ -532,7 +562,7 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 893202520,
+          "var2": 2035248,
           "pointX": 2,
           "pointY": 1
         },
@@ -547,7 +577,7 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1392269536,
+          "var2": 2035248,
           "pointX": 3,
           "pointY": 1
         },
@@ -562,7 +592,7 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1392214192,
+          "var2": 2035248,
           "pointX": 2,
           "pointY": 2
         }
