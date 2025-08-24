@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 0,
+  "currentlySelectedSackNumber": 10,
   "sacks": [
     {
       "iconinfo": null,
@@ -4228,21 +4228,6 @@
         },
         {
           "stackSize": 1,
-          "seed": 23369,
-          "baseName": "records\\xpack2\\item\\equipmentarmor\\greaves\\u_n_01.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 16,
-          "pointY": 5
-        },
-        {
-          "stackSize": 1,
           "seed": 4900,
           "baseName": "records\\xpack2\\item\\equipmentarmor\\greaves\\US_N_Sucellus.dbr",
           "prefixName": "",
@@ -4318,21 +4303,6 @@
         },
         {
           "stackSize": 1,
-          "seed": 8516,
-          "baseName": "records\\xpack2\\item\\equipmentarmor\\armband\\u_n_01.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 8,
-          "pointY": 3
-        },
-        {
-          "stackSize": 1,
           "seed": 13215,
           "baseName": "records\\xpack2\\item\\equipmentarmor\\armband\\us_n_sucellus.dbr",
           "prefixName": "",
@@ -4345,6 +4315,51 @@
           "var2": 2035248,
           "pointX": 2,
           "pointY": 2
+        },
+        {
+          "stackSize": 1,
+          "seed": 23369,
+          "baseName": "records\\xpack2\\item\\equipmentarmor\\greaves\\u_n_01.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 16,
+          "pointY": 5
+        },
+        {
+          "stackSize": 1,
+          "seed": 8516,
+          "baseName": "records\\xpack2\\item\\equipmentarmor\\armband\\u_n_01.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 16,
+          "pointY": 7
+        },
+        {
+          "stackSize": 1,
+          "seed": 10698,
+          "baseName": "records\\xpack2\\item\\equipmentarmor\\armband\\u_n_01.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 14,
+          "pointY": 7
         }
       ]
     },

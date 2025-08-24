@@ -482,8 +482,23 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 0,
+          "pointY": 16
+        },
+        {
+          "stackSize": 1,
+          "seed": 27396,
+          "baseName": "Records\\Item\\EquipmentAmulet\\C10_Amulet03.dbr",
+          "prefixName": "Records\\XPack\\Item\\LootMagicalAffixes\\Prefix\\Default\\PetBonus_LifeDmg_04.dbr",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 1,
           "pointY": 16
         }
       ]

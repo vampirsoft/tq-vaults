@@ -472,9 +472,24 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1632104512,
+          "var2": 2035248,
           "pointX": 0,
           "pointY": 6
+        },
+        {
+          "stackSize": 1,
+          "seed": 824,
+          "baseName": "Records\\Item\\EquipmentArmor\\MI_E_GoldenSkeleton.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1632104512,
+          "pointX": 4,
+          "pointY": 0
         }
       ]
     },
