@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 1,
+  "currentlySelectedSackNumber": 0,
   "sacks": [
     {
       "iconinfo": null,
@@ -302,8 +302,68 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 0,
+          "pointY": 1
+        },
+        {
+          "stackSize": 1,
+          "seed": 12109,
+          "baseName": "Records\\Item\\Relics\\02_Act1_ZeusThunderbolt.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_SpeedAttack_01.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 17,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 31594,
+          "baseName": "Records\\Item\\Relics\\02_Act1_PrometheusFlame.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Offensive_+%Damage to Demons_01.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 6,
+          "pointY": 1
+        },
+        {
+          "stackSize": 1,
+          "seed": 16222,
+          "baseName": "Records\\Item\\Relics\\02_Act1_HecatesCrescent.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "records\\item\\lootmagicalaffixes\\animalrelics\\bonuses\\defensive_bleedresist_02.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 11,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 2966,
+          "baseName": "records\\item\\relics\\02_act1_aegisofathena.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "records\\item\\lootmagicalaffixes\\animalrelics\\bonuses\\defensive_bleedresist_02.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 753726616,
+          "pointX": 5,
           "pointY": 1
         }
       ]
@@ -397,7 +457,7 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1113254992,
+          "var2": 2035248,
           "pointX": 8,
           "pointY": 0
         },
@@ -412,9 +472,24 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1010534592,
+          "var2": 2035248,
           "pointX": 4,
           "pointY": 1
+        },
+        {
+          "stackSize": 1,
+          "seed": 6121,
+          "baseName": "Records\\Item\\Relics\\02_Act2_AnkhOfIsis.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "records\\item\\lootmagicalaffixes\\animalrelics\\bonuses\\defensive_bleedresist_02.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 7,
+          "pointY": 0
         }
       ]
     },
