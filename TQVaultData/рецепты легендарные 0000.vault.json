@@ -17,8 +17,23 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 16,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 19381,
+          "baseName": "Records\\XPack\\Item\\Artifacts\\ArcaneFormulae\\E_DA_DemetersBounty_Formula.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1008325752,
+          "pointX": 14,
           "pointY": 0
         }
       ]

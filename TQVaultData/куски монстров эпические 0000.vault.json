@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 0,
+  "currentlySelectedSackNumber": 1,
   "sacks": [
     {
       "iconinfo": null,
@@ -512,7 +512,7 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 778270912,
+          "var2": 2035248,
           "pointX": 17,
           "pointY": 2
         },
@@ -527,7 +527,7 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1161046208,
+          "var2": 2035248,
           "pointX": 13,
           "pointY": 0
         },
@@ -542,9 +542,24 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 863147680,
+          "var2": 2035248,
           "pointX": 3,
           "pointY": 2
+        },
+        {
+          "stackSize": 1,
+          "seed": 15369,
+          "baseName": "Records\\Item\\AnimalRelics\\02_Act2_LupineClaw.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Offensive_+%Damage to Demons_01.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 892498016,
+          "pointX": 16,
+          "pointY": 3
         }
       ]
     },
@@ -682,24 +697,9 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 946997472,
+          "var2": 2035248,
           "pointX": 3,
           "pointY": 2
-        },
-        {
-          "stackSize": 1,
-          "seed": 7962,
-          "baseName": "Records\\Item\\AnimalRelics\\02_MultActs_MechanicalParts.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AbilityDefensive_03.dbr",
-          "var1": 5,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1276874928,
-          "pointX": 5,
-          "pointY": 0
         },
         {
           "stackSize": 1,
@@ -712,9 +712,54 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 862720424,
+          "var2": 2035248,
           "pointX": 0,
           "pointY": 1
+        },
+        {
+          "stackSize": 1,
+          "seed": 20814,
+          "baseName": "Records\\Item\\AnimalRelics\\02_MultActs_RigidCarapace.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "records\\item\\lootmagicalaffixes\\animalrelics\\bonuses\\defensive_bleedresist_02.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 238449864,
+          "pointX": 1,
+          "pointY": 1
+        },
+        {
+          "stackSize": 1,
+          "seed": 12187,
+          "baseName": "Records\\Item\\AnimalRelics\\02_MultActs_SpectralMatter.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\AnimalRelics\\Bonuses\\Offensive_%ManaBurn_02.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 939008120,
+          "pointX": 5,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 7962,
+          "baseName": "Records\\Item\\AnimalRelics\\02_MultActs_MechanicalParts.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AbilityDefensive_03.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 6,
+          "pointY": 0
         }
       ]
     },

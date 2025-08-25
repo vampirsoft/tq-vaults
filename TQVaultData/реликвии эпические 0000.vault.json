@@ -502,7 +502,7 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 872843456,
+          "var2": 2035248,
           "pointX": 6,
           "pointY": 1
         },
@@ -517,7 +517,7 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 10,
           "pointY": 0
         },
@@ -532,9 +532,24 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 12,
           "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 3612,
+          "baseName": "Records\\Item\\Relics\\02_Act2_UdjatOfHorus.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "records\\item\\lootmagicalaffixes\\animalrelics\\bonuses\\defensive_bleedresist_02.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1125983352,
+          "pointX": 5,
+          "pointY": 1
         }
       ]
     },
