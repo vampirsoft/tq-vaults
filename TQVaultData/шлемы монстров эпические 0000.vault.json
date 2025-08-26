@@ -287,7 +287,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1537208384,
+          "var2": 2035248,
           "pointX": 8,
           "pointY": 2
         },
@@ -302,9 +302,39 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1537208384,
+          "var2": 2035248,
           "pointX": 12,
           "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 6796,
+          "baseName": "Records\\Item\\EquipmentHelm\\MI_E_NeanderthalMelee.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1534390336,
+          "pointX": 14,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 2407,
+          "baseName": "Records\\Item\\EquipmentHelm\\MI_E_NeanderthalMelee.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1534390336,
+          "pointX": 14,
+          "pointY": 2
         }
       ]
     },

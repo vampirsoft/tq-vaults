@@ -262,8 +262,38 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1531899968,
+          "var2": 2035248,
           "pointX": 0,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 81,
+          "baseName": "Records\\Item\\EquipmentArmband\\MI_E_NeanderthalMelee.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1534390336,
+          "pointX": 2,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 10975,
+          "baseName": "Records\\Item\\EquipmentArmband\\MI_E_NeanderthalMage.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1534390336,
+          "pointX": 4,
           "pointY": 0
         }
       ]
