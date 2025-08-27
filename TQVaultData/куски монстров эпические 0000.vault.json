@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 0,
+  "currentlySelectedSackNumber": 1,
   "sacks": [
     {
       "iconinfo": null,
@@ -572,8 +572,23 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 655088696,
+          "var2": 2035248,
           "pointX": 12,
+          "pointY": 1
+        },
+        {
+          "stackSize": 1,
+          "seed": 2018,
+          "baseName": "Records\\Item\\AnimalRelics\\02_MultActs_DemonsBlood.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\AnimalRelics\\Bonuses\\Defensive_LifeResist_02.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 894652752,
+          "pointX": 13,
           "pointY": 1
         }
       ]
@@ -774,6 +789,36 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 6,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 6866,
+          "baseName": "Records\\Item\\AnimalRelics\\02_Act3_YetiFur.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "records\\item\\lootmagicalaffixes\\animalrelics\\bonuses\\defensive_bleedresist_02.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 731280472,
+          "pointX": 8,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 22934,
+          "baseName": "Records\\Item\\AnimalRelics\\02_Act3_RaptorTooth.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_SpeedAttack_01.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 834318912,
+          "pointX": 10,
           "pointY": 0
         }
       ]

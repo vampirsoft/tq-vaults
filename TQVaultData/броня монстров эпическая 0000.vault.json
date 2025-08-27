@@ -592,7 +592,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1531899968,
+          "var2": 2035248,
           "pointX": 12,
           "pointY": 3
         },
@@ -607,9 +607,24 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1531899968,
+          "var2": 2035248,
           "pointX": 14,
           "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 6030,
+          "baseName": "Records\\Item\\EquipmentArmor\\MI_E_NeanderthalMelee.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1534390336,
+          "pointX": 14,
+          "pointY": 3
         }
       ]
     },

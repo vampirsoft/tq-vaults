@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 4,
+  "currentlySelectedSackNumber": 3,
   "sacks": [
     {
       "iconinfo": null,
@@ -1730,6 +1730,21 @@
           "var2": 2035248,
           "pointX": 14,
           "pointY": 3
+        },
+        {
+          "stackSize": 1,
+          "seed": 26583,
+          "baseName": "Records\\Item\\EquipmentShield\\U_E_FlowingShieldOfTheEuphrates.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 14,
+          "pointY": 6
         }
       ]
     },
@@ -1762,7 +1777,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 2,
           "pointY": 0
         }
