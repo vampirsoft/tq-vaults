@@ -236,7 +236,7 @@
           "seed": 5088,
           "baseName": "Records\\Item\\EquipmentAmulet\\C02_Amulet04.dbr",
           "prefixName": "Records\\XPack\\Item\\LootMagicalAffixes\\Prefix\\Default\\PetBonus_PhysicalDmg_01.dbr",
-          "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AttributeStrength_01.dbr",
+          "suffixName": "",
           "relicName": "",
           "relicBonus": "",
           "var1": 0,
@@ -296,7 +296,7 @@
           "seed": 32308,
           "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Amulet\\C02_Amulet03.dbr",
           "prefixName": "Records\\XPack\\Item\\LootMagicalAffixes\\Prefix\\Default\\PetBonus_LifeDmg_03.dbr",
-          "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AttributeStrength_03.dbr",
+          "suffixName": "",
           "relicName": "",
           "relicBonus": "",
           "var1": 0,
@@ -319,21 +319,6 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 0,
-          "pointY": 17
-        },
-        {
-          "stackSize": 1,
-          "seed": 5659,
-          "baseName": "Records\\Item\\EquipmentAmulet\\C04_Amulet05.dbr",
-          "prefixName": "Records\\XPack\\Item\\LootMagicalAffixes\\Prefix\\Default\\Rare_PetBonus_%SpeedHealth_01.dbr",
-          "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Rare_Guile_01.dbr",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 4,
           "pointY": 17
         },
         {
@@ -512,9 +497,24 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 17,
           "pointY": 18
+        },
+        {
+          "stackSize": 1,
+          "seed": 5659,
+          "baseName": "Records\\Item\\EquipmentAmulet\\C04_Amulet05.dbr",
+          "prefixName": "Records\\XPack\\Item\\LootMagicalAffixes\\Prefix\\Default\\Rare_PetBonus_%SpeedHealth_01.dbr",
+          "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Rare_Guile_01.dbr",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 6,
+          "pointY": 17
         }
       ]
     },

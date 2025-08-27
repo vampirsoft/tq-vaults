@@ -562,7 +562,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1534390336,
+          "var2": 2035248,
           "pointX": 6,
           "pointY": 6
         },
@@ -577,8 +577,38 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1534390336,
+          "var2": 2035248,
           "pointX": 12,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 24773,
+          "baseName": "Records\\Item\\EquipmentArmor\\MI_E_TropicalArachnos.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1531899968,
+          "pointX": 12,
+          "pointY": 3
+        },
+        {
+          "stackSize": 1,
+          "seed": 3565,
+          "baseName": "Records\\Item\\EquipmentArmor\\MI_E_NeanderthalMelee.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1531899968,
+          "pointX": 14,
           "pointY": 0
         }
       ]

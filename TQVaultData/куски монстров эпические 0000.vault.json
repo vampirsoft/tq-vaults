@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 1,
+  "currentlySelectedSackNumber": 0,
   "sacks": [
     {
       "iconinfo": null,
@@ -557,9 +557,24 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 892498016,
+          "var2": 2035248,
           "pointX": 16,
           "pointY": 3
+        },
+        {
+          "stackSize": 1,
+          "seed": 29549,
+          "baseName": "Records\\Item\\AnimalRelics\\02_MultActs_DemonsBlood.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\AnimalRelics\\Bonuses\\Defensive_LifeResist_02.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 655088696,
+          "pointX": 12,
+          "pointY": 1
         }
       ]
     },
@@ -727,7 +742,7 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 238449864,
+          "var2": 2035248,
           "pointX": 1,
           "pointY": 1
         },
@@ -742,7 +757,7 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 939008120,
+          "var2": 2035248,
           "pointX": 5,
           "pointY": 0
         },
