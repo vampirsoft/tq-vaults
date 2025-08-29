@@ -107,9 +107,24 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 258076736,
+          "var2": 2035248,
           "pointX": 3,
           "pointY": 4
+        },
+        {
+          "stackSize": 1,
+          "seed": 14506,
+          "baseName": "Records\\Item\\EquipmentWeapon\\Axe\\MI_E_Dragonian.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 258076736,
+          "pointX": 3,
+          "pointY": 8
         }
       ]
     },
