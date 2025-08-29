@@ -47,9 +47,24 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 262467648,
+          "var2": 2035248,
           "pointX": 1,
           "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 4479,
+          "baseName": "Records\\Item\\EquipmentWeapon\\Sword\\MI_E_TigermanMelee.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 258076736,
+          "pointX": 1,
+          "pointY": 4
         }
       ]
     },
