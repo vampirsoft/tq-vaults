@@ -832,9 +832,24 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 56946752,
+          "var2": 2035248,
           "pointX": 5,
           "pointY": 4
+        },
+        {
+          "stackSize": 1,
+          "seed": 12363,
+          "baseName": "Records\\Item\\EquipmentWeapon\\Sword\\U_E_ChangKuoLau'sSteelBlur.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 259649600,
+          "pointX": 8,
+          "pointY": 0
         }
       ]
     },

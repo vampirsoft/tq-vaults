@@ -212,8 +212,23 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 53604416,
+          "var2": 2035248,
           "pointX": 10,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 18640,
+          "baseName": "Records\\Item\\EquipmentGreaves\\MI_E_Bandari.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 259649600,
+          "pointX": 12,
           "pointY": 0
         }
       ]
