@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 1,
+  "currentlySelectedSackNumber": 2,
   "sacks": [
     {
       "iconinfo": null,
@@ -622,15 +622,46 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1534390336,
+          "var2": 2035248,
           "pointX": 14,
           "pointY": 3
+        },
+        {
+          "stackSize": 1,
+          "seed": 22343,
+          "baseName": "Records\\Item\\EquipmentArmor\\MI_E_NeanderthalMage.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 56946752,
+          "pointX": 16,
+          "pointY": 0
         }
       ]
     },
     {
       "iconinfo": null,
-      "items": []
+      "items": [
+        {
+          "stackSize": 1,
+          "seed": 22005,
+          "baseName": "Records\\Item\\EquipmentArmor\\MI_E_TigermanMelee.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 56946752,
+          "pointX": 0,
+          "pointY": 0
+        }
+      ]
     },
     {
       "iconinfo": null,

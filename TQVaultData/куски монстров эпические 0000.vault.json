@@ -587,7 +587,7 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 894652752,
+          "var2": 2035248,
           "pointX": 13,
           "pointY": 1
         }
@@ -802,7 +802,7 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 731280472,
+          "var2": 2035248,
           "pointX": 8,
           "pointY": 0
         },
@@ -817,8 +817,38 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 834318912,
+          "var2": 2035248,
           "pointX": 10,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 21112,
+          "baseName": "Records\\Item\\AnimalRelics\\02_Act3_RaptorTooth.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_SpeedAttack_01.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 734850288,
+          "pointX": 11,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 10591,
+          "baseName": "Records\\Item\\AnimalRelics\\02_Act3_PengClaw.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AbilityOffensive_03.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 962601152,
+          "pointX": 12,
           "pointY": 0
         }
       ]

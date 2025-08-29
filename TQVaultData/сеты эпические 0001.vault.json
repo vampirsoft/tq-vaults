@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 0,
+  "currentlySelectedSackNumber": 10,
   "sacks": [
     {
       "iconinfo": null,
@@ -1157,7 +1157,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 12,
           "pointY": 0
         }
@@ -1195,6 +1195,21 @@
           "var2": 2035248,
           "pointX": 16,
           "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 31379,
+          "baseName": "Records\\Item\\EquipmentHelm\\US_E_Rogue'sCover.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 16,
+          "pointY": 2
         }
       ]
     },

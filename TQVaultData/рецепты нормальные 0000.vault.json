@@ -3527,9 +3527,24 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 14,
           "pointY": 1
+        },
+        {
+          "stackSize": 1,
+          "seed": 27210,
+          "baseName": "Records\\XPack\\Item\\Artifacts\\ArcaneFormulae\\E_LA_EbonyGlobe_Formula.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 829775952,
+          "pointX": 10,
+          "pointY": 0
         }
       ]
     },

@@ -32,9 +32,39 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1531899968,
+          "var2": 2035248,
           "pointX": 0,
           "pointY": 4
+        },
+        {
+          "stackSize": 1,
+          "seed": 22850,
+          "baseName": "Records\\Item\\EquipmentWeapon\\Axe\\MI_E_NeanderthalMelee.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 56946752,
+          "pointX": 0,
+          "pointY": 8
+        },
+        {
+          "stackSize": 1,
+          "seed": 15947,
+          "baseName": "Records\\Item\\EquipmentWeapon\\Axe\\MI_E_TigermanChampion.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 56946752,
+          "pointX": 1,
+          "pointY": 0
         }
       ]
     },

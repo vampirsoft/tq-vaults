@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 0,
+  "currentlySelectedSackNumber": 1,
   "sacks": [
     {
       "iconinfo": null,
@@ -347,7 +347,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1531899968,
+          "var2": 2035248,
           "pointX": 16,
           "pointY": 0
         },
@@ -362,15 +362,76 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1531899968,
+          "var2": 2035248,
           "pointX": 14,
           "pointY": 4
+        },
+        {
+          "stackSize": 1,
+          "seed": 17323,
+          "baseName": "Records\\Item\\EquipmentHelm\\MI_E_NeanderthalMelee.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 56946752,
+          "pointX": 14,
+          "pointY": 6
+        },
+        {
+          "stackSize": 1,
+          "seed": 1839,
+          "baseName": "Records\\Item\\EquipmentHelm\\MI_E_TigermanMage.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 56946752,
+          "pointX": 16,
+          "pointY": 2
         }
       ]
     },
     {
       "iconinfo": null,
-      "items": []
+      "items": [
+        {
+          "stackSize": 1,
+          "seed": 2663,
+          "baseName": "Records\\Item\\EquipmentHelm\\MI_E_RatmanChampion.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 56946752,
+          "pointX": 0,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 10566,
+          "baseName": "Records\\Item\\EquipmentHelm\\MI_E_TigermanChampion.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 56946752,
+          "pointX": 2,
+          "pointY": 0
+        }
+      ]
     },
     {
       "iconinfo": null,
