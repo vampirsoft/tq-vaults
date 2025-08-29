@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 1,
+  "currentlySelectedSackNumber": 2,
   "sacks": [
     {
       "iconinfo": null,
@@ -652,9 +652,24 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 53604416,
+          "var2": 2035248,
           "pointX": 6,
           "pointY": 9
+        },
+        {
+          "stackSize": 1,
+          "seed": 20888,
+          "baseName": "Records\\Item\\EquipmentArmor\\MI_E_RatmanMelee.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 262467648,
+          "pointX": 8,
+          "pointY": 3
         }
       ]
     },
@@ -702,9 +717,39 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 53604416,
+          "var2": 2035248,
           "pointX": 2,
           "pointY": 3
+        },
+        {
+          "stackSize": 1,
+          "seed": 9824,
+          "baseName": "Records\\Item\\EquipmentArmor\\MI_E_RatmanArcher.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 262467648,
+          "pointX": 4,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 9419,
+          "baseName": "Records\\Item\\EquipmentArmor\\MI_E_Dragonian.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 262467648,
+          "pointX": 6,
+          "pointY": 0
         }
       ]
     },
