@@ -377,7 +377,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 56946752,
+          "var2": 2035248,
           "pointX": 14,
           "pointY": 6
         },
@@ -392,7 +392,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 56946752,
+          "var2": 2035248,
           "pointX": 16,
           "pointY": 2
         }
@@ -412,7 +412,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 56946752,
+          "var2": 2035248,
           "pointX": 0,
           "pointY": 0
         },
@@ -427,9 +427,24 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 56946752,
+          "var2": 2035248,
           "pointX": 2,
           "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 30913,
+          "baseName": "Records\\Item\\EquipmentHelm\\MI_E_RatmanChampion.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 53604416,
+          "pointX": 0,
+          "pointY": 2
         }
       ]
     },
