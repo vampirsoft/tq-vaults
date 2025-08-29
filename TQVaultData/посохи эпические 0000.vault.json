@@ -867,8 +867,23 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 4,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 12212,
+          "baseName": "Records\\Item\\EquipmentWeapon\\Staff\\U_E_AziDahak'sStaff.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 53604416,
+          "pointX": 6,
           "pointY": 0
         }
       ]

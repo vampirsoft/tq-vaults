@@ -515,6 +515,21 @@
           "var2": 2035248,
           "pointX": 6,
           "pointY": 17
+        },
+        {
+          "stackSize": 1,
+          "seed": 24733,
+          "baseName": "Records\\Item\\EquipmentAmulet\\C09_Amulet03.dbr",
+          "prefixName": "Records\\XPack\\Item\\LootMagicalAffixes\\Prefix\\Default\\Rare_PetBonus_%SpeedHealth_01.dbr",
+          "suffixName": "Records\\XPack\\Item\\LootMagicalAffixes\\Suffix\\Default\\Rare_PetBonus_%totalDmg%DmgToLife_01.dbr",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 0,
+          "pointX": 0,
+          "pointY": 13
         }
       ]
     },
