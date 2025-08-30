@@ -472,9 +472,24 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 53932096,
+          "var2": 2035248,
           "pointX": 8,
           "pointY": 4
+        },
+        {
+          "stackSize": 1,
+          "seed": 22373,
+          "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Armband\\MI_E_AnouranMelee.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 257880128,
+          "pointX": 12,
+          "pointY": 0
         }
       ]
     },

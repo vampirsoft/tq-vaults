@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 6,
+  "currentlySelectedSackNumber": 11,
   "sacks": [
     {
       "iconinfo": null,
@@ -1057,7 +1057,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 16,
           "pointY": 7
         },
@@ -1072,7 +1072,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": -1109523841,
+          "var2": 2035248,
           "pointX": 2,
           "pointY": 5
         },
@@ -1087,7 +1087,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 14,
           "pointY": 5
         }
@@ -1182,7 +1182,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 833880703,
+          "var2": 2035248,
           "pointX": 16,
           "pointY": 2
         }
@@ -1352,9 +1352,24 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 16,
           "pointY": 18
+        },
+        {
+          "stackSize": 1,
+          "seed": 11668,
+          "baseName": "Records\\Item\\EquipmentWeapon\\Axe\\US_E_ShadowGuard.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 257880128,
+          "pointX": 6,
+          "pointY": 0
         }
       ]
     },
@@ -1432,7 +1447,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 14,
           "pointY": 0
         }
@@ -1482,9 +1497,24 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 0,
           "pointY": 3
+        },
+        {
+          "stackSize": 1,
+          "seed": 5298,
+          "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Torso\\US_E_002.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 16,
+          "pointY": 0
         }
       ]
     }
