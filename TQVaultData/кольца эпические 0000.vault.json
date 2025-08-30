@@ -1282,9 +1282,24 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 0,
           "pointY": 1
+        },
+        {
+          "stackSize": 1,
+          "seed": 28344,
+          "baseName": "Records\\Item\\EquipmentRing\\U_E_StarStone.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 2,
+          "pointY": 0
         }
       ]
     },

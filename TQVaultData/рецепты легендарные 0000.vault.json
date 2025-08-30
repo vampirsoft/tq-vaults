@@ -1,46 +1,11 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 1,
+  "currentlySelectedSackNumber": 0,
   "sacks": [
     {
       "iconinfo": null,
       "items": [
-        {
-          "stackSize": 1,
-          "seed": 17304,
-          "baseName": "Records\\XPack\\Item\\Artifacts\\ArcaneFormulae\\E_GA_Lionheart_Formula.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 762164360,
-          "pointX": 0,
-          "pointY": 0
-        }
-      ]
-    },
-    {
-      "iconinfo": null,
-      "items": [
-        {
-          "stackSize": 1,
-          "seed": 19381,
-          "baseName": "Records\\XPack\\Item\\Artifacts\\ArcaneFormulae\\E_DA_DemetersBounty_Formula.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 16,
-          "pointY": 0
-        },
         {
           "stackSize": 1,
           "seed": 28304,
@@ -53,10 +18,44 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 14,
+          "pointX": 0,
           "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 19381,
+          "baseName": "Records\\XPack\\Item\\Artifacts\\ArcaneFormulae\\E_DA_DemetersBounty_Formula.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 2,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 4191,
+          "baseName": "Records\\XPack\\Item\\Artifacts\\ArcaneFormulae\\E_DA_DemetersBounty_Formula.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 2,
+          "pointY": 1
         }
       ]
+    },
+    {
+      "iconinfo": null,
+      "items": []
     },
     {
       "iconinfo": null,

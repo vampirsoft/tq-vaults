@@ -652,8 +652,38 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 7,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 21893,
+          "baseName": "Records\\Item\\EquipmentWeapon\\Club\\U_E_ArcadionJudgement.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 833880703,
+          "pointX": 8,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 25119,
+          "baseName": "Records\\Item\\EquipmentWeapon\\Club\\U_E_Skullcrusher.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 9,
           "pointY": 0
         }
       ]
