@@ -152,7 +152,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 267382848,
+          "var2": 2035248,
           "pointX": 4,
           "pointY": 9
         },
@@ -167,9 +167,24 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 267382848,
+          "var2": 2035248,
           "pointX": 0,
           "pointY": 9
+        },
+        {
+          "stackSize": 1,
+          "seed": 31556,
+          "baseName": "records\\xpack2\\item\\equipmentweapons\\1hranged\\mi_e_tigerman.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 53932096,
+          "pointX": 4,
+          "pointY": 12
         }
       ]
     },

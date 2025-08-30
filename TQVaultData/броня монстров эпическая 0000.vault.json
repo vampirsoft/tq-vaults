@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 1,
+  "currentlySelectedSackNumber": 2,
   "sacks": [
     {
       "iconinfo": null,
@@ -493,36 +493,6 @@
         },
         {
           "stackSize": 1,
-          "seed": 30750,
-          "baseName": "Records\\Item\\EquipmentArmor\\MI_E_IchthianMelee.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 6,
-          "pointY": 0
-        },
-        {
-          "stackSize": 1,
-          "seed": 3843,
-          "baseName": "Records\\Item\\EquipmentArmor\\MI_E_IchthianMelee.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 6,
-          "pointY": 3
-        },
-        {
-          "stackSize": 1,
           "seed": 20654,
           "baseName": "Records\\Item\\EquipmentArmor\\MI_E_RatmanMelee.dbr",
           "prefixName": "",
@@ -550,21 +520,6 @@
           "var2": 2035248,
           "pointX": 10,
           "pointY": 0
-        },
-        {
-          "stackSize": 1,
-          "seed": 25877,
-          "baseName": "Records\\Item\\EquipmentArmor\\MI_E_IchthianMelee.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 6,
-          "pointY": 6
         },
         {
           "stackSize": 1,
@@ -643,21 +598,6 @@
         },
         {
           "stackSize": 1,
-          "seed": 4844,
-          "baseName": "Records\\Item\\EquipmentArmor\\MI_E_IchthianMelee.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 6,
-          "pointY": 9
-        },
-        {
-          "stackSize": 1,
           "seed": 20888,
           "baseName": "Records\\Item\\EquipmentArmor\\MI_E_RatmanMelee.dbr",
           "prefixName": "",
@@ -682,13 +622,13 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 267382848,
+          "var2": 2035248,
           "pointX": 10,
           "pointY": 3
         },
         {
           "stackSize": 1,
-          "seed": 30496,
+          "seed": 25877,
           "baseName": "Records\\Item\\EquipmentArmor\\MI_E_IchthianMelee.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -697,9 +637,9 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 267382848,
+          "var2": 53932096,
           "pointX": 6,
-          "pointY": 12
+          "pointY": 0
         }
       ]
     },
@@ -768,21 +708,6 @@
         },
         {
           "stackSize": 1,
-          "seed": 9419,
-          "baseName": "Records\\Item\\EquipmentArmor\\MI_E_Dragonian.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 6,
-          "pointY": 0
-        },
-        {
-          "stackSize": 1,
           "seed": 9116,
           "baseName": "Records\\Item\\EquipmentArmor\\MI_E_TigermanMelee.dbr",
           "prefixName": "",
@@ -794,21 +719,6 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 0,
-          "pointY": 3
-        },
-        {
-          "stackSize": 1,
-          "seed": 9062,
-          "baseName": "Records\\Item\\EquipmentArmor\\MI_E_Dragonian.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 6,
           "pointY": 3
         },
         {
@@ -828,21 +738,6 @@
         },
         {
           "stackSize": 1,
-          "seed": 26052,
-          "baseName": "Records\\Item\\EquipmentArmor\\MI_E_Dragonian.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 6,
-          "pointY": 6
-        },
-        {
-          "stackSize": 1,
           "seed": 17559,
           "baseName": "Records\\Item\\EquipmentArmor\\MI_E_TigermanChampion.dbr",
           "prefixName": "",
@@ -852,9 +747,24 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 267382848,
+          "var2": 2035248,
           "pointX": 2,
           "pointY": 6
+        },
+        {
+          "stackSize": 1,
+          "seed": 9062,
+          "baseName": "Records\\Item\\EquipmentArmor\\MI_E_Dragonian.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 53932096,
+          "pointX": 6,
+          "pointY": 0
         }
       ]
     },

@@ -227,9 +227,24 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 259649600,
+          "var2": 2035248,
           "pointX": 12,
           "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 18146,
+          "baseName": "Records\\Item\\EquipmentGreaves\\MI_E_NeanderthalMage.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 53932096,
+          "pointX": 6,
+          "pointY": 8
         }
       ]
     },
