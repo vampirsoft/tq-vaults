@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 2,
+  "currentlySelectedSackNumber": 1,
   "sacks": [
     {
       "iconinfo": null,
@@ -670,6 +670,36 @@
           "var2": 2035248,
           "pointX": 8,
           "pointY": 3
+        },
+        {
+          "stackSize": 1,
+          "seed": 17960,
+          "baseName": "Records\\Item\\EquipmentArmor\\MI_E_RatmanChampion.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 267382848,
+          "pointX": 10,
+          "pointY": 3
+        },
+        {
+          "stackSize": 1,
+          "seed": 30496,
+          "baseName": "Records\\Item\\EquipmentArmor\\MI_E_IchthianMelee.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 267382848,
+          "pointX": 6,
+          "pointY": 12
         }
       ]
     },
@@ -792,7 +822,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 258076736,
+          "var2": 2035248,
           "pointX": 0,
           "pointY": 6
         },
@@ -807,8 +837,23 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 258076736,
+          "var2": 2035248,
           "pointX": 6,
+          "pointY": 6
+        },
+        {
+          "stackSize": 1,
+          "seed": 17559,
+          "baseName": "Records\\Item\\EquipmentArmor\\MI_E_TigermanChampion.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 267382848,
+          "pointX": 2,
           "pointY": 6
         }
       ]

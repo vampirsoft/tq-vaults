@@ -562,7 +562,7 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 9,
           "pointY": 0
         },
@@ -577,7 +577,7 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 7,
           "pointY": 1
         },
@@ -592,8 +592,23 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1242502360,
+          "var2": 2035248,
           "pointX": 14,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 23540,
+          "baseName": "Records\\Item\\Relics\\02_Act3_DragonKingsDomain.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Character_AttributeEnergy_04.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 684407904,
+          "pointX": 16,
           "pointY": 0
         }
       ]
