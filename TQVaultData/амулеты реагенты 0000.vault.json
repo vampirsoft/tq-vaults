@@ -572,9 +572,24 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 16427552,
+          "var2": 2035248,
           "pointX": 17,
           "pointY": 9
+        },
+        {
+          "stackSize": 1,
+          "seed": 31025,
+          "baseName": "Records\\Item\\EquipmentAmulet\\C12_Amulet02.dbr",
+          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Character_SkillMasteryF_02.dbr",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 21843712,
+          "pointX": 11,
+          "pointY": 18
         }
       ]
     },
