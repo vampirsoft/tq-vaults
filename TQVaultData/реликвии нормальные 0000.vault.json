@@ -2027,7 +2027,7 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 712421464,
+          "var2": 2035248,
           "pointX": 17,
           "pointY": 7
         },
@@ -2042,7 +2042,7 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 850200888,
+          "var2": 2035248,
           "pointX": 7,
           "pointY": 8
         },
@@ -2057,7 +2057,7 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 984460360,
+          "var2": 2035248,
           "pointX": 5,
           "pointY": 10
         },
@@ -2072,9 +2072,54 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 742650056,
+          "var2": 2035248,
           "pointX": 2,
           "pointY": 7
+        },
+        {
+          "stackSize": 1,
+          "seed": 5536,
+          "baseName": "Records\\Item\\Relics\\01_Act1_ZeusThunderbolt.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Relics\\Bonuses\\Offensive_+%Lightning_01.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 15,
+          "pointY": 8
+        },
+        {
+          "stackSize": 1,
+          "seed": 10363,
+          "baseName": "Records\\Item\\Relics\\01_Act1_Hermessandal.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Relics\\BonusesGreece\\01\\01_HermesSandal_AttDA.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 358226960,
+          "pointX": 10,
+          "pointY": 6
+        },
+        {
+          "stackSize": 1,
+          "seed": 31857,
+          "baseName": "Records\\Item\\Relics\\01_Act1_HecatesCrescent.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "records\\item\\lootmagicalaffixes\\animalrelics\\bonuses\\defensive_liferesist_01.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1156938840,
+          "pointX": 6,
+          "pointY": 9
         }
       ]
     },
@@ -3700,6 +3745,21 @@
           "var2": 2035248,
           "pointX": 1,
           "pointY": 7
+        },
+        {
+          "stackSize": 1,
+          "seed": 20460,
+          "baseName": "Records\\Item\\Relics\\01_Act1_ValorOfAchilles.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_SpeedAttack_01.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 2,
+          "pointY": 6
         }
       ]
     },

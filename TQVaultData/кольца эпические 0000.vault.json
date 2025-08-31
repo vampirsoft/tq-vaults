@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 1,
+  "currentlySelectedSackNumber": 0,
   "sacks": [
     {
       "iconinfo": null,
@@ -1235,6 +1235,36 @@
           "var2": 2035248,
           "pointX": 13,
           "pointY": 4
+        },
+        {
+          "stackSize": 1,
+          "seed": 13549,
+          "baseName": "Records\\Item\\EquipmentRing\\U_N_OathRing.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 0,
+          "pointY": 11
+        },
+        {
+          "stackSize": 1,
+          "seed": 26924,
+          "baseName": "Records\\Item\\EquipmentRing\\U_N_Brimstone.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 4,
+          "pointY": 1
         }
       ]
     },
@@ -1297,7 +1327,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 2,
           "pointY": 0
         }
