@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 1,
+  "currentlySelectedSackNumber": 0,
   "sacks": [
     {
       "iconinfo": null,
@@ -488,36 +488,6 @@
         },
         {
           "stackSize": 1,
-          "seed": 16962,
-          "baseName": "Records\\Item\\EquipmentArmor\\MI_N_Centaur.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 6,
-          "pointY": 0
-        },
-        {
-          "stackSize": 1,
-          "seed": 30696,
-          "baseName": "Records\\Item\\EquipmentArmor\\MI_N_Centaur.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 6,
-          "pointY": 3
-        },
-        {
-          "stackSize": 1,
           "seed": 20102,
           "baseName": "Records\\Item\\EquipmentArmor\\MI_N_Centaur.dbr",
           "prefixName": "",
@@ -527,9 +497,24 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 2035248,
+          "var2": 340531312,
           "pointX": 6,
-          "pointY": 6
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 16962,
+          "baseName": "Records\\Item\\EquipmentArmor\\MI_N_Centaur.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 340531312,
+          "pointX": 6,
+          "pointY": 3
         },
         {
           "stackSize": 1,
@@ -542,9 +527,9 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 2035248,
+          "var2": 340531312,
           "pointX": 6,
-          "pointY": 9
+          "pointY": 6
         }
       ]
     },
