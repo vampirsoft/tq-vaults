@@ -1,26 +1,11 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 1,
+  "currentlySelectedSackNumber": 0,
   "sacks": [
     {
       "iconinfo": null,
       "items": [
-        {
-          "stackSize": 1,
-          "seed": 8913,
-          "baseName": "Records\\Item\\EquipmentWeapon\\Sword\\U_N_Heartpierce.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 0,
-          "pointY": 0
-        },
         {
           "stackSize": 1,
           "seed": 28924,
@@ -53,21 +38,6 @@
         },
         {
           "stackSize": 1,
-          "seed": 1550,
-          "baseName": "Records\\Item\\EquipmentWeapon\\Sword\\U_N_Traitor'sShiv.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 3,
-          "pointY": 0
-        },
-        {
-          "stackSize": 1,
           "seed": 23580,
           "baseName": "Records\\Item\\EquipmentWeapon\\Sword\\U_N_Patroclus'Shortblade.dbr",
           "prefixName": "",
@@ -79,21 +49,6 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 2,
-          "pointY": 4
-        },
-        {
-          "stackSize": 1,
-          "seed": 24423,
-          "baseName": "Records\\Item\\EquipmentWeapon\\Sword\\U_N_Heartpierce.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 0,
           "pointY": 4
         },
         {
@@ -458,21 +413,6 @@
         },
         {
           "stackSize": 1,
-          "seed": 31182,
-          "baseName": "Records\\Item\\EquipmentWeapon\\Sword\\U_N_Traitor'sShiv.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 3,
-          "pointY": 4
-        },
-        {
-          "stackSize": 1,
           "seed": 28039,
           "baseName": "records\\xpack2\\item\\equipmentweapons\\sword\\u_n_02.dbr",
           "prefixName": "",
@@ -548,66 +488,6 @@
         },
         {
           "stackSize": 1,
-          "seed": 30481,
-          "baseName": "Records\\Item\\EquipmentWeapon\\Sword\\U_N_Traitor'sShiv.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 3,
-          "pointY": 8
-        },
-        {
-          "stackSize": 1,
-          "seed": 5982,
-          "baseName": "Records\\Item\\EquipmentWeapon\\Sword\\U_N_Traitor'sShiv.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 3,
-          "pointY": 12
-        },
-        {
-          "stackSize": 1,
-          "seed": 30257,
-          "baseName": "Records\\Item\\EquipmentWeapon\\Sword\\U_N_Traitor'sShiv.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 3,
-          "pointY": 16
-        },
-        {
-          "stackSize": 1,
-          "seed": 24283,
-          "baseName": "Records\\Item\\EquipmentWeapon\\Sword\\U_N_Heartpierce.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 0,
-          "pointY": 8
-        },
-        {
-          "stackSize": 1,
           "seed": 14611,
           "baseName": "Records\\Item\\EquipmentWeapon\\Sword\\U_N_SoulCarver.dbr",
           "prefixName": "",
@@ -619,21 +499,6 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 5,
-          "pointY": 16
-        },
-        {
-          "stackSize": 1,
-          "seed": 12567,
-          "baseName": "Records\\Item\\EquipmentWeapon\\Sword\\U_N_Traitor'sShiv.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 2,
           "pointY": 16
         },
         {
@@ -892,7 +757,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 9,
           "pointY": 0
         }

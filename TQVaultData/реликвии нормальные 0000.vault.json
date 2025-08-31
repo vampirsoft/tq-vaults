@@ -1955,6 +1955,21 @@
           "var2": 2035248,
           "pointX": 3,
           "pointY": 6
+        },
+        {
+          "stackSize": 1,
+          "seed": 12258,
+          "baseName": "Records\\Item\\Relics\\01_Act1_HeraclesMight.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Relics\\Bonuses\\Character_%Strength_01.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 761609392,
+          "pointX": 4,
+          "pointY": 10
         }
       ]
     },
