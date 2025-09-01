@@ -2177,7 +2177,7 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 354307832,
+          "var2": 2035248,
           "pointX": 6,
           "pointY": 12
         },
@@ -2192,8 +2192,23 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 501880992,
+          "var2": 2035248,
           "pointX": 9,
+          "pointY": 8
+        },
+        {
+          "stackSize": 1,
+          "seed": 10891,
+          "baseName": "Records\\Item\\AnimalRelics\\01_MultActs_MechanicalParts.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Defensive_Protection_01.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 827763976,
+          "pointX": 14,
           "pointY": 8
         }
       ]
