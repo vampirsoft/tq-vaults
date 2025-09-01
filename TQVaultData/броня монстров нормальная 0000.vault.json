@@ -557,7 +557,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 265547840,
+          "var2": 2035248,
           "pointX": 12,
           "pointY": 6
         },
@@ -572,9 +572,24 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 265547840,
+          "var2": 2035248,
           "pointX": 6,
           "pointY": 12
+        },
+        {
+          "stackSize": 1,
+          "seed": 10869,
+          "baseName": "Records\\Item\\EquipmentArmor\\MI_N_Arachnos.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 268890176,
+          "pointX": 2,
+          "pointY": 9
         }
       ]
     },
