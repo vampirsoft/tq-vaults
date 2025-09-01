@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 1,
+  "currentlySelectedSackNumber": 0,
   "sacks": [
     {
       "iconinfo": null,
@@ -515,6 +515,21 @@
           "var2": 2035248,
           "pointX": 5,
           "pointY": 9
+        },
+        {
+          "stackSize": 1,
+          "seed": 1723,
+          "baseName": "Records\\Item\\EquipmentWeapon\\Club\\U_N_SoulFeast.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 0,
+          "pointY": 12
         }
       ]
     },
@@ -667,7 +682,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 833880703,
+          "var2": 2035248,
           "pointX": 8,
           "pointY": 0
         },
@@ -682,7 +697,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 9,
           "pointY": 0
         }

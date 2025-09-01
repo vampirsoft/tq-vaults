@@ -2162,7 +2162,7 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 890276976,
+          "var2": 2035248,
           "pointX": 16,
           "pointY": 8
         },
@@ -2177,7 +2177,7 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1091552136,
+          "var2": 2035248,
           "pointX": 0,
           "pointY": 4
         }
@@ -3832,7 +3832,7 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 340531312,
+          "var2": 2035248,
           "pointX": 7,
           "pointY": 6
         },
@@ -3847,9 +3847,24 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 340531312,
+          "var2": 2035248,
           "pointX": 6,
           "pointY": 7
+        },
+        {
+          "stackSize": 1,
+          "seed": 16851,
+          "baseName": "Records\\Item\\Relics\\01_Act1_ValorOfAchilles.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_SpeedAttack_01.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 358919896,
+          "pointX": 3,
+          "pointY": 6
         }
       ]
     },

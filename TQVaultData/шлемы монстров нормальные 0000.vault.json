@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 4,
+  "currentlySelectedSackNumber": 0,
   "sacks": [
     {
       "iconinfo": null,
@@ -398,21 +398,6 @@
         },
         {
           "stackSize": 1,
-          "seed": 24393,
-          "baseName": "Records\\Item\\EquipmentHelm\\MI_N_Gorgon.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 6,
-          "pointY": 0
-        },
-        {
-          "stackSize": 1,
           "seed": 14710,
           "baseName": "Records\\Item\\EquipmentHelm\\MI_N_GorgonMelee.dbr",
           "prefixName": "",
@@ -677,9 +662,54 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 59043904,
+          "var2": 2035248,
           "pointX": 2,
           "pointY": 12
+        },
+        {
+          "stackSize": 1,
+          "seed": 24393,
+          "baseName": "Records\\Item\\EquipmentHelm\\MI_N_Gorgon.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 6,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 5925,
+          "baseName": "Records\\Item\\EquipmentHelm\\MI_N_Gorgon.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 263385152,
+          "pointX": 6,
+          "pointY": 2
+        },
+        {
+          "stackSize": 1,
+          "seed": 16728,
+          "baseName": "Records\\Item\\EquipmentHelm\\MI_N_GorgonMelee.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 263385152,
+          "pointX": 2,
+          "pointY": 14
         }
       ]
     },
@@ -1807,7 +1837,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 59043904,
+          "var2": 2035248,
           "pointX": 14,
           "pointY": 2
         }
