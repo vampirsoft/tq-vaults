@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 0,
+  "currentlySelectedSackNumber": 4,
   "sacks": [
     {
       "iconinfo": null,
@@ -632,7 +632,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 340531312,
+          "var2": 2035248,
           "pointX": 8,
           "pointY": 0
         },
@@ -647,7 +647,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 340531312,
+          "var2": 2035248,
           "pointX": 8,
           "pointY": 2
         },
@@ -662,9 +662,24 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 340531312,
+          "var2": 2035248,
           "pointX": 8,
           "pointY": 4
+        },
+        {
+          "stackSize": 1,
+          "seed": 28495,
+          "baseName": "Records\\Item\\EquipmentHelm\\MI_N_GorgonMelee.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 59043904,
+          "pointX": 2,
+          "pointY": 12
         }
       ]
     },
@@ -1779,6 +1794,21 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 8,
+          "pointY": 2
+        },
+        {
+          "stackSize": 1,
+          "seed": 8354,
+          "baseName": "Records\\Item\\EquipmentHelm\\MI_N_SatyrMage.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 59043904,
+          "pointX": 14,
           "pointY": 2
         }
       ]
