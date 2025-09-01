@@ -2147,7 +2147,7 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 890249304,
+          "var2": 2035248,
           "pointX": 13,
           "pointY": 9
         },
@@ -2162,8 +2162,38 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 768757904,
+          "var2": 2035248,
           "pointX": 2,
+          "pointY": 8
+        },
+        {
+          "stackSize": 1,
+          "seed": 5386,
+          "baseName": "Records\\Item\\AnimalRelics\\01_MultActs_VenomSac.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "records\\item\\lootmagicalaffixes\\relics\\bonuses\\offensive_%poison_01.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 354307832,
+          "pointX": 6,
+          "pointY": 12
+        },
+        {
+          "stackSize": 1,
+          "seed": 2229,
+          "baseName": "Records\\Item\\AnimalRelics\\01_Act1_BatFang.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_SpeedAttack_01.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 501880992,
+          "pointX": 9,
           "pointY": 8
         }
       ]
