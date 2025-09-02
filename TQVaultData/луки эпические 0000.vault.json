@@ -1082,7 +1082,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 2,
           "pointY": 8
         },
@@ -1097,9 +1097,39 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 6,
           "pointY": 12
+        },
+        {
+          "stackSize": 1,
+          "seed": 7573,
+          "baseName": "Records\\Item\\EquipmentWeapon\\Bow\\U_N_TendonRipper.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 15,
+          "pointY": 12
+        },
+        {
+          "stackSize": 1,
+          "seed": 25952,
+          "baseName": "Records\\Item\\EquipmentWeapon\\Bow\\U_N_ScythianTouch.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 11,
+          "pointY": 16
         }
       ]
     },
