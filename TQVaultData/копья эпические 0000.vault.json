@@ -407,8 +407,23 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 263385152,
+          "var2": 2035248,
           "pointX": 2,
+          "pointY": 5
+        },
+        {
+          "stackSize": 1,
+          "seed": 4060,
+          "baseName": "Records\\Item\\EquipmentWeapon\\Spear\\U_N_TheEviscerator.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 8,
           "pointY": 5
         }
       ]

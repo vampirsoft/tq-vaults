@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 0,
+  "currentlySelectedSackNumber": 1,
   "sacks": [
     {
       "iconinfo": null,
@@ -2207,8 +2207,23 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 827763976,
+          "var2": 2035248,
           "pointX": 14,
+          "pointY": 8
+        },
+        {
+          "stackSize": 1,
+          "seed": 472,
+          "baseName": "Records\\Item\\AnimalRelics\\01_MultActs_MechanicalParts.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Defensive_Protection_01.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 758081728,
+          "pointX": 15,
           "pointY": 8
         }
       ]
@@ -4120,6 +4135,36 @@
           "var2": 2035248,
           "pointX": 2,
           "pointY": 11
+        },
+        {
+          "stackSize": 1,
+          "seed": 32589,
+          "baseName": "Records\\Item\\AnimalRelics\\01_Act2_LupineClaw.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_SpeedAttack_01.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 915071144,
+          "pointX": 5,
+          "pointY": 11
+        },
+        {
+          "stackSize": 1,
+          "seed": 20298,
+          "baseName": "Records\\Item\\AnimalRelics\\01_MultActs_RigidCarapace.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "records\\item\\lootmagicalaffixes\\animalrelics\\bonuses\\defensive_bleedresist_01.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 823351992,
+          "pointX": 6,
+          "pointY": 10
         }
       ]
     },

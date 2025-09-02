@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 6,
+  "currentlySelectedSackNumber": 1,
   "sacks": [
     {
       "iconinfo": null,
@@ -1270,6 +1270,21 @@
           "var2": 2035248,
           "pointX": 14,
           "pointY": 9
+        },
+        {
+          "stackSize": 1,
+          "seed": 19432,
+          "baseName": "Records\\Item\\EquipmentArmor\\MI_N_Reptilian.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 56815680,
+          "pointX": 0,
+          "pointY": 17
         }
       ]
     },
@@ -2897,7 +2912,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 57471040,
+          "var2": 2035248,
           "pointX": 16,
           "pointY": 0
         }
