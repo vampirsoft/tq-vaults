@@ -857,9 +857,24 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 12,
           "pointY": 10
+        },
+        {
+          "stackSize": 1,
+          "seed": 22879,
+          "baseName": "Records\\Item\\EquipmentHelm\\Um_N_WhiteCrown.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 4,
+          "pointY": 14
         }
       ]
     },

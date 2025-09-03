@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 3,
+  "currentlySelectedSackNumber": 4,
   "sacks": [
     {
       "iconinfo": null,
@@ -2372,9 +2372,39 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 56684608,
+          "var2": 2035248,
           "pointX": 17,
           "pointY": 9
+        },
+        {
+          "stackSize": 1,
+          "seed": 946,
+          "baseName": "Records\\Item\\EquipmentGreaves\\US_N_Ramses'RoyalArmor.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 10,
+          "pointY": 15
+        },
+        {
+          "stackSize": 1,
+          "seed": 24877,
+          "baseName": "Records\\Item\\EquipmentArmband\\US_N_Ramses'RoyalArmor.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 10,
+          "pointY": 7
         }
       ]
     },
@@ -2725,6 +2755,21 @@
           "var2": 2035248,
           "pointX": 14,
           "pointY": 18
+        },
+        {
+          "stackSize": 1,
+          "seed": 5623,
+          "baseName": "Records\\Item\\EquipmentArmor\\US_N_BabylonianRaiment.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 57929792,
+          "pointX": 4,
+          "pointY": 11
         }
       ]
     },
