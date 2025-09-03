@@ -680,6 +680,21 @@
           "var2": 2035248,
           "pointX": 16,
           "pointY": 17
+        },
+        {
+          "stackSize": 1,
+          "seed": 27146,
+          "baseName": "Records\\Item\\EquipmentArmor\\MI_N_DuneRaiderB.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 56684608,
+          "pointX": 16,
+          "pointY": 9
         }
       ]
     },
@@ -1282,9 +1297,24 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 56815680,
+          "var2": 2035248,
           "pointX": 0,
           "pointY": 17
+        },
+        {
+          "stackSize": 1,
+          "seed": 9170,
+          "baseName": "Records\\Item\\EquipmentArmor\\MI_N_Reptilian.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 56684608,
+          "pointX": 8,
+          "pointY": 14
         }
       ]
     },

@@ -557,9 +557,24 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 56815680,
+          "var2": 2035248,
           "pointX": 9,
           "pointY": 13
+        },
+        {
+          "stackSize": 1,
+          "seed": 28356,
+          "baseName": "Records\\Item\\EquipmentWeapon\\Axe\\U_N_RagingBull.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 3,
+          "pointY": 6
         }
       ]
     },
