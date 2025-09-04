@@ -563,21 +563,6 @@
         },
         {
           "stackSize": 1,
-          "seed": 17862,
-          "baseName": "Records\\Item\\EquipmentWeapon\\Sword\\U_N_Teslos.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 266072128,
-          "pointX": 5,
-          "pointY": 11
-        },
-        {
-          "stackSize": 1,
           "seed": 14611,
           "baseName": "Records\\Item\\EquipmentWeapon\\Sword\\U_N_SoulCarver.dbr",
           "prefixName": "",
@@ -590,6 +575,36 @@
           "var2": 2035248,
           "pointX": 3,
           "pointY": 16
+        },
+        {
+          "stackSize": 1,
+          "seed": 22911,
+          "baseName": "Records\\Item\\EquipmentWeapon\\Sword\\U_N_Teslos.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 5,
+          "pointY": 16
+        },
+        {
+          "stackSize": 1,
+          "seed": 17862,
+          "baseName": "Records\\Item\\EquipmentWeapon\\Sword\\U_N_Teslos.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 5,
+          "pointY": 12
         }
       ]
     },

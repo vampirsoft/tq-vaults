@@ -2282,8 +2282,23 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 975806064,
+          "var2": 2035248,
           "pointX": 14,
+          "pointY": 9
+        },
+        {
+          "stackSize": 1,
+          "seed": 16847,
+          "baseName": "Records\\Item\\AnimalRelics\\01_MultActs_MechanicalParts.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Defensive_Protection_01.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 760109312,
+          "pointX": 15,
           "pointY": 9
         }
       ]
@@ -4267,7 +4282,7 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 929213640,
+          "var2": 2035248,
           "pointX": 7,
           "pointY": 10
         },
@@ -4282,7 +4297,7 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 843759288,
+          "var2": 2035248,
           "pointX": 4,
           "pointY": 12
         },
@@ -4297,8 +4312,23 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1055093880,
+          "var2": 2035248,
           "pointX": 3,
+          "pointY": 11
+        },
+        {
+          "stackSize": 1,
+          "seed": 23721,
+          "baseName": "Records\\Item\\AnimalRelics\\01_MultActs_RigidCarapace.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "records\\item\\lootmagicalaffixes\\animalrelics\\bonuses\\defensive_bleedresist_01.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 760017072,
+          "pointX": 6,
           "pointY": 11
         }
       ]
