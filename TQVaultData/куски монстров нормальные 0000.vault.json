@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 1,
+  "currentlySelectedSackNumber": 0,
   "sacks": [
     {
       "iconinfo": null,
@@ -2297,9 +2297,24 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 760109312,
+          "var2": 2035248,
           "pointX": 15,
           "pointY": 9
+        },
+        {
+          "stackSize": 1,
+          "seed": 9478,
+          "baseName": "Records\\Item\\AnimalRelics\\01_MultActs_VenomSac.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "records\\item\\lootmagicalaffixes\\relics\\bonuses\\offensive_%poison_01.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 434598064,
+          "pointX": 6,
+          "pointY": 13
         }
       ]
     },
@@ -4327,9 +4342,39 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 760017072,
+          "var2": 2035248,
           "pointX": 6,
           "pointY": 11
+        },
+        {
+          "stackSize": 1,
+          "seed": 30312,
+          "baseName": "Records\\Item\\AnimalRelics\\01_Act3_VinyGrowth.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "records\\item\\lootmagicalaffixes\\animalrelics\\bonuses\\defensive_bleedresist_01.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 992250976,
+          "pointX": 16,
+          "pointY": 7
+        },
+        {
+          "stackSize": 1,
+          "seed": 31454,
+          "baseName": "Records\\Item\\AnimalRelics\\01_Act3_YetiFur.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "records\\item\\lootmagicalaffixes\\animalrelics\\bonuses\\defensive_bleedresist_01.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 924825096,
+          "pointX": 14,
+          "pointY": 2
         }
       ]
     },
