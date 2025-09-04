@@ -1322,9 +1322,24 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 5,
           "pointY": 6
+        },
+        {
+          "stackSize": 1,
+          "seed": 9518,
+          "baseName": "Records\\Item\\EquipmentRing\\U_N_StormEye.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 3,
+          "pointY": 1
         }
       ]
     },

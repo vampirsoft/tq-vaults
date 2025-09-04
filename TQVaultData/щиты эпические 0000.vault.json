@@ -575,6 +575,36 @@
           "var2": 2035248,
           "pointX": 16,
           "pointY": 15
+        },
+        {
+          "stackSize": 1,
+          "seed": 5283,
+          "baseName": "Records\\Item\\EquipmentShield\\U_N_Captain'sShield.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 12,
+          "pointY": 9
+        },
+        {
+          "stackSize": 1,
+          "seed": 17487,
+          "baseName": "Records\\Item\\EquipmentShield\\U_N_JaggedHoplon.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 47837248,
+          "pointX": 2,
+          "pointY": 9
         }
       ]
     },
