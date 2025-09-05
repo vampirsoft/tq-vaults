@@ -377,7 +377,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 1,
           "pointY": 0
         },
@@ -392,7 +392,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 2,
           "pointY": 0
         },
@@ -407,7 +407,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 1,
           "pointY": 4
         },
@@ -422,9 +422,24 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 2,
           "pointY": 4
+        },
+        {
+          "stackSize": 1,
+          "seed": 1330,
+          "baseName": "Records\\Item\\EquipmentWeapon\\Sword\\MI_N_Arachnos.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 253751360,
+          "pointX": 16,
+          "pointY": 14
         }
       ]
     },

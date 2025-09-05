@@ -362,9 +362,24 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 55308352,
+          "var2": 2035248,
           "pointX": 4,
           "pointY": 12
+        },
+        {
+          "stackSize": 1,
+          "seed": 5026,
+          "baseName": "Records\\Item\\EquipmentWeapon\\Staff\\MI_N_SatyrMage.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 253751360,
+          "pointX": 0,
+          "pointY": 16
         }
       ]
     },

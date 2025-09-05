@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 0,
+  "currentlySelectedSackNumber": 1,
   "sacks": [
     {
       "iconinfo": null,
@@ -1262,7 +1262,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 10,
           "pointY": 10
         }
@@ -2902,8 +2902,23 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 6,
+          "pointY": 9
+        },
+        {
+          "stackSize": 1,
+          "seed": 20268,
+          "baseName": "Records\\XPack\\Item\\Artifacts\\ArcaneFormulae\\N_LA_SkyfirePendant_Formula.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 2,
           "pointY": 9
         }
       ]
