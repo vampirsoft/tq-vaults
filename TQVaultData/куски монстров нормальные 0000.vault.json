@@ -2357,8 +2357,23 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 345340368,
+          "var2": 2035248,
           "pointX": 8,
+          "pointY": 9
+        },
+        {
+          "stackSize": 1,
+          "seed": 14209,
+          "baseName": "Records\\Item\\AnimalRelics\\01_Act1_BatFang.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_SpeedAttack_01.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1132093584,
+          "pointX": 9,
           "pointY": 9
         }
       ]
@@ -4419,6 +4434,21 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 5,
+          "pointY": 12
+        },
+        {
+          "stackSize": 1,
+          "seed": 2467,
+          "baseName": "Records\\Item\\AnimalRelics\\01_MultActs_SpectralMatter.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\AnimalRelics\\Bonuses\\Offensive_%ManaBurn_01.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 903439176,
+          "pointX": 2,
           "pointY": 12
         }
       ]
