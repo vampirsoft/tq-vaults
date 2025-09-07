@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 0,
+  "currentlySelectedSackNumber": 1,
   "sacks": [
     {
       "iconinfo": null,
@@ -242,7 +242,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 268300352,
+          "var2": 2035248,
           "pointX": 8,
           "pointY": 9
         }
@@ -430,6 +430,21 @@
           "var2": 2035248,
           "pointX": 14,
           "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 5474,
+          "baseName": "Records\\Item\\EquipmentArmor\\MI_N_JackalmanMelee.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 59240512,
+          "pointX": 6,
+          "pointY": 3
         }
       ]
     },
