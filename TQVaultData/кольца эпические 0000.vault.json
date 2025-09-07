@@ -1283,21 +1283,6 @@
         },
         {
           "stackSize": 1,
-          "seed": 24394,
-          "baseName": "records\\xpack3\\items\\equipmentarmor\\ring\\u_n_01.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 8,
-          "pointY": 0
-        },
-        {
-          "stackSize": 1,
           "seed": 3435,
           "baseName": "Records\\Item\\EquipmentRing\\U_N_BloodStone.dbr",
           "prefixName": "",
@@ -1382,7 +1367,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 339120000,
+          "var2": 2035248,
           "pointX": 6,
           "pointY": 11
         },
@@ -1397,7 +1382,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 15,
+          "var2": 2035248,
           "pointX": 0,
           "pointY": 14
         }

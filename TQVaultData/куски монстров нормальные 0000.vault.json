@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 0,
+  "currentlySelectedSackNumber": 1,
   "sacks": [
     {
       "iconinfo": null,
@@ -2387,7 +2387,7 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1087816896,
+          "var2": 2035248,
           "pointX": 11,
           "pointY": 7
         },
@@ -2402,7 +2402,7 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1024306280,
+          "var2": 2035248,
           "pointX": 14,
           "pointY": 10
         },
@@ -2417,7 +2417,7 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 661486816,
+          "var2": 2035248,
           "pointX": 6,
           "pointY": 13
         }
@@ -4507,7 +4507,7 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 903269480,
+          "var2": 2035248,
           "pointX": 4,
           "pointY": 13
         },
@@ -4522,9 +4522,39 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 905531504,
+          "var2": 2035248,
           "pointX": 1,
           "pointY": 10
+        },
+        {
+          "stackSize": 1,
+          "seed": 4860,
+          "baseName": "Records\\Item\\AnimalRelics\\01_MultActs_RigidCarapace.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "records\\item\\lootmagicalaffixes\\animalrelics\\bonuses\\defensive_bleedresist_01.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 355440864,
+          "pointX": 7,
+          "pointY": 11
+        },
+        {
+          "stackSize": 1,
+          "seed": 16056,
+          "baseName": "Records\\Item\\AnimalRelics\\01_Act2_LupineClaw.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_SpeedAttack_01.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 744074016,
+          "pointX": 5,
+          "pointY": 13
         }
       ]
     },

@@ -1283,36 +1283,6 @@
         },
         {
           "stackSize": 1,
-          "seed": 26236,
-          "baseName": "Records\\XPack3\\Items\\EquipmentArmor\\Amulet\\u_n_01.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 12,
-          "pointY": 0
-        },
-        {
-          "stackSize": 1,
-          "seed": 13760,
-          "baseName": "Records\\XPack3\\Items\\EquipmentArmor\\Amulet\\u_n_01.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 12,
-          "pointY": 1
-        },
-        {
-          "stackSize": 1,
           "seed": 17164,
           "baseName": "Records\\Item\\EquipmentAmulet\\U_N_Frostmoon.dbr",
           "prefixName": "",
@@ -1322,7 +1292,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 1,
           "pointY": 6
         }

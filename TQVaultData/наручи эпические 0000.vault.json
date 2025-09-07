@@ -602,9 +602,39 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 12,
           "pointY": 18
+        },
+        {
+          "stackSize": 1,
+          "seed": 4460,
+          "baseName": "Records\\Item\\EquipmentArmband\\Um_N_PapyrusWinding.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 14,
+          "pointY": 18
+        },
+        {
+          "stackSize": 1,
+          "seed": 380,
+          "baseName": "Records\\Item\\EquipmentArmband\\Um_N_Scholar'sBangle.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 6,
+          "pointY": 8
         }
       ]
     },
