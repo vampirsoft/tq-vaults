@@ -2432,9 +2432,24 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 878799272,
+          "var2": 2035248,
           "pointX": 17,
           "pointY": 4
+        },
+        {
+          "stackSize": 1,
+          "seed": 13094,
+          "baseName": "Records\\Item\\AnimalRelics\\01_MultActs_DemonsBlood.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\AnimalRelics\\Bonuses\\Defensive_LifeResist_01.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 812549312,
+          "pointX": 12,
+          "pointY": 10
         }
       ]
     },
@@ -4582,7 +4597,7 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 870684864,
+          "var2": 2035248,
           "pointX": 3,
           "pointY": 12
         },
@@ -4597,7 +4612,7 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1032453392,
+          "var2": 2035248,
           "pointX": 6,
           "pointY": 12
         },
@@ -4612,7 +4627,7 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 244026936,
+          "var2": 2035248,
           "pointX": 0,
           "pointY": 11
         }

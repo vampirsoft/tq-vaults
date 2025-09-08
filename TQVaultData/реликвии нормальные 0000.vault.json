@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 1,
+  "currentlySelectedSackNumber": 0,
   "sacks": [
     {
       "iconinfo": null,
@@ -2525,6 +2525,21 @@
           "var2": 2035248,
           "pointX": 3,
           "pointY": 8
+        },
+        {
+          "stackSize": 1,
+          "seed": 5344,
+          "baseName": "Records\\Item\\Relics\\01_Act1_HeraclesMight.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Relics\\Bonuses\\Character_%Strength_01.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 60747840,
+          "pointX": 5,
+          "pointY": 11
         }
       ]
     },
@@ -4522,7 +4537,7 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 827893736,
+          "var2": 2035248,
           "pointX": 6,
           "pointY": 9
         },
@@ -4537,7 +4552,7 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 843707616,
+          "var2": 2035248,
           "pointX": 10,
           "pointY": 7
         },
@@ -4552,9 +4567,24 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 673038816,
+          "var2": 2035248,
           "pointX": 13,
           "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 19027,
+          "baseName": "Records\\Item\\Relics\\01_Act2_UdjatOfHorus.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "records\\item\\lootmagicalaffixes\\animalrelics\\bonuses\\defensive_bleedresist_01.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 8,
+          "pointY": 9
         }
       ]
     },
