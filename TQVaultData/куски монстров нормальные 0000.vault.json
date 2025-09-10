@@ -2450,6 +2450,21 @@
           "var2": 2035248,
           "pointX": 12,
           "pointY": 10
+        },
+        {
+          "stackSize": 1,
+          "seed": 24858,
+          "baseName": "Records\\Item\\AnimalRelics\\01_MultActs_DemonsBlood.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\AnimalRelics\\Bonuses\\Defensive_LifeResist_01.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1112145072,
+          "pointX": 13,
+          "pointY": 10
         }
       ]
     },
@@ -4672,9 +4687,24 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 394526928,
+          "var2": 2035248,
           "pointX": 2,
           "pointY": 13
+        },
+        {
+          "stackSize": 1,
+          "seed": 19503,
+          "baseName": "Records\\Item\\AnimalRelics\\01_Act3_SaberClaw.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Relics\\Bonuses\\Offensive_%bleed_01.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1547566312,
+          "pointX": 9,
+          "pointY": 2
         }
       ]
     },

@@ -1058,21 +1058,6 @@
         },
         {
           "stackSize": 1,
-          "seed": 32077,
-          "baseName": "Records\\Item\\EquipmentWeapon\\Bow\\U_N_StormStrike.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 15,
-          "pointY": 16
-        },
-        {
-          "stackSize": 1,
           "seed": 18847,
           "baseName": "Records\\Item\\EquipmentWeapon\\Bow\\U_N_HornsofCyprus.dbr",
           "prefixName": "",
@@ -1202,9 +1187,39 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 14,
           "pointY": 12
+        },
+        {
+          "stackSize": 1,
+          "seed": 20761,
+          "baseName": "Records\\Item\\EquipmentWeapon\\Bow\\U_N_TendonRipper.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 15,
+          "pointY": 16
+        },
+        {
+          "stackSize": 1,
+          "seed": 32077,
+          "baseName": "Records\\Item\\EquipmentWeapon\\Bow\\U_N_StormStrike.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 16,
+          "pointY": 16
         }
       ]
     },
