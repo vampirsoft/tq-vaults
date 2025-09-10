@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 0,
+  "currentlySelectedSackNumber": 1,
   "sacks": [
     {
       "iconinfo": null,
@@ -2447,7 +2447,7 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 812549312,
+          "var2": 2035248,
           "pointX": 12,
           "pointY": 10
         }
@@ -4630,6 +4630,36 @@
           "var2": 2035248,
           "pointX": 0,
           "pointY": 11
+        },
+        {
+          "stackSize": 1,
+          "seed": 10772,
+          "baseName": "Records\\Item\\AnimalRelics\\01_MultActs_RigidCarapace.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "records\\item\\lootmagicalaffixes\\animalrelics\\bonuses\\defensive_bleedresist_01.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 809615568,
+          "pointX": 7,
+          "pointY": 12
+        },
+        {
+          "stackSize": 1,
+          "seed": 28816,
+          "baseName": "Records\\Item\\AnimalRelics\\01_Act2_LupineClaw.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_SpeedAttack_01.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 593709256,
+          "pointX": 4,
+          "pointY": 14
         }
       ]
     },
