@@ -4642,7 +4642,7 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 809615568,
+          "var2": 2035248,
           "pointX": 7,
           "pointY": 12
         },
@@ -4657,9 +4657,24 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 593709256,
+          "var2": 2035248,
           "pointX": 4,
           "pointY": 14
+        },
+        {
+          "stackSize": 1,
+          "seed": 25558,
+          "baseName": "Records\\Item\\AnimalRelics\\01_MultActs_SpectralMatter.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\AnimalRelics\\Bonuses\\Offensive_%ManaBurn_01.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 394526928,
+          "pointX": 2,
+          "pointY": 13
         }
       ]
     },

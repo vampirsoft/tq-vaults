@@ -2552,7 +2552,7 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 441190352,
+          "var2": 2035248,
           "pointX": 4,
           "pointY": 12
         },
@@ -2567,7 +2567,7 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 751095496,
+          "var2": 2035248,
           "pointX": 15,
           "pointY": 10
         }
@@ -4627,9 +4627,54 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 7,
           "pointY": 9
+        },
+        {
+          "stackSize": 1,
+          "seed": 27740,
+          "baseName": "Records\\Item\\Relics\\01_Act2_UdjatOfHorus.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "records\\item\\lootmagicalaffixes\\animalrelics\\bonuses\\defensive_bleedresist_01.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 9,
+          "pointY": 9
+        },
+        {
+          "stackSize": 1,
+          "seed": 20343,
+          "baseName": "Records\\Item\\Relics\\01_Act2_AnubisWrath.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_SpeedAttack_01.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 15,
+          "pointY": 7
+        },
+        {
+          "stackSize": 1,
+          "seed": 9953,
+          "baseName": "Records\\Item\\Relics\\01_Act2_AnkhOfIsis.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "records\\item\\lootmagicalaffixes\\animalrelics\\bonuses\\defensive_bleedresist_01.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 11,
+          "pointY": 7
         }
       ]
     },
