@@ -692,7 +692,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 269480000,
+          "var2": 2035248,
           "pointX": 6,
           "pointY": 0
         },
@@ -707,7 +707,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 269480000,
+          "var2": 2035248,
           "pointX": 6,
           "pointY": 2
         },
@@ -722,9 +722,24 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 67104832,
+          "var2": 2035248,
           "pointX": 6,
           "pointY": 4
+        },
+        {
+          "stackSize": 1,
+          "seed": 29460,
+          "baseName": "Records\\Item\\EquipmentArmband\\MI_N_DuneRaider.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 63828032,
+          "pointX": 16,
+          "pointY": 16
         }
       ]
     },

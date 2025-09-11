@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 1,
+  "currentlySelectedSackNumber": 0,
   "sacks": [
     {
       "iconinfo": null,
@@ -2462,9 +2462,39 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1112145072,
+          "var2": 2035248,
           "pointX": 13,
           "pointY": 10
+        },
+        {
+          "stackSize": 1,
+          "seed": 10464,
+          "baseName": "Records\\Item\\AnimalRelics\\01_MultActs_MechanicalParts.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Defensive_Protection_01.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1070196960,
+          "pointX": 15,
+          "pointY": 10
+        },
+        {
+          "stackSize": 1,
+          "seed": 22614,
+          "baseName": "Records\\Item\\AnimalRelics\\01_MultActs_VenomSac.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "records\\item\\lootmagicalaffixes\\relics\\bonuses\\offensive_%poison_01.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 932429936,
+          "pointX": 7,
+          "pointY": 13
         }
       ]
     },
@@ -4702,9 +4732,39 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1547566312,
+          "var2": 2035248,
           "pointX": 9,
           "pointY": 2
+        },
+        {
+          "stackSize": 1,
+          "seed": 30080,
+          "baseName": "Records\\Item\\AnimalRelics\\01_MultActs_RigidCarapace.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "records\\item\\lootmagicalaffixes\\animalrelics\\bonuses\\defensive_bleedresist_01.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 872064648,
+          "pointX": 6,
+          "pointY": 13
+        },
+        {
+          "stackSize": 1,
+          "seed": 13143,
+          "baseName": "Records\\Item\\AnimalRelics\\01_MultActs_SpectralMatter.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\AnimalRelics\\Bonuses\\Offensive_%ManaBurn_01.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 436331744,
+          "pointX": 3,
+          "pointY": 13
         }
       ]
     },
