@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 5,
+  "currentlySelectedSackNumber": 6,
   "sacks": [
     {
       "iconinfo": null,
@@ -2547,7 +2547,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 14,
           "pointY": 3
         }
@@ -2585,6 +2585,21 @@
           "var2": 2035248,
           "pointX": 2,
           "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 32745,
+          "baseName": "Records\\Item\\EquipmentArmor\\U_N_MantleofPanacea.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 2,
+          "pointY": 3
         }
       ]
     },

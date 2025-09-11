@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 2,
+  "currentlySelectedSackNumber": 4,
   "sacks": [
     {
       "iconinfo": null,
@@ -2262,7 +2262,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 4,
           "pointY": 16
         },
@@ -2277,9 +2277,39 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 6,
           "pointY": 9
+        },
+        {
+          "stackSize": 1,
+          "seed": 7718,
+          "baseName": "Records\\Item\\EquipmentArmband\\US_N_ObsidianArmor.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 6,
+          "pointY": 14
+        },
+        {
+          "stackSize": 1,
+          "seed": 20398,
+          "baseName": "Records\\Item\\EquipmentWeapon\\Axe\\US_N_ObsidianArmor.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 6,
+          "pointY": 17
         }
       ]
     },
@@ -2777,7 +2807,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 8,
           "pointY": 17
         },
@@ -2807,7 +2837,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 63828032,
+          "var2": 2035248,
           "pointX": 16,
           "pointY": 13
         },
@@ -2822,7 +2852,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 63828032,
+          "var2": 2035248,
           "pointX": 10,
           "pointY": 17
         },
@@ -3250,6 +3280,21 @@
           "var2": 2035248,
           "pointX": 4,
           "pointY": 5
+        },
+        {
+          "stackSize": 1,
+          "seed": 24247,
+          "baseName": "Records\\Item\\EquipmentGreaves\\US_N_BabylonianRaiment.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 2,
+          "pointY": 16
         }
       ]
     },

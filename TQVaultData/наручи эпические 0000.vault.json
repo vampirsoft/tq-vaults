@@ -608,21 +608,6 @@
         },
         {
           "stackSize": 1,
-          "seed": 4460,
-          "baseName": "Records\\Item\\EquipmentArmband\\Um_N_PapyrusWinding.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 14,
-          "pointY": 18
-        },
-        {
-          "stackSize": 1,
           "seed": 380,
           "baseName": "Records\\Item\\EquipmentArmband\\Um_N_Scholar'sBangle.dbr",
           "prefixName": "",
@@ -638,8 +623,8 @@
         },
         {
           "stackSize": 1,
-          "seed": 15281,
-          "baseName": "Records\\Item\\EquipmentArmband\\Um_N_PapyrusWinding.dbr",
+          "seed": 4164,
+          "baseName": "Records\\Item\\EquipmentArmband\\U_N_BracersofAtlas.dbr",
           "prefixName": "",
           "suffixName": "",
           "relicName": "",
@@ -649,11 +634,11 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 16,
-          "pointY": 18
+          "pointY": 8
         },
         {
           "stackSize": 1,
-          "seed": 4164,
+          "seed": 20408,
           "baseName": "Records\\Item\\EquipmentArmband\\U_N_BracersofAtlas.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -664,7 +649,52 @@
           "relicBonus2": "",
           "var2": 1065353216,
           "pointX": 16,
-          "pointY": 8
+          "pointY": 10
+        },
+        {
+          "stackSize": 1,
+          "seed": 22130,
+          "baseName": "Records\\Item\\EquipmentArmband\\Um_N_PapyrusWinding.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 10,
+          "pointY": 16
+        },
+        {
+          "stackSize": 1,
+          "seed": 15281,
+          "baseName": "Records\\Item\\EquipmentArmband\\Um_N_PapyrusWinding.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 10,
+          "pointY": 14
+        },
+        {
+          "stackSize": 1,
+          "seed": 4460,
+          "baseName": "Records\\Item\\EquipmentArmband\\Um_N_PapyrusWinding.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 12,
+          "pointY": 16
         }
       ]
     },

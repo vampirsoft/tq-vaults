@@ -2597,9 +2597,24 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 12,
           "pointY": 9
+        },
+        {
+          "stackSize": 1,
+          "seed": 28481,
+          "baseName": "Records\\Item\\Relics\\01_Act1_ArtemisBowstring.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_SpeedAttack_01.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 17,
+          "pointY": 10
         }
       ]
     },
@@ -4702,9 +4717,39 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 779089088,
+          "var2": 2035248,
           "pointX": 11,
           "pointY": 7
+        },
+        {
+          "stackSize": 1,
+          "seed": 27055,
+          "baseName": "Records\\Item\\Relics\\01_Act2_DjedOfOsiris.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_SpeedAttack_01.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 417049528,
+          "pointX": 4,
+          "pointY": 13
+        },
+        {
+          "stackSize": 1,
+          "seed": 20637,
+          "baseName": "Records\\Item\\Relics\\01_Act2_SetsBetrayal.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Offensive_DamagePierce_02.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 6,
+          "pointY": 10
         }
       ]
     },

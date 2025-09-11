@@ -2507,9 +2507,24 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 698411144,
+          "var2": 2035248,
           "pointX": 10,
           "pointY": 8
+        },
+        {
+          "stackSize": 1,
+          "seed": 30004,
+          "baseName": "Records\\Item\\AnimalRelics\\01_MultActs_VenomSac.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "records\\item\\lootmagicalaffixes\\relics\\bonuses\\offensive_%poison_01.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1117781080,
+          "pointX": 6,
+          "pointY": 14
         }
       ]
     },
@@ -4779,6 +4794,51 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 3,
+          "pointY": 13
+        },
+        {
+          "stackSize": 1,
+          "seed": 1527,
+          "baseName": "Records\\Item\\AnimalRelics\\01_Act2_VileIchor.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Offensive_DamagePoison_01.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 848013376,
+          "pointX": 1,
+          "pointY": 11
+        },
+        {
+          "stackSize": 1,
+          "seed": 4415,
+          "baseName": "Records\\Item\\AnimalRelics\\01_Act2_LupineClaw.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_SpeedAttack_01.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1031036048,
+          "pointX": 5,
+          "pointY": 14
+        },
+        {
+          "stackSize": 1,
+          "seed": 12445,
+          "baseName": "Records\\Item\\AnimalRelics\\01_MultActs_RigidCarapace.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "records\\item\\lootmagicalaffixes\\animalrelics\\bonuses\\defensive_bleedresist_01.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 595174416,
+          "pointX": 7,
           "pointY": 13
         }
       ]
