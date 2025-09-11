@@ -2582,7 +2582,7 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 685366408,
+          "var2": 2035248,
           "pointX": 8,
           "pointY": 9
         }
@@ -4258,21 +4258,6 @@
         },
         {
           "stackSize": 1,
-          "seed": 23860,
-          "baseName": "Records\\Item\\Relics\\01_Act2_AmunRasGlory.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "records\\item\\lootmagicalaffixes\\animalrelics\\bonuses\\defensive_bleedresist_01.dbr",
-          "var1": 3,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 12,
-          "pointY": 0
-        },
-        {
-          "stackSize": 1,
           "seed": 23969,
           "baseName": "Records\\Item\\Relics\\01_Act2_AnkhOfIsis.dbr",
           "prefixName": "",
@@ -4513,21 +4498,6 @@
         },
         {
           "stackSize": 1,
-          "seed": 6765,
-          "baseName": "Records\\Item\\Relics\\01_Act2_AnkhOfIsis.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "records\\item\\lootmagicalaffixes\\animalrelics\\bonuses\\defensive_bleedresist_01.dbr",
-          "var1": 3,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 11,
-          "pointY": 6
-        },
-        {
-          "stackSize": 1,
           "seed": 32507,
           "baseName": "Records\\Item\\Relics\\01_Act2_UdjatOfHorus.dbr",
           "prefixName": "",
@@ -4585,36 +4555,6 @@
           "var2": 2035248,
           "pointX": 6,
           "pointY": 9
-        },
-        {
-          "stackSize": 1,
-          "seed": 23599,
-          "baseName": "Records\\Item\\Relics\\01_Act2_AnkhOfIsis.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "records\\item\\lootmagicalaffixes\\animalrelics\\bonuses\\defensive_bleedresist_01.dbr",
-          "var1": 3,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 10,
-          "pointY": 7
-        },
-        {
-          "stackSize": 1,
-          "seed": 23379,
-          "baseName": "Records\\Item\\Relics\\01_Act2_AmunRasGlory.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "records\\item\\lootmagicalaffixes\\animalrelics\\bonuses\\defensive_bleedresist_01.dbr",
-          "var1": 3,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 13,
-          "pointY": 0
         },
         {
           "stackSize": 1,
@@ -4678,6 +4618,36 @@
         },
         {
           "stackSize": 1,
+          "seed": 22171,
+          "baseName": "Records\\Item\\Relics\\01_Act2_DjedOfOsiris.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_SpeedAttack_01.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 803949800,
+          "pointX": 5,
+          "pointY": 12
+        },
+        {
+          "stackSize": 1,
+          "seed": 23599,
+          "baseName": "Records\\Item\\Relics\\01_Act2_AnkhOfIsis.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "records\\item\\lootmagicalaffixes\\animalrelics\\bonuses\\defensive_bleedresist_01.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 11,
+          "pointY": 6
+        },
+        {
+          "stackSize": 1,
           "seed": 9953,
           "baseName": "Records\\Item\\Relics\\01_Act2_AnkhOfIsis.dbr",
           "prefixName": "",
@@ -4687,8 +4657,8 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 11,
+          "var2": 1065353216,
+          "pointX": 10,
           "pointY": 7
         }
       ]
@@ -5907,7 +5877,7 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 9,
           "pointY": 3
         },
@@ -5922,7 +5892,7 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 424040592,
+          "var2": 2035248,
           "pointX": 0,
           "pointY": 3
         },
@@ -5937,7 +5907,7 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1131474776,
+          "var2": 2035248,
           "pointX": 3,
           "pointY": 3
         }
@@ -7593,7 +7563,7 @@
           "prefixName": "",
           "suffixName": "",
           "relicName": "",
-          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Relics\\BonusesGreece\\01\\01_HermesSandal_RegenLife.dbr",
+          "relicBonus": "records\\xpack\\item\\lootmagicalaffixes\\prefix\\default\\rare_petbonus_%speedhealth_01.dbr",
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",

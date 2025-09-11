@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 6,
+  "currentlySelectedSackNumber": 1,
   "sacks": [
     {
       "iconinfo": null,
@@ -128,36 +128,6 @@
         },
         {
           "stackSize": 1,
-          "seed": 17544,
-          "baseName": "Records\\Item\\EquipmentArmor\\MI_N_Wraith.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 12,
-          "pointY": 0
-        },
-        {
-          "stackSize": 1,
-          "seed": 19667,
-          "baseName": "Records\\Item\\EquipmentArmor\\MI_N_Wraith.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 12,
-          "pointY": 3
-        },
-        {
-          "stackSize": 1,
           "seed": 1670,
           "baseName": "Records\\Item\\EquipmentArmor\\MI_N_Boarman.dbr",
           "prefixName": "",
@@ -260,6 +230,36 @@
           "var2": 2035248,
           "pointX": 6,
           "pointY": 17
+        },
+        {
+          "stackSize": 1,
+          "seed": 25914,
+          "baseName": "Records\\Item\\EquipmentArmor\\MI_N_Wraith.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 67104832,
+          "pointX": 12,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 17544,
+          "baseName": "Records\\Item\\EquipmentArmor\\MI_N_Wraith.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 67104832,
+          "pointX": 12,
+          "pointY": 3
         }
       ]
     },
@@ -490,6 +490,21 @@
           "var2": 2035248,
           "pointX": 16,
           "pointY": 3
+        },
+        {
+          "stackSize": 1,
+          "seed": 2023,
+          "baseName": "Records\\Item\\EquipmentArmor\\MI_N_JackalmanMelee.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 254865472,
+          "pointX": 6,
+          "pointY": 9
         }
       ]
     },
@@ -1697,7 +1712,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 53669952,
+          "var2": 2035248,
           "pointX": 14,
           "pointY": 3
         }

@@ -712,7 +712,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 53669952,
+          "var2": 2035248,
           "pointX": 6,
           "pointY": 4
         },
@@ -727,7 +727,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 53669952,
+          "var2": 2035248,
           "pointX": 0,
           "pointY": 4
         }
@@ -1382,8 +1382,38 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 53669952,
+          "var2": 2035248,
           "pointX": 16,
+          "pointY": 2
+        },
+        {
+          "stackSize": 1,
+          "seed": 2260,
+          "baseName": "Records\\Item\\EquipmentHelm\\MI_N_SatyrMage.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 989769968,
+          "pointX": 14,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 8354,
+          "baseName": "Records\\Item\\EquipmentHelm\\MI_N_SatyrMage.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 989769968,
+          "pointX": 14,
           "pointY": 2
         }
       ]
@@ -1513,21 +1543,6 @@
         },
         {
           "stackSize": 1,
-          "seed": 15345,
-          "baseName": "Records\\Item\\EquipmentHelm\\MI_N_SatyrMage.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 14,
-          "pointY": 0
-        },
-        {
-          "stackSize": 1,
           "seed": 31316,
           "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Helm\\MI_N_FormicidMelee01.dbr",
           "prefixName": "",
@@ -1554,21 +1569,6 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 8,
-          "pointY": 2
-        },
-        {
-          "stackSize": 1,
-          "seed": 8354,
-          "baseName": "Records\\Item\\EquipmentHelm\\MI_N_SatyrMage.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 14,
           "pointY": 2
         }
       ]
