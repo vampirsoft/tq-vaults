@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 1,
+  "currentlySelectedSackNumber": 2,
   "sacks": [
     {
       "iconinfo": null,
@@ -2612,7 +2612,7 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 17,
           "pointY": 10
         }
@@ -4732,7 +4732,7 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 417049528,
+          "var2": 2035248,
           "pointX": 4,
           "pointY": 13
         },
@@ -4747,7 +4747,7 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 6,
           "pointY": 10
         }
@@ -6000,6 +6000,21 @@
           "var2": 2035248,
           "pointX": 3,
           "pointY": 3
+        },
+        {
+          "stackSize": 1,
+          "seed": 16408,
+          "baseName": "records\\xpack3\\items\\relics\\01_x3_hesperides.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "records\\item\\lootmagicalaffixes\\suffix\\default\\character_speedattack_01.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 17,
+          "pointY": 5
         }
       ]
     },
