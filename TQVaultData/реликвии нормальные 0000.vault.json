@@ -2585,6 +2585,21 @@
           "var2": 2035248,
           "pointX": 8,
           "pointY": 9
+        },
+        {
+          "stackSize": 1,
+          "seed": 21090,
+          "baseName": "Records\\Item\\Relics\\01_Act1_ArchimedesMirror.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Retaliation_LeechLife_01.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 12,
+          "pointY": 9
         }
       ]
     },
@@ -4672,9 +4687,24 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1052717128,
+          "var2": 2035248,
           "pointX": 12,
           "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 6104,
+          "baseName": "Records\\Item\\Relics\\01_Act2_AnkhOfIsis.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "records\\item\\lootmagicalaffixes\\animalrelics\\bonuses\\defensive_bleedresist_01.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 779089088,
+          "pointX": 11,
+          "pointY": 7
         }
       ]
     },

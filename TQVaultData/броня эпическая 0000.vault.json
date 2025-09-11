@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 4,
+  "currentlySelectedSackNumber": 5,
   "sacks": [
     {
       "iconinfo": null,
@@ -2377,7 +2377,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 14,
           "pointY": 3
         }
@@ -2535,6 +2535,21 @@
           "var2": 2035248,
           "pointX": 16,
           "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 9735,
+          "baseName": "Records\\Item\\EquipmentArmor\\Um_N_Yuya'sGarb.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 14,
+          "pointY": 3
         }
       ]
     },
