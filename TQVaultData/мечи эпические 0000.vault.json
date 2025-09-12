@@ -512,7 +512,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 63828032,
+          "var2": 2035248,
           "pointX": 5,
           "pointY": 8
         }
@@ -757,8 +757,23 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 63828032,
+          "var2": 2035248,
           "pointX": 4,
+          "pointY": 4
+        },
+        {
+          "stackSize": 1,
+          "seed": 29591,
+          "baseName": "Records\\Item\\EquipmentWeapon\\Sword\\U_N_CleopatrasShortSword.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 56094784,
+          "pointX": 10,
           "pointY": 4
         }
       ]

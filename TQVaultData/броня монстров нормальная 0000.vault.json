@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 1,
+  "currentlySelectedSackNumber": 0,
   "sacks": [
     {
       "iconinfo": null,
@@ -242,7 +242,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 67104832,
+          "var2": 2035248,
           "pointX": 12,
           "pointY": 0
         },
@@ -257,8 +257,23 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 67104832,
+          "var2": 2035248,
           "pointX": 12,
+          "pointY": 3
+        },
+        {
+          "stackSize": 1,
+          "seed": 23011,
+          "baseName": "Records\\Item\\EquipmentArmor\\MI_N_DuneRaiderB.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 56094784,
+          "pointX": 16,
           "pointY": 3
         }
       ]
@@ -502,7 +517,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 254865472,
+          "var2": 2035248,
           "pointX": 6,
           "pointY": 9
         }
