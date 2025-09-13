@@ -490,6 +490,21 @@
           "var2": 2035248,
           "pointX": 5,
           "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 12504,
+          "baseName": "Records\\Item\\EquipmentWeapon\\Axe\\MI_N_NeanderthalMelee.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 63696960,
+          "pointX": 0,
+          "pointY": 6
         }
       ]
     },
