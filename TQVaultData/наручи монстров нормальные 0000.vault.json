@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 1,
+  "currentlySelectedSackNumber": 0,
   "sacks": [
     {
       "iconinfo": null,
@@ -473,21 +473,6 @@
         },
         {
           "stackSize": 1,
-          "seed": 21862,
-          "baseName": "Records\\Item\\EquipmentArmband\\MI_N_GorgonArcher.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 16,
-          "pointY": 0
-        },
-        {
-          "stackSize": 1,
           "seed": 1383,
           "baseName": "Records\\Item\\EquipmentArmband\\MI_N_DuneRaider.dbr",
           "prefixName": "",
@@ -604,21 +589,6 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 2,
-          "pointY": 2
-        },
-        {
-          "stackSize": 1,
-          "seed": 31630,
-          "baseName": "Records\\Item\\EquipmentArmband\\MI_N_GorgonArcher.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 16,
           "pointY": 2
         },
         {
@@ -755,6 +725,21 @@
           "var2": 2035248,
           "pointX": 16,
           "pointY": 14
+        },
+        {
+          "stackSize": 1,
+          "seed": 21862,
+          "baseName": "Records\\Item\\EquipmentArmband\\MI_N_GorgonArcher.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 16,
+          "pointY": 0
         }
       ]
     },
@@ -1252,7 +1237,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 63696960,
+          "var2": 2035248,
           "pointX": 2,
           "pointY": 18
         }

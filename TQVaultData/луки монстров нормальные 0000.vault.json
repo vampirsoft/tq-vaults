@@ -8,36 +8,6 @@
       "items": [
         {
           "stackSize": 1,
-          "seed": 21037,
-          "baseName": "Records\\Item\\EquipmentWeapon\\Bow\\MI_N_SatyrBrigand.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 0,
-          "pointY": 0
-        },
-        {
-          "stackSize": 1,
-          "seed": 11452,
-          "baseName": "Records\\Item\\EquipmentWeapon\\Bow\\MI_N_SatyrBrigand.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 0,
-          "pointY": 4
-        },
-        {
-          "stackSize": 1,
           "seed": 30664,
           "baseName": "Records\\XPack3\\Items\\EquipmentWeapon\\Bow\\MI_N_EmbalmedPriest.dbr",
           "prefixName": "",
@@ -110,21 +80,6 @@
           "var2": 2035248,
           "pointX": 1,
           "pointY": 4
-        },
-        {
-          "stackSize": 1,
-          "seed": 15649,
-          "baseName": "Records\\Item\\EquipmentWeapon\\Bow\\MI_N_SatyrBrigand.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 0,
-          "pointY": 8
         },
         {
           "stackSize": 1,
@@ -353,21 +308,6 @@
         },
         {
           "stackSize": 1,
-          "seed": 5067,
-          "baseName": "Records\\Item\\EquipmentWeapon\\Bow\\MI_N_SatyrBrigand.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 0,
-          "pointY": 12
-        },
-        {
-          "stackSize": 1,
           "seed": 32459,
           "baseName": "Records\\Item\\EquipmentWeapon\\Bow\\MI_N_DuneRaider.dbr",
           "prefixName": "",
@@ -377,9 +317,24 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 56094784,
+          "var2": 2035248,
           "pointX": 9,
           "pointY": 16
+        },
+        {
+          "stackSize": 1,
+          "seed": 21037,
+          "baseName": "Records\\Item\\EquipmentWeapon\\Bow\\MI_N_SatyrBrigand.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 0,
+          "pointY": 0
         }
       ]
     },

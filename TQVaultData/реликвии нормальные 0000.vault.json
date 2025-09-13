@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 0,
+  "currentlySelectedSackNumber": 1,
   "sacks": [
     {
       "iconinfo": null,
@@ -2393,21 +2393,6 @@
         },
         {
           "stackSize": 1,
-          "seed": 11207,
-          "baseName": "Records\\Item\\Relics\\01_Act1_HecatesCrescent.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "records\\item\\lootmagicalaffixes\\animalrelics\\bonuses\\defensive_liferesist_01.dbr",
-          "var1": 3,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 6,
-          "pointY": 10
-        },
-        {
-          "stackSize": 1,
           "seed": 7826,
           "baseName": "records\\item\\relics\\01_act1_aegisofathena.dbr",
           "prefixName": "",
@@ -2465,21 +2450,6 @@
           "var2": 2035248,
           "pointX": 1,
           "pointY": 5
-        },
-        {
-          "stackSize": 1,
-          "seed": 32152,
-          "baseName": "Records\\Item\\Relics\\01_Act1_Hermessandal.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Relics\\BonusesGreece\\01\\01_HermesSandal_ResistPoison.dbr",
-          "var1": 3,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 11,
-          "pointY": 7
         },
         {
           "stackSize": 1,
@@ -2603,8 +2573,23 @@
         },
         {
           "stackSize": 1,
-          "seed": 28481,
-          "baseName": "Records\\Item\\Relics\\01_Act1_ArtemisBowstring.dbr",
+          "seed": 9074,
+          "baseName": "Records\\Item\\Relics\\01_Act1_ArchimedesMirror.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Retaliation_LeechLife_01.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 13,
+          "pointY": 9
+        },
+        {
+          "stackSize": 1,
+          "seed": 30125,
+          "baseName": "Records\\Item\\Relics\\01_Act1_PrometheusFlame.dbr",
           "prefixName": "",
           "suffixName": "",
           "relicName": "",
@@ -2612,14 +2597,14 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 17,
-          "pointY": 10
+          "var2": 803567680,
+          "pointX": 2,
+          "pointY": 9
         },
         {
           "stackSize": 1,
-          "seed": 18643,
-          "baseName": "Records\\Item\\Relics\\01_Act1_GoldenFleece.dbr",
+          "seed": 11207,
+          "baseName": "Records\\Item\\Relics\\01_Act1_HecatesCrescent.dbr",
           "prefixName": "",
           "suffixName": "",
           "relicName": "",
@@ -2628,8 +2613,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 1065353216,
-          "pointX": 0,
-          "pointY": 6
+          "pointX": 6,
+          "pointY": 10
         }
       ]
     },
@@ -4723,21 +4708,6 @@
         },
         {
           "stackSize": 1,
-          "seed": 6104,
-          "baseName": "Records\\Item\\Relics\\01_Act2_AnkhOfIsis.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "records\\item\\lootmagicalaffixes\\animalrelics\\bonuses\\defensive_bleedresist_01.dbr",
-          "var1": 3,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 11,
-          "pointY": 7
-        },
-        {
-          "stackSize": 1,
           "seed": 27055,
           "baseName": "Records\\Item\\Relics\\01_Act2_DjedOfOsiris.dbr",
           "prefixName": "",
@@ -4750,21 +4720,6 @@
           "var2": 2035248,
           "pointX": 4,
           "pointY": 13
-        },
-        {
-          "stackSize": 1,
-          "seed": 20637,
-          "baseName": "Records\\Item\\Relics\\01_Act2_SetsBetrayal.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Offensive_DamagePierce_02.dbr",
-          "var1": 3,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 6,
-          "pointY": 10
         },
         {
           "stackSize": 1,
@@ -4783,21 +4738,6 @@
         },
         {
           "stackSize": 1,
-          "seed": 10945,
-          "baseName": "Records\\Item\\Relics\\01_Act2_SetsBetrayal.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Offensive_DamagePierce_02.dbr",
-          "var1": 3,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 7,
-          "pointY": 10
-        },
-        {
-          "stackSize": 1,
           "seed": 11131,
           "baseName": "Records\\Item\\Relics\\01_Act2_AmunRasGlory.dbr",
           "prefixName": "",
@@ -4810,21 +4750,6 @@
           "var2": 2035248,
           "pointX": 13,
           "pointY": 0
-        },
-        {
-          "stackSize": 1,
-          "seed": 16486,
-          "baseName": "Records\\Item\\Relics\\01_Act2_AnkhOfIsis.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "records\\item\\lootmagicalaffixes\\animalrelics\\bonuses\\defensive_bleedresist_01.dbr",
-          "var1": 3,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 10,
-          "pointY": 8
         },
         {
           "stackSize": 1,
@@ -6117,7 +6042,7 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 405442848,
+          "var2": 2035248,
           "pointX": 6,
           "pointY": 3
         },
@@ -6132,7 +6057,7 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 5,
           "pointY": 4
         },
@@ -6147,7 +6072,7 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 2,
           "pointY": 4
         }

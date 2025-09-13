@@ -38,21 +38,6 @@
         },
         {
           "stackSize": 1,
-          "seed": 16569,
-          "baseName": "Records\\Item\\EquipmentAmulet\\U_N_Wellspring.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 3,
-          "pointY": 0
-        },
-        {
-          "stackSize": 1,
           "seed": 22911,
           "baseName": "Records\\Item\\EquipmentAmulet\\U_N_Frostmoon.dbr",
           "prefixName": "",
@@ -80,21 +65,6 @@
           "var2": 2035248,
           "pointX": 1,
           "pointY": 2
-        },
-        {
-          "stackSize": 1,
-          "seed": 7249,
-          "baseName": "Records\\Item\\EquipmentAmulet\\U_N_Wellspring.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 3,
-          "pointY": 1
         },
         {
           "stackSize": 1,
@@ -473,21 +443,6 @@
         },
         {
           "stackSize": 1,
-          "seed": 24674,
-          "baseName": "Records\\Item\\EquipmentAmulet\\U_N_Wellspring.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 3,
-          "pointY": 2
-        },
-        {
-          "stackSize": 1,
           "seed": 28248,
           "baseName": "Records\\Item\\EquipmentAmulet\\U_N_Venomheart.dbr",
           "prefixName": "",
@@ -803,21 +758,6 @@
         },
         {
           "stackSize": 1,
-          "seed": 27715,
-          "baseName": "Records\\Item\\EquipmentAmulet\\U_N_Wellspring.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 3,
-          "pointY": 3
-        },
-        {
-          "stackSize": 1,
           "seed": 14427,
           "baseName": "Records\\Item\\EquipmentAmulet\\U_N_Venomheart.dbr",
           "prefixName": "",
@@ -953,21 +893,6 @@
         },
         {
           "stackSize": 1,
-          "seed": 30745,
-          "baseName": "Records\\Item\\EquipmentAmulet\\U_N_Wellspring.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 3,
-          "pointY": 4
-        },
-        {
-          "stackSize": 1,
           "seed": 3411,
           "baseName": "Records\\Item\\EquipmentAmulet\\U_N_Moonclaw.dbr",
           "prefixName": "",
@@ -980,21 +905,6 @@
           "var2": 2035248,
           "pointX": 2,
           "pointY": 2
-        },
-        {
-          "stackSize": 1,
-          "seed": 5597,
-          "baseName": "Records\\Item\\EquipmentAmulet\\U_N_Wellspring.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 3,
-          "pointY": 5
         },
         {
           "stackSize": 1,
@@ -1208,21 +1118,6 @@
         },
         {
           "stackSize": 1,
-          "seed": 3760,
-          "baseName": "Records\\Item\\EquipmentAmulet\\U_N_Wellspring.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 3,
-          "pointY": 6
-        },
-        {
-          "stackSize": 1,
           "seed": 16917,
           "baseName": "Records\\Item\\EquipmentAmulet\\U_N_LadyY-ab'sScarab.dbr",
           "prefixName": "",
@@ -1367,7 +1262,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 6,
           "pointY": 9
         },
@@ -1382,9 +1277,39 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 12,
           "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 27715,
+          "baseName": "Records\\Item\\EquipmentAmulet\\U_N_Wellspring.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 3,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 16569,
+          "baseName": "Records\\Item\\EquipmentAmulet\\U_N_Wellspring.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 3,
+          "pointY": 1
         }
       ]
     },
