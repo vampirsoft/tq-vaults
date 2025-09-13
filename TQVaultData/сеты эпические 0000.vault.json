@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 3,
+  "currentlySelectedSackNumber": 2,
   "sacks": [
     {
       "iconinfo": null,
@@ -2322,9 +2322,39 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 269217856,
+          "var2": 2035248,
           "pointX": 8,
           "pointY": 17
+        },
+        {
+          "stackSize": 1,
+          "seed": 32522,
+          "baseName": "Records\\Item\\EquipmentWeapon\\Axe\\US_N_ObsidianArmor.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 10,
+          "pointY": 17
+        },
+        {
+          "stackSize": 1,
+          "seed": 9865,
+          "baseName": "Records\\Item\\EquipmentArmband\\US_N_GebelTjauti.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 12,
+          "pointY": 9
         }
       ]
     },
@@ -2897,8 +2927,23 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 12,
+          "pointY": 13
+        },
+        {
+          "stackSize": 1,
+          "seed": 15478,
+          "baseName": "Records\\Item\\EquipmentGreaves\\US_N_Ramses'RoyalArmor.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 10,
           "pointY": 13
         }
       ]
@@ -3337,7 +3382,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 4,
           "pointY": 16
         }

@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 1,
+  "currentlySelectedSackNumber": 0,
   "sacks": [
     {
       "iconinfo": null,
@@ -1220,6 +1220,36 @@
           "var2": 2035248,
           "pointX": 16,
           "pointY": 16
+        },
+        {
+          "stackSize": 1,
+          "seed": 27367,
+          "baseName": "Records\\Item\\EquipmentWeapon\\Bow\\U_N_Nomad'sHuntingBow.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 253358144,
+          "pointX": 17,
+          "pointY": 16
+        },
+        {
+          "stackSize": 1,
+          "seed": 1802,
+          "baseName": "Records\\Item\\EquipmentWeapon\\Bow\\U_N_ScythianTouch.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 14,
+          "pointY": 8
         }
       ]
     },
@@ -1462,7 +1492,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 1,
           "pointY": 8
         }
