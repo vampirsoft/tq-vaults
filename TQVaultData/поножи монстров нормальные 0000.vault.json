@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 1,
+  "currentlySelectedSackNumber": 0,
   "sacks": [
     {
       "iconinfo": null,
@@ -530,6 +530,21 @@
           "var2": 2035248,
           "pointX": 6,
           "pointY": 10
+        },
+        {
+          "stackSize": 1,
+          "seed": 23941,
+          "baseName": "Records\\Item\\EquipmentGreaves\\MI_N_Mummy.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 269217856,
+          "pointX": 0,
+          "pointY": 12
         }
       ]
     },
@@ -802,7 +817,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 269480000,
+          "var2": 2035248,
           "pointX": 8,
           "pointY": 0
         },
@@ -817,7 +832,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 67104832,
+          "var2": 2035248,
           "pointX": 8,
           "pointY": 2
         }

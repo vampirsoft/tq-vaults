@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 6,
+  "currentlySelectedSackNumber": 1,
   "sacks": [
     {
       "iconinfo": null,
@@ -1405,6 +1405,21 @@
           "var2": 2035248,
           "pointX": 2,
           "pointY": 17
+        },
+        {
+          "stackSize": 1,
+          "seed": 2411,
+          "baseName": "Records\\Item\\EquipmentArmor\\Um_N_Mirage.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 2,
+          "pointY": 14
         }
       ]
     },
@@ -2150,6 +2165,21 @@
           "var2": 2035248,
           "pointX": 8,
           "pointY": 15
+        },
+        {
+          "stackSize": 1,
+          "seed": 20624,
+          "baseName": "Records\\Item\\EquipmentArmor\\Um_N_Ben'haamon'sKilt.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 6,
+          "pointY": 17
         }
       ]
     },
@@ -2550,6 +2580,21 @@
           "var2": 2035248,
           "pointX": 14,
           "pointY": 3
+        },
+        {
+          "stackSize": 1,
+          "seed": 9852,
+          "baseName": "Records\\Item\\EquipmentArmor\\U_N_NomadsBodyWrap.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 12,
+          "pointY": 3
         }
       ]
     },
@@ -2597,7 +2642,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 2,
           "pointY": 3
         }

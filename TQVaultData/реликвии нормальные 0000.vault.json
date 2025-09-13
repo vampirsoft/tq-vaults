@@ -4762,8 +4762,23 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 8,
+          "pointY": 10
+        },
+        {
+          "stackSize": 1,
+          "seed": 10945,
+          "baseName": "Records\\Item\\Relics\\01_Act2_SetsBetrayal.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Offensive_DamagePierce_02.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 7,
           "pointY": 10
         }
       ]

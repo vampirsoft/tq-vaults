@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 0,
+  "currentlySelectedSackNumber": 1,
   "sacks": [
     {
       "iconinfo": null,
@@ -2522,9 +2522,24 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1117781080,
+          "var2": 2035248,
           "pointX": 6,
           "pointY": 14
+        },
+        {
+          "stackSize": 1,
+          "seed": 10302,
+          "baseName": "Records\\Item\\AnimalRelics\\01_Act2_HagsSkin.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "records\\item\\lootmagicalaffixes\\animalrelics\\bonuses\\defensive_bleedresist_01.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1032213568,
+          "pointX": 16,
+          "pointY": 5
         }
       ]
     },
@@ -4807,7 +4822,7 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 848013376,
+          "var2": 2035248,
           "pointX": 1,
           "pointY": 11
         },
@@ -4822,7 +4837,7 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1031036048,
+          "var2": 2035248,
           "pointX": 5,
           "pointY": 14
         },
@@ -4837,9 +4852,24 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 595174416,
+          "var2": 2035248,
           "pointX": 7,
           "pointY": 13
+        },
+        {
+          "stackSize": 1,
+          "seed": 22836,
+          "baseName": "Records\\Item\\AnimalRelics\\01_MultActs_SpectralMatter.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\AnimalRelics\\Bonuses\\Offensive_%ManaBurn_01.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 379166640,
+          "pointX": 2,
+          "pointY": 14
         }
       ]
     },

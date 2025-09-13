@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 0,
+  "currentlySelectedSackNumber": 5,
   "sacks": [
     {
       "iconinfo": null,
@@ -752,7 +752,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 56094784,
+          "var2": 2035248,
           "pointX": 16,
           "pointY": 14
         }
@@ -2445,6 +2445,21 @@
           "var2": 2035248,
           "pointX": 6,
           "pointY": 8
+        },
+        {
+          "stackSize": 1,
+          "seed": 31261,
+          "baseName": "Records\\Item\\EquipmentArmband\\MI_N_JackalmanMage.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 269217856,
+          "pointX": 4,
+          "pointY": 4
         }
       ]
     },
