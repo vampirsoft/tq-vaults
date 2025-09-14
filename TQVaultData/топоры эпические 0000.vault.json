@@ -632,9 +632,24 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 253358144,
+          "var2": 2035248,
           "pointX": 9,
           "pointY": 15
+        },
+        {
+          "stackSize": 1,
+          "seed": 14400,
+          "baseName": "Records\\Item\\EquipmentWeapon\\Axe\\U_N_Frostbite.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 52686912,
+          "pointX": 6,
+          "pointY": 12
         }
       ]
     },

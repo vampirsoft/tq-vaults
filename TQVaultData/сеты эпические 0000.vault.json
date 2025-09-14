@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 1,
+  "currentlySelectedSackNumber": 2,
   "sacks": [
     {
       "iconinfo": null,
@@ -1567,8 +1567,23 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 2,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 26024,
+          "baseName": "Records\\Item\\EquipmentArmband\\US_N_LabyrinthineArmor.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 4,
           "pointY": 0
         }
       ]
@@ -2474,6 +2489,21 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 12,
+          "pointY": 18
+        },
+        {
+          "stackSize": 1,
+          "seed": 7036,
+          "baseName": "Records\\Item\\EquipmentArmband\\US_N_ObsidianArmor.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 14,
           "pointY": 18
         }
       ]
