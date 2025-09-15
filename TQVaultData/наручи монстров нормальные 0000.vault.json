@@ -752,9 +752,39 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 266989632,
+          "var2": 2035248,
           "pointX": 4,
           "pointY": 12
+        },
+        {
+          "stackSize": 1,
+          "seed": 3509,
+          "baseName": "Records\\Item\\EquipmentArmband\\MI_N_Boarman.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 58257472,
+          "pointX": 4,
+          "pointY": 14
+        },
+        {
+          "stackSize": 1,
+          "seed": 26179,
+          "baseName": "Records\\Item\\EquipmentArmband\\MI_N_Wraith.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 58257472,
+          "pointX": 6,
+          "pointY": 6
         }
       ]
     },
@@ -2075,6 +2105,21 @@
           "var2": 2035248,
           "pointX": 16,
           "pointY": 16
+        },
+        {
+          "stackSize": 1,
+          "seed": 17521,
+          "baseName": "Records\\Item\\EquipmentArmband\\MI_N_GorgonMelee.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 58257472,
+          "pointX": 16,
+          "pointY": 18
         }
       ]
     },

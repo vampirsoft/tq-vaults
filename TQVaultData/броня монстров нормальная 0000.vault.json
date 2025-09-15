@@ -257,7 +257,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 266989632,
+          "var2": 2035248,
           "pointX": 10,
           "pointY": 3
         },
@@ -272,9 +272,24 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 266989632,
+          "var2": 2035248,
           "pointX": 0,
           "pointY": 3
+        },
+        {
+          "stackSize": 1,
+          "seed": 14895,
+          "baseName": "Records\\Item\\EquipmentArmor\\MI_N_GorgonMelee.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 58257472,
+          "pointX": 8,
+          "pointY": 12
         }
       ]
     },
