@@ -422,9 +422,54 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 52162624,
+          "var2": 2035248,
           "pointX": 0,
           "pointY": 8
+        },
+        {
+          "stackSize": 1,
+          "seed": 28251,
+          "baseName": "Records\\Item\\EquipmentHelm\\MI_N_Arachnos.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 266989632,
+          "pointX": 0,
+          "pointY": 10
+        },
+        {
+          "stackSize": 1,
+          "seed": 27575,
+          "baseName": "Records\\Item\\EquipmentHelm\\MI_N_GorgonMelee.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 266989632,
+          "pointX": 4,
+          "pointY": 4
+        },
+        {
+          "stackSize": 1,
+          "seed": 26608,
+          "baseName": "Records\\Item\\EquipmentHelm\\MI_N_GorgonArcher.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 266989632,
+          "pointX": 2,
+          "pointY": 2
         }
       ]
     },
@@ -1460,6 +1505,21 @@
           "var2": 2035248,
           "pointX": 12,
           "pointY": 8
+        },
+        {
+          "stackSize": 1,
+          "seed": 10779,
+          "baseName": "Records\\Item\\EquipmentHelm\\MI_N_SatyrMage.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 266989632,
+          "pointX": 14,
+          "pointY": 4
         }
       ]
     },

@@ -2612,7 +2612,7 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 875596608,
+          "var2": 2035248,
           "pointX": 15,
           "pointY": 11
         },
@@ -2627,7 +2627,7 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 874307352,
+          "var2": 2035248,
           "pointX": 5,
           "pointY": 2
         },
@@ -2642,9 +2642,24 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 653653272,
+          "var2": 2035248,
           "pointX": 3,
           "pointY": 9
+        },
+        {
+          "stackSize": 1,
+          "seed": 29020,
+          "baseName": "Records\\Item\\AnimalRelics\\01_MultActs_VenomSac.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "records\\item\\lootmagicalaffixes\\relics\\bonuses\\offensive_%poison_01.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 845882520,
+          "pointX": 6,
+          "pointY": 14
         }
       ]
     },
