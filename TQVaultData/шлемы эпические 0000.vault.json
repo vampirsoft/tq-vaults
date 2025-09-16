@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 1,
+  "currentlySelectedSackNumber": 0,
   "sacks": [
     {
       "iconinfo": null,
@@ -920,6 +920,21 @@
           "var2": 2035248,
           "pointX": 6,
           "pointY": 14
+        },
+        {
+          "stackSize": 1,
+          "seed": 8376,
+          "baseName": "Records\\Item\\EquipmentHelm\\Um_N_Cynic'sCover.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 0,
+          "pointY": 12
         }
       ]
     },
@@ -1522,7 +1537,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 8,
           "pointY": 6
         }

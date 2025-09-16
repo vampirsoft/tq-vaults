@@ -1337,9 +1337,39 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 1,
           "pointY": 8
+        },
+        {
+          "stackSize": 1,
+          "seed": 27625,
+          "baseName": "Records\\Item\\EquipmentAmulet\\U_N_Moonclaw.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 2,
+          "pointY": 4
+        },
+        {
+          "stackSize": 1,
+          "seed": 24674,
+          "baseName": "Records\\Item\\EquipmentAmulet\\U_N_Wellspring.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 3,
+          "pointY": 2
         }
       ]
     },

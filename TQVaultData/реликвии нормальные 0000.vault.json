@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 1,
+  "currentlySelectedSackNumber": 0,
   "sacks": [
     {
       "iconinfo": null,
@@ -2687,7 +2687,7 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 9,
           "pointY": 9
         },
@@ -2702,7 +2702,7 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 0,
           "pointY": 6
         },
@@ -2717,9 +2717,39 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1256635592,
+          "var2": 2035248,
           "pointX": 10,
           "pointY": 8
+        },
+        {
+          "stackSize": 1,
+          "seed": 16350,
+          "baseName": "Records\\Item\\Relics\\01_Act1_ArchimedesMirror.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Retaliation_LeechLife_01.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 958169200,
+          "pointX": 12,
+          "pointY": 10
+        },
+        {
+          "stackSize": 1,
+          "seed": 29447,
+          "baseName": "Records\\Item\\Relics\\01_Act1_PrometheusFlame.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_SpeedAttack_01.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 0,
+          "pointX": 3,
+          "pointY": 9
         }
       ]
     },
@@ -4882,7 +4912,7 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 780982400,
+          "var2": 2035248,
           "pointX": 1,
           "pointY": 9
         },
@@ -4897,9 +4927,24 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 734071968,
+          "var2": 2035248,
           "pointX": 2,
           "pointY": 7
+        },
+        {
+          "stackSize": 1,
+          "seed": 16263,
+          "baseName": "Records\\Item\\Relics\\01_Act1_DionysusWineskin.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "records\\item\\lootmagicalaffixes\\animalrelics\\bonuses\\defensive_bleedresist_01.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 725493504,
+          "pointX": 0,
+          "pointY": 10
         }
       ]
     },

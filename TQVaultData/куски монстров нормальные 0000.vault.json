@@ -2672,9 +2672,39 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1296034896,
+          "var2": 2035248,
           "pointX": 2,
           "pointY": 10
+        },
+        {
+          "stackSize": 1,
+          "seed": 13283,
+          "baseName": "Records\\Item\\AnimalRelics\\01_Act1_PristinePlumage.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "records\\item\\lootmagicalaffixes\\animalrelics\\bonuses\\defensive_bleedresist_01.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 991469808,
+          "pointX": 1,
+          "pointY": 13
+        },
+        {
+          "stackSize": 1,
+          "seed": 952,
+          "baseName": "Records\\Item\\AnimalRelics\\01_Act1_BatFang.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_SpeedAttack_01.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1039304776,
+          "pointX": 9,
+          "pointY": 9
         }
       ]
     },
