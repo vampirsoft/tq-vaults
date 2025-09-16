@@ -1268,21 +1268,6 @@
         },
         {
           "stackSize": 1,
-          "seed": 2363,
-          "baseName": "Records\\XPack3\\Items\\EquipmentArmor\\Amulet\\u_n_01.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 12,
-          "pointY": 0
-        },
-        {
-          "stackSize": 1,
           "seed": 27715,
           "baseName": "Records\\Item\\EquipmentAmulet\\U_N_Wellspring.dbr",
           "prefixName": "",
@@ -1352,7 +1337,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 2,
           "pointY": 4
         },
@@ -1367,7 +1352,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 3,
           "pointY": 2
         }

@@ -797,9 +797,24 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 58257472,
+          "var2": 2035248,
           "pointX": 16,
           "pointY": 2
+        },
+        {
+          "stackSize": 1,
+          "seed": 31745,
+          "baseName": "records\\xpack2\\item\\equipmentweapons\\1hranged\\MI_N_duneraider.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 256438336,
+          "pointX": 12,
+          "pointY": 14
         }
       ]
     },

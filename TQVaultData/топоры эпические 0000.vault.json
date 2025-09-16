@@ -662,8 +662,23 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 2,
+          "pointY": 6
+        },
+        {
+          "stackSize": 1,
+          "seed": 3470,
+          "baseName": "Records\\Item\\EquipmentWeapon\\Axe\\U_N_Mikros.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 256438336,
+          "pointX": 8,
           "pointY": 6
         }
       ]
