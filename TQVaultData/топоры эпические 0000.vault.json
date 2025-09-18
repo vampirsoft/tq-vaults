@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 0,
+  "currentlySelectedSackNumber": 1,
   "sacks": [
     {
       "iconinfo": null,
@@ -677,7 +677,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 256438336,
+          "var2": 2035248,
           "pointX": 8,
           "pointY": 6
         }
@@ -940,6 +940,21 @@
           "var2": 2035248,
           "pointX": 6,
           "pointY": 6
+        },
+        {
+          "stackSize": 1,
+          "seed": 13561,
+          "baseName": "Records\\Item\\EquipmentWeapon\\Axe\\U_N_Skullcleaver.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 17,
+          "pointY": 3
         }
       ]
     },

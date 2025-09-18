@@ -4957,7 +4957,7 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 12,
           "pointY": 1
         },
@@ -4972,7 +4972,7 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 444817496,
+          "var2": 2035248,
           "pointX": 11,
           "pointY": 7
         },
@@ -4987,7 +4987,7 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 6,
           "pointY": 10
         },
@@ -5002,9 +5002,39 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 14,
           "pointY": 8
+        },
+        {
+          "stackSize": 1,
+          "seed": 30227,
+          "baseName": "Records\\Item\\Relics\\01_Act2_AnubisWrath.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_SpeedAttack_01.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 342020312,
+          "pointX": 15,
+          "pointY": 8
+        },
+        {
+          "stackSize": 1,
+          "seed": 16562,
+          "baseName": "Records\\Item\\Relics\\01_Act2_UdjatOfHorus.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "records\\item\\lootmagicalaffixes\\animalrelics\\bonuses\\defensive_bleedresist_01.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 8,
+          "pointY": 11
         }
       ]
     },
