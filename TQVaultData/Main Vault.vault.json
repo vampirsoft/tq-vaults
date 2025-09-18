@@ -920,6 +920,36 @@
           "var2": 2035248,
           "pointX": 14,
           "pointY": 6
+        },
+        {
+          "stackSize": 1,
+          "seed": 10082,
+          "baseName": "records\\xpack3\\items\\equipmentarmor\\torso\\m_e_monkeymanmage.dbr",
+          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Defensive_Protection_04.dbr",
+          "suffixName": "Records\\XPack\\Item\\LootMagicalAffixes\\Suffix\\Default\\Rare_HealthManaTotaldmg_01.dbr",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 14,
+          "pointY": 3
+        },
+        {
+          "stackSize": 1,
+          "seed": 28179,
+          "baseName": "records\\xpack3\\items\\equipmentweapon\\1hranged\\m_n_potamoiwarrior.dbr",
+          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Offensive_LeechMana_01.dbr",
+          "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Offensive_Damage%LifeLeech_01.dbr",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 15,
+          "pointY": 0
         }
       ]
     },

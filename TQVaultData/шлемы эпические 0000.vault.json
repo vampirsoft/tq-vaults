@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 0,
+  "currentlySelectedSackNumber": 1,
   "sacks": [
     {
       "iconinfo": null,
@@ -932,7 +932,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 0,
           "pointY": 12
         }
@@ -1540,6 +1540,21 @@
           "var2": 2035248,
           "pointX": 8,
           "pointY": 6
+        },
+        {
+          "stackSize": 1,
+          "seed": 28114,
+          "baseName": "Records\\XPack3\\Items\\EquipmentArmor\\Helm\\u_n_01.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 2,
+          "pointY": 14
         }
       ]
     },
