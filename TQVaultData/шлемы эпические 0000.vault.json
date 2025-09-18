@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 1,
+  "currentlySelectedSackNumber": 2,
   "sacks": [
     {
       "iconinfo": null,
@@ -935,6 +935,21 @@
           "var2": 2035248,
           "pointX": 0,
           "pointY": 12
+        },
+        {
+          "stackSize": 1,
+          "seed": 9924,
+          "baseName": "Records\\Item\\EquipmentHelm\\Um_N_WhiteCrown.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 4,
+          "pointY": 16
         }
       ]
     },
@@ -1552,8 +1567,23 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 2,
+          "pointY": 14
+        },
+        {
+          "stackSize": 1,
+          "seed": 31645,
+          "baseName": "Records\\Item\\EquipmentHelm\\Um_N_ChromaticDiadem.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 14,
           "pointY": 14
         }
       ]
@@ -1905,6 +1935,21 @@
           "var2": 2035248,
           "pointX": 12,
           "pointY": 4
+        },
+        {
+          "stackSize": 1,
+          "seed": 31933,
+          "baseName": "Records\\Item\\EquipmentHelm\\U_N_EmeraldCrown.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 12,
+          "pointY": 6
         }
       ]
     },

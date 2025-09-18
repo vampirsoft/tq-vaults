@@ -317,7 +317,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 256438336,
+          "var2": 2035248,
           "pointX": 16,
           "pointY": 6
         }
@@ -592,9 +592,39 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 256438336,
+          "var2": 2035248,
           "pointX": 4,
           "pointY": 6
+        },
+        {
+          "stackSize": 1,
+          "seed": 30950,
+          "baseName": "Records\\Item\\EquipmentArmor\\MI_N_Reptilian.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 264368192,
+          "pointX": 4,
+          "pointY": 9
+        },
+        {
+          "stackSize": 1,
+          "seed": 14543,
+          "baseName": "Records\\Item\\EquipmentArmor\\MI_N_Mummy.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 264368192,
+          "pointX": 0,
+          "pointY": 3
         }
       ]
     },
