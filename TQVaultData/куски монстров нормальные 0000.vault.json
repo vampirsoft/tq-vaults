@@ -2777,8 +2777,23 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 868328528,
+          "var2": 2035248,
           "pointX": 14,
+          "pointY": 12
+        },
+        {
+          "stackSize": 1,
+          "seed": 32520,
+          "baseName": "Records\\Item\\AnimalRelics\\01_MultActs_MechanicalParts.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Defensive_Protection_01.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 687277192,
+          "pointX": 15,
           "pointY": 12
         }
       ]
@@ -5287,7 +5302,7 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1113453848,
+          "var2": 2035248,
           "pointX": 7,
           "pointY": 15
         },
@@ -5302,7 +5317,7 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 875623928,
+          "var2": 2035248,
           "pointX": 1,
           "pointY": 13
         },
@@ -5317,8 +5332,68 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 859906184,
+          "var2": 2035248,
           "pointX": 4,
+          "pointY": 16
+        },
+        {
+          "stackSize": 1,
+          "seed": 1905,
+          "baseName": "Records\\Item\\AnimalRelics\\01_MultActs_SpectralMatter.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\AnimalRelics\\Bonuses\\Offensive_%ManaBurn_01.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 158245904,
+          "pointX": 2,
+          "pointY": 16
+        },
+        {
+          "stackSize": 1,
+          "seed": 32702,
+          "baseName": "Records\\Item\\AnimalRelics\\01_MultActs_RigidCarapace.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "records\\item\\lootmagicalaffixes\\animalrelics\\bonuses\\defensive_bleedresist_01.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 982633648,
+          "pointX": 6,
+          "pointY": 16
+        },
+        {
+          "stackSize": 1,
+          "seed": 11402,
+          "baseName": "Records\\Item\\AnimalRelics\\01_Act3_VinyGrowth.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "records\\item\\lootmagicalaffixes\\animalrelics\\bonuses\\defensive_bleedresist_01.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 729890864,
+          "pointX": 17,
+          "pointY": 7
+        },
+        {
+          "stackSize": 1,
+          "seed": 24733,
+          "baseName": "Records\\Item\\AnimalRelics\\01_Act2_LupineClaw.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_SpeedAttack_01.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 787819232,
+          "pointX": 5,
           "pointY": 16
         }
       ]
