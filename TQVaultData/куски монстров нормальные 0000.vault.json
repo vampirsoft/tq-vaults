@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 1,
+  "currentlySelectedSackNumber": 0,
   "sacks": [
     {
       "iconinfo": null,
@@ -2618,21 +2618,6 @@
         },
         {
           "stackSize": 1,
-          "seed": 16697,
-          "baseName": "Records\\Item\\AnimalRelics\\01_Act1_TurtleShell.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Defensive_ResistPierce_01.dbr",
-          "var1": 5,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 5,
-          "pointY": 2
-        },
-        {
-          "stackSize": 1,
           "seed": 1676,
           "baseName": "Records\\Item\\AnimalRelics\\01_Act1_BoarsHide.dbr",
           "prefixName": "",
@@ -2693,21 +2678,6 @@
         },
         {
           "stackSize": 1,
-          "seed": 952,
-          "baseName": "Records\\Item\\AnimalRelics\\01_Act1_BatFang.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_SpeedAttack_01.dbr",
-          "var1": 5,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 9,
-          "pointY": 9
-        },
-        {
-          "stackSize": 1,
           "seed": 25058,
           "baseName": "Records\\Item\\AnimalRelics\\01_MultActs_VenomSac.dbr",
           "prefixName": "",
@@ -2753,21 +2723,6 @@
         },
         {
           "stackSize": 1,
-          "seed": 31704,
-          "baseName": "Records\\Item\\AnimalRelics\\01_MultActs_VenomSac.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "records\\item\\lootmagicalaffixes\\relics\\bonuses\\offensive_%poison_01.dbr",
-          "var1": 5,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 6,
-          "pointY": 15
-        },
-        {
-          "stackSize": 1,
           "seed": 18961,
           "baseName": "Records\\Item\\AnimalRelics\\01_MultActs_MechanicalParts.dbr",
           "prefixName": "",
@@ -2792,9 +2747,24 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 687277192,
+          "var2": 2035248,
           "pointX": 15,
           "pointY": 12
+        },
+        {
+          "stackSize": 1,
+          "seed": 30700,
+          "baseName": "Records\\Item\\AnimalRelics\\01_Act1_PristinePlumage.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "records\\item\\lootmagicalaffixes\\animalrelics\\bonuses\\defensive_bleedresist_01.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1295477928,
+          "pointX": 0,
+          "pointY": 14
         }
       ]
     },
@@ -5347,7 +5317,7 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 158245904,
+          "var2": 2035248,
           "pointX": 2,
           "pointY": 16
         },
@@ -5362,7 +5332,7 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 982633648,
+          "var2": 2035248,
           "pointX": 6,
           "pointY": 16
         },
@@ -5377,7 +5347,7 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 729890864,
+          "var2": 2035248,
           "pointX": 17,
           "pointY": 7
         },
@@ -5392,7 +5362,7 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 787819232,
+          "var2": 2035248,
           "pointX": 5,
           "pointY": 16
         }

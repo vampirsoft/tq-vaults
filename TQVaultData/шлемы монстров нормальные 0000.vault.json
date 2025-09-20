@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 1,
+  "currentlySelectedSackNumber": 0,
   "sacks": [
     {
       "iconinfo": null,
@@ -473,21 +473,6 @@
         },
         {
           "stackSize": 1,
-          "seed": 10831,
-          "baseName": "Records\\Item\\EquipmentHelm\\MI_N_Centaur.dbr",
-          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Character_ReducedEquipReq_01.dbr",
-          "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AttributeIntelligence_01.dbr",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 8,
-          "pointY": 18
-        },
-        {
-          "stackSize": 1,
           "seed": 24369,
           "baseName": "Records\\Item\\EquipmentHelm\\MI_N_NeanderthalMelee.dbr",
           "prefixName": "",
@@ -497,9 +482,39 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 254799936,
+          "var2": 2035248,
           "pointX": 14,
           "pointY": 10
+        },
+        {
+          "stackSize": 1,
+          "seed": 20459,
+          "baseName": "Records\\Item\\EquipmentHelm\\MI_N_Centaur.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 57208896,
+          "pointX": 8,
+          "pointY": 2
+        },
+        {
+          "stackSize": 1,
+          "seed": 7877,
+          "baseName": "Records\\Item\\EquipmentHelm\\MI_N_Arachnos.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 57208896,
+          "pointX": 0,
+          "pointY": 12
         }
       ]
     },
@@ -847,7 +862,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 254799936,
+          "var2": 2035248,
           "pointX": 0,
           "pointY": 6
         }

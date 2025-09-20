@@ -458,36 +458,6 @@
         },
         {
           "stackSize": 1,
-          "seed": 6484,
-          "baseName": "Records\\Item\\EquipmentWeapon\\Spear\\MI_N_CentaurTrapper.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 11,
-          "pointY": 0
-        },
-        {
-          "stackSize": 1,
-          "seed": 12929,
-          "baseName": "Records\\Item\\EquipmentWeapon\\Spear\\MI_N_CentaurTrapper.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 11,
-          "pointY": 5
-        },
-        {
-          "stackSize": 1,
           "seed": 11593,
           "baseName": "Records\\Item\\EquipmentWeapon\\Spear\\MI_N_IchthianMelee.dbr",
           "prefixName": "",
@@ -512,7 +482,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 254799936,
+          "var2": 2035248,
           "pointX": 16,
           "pointY": 10
         }
