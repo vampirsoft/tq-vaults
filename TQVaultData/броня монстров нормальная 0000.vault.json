@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 3,
+  "currentlySelectedSackNumber": 0,
   "sacks": [
     {
       "iconinfo": null,
@@ -332,7 +332,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 6,
           "pointY": 17
         }
@@ -652,9 +652,24 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 63893568,
+          "var2": 2035248,
           "pointX": 16,
           "pointY": 9
+        },
+        {
+          "stackSize": 1,
+          "seed": 26017,
+          "baseName": "Records\\Item\\EquipmentArmor\\MI_N_RatmanChampion.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 63893568,
+          "pointX": 14,
+          "pointY": 3
         }
       ]
     },
@@ -912,7 +927,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 266072128,
+          "var2": 2035248,
           "pointX": 16,
           "pointY": 0
         },
