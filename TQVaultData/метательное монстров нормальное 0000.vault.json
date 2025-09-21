@@ -812,9 +812,24 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 256438336,
+          "var2": 2035248,
           "pointX": 12,
           "pointY": 14
+        },
+        {
+          "stackSize": 1,
+          "seed": 25589,
+          "baseName": "records\\xpack2\\item\\equipmentweapons\\1hranged\\MI_N_maenad.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 52424768,
+          "pointX": 14,
+          "pointY": 17
         }
       ]
     },

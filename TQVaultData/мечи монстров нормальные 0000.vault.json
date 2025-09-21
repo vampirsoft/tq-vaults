@@ -347,9 +347,24 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 57208896,
+          "var2": 2035248,
           "pointX": 0,
           "pointY": 12
+        },
+        {
+          "stackSize": 1,
+          "seed": 10934,
+          "baseName": "Records\\Item\\EquipmentWeapon\\Sword\\MI_N_Arachnos.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 52424768,
+          "pointX": 0,
+          "pointY": 16
         }
       ]
     },

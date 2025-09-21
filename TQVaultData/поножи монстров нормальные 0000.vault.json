@@ -907,7 +907,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 57208896,
+          "var2": 2035248,
           "pointX": 8,
           "pointY": 0
         },
@@ -922,9 +922,24 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 57208896,
+          "var2": 2035248,
           "pointX": 8,
           "pointY": 2
+        },
+        {
+          "stackSize": 1,
+          "seed": 23829,
+          "baseName": "Records\\Item\\EquipmentGreaves\\MI_N_Wraith.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 52424768,
+          "pointX": 8,
+          "pointY": 4
         }
       ]
     },

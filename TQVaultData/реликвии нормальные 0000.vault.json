@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 0,
+  "currentlySelectedSackNumber": 1,
   "sacks": [
     {
       "iconinfo": null,
@@ -2747,7 +2747,7 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 794589288,
+          "var2": 2035248,
           "pointX": 2,
           "pointY": 10
         },
@@ -2762,7 +2762,7 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 347660376,
+          "var2": 2035248,
           "pointX": 6,
           "pointY": 11
         },
@@ -2777,7 +2777,7 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 776979608,
+          "var2": 2035248,
           "pointX": 13,
           "pointY": 10
         },
@@ -2792,7 +2792,7 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 7,
           "pointY": 11
         },
@@ -2807,9 +2807,69 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 16,
           "pointY": 11
+        },
+        {
+          "stackSize": 1,
+          "seed": 21169,
+          "baseName": "Records\\Item\\Relics\\01_Act1_ArtemisBowstring.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_SpeedAttack_01.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 17,
+          "pointY": 11
+        },
+        {
+          "stackSize": 1,
+          "seed": 10661,
+          "baseName": "Records\\Item\\Relics\\01_Act1_ArtemisBowstring.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_SpeedAttack_01.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 16,
+          "pointY": 12
+        },
+        {
+          "stackSize": 1,
+          "seed": 24569,
+          "baseName": "Records\\Item\\Relics\\01_Act1_HeraclesMight.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Relics\\Bonuses\\Character_%Strength_01.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 809604336,
+          "pointX": 5,
+          "pointY": 12
+        },
+        {
+          "stackSize": 1,
+          "seed": 10256,
+          "baseName": "Records\\Item\\Relics\\01_Act1_Hermessandal.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Relics\\BonusesGreece\\01\\01_HermesSandal_AttDA.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1038668856,
+          "pointX": 10,
+          "pointY": 8
         }
       ]
     },
@@ -5113,21 +5173,6 @@
         },
         {
           "stackSize": 1,
-          "seed": 18601,
-          "baseName": "Records\\Item\\Relics\\01_Act2_SetsBetrayal.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Offensive_DamagePierce_02.dbr",
-          "var1": 3,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 6,
-          "pointY": 11
-        },
-        {
-          "stackSize": 1,
           "seed": 18422,
           "baseName": "Records\\Item\\Relics\\01_Act2_AmunRasGlory.dbr",
           "prefixName": "",
@@ -5143,21 +5188,6 @@
         },
         {
           "stackSize": 1,
-          "seed": 27261,
-          "baseName": "Records\\Item\\Relics\\01_Act2_SetsBetrayal.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Offensive_DamagePierce_02.dbr",
-          "var1": 3,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 7,
-          "pointY": 11
-        },
-        {
-          "stackSize": 1,
           "seed": 3554,
           "baseName": "Records\\Item\\Relics\\01_Act1_ValorOfAchilles.dbr",
           "prefixName": "",
@@ -5167,7 +5197,7 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 3,
           "pointY": 6
         },
@@ -5182,9 +5212,24 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1295570168,
+          "var2": 2035248,
           "pointX": 2,
           "pointY": 7
+        },
+        {
+          "stackSize": 1,
+          "seed": 15235,
+          "baseName": "Records\\Item\\Relics\\01_Act1_DionysusWineskin.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "records\\item\\lootmagicalaffixes\\animalrelics\\bonuses\\defensive_bleedresist_01.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 0,
+          "pointY": 9
         }
       ]
     },
