@@ -2777,7 +2777,7 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1017073920,
+          "var2": 2035248,
           "pointX": 3,
           "pointY": 10
         },
@@ -2792,7 +2792,7 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 353278232,
+          "var2": 2035248,
           "pointX": 11,
           "pointY": 9
         },
@@ -2807,9 +2807,24 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 989811864,
+          "var2": 2035248,
           "pointX": 6,
           "pointY": 15
+        },
+        {
+          "stackSize": 1,
+          "seed": 3452,
+          "baseName": "Records\\Item\\AnimalRelics\\01_Act1_BatFang.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_SpeedAttack_01.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1008127464,
+          "pointX": 9,
+          "pointY": 9
         }
       ]
     },
@@ -5422,7 +5437,7 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1129029696,
+          "var2": 2035248,
           "pointX": 3,
           "pointY": 16
         }

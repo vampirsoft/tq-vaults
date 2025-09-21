@@ -377,7 +377,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 52424768,
+          "var2": 2035248,
           "pointX": 4,
           "pointY": 3
         },
@@ -392,7 +392,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 52424768,
+          "var2": 2035248,
           "pointX": 12,
           "pointY": 15
         },
@@ -407,9 +407,54 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 52424768,
+          "var2": 2035248,
           "pointX": 8,
           "pointY": 15
+        },
+        {
+          "stackSize": 1,
+          "seed": 13733,
+          "baseName": "Records\\Item\\EquipmentArmor\\MI_N_Centaur.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 52424768,
+          "pointX": 6,
+          "pointY": 6
+        },
+        {
+          "stackSize": 1,
+          "seed": 30740,
+          "baseName": "Records\\Item\\EquipmentArmor\\MI_N_Boarman.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 52424768,
+          "pointX": 4,
+          "pointY": 6
+        },
+        {
+          "stackSize": 1,
+          "seed": 10085,
+          "baseName": "Records\\Item\\EquipmentArmor\\MI_N_GorgonMelee.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 52424768,
+          "pointX": 10,
+          "pointY": 17
         }
       ]
     },
