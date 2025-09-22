@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 0,
+  "currentlySelectedSackNumber": 1,
   "sacks": [
     {
       "iconinfo": null,
@@ -2942,7 +2942,7 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 11,
           "pointY": 8
         },
@@ -2957,7 +2957,7 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 386759880,
+          "var2": 2035248,
           "pointX": 17,
           "pointY": 12
         },
@@ -2972,7 +2972,7 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 12,
           "pointY": 11
         }
@@ -5350,6 +5350,21 @@
           "var2": 2035248,
           "pointX": 3,
           "pointY": 7
+        },
+        {
+          "stackSize": 1,
+          "seed": 4950,
+          "baseName": "Records\\Item\\Relics\\01_Act2_DjedOfOsiris.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_SpeedAttack_01.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 796094648,
+          "pointX": 5,
+          "pointY": 13
         }
       ]
     },

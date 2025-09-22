@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 0,
+  "currentlySelectedSackNumber": 2,
   "sacks": [
     {
       "iconinfo": null,
@@ -962,7 +962,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 6,
           "pointY": 2
         },
@@ -977,7 +977,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 6,
           "pointY": 18
         }
@@ -1882,7 +1882,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 257552448,
+          "var2": 2035248,
           "pointX": 8,
           "pointY": 18
         }
@@ -2985,6 +2985,21 @@
           "var2": 2035248,
           "pointX": 8,
           "pointY": 12
+        },
+        {
+          "stackSize": 1,
+          "seed": 25154,
+          "baseName": "Records\\Item\\EquipmentHelm\\US_N_ObsidianArmor.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 8,
+          "pointY": 10
         }
       ]
     },
