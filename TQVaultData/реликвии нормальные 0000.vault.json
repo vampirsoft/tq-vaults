@@ -2882,7 +2882,7 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1092559848,
+          "var2": 2035248,
           "pointX": 15,
           "pointY": 11
         },
@@ -2897,7 +2897,7 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 3,
           "pointY": 10
         },
@@ -2912,7 +2912,7 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 345661680,
+          "var2": 2035248,
           "pointX": 6,
           "pointY": 12
         },
@@ -2927,9 +2927,54 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1095893048,
+          "var2": 2035248,
           "pointX": 8,
           "pointY": 10
+        },
+        {
+          "stackSize": 1,
+          "seed": 25404,
+          "baseName": "Records\\Item\\Relics\\01_Act1_Hermessandal.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Relics\\BonusesGreece\\01\\01_HermesSandal_AttDA.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 11,
+          "pointY": 8
+        },
+        {
+          "stackSize": 1,
+          "seed": 17157,
+          "baseName": "Records\\Item\\Relics\\01_Act1_ArtemisBowstring.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_SpeedAttack_01.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 386759880,
+          "pointX": 17,
+          "pointY": 12
+        },
+        {
+          "stackSize": 1,
+          "seed": 4719,
+          "baseName": "Records\\Item\\Relics\\01_Act1_ArchimedesMirror.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Retaliation_LeechLife_01.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 12,
+          "pointY": 11
         }
       ]
     },
@@ -5302,7 +5347,7 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1250398328,
+          "var2": 2035248,
           "pointX": 3,
           "pointY": 7
         }

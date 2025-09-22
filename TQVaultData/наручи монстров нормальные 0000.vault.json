@@ -872,7 +872,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 52424768,
+          "var2": 2035248,
           "pointX": 2,
           "pointY": 4
         },
@@ -887,9 +887,24 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 52424768,
+          "var2": 2035248,
           "pointX": 4,
           "pointY": 18
+        },
+        {
+          "stackSize": 1,
+          "seed": 29771,
+          "baseName": "Records\\Item\\EquipmentArmband\\MI_N_GorgonArcher.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 257552448,
+          "pointX": 16,
+          "pointY": 0
         }
       ]
     },
@@ -2297,7 +2312,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 52424768,
+          "var2": 2035248,
           "pointX": 12,
           "pointY": 18
         }
