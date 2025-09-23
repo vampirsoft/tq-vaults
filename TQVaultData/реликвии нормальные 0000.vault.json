@@ -2975,6 +2975,21 @@
           "var2": 2035248,
           "pointX": 12,
           "pointY": 11
+        },
+        {
+          "stackSize": 1,
+          "seed": 16724,
+          "baseName": "Records\\Item\\Relics\\01_Act1_HeraclesMight.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Relics\\Bonuses\\Character_%Strength_01.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 805527912,
+          "pointX": 4,
+          "pointY": 13
         }
       ]
     },
@@ -5362,9 +5377,54 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 796094648,
+          "var2": 2035248,
           "pointX": 5,
           "pointY": 13
+        },
+        {
+          "stackSize": 1,
+          "seed": 23678,
+          "baseName": "Records\\Item\\Relics\\01_Act2_AnkhOfIsis.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "records\\item\\lootmagicalaffixes\\animalrelics\\bonuses\\defensive_bleedresist_01.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 11,
+          "pointY": 8
+        },
+        {
+          "stackSize": 1,
+          "seed": 31906,
+          "baseName": "Records\\Item\\Relics\\01_Act2_AnubisWrath.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_SpeedAttack_01.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 781021336,
+          "pointX": 14,
+          "pointY": 10
+        },
+        {
+          "stackSize": 1,
+          "seed": 22094,
+          "baseName": "Records\\Item\\Relics\\01_Act2_DjedOfOsiris.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_SpeedAttack_01.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 4,
+          "pointY": 14
         }
       ]
     },

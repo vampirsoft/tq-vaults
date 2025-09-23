@@ -2837,9 +2837,54 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 364930976,
+          "var2": 2035248,
           "pointX": 1,
           "pointY": 14
+        },
+        {
+          "stackSize": 1,
+          "seed": 23506,
+          "baseName": "Records\\Item\\AnimalRelics\\01_MultActs_MechanicalParts.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Defensive_Protection_01.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 950698096,
+          "pointX": 14,
+          "pointY": 13
+        },
+        {
+          "stackSize": 1,
+          "seed": 5456,
+          "baseName": "Records\\Item\\AnimalRelics\\01_MultActs_DemonsBlood.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\AnimalRelics\\Bonuses\\Defensive_LifeResist_01.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 831782168,
+          "pointX": 13,
+          "pointY": 11
+        },
+        {
+          "stackSize": 1,
+          "seed": 2778,
+          "baseName": "Records\\Item\\AnimalRelics\\01_Act2_HagsSkin.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "records\\item\\lootmagicalaffixes\\animalrelics\\bonuses\\defensive_bleedresist_01.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 369931872,
+          "pointX": 16,
+          "pointY": 6
         }
       ]
     },
@@ -5455,6 +5500,36 @@
           "var2": 2035248,
           "pointX": 3,
           "pointY": 16
+        },
+        {
+          "stackSize": 1,
+          "seed": 30683,
+          "baseName": "Records\\Item\\AnimalRelics\\01_MultActs_RigidCarapace.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "records\\item\\lootmagicalaffixes\\animalrelics\\bonuses\\defensive_bleedresist_01.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 977214608,
+          "pointX": 7,
+          "pointY": 16
+        },
+        {
+          "stackSize": 1,
+          "seed": 4659,
+          "baseName": "Records\\Item\\AnimalRelics\\01_Act2_LupineClaw.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_SpeedAttack_01.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 987028616,
+          "pointX": 4,
+          "pointY": 17
         }
       ]
     },
