@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 0,
+  "currentlySelectedSackNumber": 1,
   "sacks": [
     {
       "iconinfo": null,
@@ -2852,7 +2852,7 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 950698096,
+          "var2": 2035248,
           "pointX": 14,
           "pointY": 13
         },
@@ -2867,7 +2867,7 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 831782168,
+          "var2": 2035248,
           "pointX": 13,
           "pointY": 11
         },
@@ -2882,7 +2882,7 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 369931872,
+          "var2": 2035248,
           "pointX": 16,
           "pointY": 6
         }
@@ -5512,7 +5512,7 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 977214608,
+          "var2": 2035248,
           "pointX": 7,
           "pointY": 16
         },
@@ -5527,9 +5527,24 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 987028616,
+          "var2": 2035248,
           "pointX": 4,
           "pointY": 17
+        },
+        {
+          "stackSize": 1,
+          "seed": 28801,
+          "baseName": "Records\\Item\\AnimalRelics\\01_Act2_VileIchor.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Offensive_DamagePoison_01.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1091897416,
+          "pointX": 0,
+          "pointY": 14
         }
       ]
     },
