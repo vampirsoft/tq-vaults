@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 6,
+  "currentlySelectedSackNumber": 1,
   "sacks": [
     {
       "iconinfo": null,
@@ -1570,6 +1570,21 @@
           "var2": 2035248,
           "pointX": 8,
           "pointY": 14
+        },
+        {
+          "stackSize": 1,
+          "seed": 20733,
+          "baseName": "Records\\Item\\EquipmentArmor\\Um_N_Physician'sRobe.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 14,
+          "pointY": 11
         }
       ]
     },
@@ -2865,6 +2880,21 @@
           "var2": 2035248,
           "pointX": 14,
           "pointY": 6
+        },
+        {
+          "stackSize": 1,
+          "seed": 2191,
+          "baseName": "Records\\Item\\EquipmentArmor\\U_N_NomadsBodyWrap.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 12,
+          "pointY": 6
         }
       ]
     },
@@ -2927,7 +2957,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 2,
           "pointY": 6
         }

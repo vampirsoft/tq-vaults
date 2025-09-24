@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 2,
+  "currentlySelectedSackNumber": 3,
   "sacks": [
     {
       "iconinfo": null,
@@ -3012,7 +3012,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 12,
           "pointY": 7
         },
@@ -3027,7 +3027,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 12,
           "pointY": 15
         },
@@ -3045,6 +3045,21 @@
           "var2": 2035248,
           "pointX": 8,
           "pointY": 6
+        },
+        {
+          "stackSize": 1,
+          "seed": 14832,
+          "baseName": "Records\\Item\\EquipmentGreaves\\US_N_ObsidianArmor.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 8,
+          "pointY": 4
         }
       ]
     },
@@ -3698,36 +3713,6 @@
         },
         {
           "stackSize": 1,
-          "seed": 12259,
-          "baseName": "Records\\Item\\EquipmentGreaves\\US_N_Ramses'RoyalArmor.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 6,
-          "pointY": 18
-        },
-        {
-          "stackSize": 1,
-          "seed": 30753,
-          "baseName": "Records\\Item\\EquipmentGreaves\\US_N_Ramses'RoyalArmor.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 6,
-          "pointY": 16
-        },
-        {
-          "stackSize": 1,
           "seed": 11633,
           "baseName": "records\\xpack\\item\\le_new\\secreto_torso.dbr",
           "prefixName": "",
@@ -3743,8 +3728,8 @@
         },
         {
           "stackSize": 1,
-          "seed": 7099,
-          "baseName": "Records\\Item\\EquipmentGreaves\\US_N_Ramses'RoyalArmor.dbr",
+          "seed": 8027,
+          "baseName": "Records\\Item\\EquipmentArmband\\US_N_Ramses'RoyalArmor.dbr",
           "prefixName": "",
           "suffixName": "",
           "relicName": "",
@@ -3754,7 +3739,52 @@
           "relicBonus2": "",
           "var2": 1065353216,
           "pointX": 6,
+          "pointY": 18
+        },
+        {
+          "stackSize": 1,
+          "seed": 12259,
+          "baseName": "Records\\Item\\EquipmentGreaves\\US_N_Ramses'RoyalArmor.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 6,
+          "pointY": 16
+        },
+        {
+          "stackSize": 1,
+          "seed": 7099,
+          "baseName": "Records\\Item\\EquipmentGreaves\\US_N_Ramses'RoyalArmor.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 6,
           "pointY": 14
+        },
+        {
+          "stackSize": 1,
+          "seed": 30753,
+          "baseName": "Records\\Item\\EquipmentGreaves\\US_N_Ramses'RoyalArmor.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 6,
+          "pointY": 12
         }
       ]
     },
@@ -4270,6 +4300,21 @@
           "var2": 2035248,
           "pointX": 6,
           "pointY": 16
+        },
+        {
+          "stackSize": 1,
+          "seed": 25171,
+          "baseName": "Records\\Item\\EquipmentArmor\\US_N_BabylonianRaiment.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 8,
+          "pointY": 11
         }
       ]
     },

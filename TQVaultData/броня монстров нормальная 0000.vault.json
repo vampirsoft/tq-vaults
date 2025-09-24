@@ -877,9 +877,24 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 269021248,
+          "var2": 2035248,
           "pointX": 6,
           "pointY": 12
+        },
+        {
+          "stackSize": 1,
+          "seed": 528,
+          "baseName": "Records\\Item\\EquipmentArmor\\MI_N_JackalmanMelee.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 69005376,
+          "pointX": 6,
+          "pointY": 15
         }
       ]
     },
