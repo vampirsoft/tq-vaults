@@ -530,6 +530,21 @@
           "var2": 2035248,
           "pointX": 13,
           "pointY": 12
+        },
+        {
+          "stackSize": 1,
+          "seed": 28656,
+          "baseName": "Records\\Item\\EquipmentWeapon\\Sword\\U_N_Teslos.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 5,
+          "pointY": 12
         }
       ]
     },
@@ -817,8 +832,23 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 267251776,
+          "var2": 2035248,
           "pointX": 4,
+          "pointY": 8
+        },
+        {
+          "stackSize": 1,
+          "seed": 25725,
+          "baseName": "Records\\Item\\EquipmentWeapon\\Sword\\U_N_CleopatrasShortSword.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 10,
           "pointY": 8
         }
       ]
