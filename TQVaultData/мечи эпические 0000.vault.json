@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 1,
+  "currentlySelectedSackNumber": 0,
   "sacks": [
     {
       "iconinfo": null,
@@ -428,36 +428,6 @@
         },
         {
           "stackSize": 1,
-          "seed": 19304,
-          "baseName": "records\\xpack2\\item\\equipmentweapons\\sword\\u_n_02.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 13,
-          "pointY": 7
-        },
-        {
-          "stackSize": 1,
-          "seed": 28039,
-          "baseName": "records\\xpack2\\item\\equipmentweapons\\sword\\u_n_02.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 13,
-          "pointY": 10
-        },
-        {
-          "stackSize": 1,
           "seed": 23580,
           "baseName": "Records\\Item\\EquipmentWeapon\\Sword\\U_N_Patroclus'Shortblade.dbr",
           "prefixName": "",
@@ -530,6 +500,36 @@
           "var2": 2035248,
           "pointX": 2,
           "pointY": 4
+        },
+        {
+          "stackSize": 1,
+          "seed": 19304,
+          "baseName": "records\\xpack2\\item\\equipmentweapons\\sword\\u_n_02.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 13,
+          "pointY": 8
+        },
+        {
+          "stackSize": 1,
+          "seed": 28039,
+          "baseName": "records\\xpack2\\item\\equipmentweapons\\sword\\u_n_02.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 13,
+          "pointY": 12
         }
       ]
     },
@@ -802,9 +802,24 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 11,
           "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 17110,
+          "baseName": "Records\\Item\\EquipmentWeapon\\Sword\\U_N_Marduk'sRage.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 267251776,
+          "pointX": 4,
+          "pointY": 8
         }
       ]
     },
