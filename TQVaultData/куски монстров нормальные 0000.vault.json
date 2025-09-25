@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 1,
+  "currentlySelectedSackNumber": 3,
   "sacks": [
     {
       "iconinfo": null,
@@ -2945,6 +2945,21 @@
           "var2": 2035248,
           "pointX": 10,
           "pointY": 10
+        },
+        {
+          "stackSize": 1,
+          "seed": 32536,
+          "baseName": "Records\\Item\\AnimalRelics\\01_MultActs_MechanicalParts.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Defensive_Protection_01.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 709162168,
+          "pointX": 14,
+          "pointY": 14
         }
       ]
     },
@@ -5662,7 +5677,7 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1000655992,
+          "var2": 2035248,
           "pointX": 2,
           "pointY": 17
         },
@@ -5677,9 +5692,39 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1025074424,
+          "var2": 2035248,
           "pointX": 4,
           "pointY": 18
+        },
+        {
+          "stackSize": 1,
+          "seed": 14738,
+          "baseName": "Records\\Item\\AnimalRelics\\01_Act3_VinyGrowth.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "records\\item\\lootmagicalaffixes\\animalrelics\\bonuses\\defensive_bleedresist_01.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1264090480,
+          "pointX": 16,
+          "pointY": 8
+        },
+        {
+          "stackSize": 1,
+          "seed": 9939,
+          "baseName": "Records\\Item\\AnimalRelics\\01_Act3_YetiFur.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "records\\item\\lootmagicalaffixes\\animalrelics\\bonuses\\defensive_bleedresist_01.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1264099704,
+          "pointX": 15,
+          "pointY": 2
         }
       ]
     },
@@ -6259,6 +6304,21 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 5,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 16395,
+          "baseName": "records\\item\\HCDungeon\\05_X4_GoldenScarab_N_Charm.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "records\\XPack4\\Item\\LootMagicalAffixes\\Charms\\GoldenScarab_N_1.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 369894976,
+          "pointX": 3,
           "pointY": 0
         }
       ]

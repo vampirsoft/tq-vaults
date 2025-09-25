@@ -557,9 +557,24 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 57208896,
+          "var2": 2035248,
           "pointX": 8,
           "pointY": 4
+        },
+        {
+          "stackSize": 1,
+          "seed": 29450,
+          "baseName": "Records\\Item\\EquipmentHelm\\MI_N_NeanderthalMelee.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 267251776,
+          "pointX": 14,
+          "pointY": 12
         }
       ]
     },
