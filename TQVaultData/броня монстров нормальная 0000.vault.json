@@ -173,36 +173,6 @@
         },
         {
           "stackSize": 1,
-          "seed": 25914,
-          "baseName": "Records\\Item\\EquipmentArmor\\MI_N_Wraith.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 12,
-          "pointY": 0
-        },
-        {
-          "stackSize": 1,
-          "seed": 17544,
-          "baseName": "Records\\Item\\EquipmentArmor\\MI_N_Wraith.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 12,
-          "pointY": 3
-        },
-        {
-          "stackSize": 1,
           "seed": 23011,
           "baseName": "Records\\Item\\EquipmentArmor\\MI_N_DuneRaiderB.dbr",
           "prefixName": "",
@@ -215,21 +185,6 @@
           "var2": 2035248,
           "pointX": 16,
           "pointY": 3
-        },
-        {
-          "stackSize": 1,
-          "seed": 3683,
-          "baseName": "Records\\Item\\EquipmentArmor\\MI_N_Wraith.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 12,
-          "pointY": 6
         },
         {
           "stackSize": 1,
@@ -278,21 +233,6 @@
         },
         {
           "stackSize": 1,
-          "seed": 10032,
-          "baseName": "Records\\Item\\EquipmentArmor\\MI_N_Wraith.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 12,
-          "pointY": 9
-        },
-        {
-          "stackSize": 1,
           "seed": 5112,
           "baseName": "Records\\Item\\EquipmentArmor\\MI_N_DuneRaiderB.dbr",
           "prefixName": "",
@@ -338,21 +278,6 @@
         },
         {
           "stackSize": 1,
-          "seed": 8291,
-          "baseName": "Records\\Item\\EquipmentArmor\\MI_N_Wraith.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 12,
-          "pointY": 12
-        },
-        {
-          "stackSize": 1,
           "seed": 19958,
           "baseName": "Records\\Item\\EquipmentArmor\\MI_N_Centaur.dbr",
           "prefixName": "",
@@ -380,21 +305,6 @@
           "var2": 2035248,
           "pointX": 4,
           "pointY": 3
-        },
-        {
-          "stackSize": 1,
-          "seed": 26879,
-          "baseName": "Records\\Item\\EquipmentArmor\\MI_N_Wraith.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 12,
-          "pointY": 15
         },
         {
           "stackSize": 1,
@@ -518,7 +428,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 32015,
+          "seed": 26879,
           "baseName": "Records\\Item\\EquipmentArmor\\MI_N_Wraith.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -527,9 +437,9 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 269217856,
-          "pointX": 14,
-          "pointY": 17
+          "var2": 487698552,
+          "pointX": 12,
+          "pointY": 0
         }
       ]
     },

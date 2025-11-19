@@ -188,21 +188,6 @@
         },
         {
           "stackSize": 1,
-          "seed": 5925,
-          "baseName": "Records\\Item\\EquipmentHelm\\MI_N_Gorgon.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 6,
-          "pointY": 2
-        },
-        {
-          "stackSize": 1,
           "seed": 30353,
           "baseName": "Records\\Item\\EquipmentHelm\\MI_N_NeanderthalMelee.dbr",
           "prefixName": "",
@@ -572,7 +557,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 267251776,
+          "var2": 2035248,
           "pointX": 14,
           "pointY": 12
         }

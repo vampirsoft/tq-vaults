@@ -2813,21 +2813,6 @@
         },
         {
           "stackSize": 1,
-          "seed": 3452,
-          "baseName": "Records\\Item\\AnimalRelics\\01_Act1_BatFang.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_SpeedAttack_01.dbr",
-          "var1": 5,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 9,
-          "pointY": 9
-        },
-        {
-          "stackSize": 1,
           "seed": 31318,
           "baseName": "Records\\Item\\AnimalRelics\\01_Act1_PristinePlumage.dbr",
           "prefixName": "",
@@ -2972,7 +2957,7 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1180908616,
+          "var2": 2035248,
           "pointX": 2,
           "pointY": 11
         },
@@ -2987,7 +2972,7 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 825276408,
+          "var2": 2035248,
           "pointX": 0,
           "pointY": 15
         },
@@ -3002,7 +2987,7 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1219018008,
+          "var2": 2035248,
           "pointX": 5,
           "pointY": 2
         },
@@ -3017,24 +3002,9 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1317165616,
+          "var2": 2035248,
           "pointX": 11,
           "pointY": 10
-        },
-        {
-          "stackSize": 1,
-          "seed": 8981,
-          "baseName": "Records\\Item\\AnimalRelics\\01_MultActs_VenomSac.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "records\\item\\lootmagicalaffixes\\relics\\bonuses\\offensive_%poison_01.dbr",
-          "var1": 5,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 987736160,
-          "pointX": 6,
-          "pointY": 16
         }
       ]
     },
@@ -5812,7 +5782,7 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 892782048,
+          "var2": 2035248,
           "pointX": 10,
           "pointY": 3
         },
@@ -5827,7 +5797,7 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 693551368,
+          "var2": 2035248,
           "pointX": 8,
           "pointY": 3
         }
