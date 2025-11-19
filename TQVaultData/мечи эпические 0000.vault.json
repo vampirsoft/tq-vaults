@@ -542,8 +542,23 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 5,
+          "pointY": 12
+        },
+        {
+          "stackSize": 1,
+          "seed": 21477,
+          "baseName": "Records\\Item\\EquipmentWeapon\\Sword\\U_N_Traitor'sShiv.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 3,
           "pointY": 12
         }
       ]
@@ -847,7 +862,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 10,
           "pointY": 8
         }

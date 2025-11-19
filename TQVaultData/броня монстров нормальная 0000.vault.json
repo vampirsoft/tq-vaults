@@ -497,7 +497,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 59240512,
+          "var2": 2035248,
           "pointX": 6,
           "pointY": 9
         },
@@ -512,9 +512,24 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 59240512,
+          "var2": 2035248,
           "pointX": 0,
           "pointY": 6
+        },
+        {
+          "stackSize": 1,
+          "seed": 32015,
+          "baseName": "Records\\Item\\EquipmentArmor\\MI_N_Wraith.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 269217856,
+          "pointX": 14,
+          "pointY": 17
         }
       ]
     },
