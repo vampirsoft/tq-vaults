@@ -3005,6 +3005,21 @@
           "var2": 2035248,
           "pointX": 11,
           "pointY": 10
+        },
+        {
+          "stackSize": 1,
+          "seed": 23135,
+          "baseName": "Records\\Item\\AnimalRelics\\01_Act1_PristinePlumage.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "records\\item\\lootmagicalaffixes\\animalrelics\\bonuses\\defensive_bleedresist_01.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 790585424,
+          "pointX": 1,
+          "pointY": 15
         }
       ]
     },

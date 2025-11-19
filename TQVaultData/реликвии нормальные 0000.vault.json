@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 0,
+  "currentlySelectedSackNumber": 1,
   "sacks": [
     {
       "iconinfo": null,
@@ -2987,7 +2987,7 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 13,
           "pointY": 11
         },
@@ -3002,7 +3002,7 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 790291208,
+          "var2": 2035248,
           "pointX": 2,
           "pointY": 11
         },
@@ -5395,21 +5395,6 @@
           "var2": 2035248,
           "pointX": 5,
           "pointY": 13
-        },
-        {
-          "stackSize": 1,
-          "seed": 23678,
-          "baseName": "Records\\Item\\Relics\\01_Act2_AnkhOfIsis.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "records\\item\\lootmagicalaffixes\\animalrelics\\bonuses\\defensive_bleedresist_01.dbr",
-          "var1": 3,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 11,
-          "pointY": 8
         },
         {
           "stackSize": 1,
