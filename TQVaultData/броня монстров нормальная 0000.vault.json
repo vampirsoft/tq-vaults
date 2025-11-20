@@ -437,9 +437,24 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 487698552,
+          "var2": 2035248,
           "pointX": 12,
           "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 4912,
+          "baseName": "Records\\Item\\EquipmentArmor\\MI_N_GorgonMelee.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 58519616,
+          "pointX": 12,
+          "pointY": 17
         }
       ]
     },

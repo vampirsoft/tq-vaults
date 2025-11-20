@@ -572,9 +572,39 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 261288000,
+          "var2": 2035248,
           "pointX": 8,
           "pointY": 6
+        },
+        {
+          "stackSize": 1,
+          "seed": 11800,
+          "baseName": "Records\\Item\\EquipmentHelm\\MI_N_Arachnos.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 58519616,
+          "pointX": 0,
+          "pointY": 14
+        },
+        {
+          "stackSize": 1,
+          "seed": 17933,
+          "baseName": "Records\\Item\\EquipmentHelm\\MI_N_GorgonMelee.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 58519616,
+          "pointX": 4,
+          "pointY": 8
         }
       ]
     },

@@ -887,7 +887,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 253358144,
+          "var2": 2035248,
           "pointX": 14,
           "pointY": 8
         },
@@ -905,6 +905,36 @@
           "var2": 2035248,
           "pointX": 14,
           "pointY": 4
+        },
+        {
+          "stackSize": 1,
+          "seed": 23149,
+          "baseName": "records\\xpack2\\item\\equipmentweapons\\1hranged\\MI_N_maenad.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 58519616,
+          "pointX": 6,
+          "pointY": 14
+        },
+        {
+          "stackSize": 1,
+          "seed": 546,
+          "baseName": "records\\xpack2\\item\\equipmentweapons\\1hranged\\MI_N_skeleton.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 58519616,
+          "pointX": 9,
+          "pointY": 15
         }
       ]
     },
