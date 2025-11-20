@@ -863,6 +863,36 @@
         },
         {
           "stackSize": 1,
+          "seed": 11168,
+          "baseName": "records\\xpack2\\item\\equipmentweapons\\1hranged\\MI_N_maenad.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 14,
+          "pointY": 11
+        },
+        {
+          "stackSize": 1,
+          "seed": 27512,
+          "baseName": "records\\xpack2\\item\\equipmentweapons\\1hranged\\MI_N_maenad.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 253358144,
+          "pointX": 14,
+          "pointY": 8
+        },
+        {
+          "stackSize": 1,
           "seed": 66,
           "baseName": "records\\xpack2\\item\\equipmentweapons\\1hranged\\MI_N_duneraider.dbr",
           "prefixName": "",
@@ -874,22 +904,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 14,
-          "pointY": 6
-        },
-        {
-          "stackSize": 1,
-          "seed": 11168,
-          "baseName": "records\\xpack2\\item\\equipmentweapons\\1hranged\\MI_N_maenad.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 269217856,
-          "pointX": 14,
-          "pointY": 11
+          "pointY": 4
         }
       ]
     },
