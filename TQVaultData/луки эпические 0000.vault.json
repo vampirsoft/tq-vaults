@@ -422,7 +422,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 49672256,
+          "var2": 2035248,
           "pointX": 4,
           "pointY": 8
         },
@@ -437,7 +437,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 2,
           "pointY": 4
         },
@@ -452,7 +452,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 3,
           "pointY": 4
         },
@@ -467,7 +467,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 5,
           "pointY": 4
         },
@@ -482,8 +482,23 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 0,
+          "pointY": 8
+        },
+        {
+          "stackSize": 1,
+          "seed": 6449,
+          "baseName": "Records\\Item\\EquipmentWeapon\\Bow\\U_N_TurquoiseBow.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 5,
           "pointY": 8
         }
       ]

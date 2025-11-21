@@ -3092,7 +3092,7 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1091736808,
+          "var2": 2035248,
           "pointX": 15,
           "pointY": 11
         },
@@ -3107,7 +3107,7 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 425258216,
+          "var2": 2035248,
           "pointX": 3,
           "pointY": 11
         },
@@ -3122,7 +3122,7 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 8,
           "pointY": 11
         },
@@ -3137,7 +3137,7 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 773616760,
+          "var2": 2035248,
           "pointX": 17,
           "pointY": 13
         },
@@ -3152,7 +3152,7 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1191578824,
+          "var2": 2035248,
           "pointX": 0,
           "pointY": 7
         },
@@ -3167,9 +3167,39 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 10,
           "pointY": 9
+        },
+        {
+          "stackSize": 1,
+          "seed": 4744,
+          "baseName": "Records\\Item\\Relics\\01_Act1_ArchimedesMirror.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Retaliation_LeechLife_01.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 697988800,
+          "pointX": 12,
+          "pointY": 12
+        },
+        {
+          "stackSize": 1,
+          "seed": 15438,
+          "baseName": "Records\\Item\\Relics\\01_Act1_HecatesCrescent.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "records\\item\\lootmagicalaffixes\\animalrelics\\bonuses\\defensive_liferesist_01.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 668192504,
+          "pointX": 7,
+          "pointY": 13
         }
       ]
     },
@@ -5737,7 +5767,7 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 803743072,
+          "var2": 2035248,
           "pointX": 0,
           "pointY": 9
         }

@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 0,
+  "currentlySelectedSackNumber": 6,
   "sacks": [
     {
       "iconinfo": null,
@@ -452,9 +452,39 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 58519616,
+          "var2": 2035248,
           "pointX": 12,
           "pointY": 17
+        },
+        {
+          "stackSize": 1,
+          "seed": 19069,
+          "baseName": "Records\\Item\\EquipmentArmor\\MI_N_Boarman.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 58519616,
+          "pointX": 4,
+          "pointY": 9
+        },
+        {
+          "stackSize": 1,
+          "seed": 14613,
+          "baseName": "Records\\Item\\EquipmentArmor\\MI_N_GorgonMelee.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 50720832,
+          "pointX": 12,
+          "pointY": 14
         }
       ]
     },
@@ -2165,6 +2195,21 @@
           "var2": 2035248,
           "pointX": 16,
           "pointY": 3
+        },
+        {
+          "stackSize": 1,
+          "seed": 22358,
+          "baseName": "Records\\Item\\EquipmentArmor\\MI_N_Telkine.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 50720832,
+          "pointX": 16,
+          "pointY": 6
         }
       ]
     },

@@ -1528,21 +1528,6 @@
         },
         {
           "stackSize": 1,
-          "seed": 25095,
-          "baseName": "Records\\Item\\EquipmentArmor\\Um_N_Ephor's Garb.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 0,
-          "pointY": 17
-        },
-        {
-          "stackSize": 1,
           "seed": 22135,
           "baseName": "Records\\Item\\EquipmentArmor\\Um_N_PiousSash.dbr",
           "prefixName": "",
@@ -1627,9 +1612,24 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 0,
           "pointY": 12
+        },
+        {
+          "stackSize": 1,
+          "seed": 4307,
+          "baseName": "Records\\Item\\EquipmentArmor\\U_N_Wayfarer'sRegalia.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 0,
+          "pointY": 15
         }
       ]
     },
@@ -2082,7 +2082,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 0,
           "pointY": 17
         },
@@ -2099,6 +2099,36 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 2,
+          "pointY": 17
+        },
+        {
+          "stackSize": 1,
+          "seed": 28195,
+          "baseName": "Records\\Item\\EquipmentArmor\\Um_N_PiousSash.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 4,
+          "pointY": 17
+        },
+        {
+          "stackSize": 1,
+          "seed": 25095,
+          "baseName": "Records\\Item\\EquipmentArmor\\Um_N_Ephor's Garb.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 6,
           "pointY": 17
         }
       ]
