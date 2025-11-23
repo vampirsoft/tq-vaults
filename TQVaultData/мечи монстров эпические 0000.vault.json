@@ -38,6 +38,21 @@
         },
         {
           "stackSize": 1,
+          "seed": 2177,
+          "baseName": "Records\\XPack\\Item\\EquipmentWeapons\\Sword\\MI_E_Anouran.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 3,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
           "seed": 27781,
           "baseName": "Records\\Item\\EquipmentWeapon\\Sword\\MI_E_TigermanMelee.dbr",
           "prefixName": "",
@@ -63,6 +78,21 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
+          "pointX": 2,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 17923,
+          "baseName": "Records\\Item\\EquipmentWeapon\\Sword\\MI_E_TigermanMelee.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
           "pointX": 1,
           "pointY": 4
         },
@@ -78,38 +108,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 1,
-          "pointY": 8
-        },
-        {
-          "stackSize": 1,
-          "seed": 2177,
-          "baseName": "Records\\XPack\\Item\\EquipmentWeapons\\Sword\\MI_E_Anouran.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 267382848,
           "pointX": 2,
-          "pointY": 0
-        },
-        {
-          "stackSize": 1,
-          "seed": 17923,
-          "baseName": "Records\\Item\\EquipmentWeapon\\Sword\\MI_E_TigermanMelee.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 267382848,
-          "pointX": 1,
-          "pointY": 12
+          "pointY": 4
         }
       ]
     },

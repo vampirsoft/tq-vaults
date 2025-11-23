@@ -248,51 +248,6 @@
         },
         {
           "stackSize": 1,
-          "seed": 371,
-          "baseName": "Records\\Item\\EquipmentShield\\MI_N_Centaur.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 0,
-          "pointY": 0
-        },
-        {
-          "stackSize": 1,
-          "seed": 13333,
-          "baseName": "Records\\Item\\EquipmentShield\\MI_N_Centaur.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 0,
-          "pointY": 3
-        },
-        {
-          "stackSize": 1,
-          "seed": 26942,
-          "baseName": "Records\\Item\\EquipmentShield\\MI_N_Centaur.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 0,
-          "pointY": 6
-        },
-        {
-          "stackSize": 1,
           "seed": 23826,
           "baseName": "Records\\Item\\EquipmentShield\\MI_N_Centaur.dbr",
           "prefixName": "",
@@ -302,9 +257,9 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 58519616,
+          "var2": 15,
           "pointX": 0,
-          "pointY": 9
+          "pointY": 0
         }
       ]
     },
