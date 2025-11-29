@@ -5,23 +5,7 @@
   "sacks": [
     {
       "iconinfo": null,
-      "items": [
-        {
-          "stackSize": 1,
-          "seed": 29770,
-          "baseName": "Records\\Item\\EquipmentArmor\\MI_L_GoldenSkeleton.dbr",
-          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Rare_VeteransArmor_01.dbr",
-          "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AttributeStrength_05.dbr",
-          "relicName": "Records\\Item\\Relics\\03_Act1_HeraclesMight.dbr",
-          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Relics\\Bonuses\\Offensive_+%Damage_04.dbr",
-          "var1": 3,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 8,
-          "pointY": 4
-        }
-      ]
+      "items": []
     },
     {
       "iconinfo": null,

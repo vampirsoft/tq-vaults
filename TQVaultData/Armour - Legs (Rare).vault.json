@@ -5,23 +5,7 @@
   "sacks": [
     {
       "iconinfo": null,
-      "items": [
-        {
-          "stackSize": 1,
-          "seed": 21404,
-          "baseName": "Records\\Item\\EquipmentGreaves\\MI_L_GoldenSkeleton.dbr",
-          "prefixName": "Records\\XPack\\Item\\LootMagicalAffixes\\Prefix\\Default\\Rare_DemonProtectStrArmor_04.dbr",
-          "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Rare_Glade_LegArmor_01.dbr",
-          "relicName": "Records\\Item\\Relics\\03_Act1_Hermessandal.dbr",
-          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Relics\\BonusesGreece\\03\\01_HermesSandal_ResistPierce.dbr",
-          "var1": 3,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 8,
-          "pointY": 3
-        }
-      ]
+      "items": []
     },
     {
       "iconinfo": null,

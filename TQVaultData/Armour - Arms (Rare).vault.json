@@ -5,23 +5,7 @@
   "sacks": [
     {
       "iconinfo": null,
-      "items": [
-        {
-          "stackSize": 1,
-          "seed": 25590,
-          "baseName": "Records\\Item\\EquipmentArmband\\MI_L_GorgonArcher.dbr",
-          "prefixName": "Records\\XPack\\Item\\LootMagicalAffixes\\Prefix\\Default\\Rare_DemonProtectStrArmor_03.dbr",
-          "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Rare_Glade_Armor_01.dbr",
-          "relicName": "Records\\XPack\\Item\\Relics\\03_Act4_RageOfAres.dbr",
-          "relicBonus": "Records\\Item\\LootMagicalAffixes\\AnimalRelics\\Bonuses\\Offensive_+%Damage_04.dbr",
-          "var1": 3,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 8,
-          "pointY": 3
-        }
-      ]
+      "items": []
     },
     {
       "iconinfo": null,
