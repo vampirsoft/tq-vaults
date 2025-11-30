@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 0,
+  "currentlySelectedSackNumber": 5,
   "sacks": [
     {
       "iconinfo": null,
@@ -4964,6 +4964,21 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 4,
+          "pointY": 15
+        },
+        {
+          "stackSize": 1,
+          "seed": 20091,
+          "baseName": "records\\xpack2\\item\\equipmentarmor\\torso\\u_n_03.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 2,
           "pointY": 15
         }
       ]
