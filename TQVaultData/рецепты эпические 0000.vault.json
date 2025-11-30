@@ -2045,12 +2045,7 @@
           "var2": 2035248,
           "pointX": 12,
           "pointY": 0
-        }
-      ]
-    },
-    {
-      "iconinfo": null,
-      "items": [
+        },
         {
           "stackSize": 1,
           "seed": 937,
@@ -2063,10 +2058,14 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 0,
+          "pointX": 16,
           "pointY": 0
         }
       ]
+    },
+    {
+      "iconinfo": null,
+      "items": []
     },
     {
       "iconinfo": null,
