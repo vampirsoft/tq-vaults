@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 3,
+  "currentlySelectedSackNumber": 0,
   "sacks": [
     {
       "iconinfo": null,
@@ -979,7 +979,22 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 16,
-          "pointY": 2
+          "pointY": 4
+        },
+        {
+          "stackSize": 1,
+          "seed": 5050,
+          "baseName": "Records\\XPack\\Item\\EquipmentWeapons\\Staff\\z_Snowball.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 16,
+          "pointY": 12
         },
         {
           "stackSize": 1,
@@ -994,7 +1009,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 16,
-          "pointY": 4
+          "pointY": 8
         }
       ]
     },
