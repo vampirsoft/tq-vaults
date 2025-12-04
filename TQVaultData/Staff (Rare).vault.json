@@ -5,23 +5,7 @@
   "sacks": [
     {
       "iconinfo": null,
-      "items": [
-        {
-          "stackSize": 1,
-          "seed": 5284,
-          "baseName": "Records\\XPack\\Item\\EquipmentWeapons\\Staff\\MI_N_Empousa.dbr",
-          "prefixName": "",
-          "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Offensive_+%Lightning_02.dbr",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 0,
-          "pointY": 0
-        }
-      ]
+      "items": []
     },
     {
       "iconinfo": null,
