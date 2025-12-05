@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 0,
+  "currentlySelectedSackNumber": 1,
   "sacks": [
     {
       "iconinfo": null,
@@ -1115,6 +1115,246 @@
           "var2": 2035248,
           "pointX": 8,
           "pointY": 12
+        },
+        {
+          "stackSize": 1,
+          "seed": 23082,
+          "baseName": "records\\item\\equipmentweapon\\bow\\u_l_bowofheracles.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 17,
+          "pointY": 16
+        },
+        {
+          "stackSize": 1,
+          "seed": 6513,
+          "baseName": "records\\item\\equipmentweapon\\bow\\u_l_artemis'silverbow.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 16,
+          "pointY": 16
+        },
+        {
+          "stackSize": 1,
+          "seed": 27808,
+          "baseName": "records\\item\\equipmentweapon\\bow\\u_l_helios'fury.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 14,
+          "pointY": 16
+        },
+        {
+          "stackSize": 1,
+          "seed": 18207,
+          "baseName": "records\\item\\equipmentweapon\\bow\\u_l_bowofeurytus.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 12,
+          "pointY": 16
+        },
+        {
+          "stackSize": 1,
+          "seed": 4215,
+          "baseName": "records\\item\\equipmentweapon\\bow\\u_l_nemesis'recurve.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 13,
+          "pointY": 16
+        },
+        {
+          "stackSize": 1,
+          "seed": 22548,
+          "baseName": "records\\item\\equipmentweapon\\bow\\u_l_atalanta'sbow.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 11,
+          "pointY": 16
+        },
+        {
+          "stackSize": 1,
+          "seed": 23053,
+          "baseName": "records\\item\\equipmentweapon\\bow\\u_l_apollo'scurvedbow.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 10,
+          "pointY": 16
+        },
+        {
+          "stackSize": 1,
+          "seed": 7497,
+          "baseName": "records\\item\\equipmentweapon\\bow\\u_l_painweaver.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 9,
+          "pointY": 12
+        },
+        {
+          "stackSize": 1,
+          "seed": 23506,
+          "baseName": "records\\item\\equipmentweapon\\bow\\u_l_serpentwhisper.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 8,
+          "pointY": 16
+        },
+        {
+          "stackSize": 1,
+          "seed": 30699,
+          "baseName": "records\\xpack\\item\\equipmentweapons\\bow\\u_e_001.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 5,
+          "pointY": 16
+        },
+        {
+          "stackSize": 1,
+          "seed": 15121,
+          "baseName": "records\\item\\equipmentweapon\\bow\\u_e_deathblossom.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 6,
+          "pointY": 16
+        },
+        {
+          "stackSize": 1,
+          "seed": 21898,
+          "baseName": "records\\xpack\\item\\equipmentweapons\\bow\\u_e_002.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 7,
+          "pointY": 16
+        },
+        {
+          "stackSize": 1,
+          "seed": 6826,
+          "baseName": "records\\item\\equipmentweapon\\bow\\u_e_neith'sbowofthesun.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 3,
+          "pointY": 16
+        },
+        {
+          "stackSize": 1,
+          "seed": 21224,
+          "baseName": "records\\item\\equipmentweapon\\bow\\u_e_khamsin.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 1,
+          "pointY": 16
+        },
+        {
+          "stackSize": 1,
+          "seed": 19488,
+          "baseName": "records\\item\\equipmentweapon\\bow\\u_e_zhurong'sfirebow.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 2,
+          "pointY": 16
+        },
+        {
+          "stackSize": 1,
+          "seed": 942,
+          "baseName": "records\\item\\equipmentweapon\\bow\\u_l_qinwarbow.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 15,
+          "pointY": 16
         }
       ]
     },
@@ -1480,16 +1720,11 @@
           "var2": 2035248,
           "pointX": 7,
           "pointY": 4
-        }
-      ]
-    },
-    {
-      "iconinfo": null,
-      "items": [
+        },
         {
           "stackSize": 1,
-          "seed": 3436,
-          "baseName": "Records\\XPack3\\Items\\EquipmentWeapon\\Bow\\u_e_01.dbr",
+          "seed": 20561,
+          "baseName": "records\\xpack4\\item\\equipmentweapon\\bow\\u_l_wanmasbow.dbr",
           "prefixName": "",
           "suffixName": "",
           "relicName": "",
@@ -1498,7 +1733,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 0,
+          "pointX": 17,
           "pointY": 0
         },
         {
@@ -1513,13 +1748,13 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 1,
+          "pointX": 16,
           "pointY": 0
         },
         {
           "stackSize": 1,
-          "seed": 20561,
-          "baseName": "records\\xpack4\\item\\equipmentweapon\\bow\\u_l_wanmasbow.dbr",
+          "seed": 3436,
+          "baseName": "Records\\XPack3\\Items\\EquipmentWeapon\\Bow\\u_e_01.dbr",
           "prefixName": "",
           "suffixName": "",
           "relicName": "",
@@ -1528,7 +1763,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 2,
+          "pointX": 15,
           "pointY": 0
         },
         {
@@ -1543,28 +1778,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 0,
+          "pointX": 15,
           "pointY": 4
-        }
-      ]
-    },
-    {
-      "iconinfo": null,
-      "items": [
-        {
-          "stackSize": 1,
-          "seed": 2217,
-          "baseName": "Records\\XPack3\\Items\\EquipmentWeapon\\Bow\\u_e_02.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 0,
-          "pointY": 0
         },
         {
           "stackSize": 1,
@@ -1578,7 +1793,22 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 1,
+          "pointX": 13,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 2217,
+          "baseName": "Records\\XPack3\\Items\\EquipmentWeapon\\Bow\\u_e_02.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 12,
           "pointY": 0
         },
         {
@@ -1593,7 +1823,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 1,
+          "pointX": 13,
           "pointY": 4
         },
         {
@@ -1608,10 +1838,78 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 0,
+          "pointX": 12,
           "pointY": 4
+        },
+        {
+          "stackSize": 1,
+          "seed": 17131,
+          "baseName": "records\\xpack\\item\\equipmentweapons\\bow\\u_l_003.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 2,
+          "pointY": 16
+        },
+        {
+          "stackSize": 1,
+          "seed": 4698,
+          "baseName": "records\\item\\equipmentweapon\\bow\\u_e_borealis.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 17,
+          "pointY": 16
+        },
+        {
+          "stackSize": 1,
+          "seed": 9855,
+          "baseName": "records\\xpack\\item\\equipmentweapons\\bow\\u_l_002.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 3,
+          "pointY": 16
+        },
+        {
+          "stackSize": 1,
+          "seed": 24450,
+          "baseName": "records\\item\\equipmentweapon\\bow\\u_e_teucer'swarbow.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 16,
+          "pointY": 16
         }
       ]
+    },
+    {
+      "iconinfo": null,
+      "items": []
+    },
+    {
+      "iconinfo": null,
+      "items": []
     },
     {
       "iconinfo": null,

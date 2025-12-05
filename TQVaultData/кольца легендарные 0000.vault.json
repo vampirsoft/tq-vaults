@@ -1910,6 +1910,36 @@
           "var2": 2035248,
           "pointX": 13,
           "pointY": 7
+        },
+        {
+          "stackSize": 1,
+          "seed": 7431,
+          "baseName": "records\\item\\equipmentring\\u_e_crestofmurong.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 3,
+          "pointY": 8
+        },
+        {
+          "stackSize": 1,
+          "seed": 29957,
+          "baseName": "records\\xpack\\item\\equipmentarmor\\ring\\u_l_003.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 15,
+          "pointY": 9
         }
       ]
     },

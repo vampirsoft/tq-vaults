@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 0,
+  "currentlySelectedSackNumber": 5,
   "sacks": [
     {
       "iconinfo": null,
@@ -395,6 +395,66 @@
           "var2": 2035248,
           "pointX": 14,
           "pointY": 6
+        },
+        {
+          "stackSize": 1,
+          "seed": 3763,
+          "baseName": "records\\item\\equipmenthelm\\um_e_orpheusgarland.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 0,
+          "pointY": 8
+        },
+        {
+          "stackSize": 1,
+          "seed": 8808,
+          "baseName": "records\\xpack\\item\\equipmentarmor\\helm\\um_e_002.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 2,
+          "pointY": 8
+        },
+        {
+          "stackSize": 1,
+          "seed": 16274,
+          "baseName": "records\\item\\equipmenthelm\\um_l_hesione'sgoldenveil.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 8,
+          "pointY": 8
+        },
+        {
+          "stackSize": 1,
+          "seed": 31306,
+          "baseName": "records\\xpack\\item\\equipmentarmor\\helm\\um_l_002.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 14,
+          "pointY": 8
         }
       ]
     },
@@ -565,6 +625,21 @@
           "var2": 2035248,
           "pointX": 2,
           "pointY": 6
+        },
+        {
+          "stackSize": 1,
+          "seed": 24091,
+          "baseName": "records\\xpack\\item\\equipmentarmor\\helm\\um_l_001.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 2,
+          "pointY": 8
         }
       ]
     },
@@ -1020,6 +1095,96 @@
           "var2": 2035248,
           "pointX": 0,
           "pointY": 6
+        },
+        {
+          "stackSize": 1,
+          "seed": 10990,
+          "baseName": "records\\item\\equipmenthelm\\u_e_helmofoddyseus.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 4,
+          "pointY": 8
+        },
+        {
+          "stackSize": 1,
+          "seed": 24742,
+          "baseName": "records\\item\\equipmenthelm\\u_e_chiron'sgaze.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 2,
+          "pointY": 8
+        },
+        {
+          "stackSize": 1,
+          "seed": 27690,
+          "baseName": "records\\item\\equipmenthelm\\u_e_pan'sheaddress.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 6,
+          "pointY": 8
+        },
+        {
+          "stackSize": 1,
+          "seed": 28835,
+          "baseName": "records\\item\\equipmenthelm\\u_e_athlon.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 0,
+          "pointY": 8
+        },
+        {
+          "stackSize": 1,
+          "seed": 29815,
+          "baseName": "records\\item\\equipmenthelm\\u_l_helmofdarkness.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 16,
+          "pointY": 8
+        },
+        {
+          "stackSize": 1,
+          "seed": 8477,
+          "baseName": "records\\xpack\\item\\equipmentarmor\\helm\\u_e_001.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 10,
+          "pointY": 8
         }
       ]
     },
@@ -1325,6 +1490,51 @@
           "var2": 2035248,
           "pointX": 4,
           "pointY": 6
+        },
+        {
+          "stackSize": 1,
+          "seed": 21889,
+          "baseName": "records\\xpack\\item\\equipmentarmor\\helm\\u_l_001.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 8,
+          "pointY": 8
+        },
+        {
+          "stackSize": 1,
+          "seed": 15878,
+          "baseName": "records\\item\\equipmenthelm\\u_l_agamemnon'sdeathmask.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 4,
+          "pointY": 8
+        },
+        {
+          "stackSize": 1,
+          "seed": 26824,
+          "baseName": "records\\item\\equipmenthelm\\u_l_ares'warhelm.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 0,
+          "pointY": 8
         }
       ]
     },
@@ -1545,6 +1755,21 @@
           "var2": 2035248,
           "pointX": 4,
           "pointY": 6
+        },
+        {
+          "stackSize": 1,
+          "seed": 1731,
+          "baseName": "records\\item\\equipmenthelm\\u_l_hermes'wingedhelm.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 4,
+          "pointY": 8
         }
       ]
     },
