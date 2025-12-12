@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 0,
+  "currentlySelectedSackNumber": 2,
   "sacks": [
     {
       "iconinfo": null,
@@ -875,6 +875,21 @@
           "var2": 2035248,
           "pointX": 8,
           "pointY": 16
+        },
+        {
+          "stackSize": 1,
+          "seed": 31442,
+          "baseName": "records\\xpack\\item\\equipmentarmor\\greaves\\um_n_001.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 6,
+          "pointY": 18
         }
       ]
     },
@@ -1950,6 +1965,21 @@
           "var2": 2035248,
           "pointX": 12,
           "pointY": 12
+        },
+        {
+          "stackSize": 1,
+          "seed": 30115,
+          "baseName": "records\\xpack\\item\\equipmentarmor\\greaves\\u_n_002.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 12,
+          "pointY": 14
         }
       ]
     },

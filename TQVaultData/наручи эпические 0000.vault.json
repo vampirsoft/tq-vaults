@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 1,
+  "currentlySelectedSackNumber": 3,
   "sacks": [
     {
       "iconinfo": null,
@@ -800,6 +800,21 @@
           "var2": 2035248,
           "pointX": 10,
           "pointY": 10
+        },
+        {
+          "stackSize": 1,
+          "seed": 26074,
+          "baseName": "records\\xpack\\item\\equipmentarmor\\armband\\um_n_001.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 14,
+          "pointY": 12
         }
       ]
     },
@@ -2450,6 +2465,21 @@
           "var2": 2035248,
           "pointX": 6,
           "pointY": 14
+        },
+        {
+          "stackSize": 1,
+          "seed": 3444,
+          "baseName": "records\\xpack\\item\\equipmentarmor\\armband\\u_n_002.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 6,
+          "pointY": 16
         }
       ]
     },
