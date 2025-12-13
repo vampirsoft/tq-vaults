@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 4,
+  "currentlySelectedSackNumber": 5,
   "sacks": [
     {
       "iconinfo": null,
@@ -612,21 +612,6 @@
         },
         {
           "stackSize": 1,
-          "seed": 16052,
-          "baseName": "records\\xpack\\item\\equipmentarmor\\greaves\\mi_e_gigantesmelee02.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 16,
-          "pointY": 2
-        },
-        {
-          "stackSize": 1,
           "seed": 29445,
           "baseName": "records\\xpack\\item\\equipmentarmor\\greaves\\mi_e_formicidmelee01.dbr",
           "prefixName": "",
@@ -644,7 +629,23 @@
     },
     {
       "iconinfo": null,
-      "items": []
+      "items": [
+        {
+          "stackSize": 1,
+          "seed": 16052,
+          "baseName": "records\\xpack\\item\\equipmentarmor\\greaves\\mi_e_gigantesmelee02.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 4,
+          "pointY": 0
+        }
+      ]
     },
     {
       "iconinfo": null,
