@@ -350,6 +350,21 @@
           "var2": 2035248,
           "pointX": 6,
           "pointY": 12
+        },
+        {
+          "stackSize": 1,
+          "seed": 20151,
+          "baseName": "Records\\XPack\\Item\\EquipmentWeapons\\Staff\\C02_Fire03.dbr",
+          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Offensive_DamageLightning_03.dbr",
+          "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Offensive_Damage%LifeLeech_01.dbr",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 8,
+          "pointY": 12
         }
       ]
     },
