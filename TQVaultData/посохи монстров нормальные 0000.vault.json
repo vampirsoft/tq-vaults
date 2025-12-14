@@ -8,36 +8,6 @@
       "items": [
         {
           "stackSize": 1,
-          "seed": 11753,
-          "baseName": "records\\xpack2\\item\\equipmentweapons\\staff\\MI_N_nerthusshaman.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 14,
-          "pointY": 0
-        },
-        {
-          "stackSize": 1,
-          "seed": 31540,
-          "baseName": "records\\xpack2\\item\\equipmentweapons\\staff\\MI_N_fjordmage.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 16,
-          "pointY": 0
-        },
-        {
-          "stackSize": 1,
           "seed": 20436,
           "baseName": "Records\\Item\\EquipmentWeapon\\Staff\\MI_N_SatyrMage.dbr",
           "prefixName": "",
@@ -68,8 +38,8 @@
         },
         {
           "stackSize": 1,
-          "seed": 7813,
-          "baseName": "records\\xpack2\\item\\equipmentweapons\\staff\\MI_N_troll.dbr",
+          "seed": 8231,
+          "baseName": "Records\\Item\\EquipmentWeapon\\Staff\\MI_N_SatyrMage.dbr",
           "prefixName": "",
           "suffixName": "",
           "relicName": "",
@@ -78,7 +48,37 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 12,
+          "pointX": 0,
+          "pointY": 4
+        },
+        {
+          "stackSize": 1,
+          "seed": 16135,
+          "baseName": "records\\item\\equipmentweapon\\staff\\mi_n_satyrmage.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 0,
+          "pointY": 8
+        },
+        {
+          "stackSize": 1,
+          "seed": 23118,
+          "baseName": "Records\\XPack3\\Items\\EquipmentWeapon\\Staff\\MI_N_EmbalmedPriest_Fire.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 4,
           "pointY": 0
         },
         {
@@ -93,9 +93,49 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 4,
+          "pointX": 14,
           "pointY": 0
         },
+        {
+          "stackSize": 1,
+          "seed": 17109,
+          "baseName": "records\\item\\equipmentweapon\\staff\\mi_n_liche.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 14,
+          "pointY": 4
+        }
+      ]
+    },
+    {
+      "iconinfo": null,
+      "items": [
+        {
+          "stackSize": 1,
+          "seed": 21377,
+          "baseName": "Records\\XPack3\\Items\\EquipmentWeapon\\Staff\\MI_N_Serpentoid_Frost.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 6,
+          "pointY": 0
+        }
+      ]
+    },
+    {
+      "iconinfo": null,
+      "items": [
         {
           "stackSize": 1,
           "seed": 20402,
@@ -108,7 +148,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 6,
+          "pointX": 4,
           "pointY": 0
         },
         {
@@ -123,7 +163,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 8,
+          "pointX": 6,
           "pointY": 0
         },
         {
@@ -138,33 +178,28 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
+          "pointX": 8,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 7813,
+          "baseName": "records\\xpack2\\item\\equipmentweapons\\staff\\MI_N_troll.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
           "pointX": 10,
           "pointY": 0
         },
         {
           "stackSize": 1,
-          "seed": 8231,
-          "baseName": "Records\\Item\\EquipmentWeapon\\Staff\\MI_N_SatyrMage.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 58519616,
-          "pointX": 0,
-          "pointY": 4
-        }
-      ]
-    },
-    {
-      "iconinfo": null,
-      "items": [
-        {
-          "stackSize": 1,
-          "seed": 23118,
-          "baseName": "Records\\XPack3\\Items\\EquipmentWeapon\\Staff\\MI_N_EmbalmedPriest_Fire.dbr",
+          "seed": 11753,
+          "baseName": "records\\xpack2\\item\\equipmentweapons\\staff\\MI_N_nerthusshaman.dbr",
           "prefixName": "",
           "suffixName": "",
           "relicName": "",
@@ -173,13 +208,13 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 0,
+          "pointX": 12,
           "pointY": 0
         },
         {
           "stackSize": 1,
-          "seed": 21377,
-          "baseName": "Records\\XPack3\\Items\\EquipmentWeapon\\Staff\\MI_N_Serpentoid_Frost.dbr",
+          "seed": 31540,
+          "baseName": "records\\xpack2\\item\\equipmentweapons\\staff\\MI_N_fjordmage.dbr",
           "prefixName": "",
           "suffixName": "",
           "relicName": "",
@@ -188,14 +223,10 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 2,
+          "pointX": 14,
           "pointY": 0
         }
       ]
-    },
-    {
-      "iconinfo": null,
-      "items": []
     },
     {
       "iconinfo": null,
