@@ -170,6 +170,36 @@
           "var2": 2035248,
           "pointX": 9,
           "pointY": 4
+        },
+        {
+          "stackSize": 1,
+          "seed": 10331,
+          "baseName": "records\\item\\equipmentweapon\\sword\\mi_e_arachnos.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 0,
+          "pointY": 8
+        },
+        {
+          "stackSize": 1,
+          "seed": 20870,
+          "baseName": "records\\item\\equipmentweapon\\sword\\mi_e_tigermanmelee.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 1,
+          "pointY": 12
         }
       ]
     },
