@@ -8,8 +8,8 @@
       "items": [
         {
           "stackSize": 1,
-          "seed": 31193,
-          "baseName": "records\\item\\equipmentweapon\\staff\\us_n_necromancer'shabiliment.dbr",
+          "seed": 24624,
+          "baseName": "Records\\Item\\EquipmentWeapon\\Staff\\US_N_Necromancer'sHabiliment.dbr",
           "prefixName": "",
           "suffixName": "",
           "relicName": "",
@@ -23,22 +23,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 17663,
-          "baseName": "Records\\Item\\EquipmentArmor\\USm_N_Necromancer'sHabiliment.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 0,
-          "pointY": 4
-        },
-        {
-          "stackSize": 1,
-          "seed": 15665,
+          "seed": 17150,
           "baseName": "Records\\Item\\EquipmentGreaves\\USm_N_Necromancer'sHabiliment.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -49,7 +34,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 0,
-          "pointY": 7
+          "pointY": 11
         },
         {
           "stackSize": 1,
@@ -65,11 +50,16 @@
           "var2": 2035248,
           "pointX": 0,
           "pointY": 9
-        },
+        }
+      ]
+    },
+    {
+      "iconinfo": null,
+      "items": [
         {
           "stackSize": 1,
-          "seed": 26350,
-          "baseName": "Records\\Item\\EquipmentHelm\\USm_N_Necromancer'sHabiliment.dbr",
+          "seed": 12224,
+          "baseName": "Records\\Item\\EquipmentArmor\\USm_N_Oracle'sGarments.dbr",
           "prefixName": "",
           "suffixName": "",
           "relicName": "",
@@ -79,13 +69,24 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 0,
-          "pointY": 11
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 24175,
+          "baseName": "Records\\Item\\EquipmentGreaves\\USm_N_Oracle'sGarments.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 0,
+          "pointY": 7
         }
       ]
-    },
-    {
-      "iconinfo": null,
-      "items": []
     },
     {
       "iconinfo": null,
