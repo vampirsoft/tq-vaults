@@ -1,39 +1,482 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 0,
+  "currentlySelectedSackNumber": 7,
   "sacks": [
     {
       "iconinfo": null,
-      "items": []
+      "items": [
+        {
+          "stackSize": 1,
+          "seed": 26621,
+          "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Helm\\Z_Cowboy01.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 15,
+          "pointX": 0,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 31065,
+          "baseName": "records\\xpack\\item\\equipmentarmor\\greaves\\z_cowboy01.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 15,
+          "pointX": 0,
+          "pointY": 2
+        }
+      ]
     },
     {
       "iconinfo": null,
-      "items": []
+      "items": [
+        {
+          "stackSize": 1,
+          "seed": 12814,
+          "baseName": "records\\xpack\\item\\equipmentweapons\\shield\\z_germany01.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 15,
+          "pointX": 0,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 645,
+          "baseName": "records\\xpack\\item\\equipmentweapons\\club\\z_germany01.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 15,
+          "pointX": 0,
+          "pointY": 2
+        }
+      ]
     },
     {
       "iconinfo": null,
-      "items": []
+      "items": [
+        {
+          "stackSize": 1,
+          "seed": 327,
+          "baseName": "records\\xpack\\item\\equipmentarmor\\torso\\z_us01.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 0,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 700,
+          "baseName": "records\\xpack\\item\\equipmentarmor\\armband\\z_us01.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 0,
+          "pointY": 3
+        },
+        {
+          "stackSize": 1,
+          "seed": 10909,
+          "baseName": "records\\xpack\\item\\equipmentweapons\\club\\z_us01.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 0,
+          "pointY": 5
+        }
+      ]
     },
     {
       "iconinfo": null,
-      "items": []
+      "items": [
+        {
+          "stackSize": 1,
+          "seed": 543,
+          "baseName": "records\\xpack\\item\\equipmentweapons\\shield\\z_france01.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 0,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 27352,
+          "baseName": "records\\xpack\\item\\equipmentweapons\\axe\\z_france01.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 0,
+          "pointY": 3
+        }
+      ]
     },
     {
       "iconinfo": null,
-      "items": []
+      "items": [
+        {
+          "stackSize": 1,
+          "seed": 24113,
+          "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Helm\\Z_Pirate01.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 0,
+          "pointY": 3
+        },
+        {
+          "stackSize": 1,
+          "seed": 12663,
+          "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Torso\\Z_Pirate01.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 0,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 27186,
+          "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Greaves\\Z_Pirate01.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 0,
+          "pointY": 5
+        }
+      ]
     },
     {
       "iconinfo": null,
-      "items": []
+      "items": [
+        {
+          "stackSize": 1,
+          "seed": 114,
+          "baseName": "records\\xpack\\item\\equipmentarmor\\torso\\z_asia01.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 0,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 590,
+          "baseName": "records\\xpack\\item\\equipmentarmor\\helm\\z_asia01.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 0,
+          "pointY": 3
+        },
+        {
+          "stackSize": 1,
+          "seed": 381,
+          "baseName": "records\\xpack\\item\\equipmentarmor\\armband\\z_asia01.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 0,
+          "pointY": 5
+        },
+        {
+          "stackSize": 1,
+          "seed": 907,
+          "baseName": "records\\xpack\\item\\equipmentarmor\\greaves\\z_asia01.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 0,
+          "pointY": 7
+        },
+        {
+          "stackSize": 1,
+          "seed": 148,
+          "baseName": "records\\xpack\\item\\equipmentweapons\\sword\\z_asia01a.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 15,
+          "pointX": 0,
+          "pointY": 9
+        },
+        {
+          "stackSize": 1,
+          "seed": 14,
+          "baseName": "records\\xpack\\item\\equipmentweapons\\sword\\z_asia01b.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 15,
+          "pointX": 0,
+          "pointY": 13
+        }
+      ]
     },
     {
       "iconinfo": null,
-      "items": []
+      "items": [
+        {
+          "stackSize": 1,
+          "seed": 22951,
+          "baseName": "records\\xpack\\item\\equipmentarmor\\torso\\z_sleuth01.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 15,
+          "pointX": 0,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 4493,
+          "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Helm\\Z_Sleuth01.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 15,
+          "pointX": 0,
+          "pointY": 3
+        },
+        {
+          "stackSize": 1,
+          "seed": 19016,
+          "baseName": "records\\xpack\\item\\equipmentarmor\\armband\\z_sleuth01.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 15,
+          "pointX": 0,
+          "pointY": 5
+        },
+        {
+          "stackSize": 1,
+          "seed": 18244,
+          "baseName": "records\\xpack\\item\\equipmentarmor\\greaves\\z_sleuth01.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 15,
+          "pointX": 0,
+          "pointY": 7
+        },
+        {
+          "stackSize": 1,
+          "seed": 21826,
+          "baseName": "Records\\XPack\\Item\\EquipmentWeapons\\Club\\Z_Sleuth01.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 15,
+          "pointX": 0,
+          "pointY": 9
+        }
+      ]
     },
     {
       "iconinfo": null,
-      "items": []
+      "items": [
+        {
+          "stackSize": 1,
+          "seed": 28908,
+          "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Torso\\Z_Santa01.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 0,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 3676,
+          "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Helm\\Z_Santa01.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 0,
+          "pointY": 3
+        },
+        {
+          "stackSize": 1,
+          "seed": 31013,
+          "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Armband\\Z_Santa01.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 0,
+          "pointY": 5
+        },
+        {
+          "stackSize": 1,
+          "seed": 1203,
+          "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Greaves\\Z_Santa01.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 15,
+          "pointX": 0,
+          "pointY": 7
+        },
+        {
+          "stackSize": 1,
+          "seed": 8037,
+          "baseName": "Records\\XPack\\Item\\EquipmentWeapons\\Shield\\Z_Santa01.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 0,
+          "pointY": 9
+        },
+        {
+          "stackSize": 1,
+          "seed": 17453,
+          "baseName": "Records\\XPack\\Item\\EquipmentWeapons\\Club\\Z_Santa01.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 15,
+          "pointX": 0,
+          "pointY": 11
+        }
+      ]
     },
     {
       "iconinfo": null,

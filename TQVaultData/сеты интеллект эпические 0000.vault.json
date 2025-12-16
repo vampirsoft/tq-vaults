@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 10,
+  "currentlySelectedSackNumber": 11,
   "sacks": [
     {
       "iconinfo": null,
@@ -462,7 +462,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 0,
           "pointY": 0
         },
@@ -477,7 +477,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 0,
           "pointY": 2
         },
@@ -492,7 +492,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 0,
           "pointY": 19
         },
@@ -507,7 +507,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 1,
           "pointY": 19
         }
@@ -527,7 +527,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 15,
+          "var2": 2035248,
           "pointX": 0,
           "pointY": 0
         },
@@ -542,7 +542,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 15,
+          "var2": 2035248,
           "pointX": 0,
           "pointY": 3
         },
@@ -557,7 +557,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 15,
+          "var2": 2035248,
           "pointX": 0,
           "pointY": 5
         },
@@ -572,7 +572,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 15,
+          "var2": 2035248,
           "pointX": 0,
           "pointY": 7
         },
@@ -587,7 +587,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 15,
+          "var2": 2035248,
           "pointX": 0,
           "pointY": 9
         }
@@ -607,7 +607,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 0,
           "pointY": 0
         },
@@ -622,7 +622,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 0,
           "pointY": 2
         },
@@ -637,7 +637,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 0,
           "pointY": 3
         }
@@ -645,7 +645,68 @@
     },
     {
       "iconinfo": null,
-      "items": []
+      "items": [
+        {
+          "stackSize": 1,
+          "seed": 31668,
+          "baseName": "Records\\Item\\EquipmentWeapon\\Staff\\US_E_HabilimentsoftheDruid.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 15,
+          "pointX": 0,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 26319,
+          "baseName": "Records\\Item\\EquipmentArmor\\USm_E_HabilimentsoftheDruid.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 0,
+          "pointY": 4
+        },
+        {
+          "stackSize": 1,
+          "seed": 27543,
+          "baseName": "Records\\Item\\EquipmentArmband\\USm_E_HabilimentsoftheDruid.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 0,
+          "pointY": 7
+        },
+        {
+          "stackSize": 1,
+          "seed": 14893,
+          "baseName": "Records\\Item\\EquipmentHelm\\USm_E_HabilimentsoftheDruid.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 0,
+          "pointY": 9
+        }
+      ]
     }
   ]
 }
