@@ -1,0 +1,269 @@
+﻿{
+  "disabledtooltip": [],
+  "currentlyFocusedSackNumber": 0,
+  "currentlySelectedSackNumber": 3,
+  "sacks": [
+    {
+      "iconinfo": null,
+      "items": [
+        {
+          "stackSize": 1,
+          "seed": 1881,
+          "baseName": "records\\xpack2\\item\\equipmentarmor\\armband\\us_n_sucellus.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 15,
+          "pointX": 0,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 4900,
+          "baseName": "records\\xpack2\\item\\equipmentarmor\\greaves\\US_N_Sucellus.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 15,
+          "pointX": 0,
+          "pointY": 2
+        }
+      ]
+    },
+    {
+      "iconinfo": null,
+      "items": [
+        {
+          "stackSize": 1,
+          "seed": 13797,
+          "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Torso\\U_N_001.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 0,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 23200,
+          "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Helm\\U_N_001.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 0,
+          "pointY": 3
+        },
+        {
+          "stackSize": 1,
+          "seed": 9430,
+          "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Armband\\U_N_001.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 0,
+          "pointY": 5
+        },
+        {
+          "stackSize": 1,
+          "seed": -2,
+          "baseName": "Records\\XPack\\Item\\equipmentArmor\\Greaves\\U_N_001.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 0,
+          "pointY": 7
+        }
+      ]
+    },
+    {
+      "iconinfo": null,
+      "items": [
+        {
+          "stackSize": 1,
+          "seed": 9555,
+          "baseName": "records\\xpack2\\item\\equipmentarmor\\torso\\us_n_brennus.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 0,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 17683,
+          "baseName": "records\\xpack2\\item\\equipmentarmor\\helm\\US_N_Brennus.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 0,
+          "pointY": 3
+        },
+        {
+          "stackSize": 1,
+          "seed": 24958,
+          "baseName": "records\\xpack2\\item\\equipmentarmor\\armband\\US_N_Brennus.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 0,
+          "pointY": 5
+        },
+        {
+          "stackSize": 1,
+          "seed": 12404,
+          "baseName": "records\\xpack2\\item\\equipmentarmor\\greaves\\us_n_brennus.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 0,
+          "pointY": 7
+        }
+      ]
+    },
+    {
+      "iconinfo": null,
+      "items": [
+        {
+          "stackSize": 1,
+          "seed": 22011,
+          "baseName": "Records\\XPack3\\Items\\EquipmentArmor\\Torso\\u_n_Set10.dbr",
+          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Rare_Juggernaught'sArmor_01.dbr",
+          "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Retaliation_LeechLife_03.dbr",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 0,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 6390,
+          "baseName": "Records\\XPack3\\Items\\EquipmentArmor\\Helm\\u_n_Set10.dbr",
+          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Defensive_ResistPoison_04.dbr",
+          "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Retaliation_Pierce_03.dbr",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 0,
+          "pointY": 3
+        },
+        {
+          "stackSize": 1,
+          "seed": 14368,
+          "baseName": "Records\\XPack3\\Items\\EquipmentArmor\\Armband\\u_n_Set10.dbr",
+          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Rare_Juggernaught'sArmor_01.dbr",
+          "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AttributeLife_06.dbr",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 0,
+          "pointY": 5
+        },
+        {
+          "stackSize": 1,
+          "seed": 17252,
+          "baseName": "Records\\XPack3\\Items\\EquipmentArmor\\Greaves\\u_n_Set10.dbr",
+          "prefixName": "Records\\XPack\\Item\\LootMagicalAffixes\\Prefix\\Default\\Rare_DemonProtectStrArmor_04.dbr",
+          "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Retaliation_LeechLife_03.dbr",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 0,
+          "pointY": 7
+        }
+      ]
+    },
+    {
+      "iconinfo": null,
+      "items": []
+    },
+    {
+      "iconinfo": null,
+      "items": []
+    },
+    {
+      "iconinfo": null,
+      "items": []
+    },
+    {
+      "iconinfo": null,
+      "items": []
+    },
+    {
+      "iconinfo": null,
+      "items": []
+    },
+    {
+      "iconinfo": null,
+      "items": []
+    },
+    {
+      "iconinfo": null,
+      "items": []
+    },
+    {
+      "iconinfo": null,
+      "items": []
+    }
+  ]
+}
