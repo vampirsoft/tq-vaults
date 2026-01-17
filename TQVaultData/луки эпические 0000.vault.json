@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 0,
+  "currentlySelectedSackNumber": 2,
   "sacks": [
     {
       "iconinfo": null,
@@ -2894,6 +2894,21 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 7,
+          "pointY": 8
+        },
+        {
+          "stackSize": 1,
+          "seed": 24116,
+          "baseName": "Records\\Item\\EquipmentWeapon\\Bow\\U_N_MetalPunch.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 8,
           "pointY": 8
         }
       ]
