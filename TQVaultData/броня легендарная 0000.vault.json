@@ -17,7 +17,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 0,
           "pointY": 0
         },
@@ -32,7 +32,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 2,
           "pointY": 0
         },
@@ -47,7 +47,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 4,
           "pointY": 0
         },
@@ -62,7 +62,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 6,
           "pointY": 0
         },
@@ -77,7 +77,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 8,
           "pointY": 0
         },
@@ -92,7 +92,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 10,
           "pointY": 0
         },
@@ -107,7 +107,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 12,
           "pointY": 0
         },
@@ -122,7 +122,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 14,
           "pointY": 0
         },
@@ -137,7 +137,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 16,
           "pointY": 0
         }
@@ -157,7 +157,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 0,
           "pointY": 0
         },
@@ -172,7 +172,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 2,
           "pointY": 0
         },
@@ -187,7 +187,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 4,
           "pointY": 0
         },
@@ -202,7 +202,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 6,
           "pointY": 0
         },
@@ -217,7 +217,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 8,
           "pointY": 0
         },
@@ -232,7 +232,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 10,
           "pointY": 0
         },
@@ -247,7 +247,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 12,
           "pointY": 0
         },
@@ -262,7 +262,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 14,
           "pointY": 0
         },
@@ -277,7 +277,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 16,
           "pointY": 0
         }
@@ -372,7 +372,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 0,
           "pointY": 0
         },
@@ -387,7 +387,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 2,
           "pointY": 0
         }
@@ -396,51 +396,6 @@
     {
       "iconinfo": null,
       "items": [
-        {
-          "stackSize": 1,
-          "seed": 513,
-          "baseName": "Records\\Item\\EquipmentArmor\\U_E_MoraGo'sArmor.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 4,
-          "pointY": 0
-        },
-        {
-          "stackSize": 1,
-          "seed": 15523,
-          "baseName": "records\\item\\equipmentarmor\\u_e_hippocrates'vest.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 0,
-          "pointY": 0
-        },
-        {
-          "stackSize": 1,
-          "seed": 12424,
-          "baseName": "records\\item\\equipmentarmor\\u_e_armorofthecrimsonguard.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 2,
-          "pointY": 0
-        },
         {
           "stackSize": 1,
           "seed": 20760,
@@ -623,36 +578,6 @@
         },
         {
           "stackSize": 1,
-          "seed": 19133,
-          "baseName": "records\\item\\equipmentarmor\\u_e_armorofthecrimsonguard.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 2,
-          "pointY": 3
-        },
-        {
-          "stackSize": 1,
-          "seed": 6459,
-          "baseName": "Records\\Item\\EquipmentArmor\\U_E_Hippocrates'Vest.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 0,
-          "pointY": 3
-        },
-        {
-          "stackSize": 1,
           "seed": 18138,
           "baseName": "records\\item\\equipmentarmor\\u_e_vestmentofthomthemad.dbr",
           "prefixName": "",
@@ -679,21 +604,6 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 14,
-          "pointY": 6
-        },
-        {
-          "stackSize": 1,
-          "seed": 6459,
-          "baseName": "Records\\Item\\EquipmentArmor\\U_E_Hippocrates'Vest.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 0,
           "pointY": 6
         },
         {
@@ -788,21 +698,6 @@
         },
         {
           "stackSize": 1,
-          "seed": 19133,
-          "baseName": "records\\item\\equipmentarmor\\u_e_armorofthecrimsonguard.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 2,
-          "pointY": 6
-        },
-        {
-          "stackSize": 1,
           "seed": 22033,
           "baseName": "Records\\Item\\EquipmentArmor\\U_E_RaimentofXiGua.dbr",
           "prefixName": "",
@@ -844,21 +739,6 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 12,
-          "pointY": 9
-        },
-        {
-          "stackSize": 1,
-          "seed": 16276,
-          "baseName": "records\\item\\equipmentarmor\\u_e_armorofthecrimsonguard.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 2,
           "pointY": 9
         },
         {
@@ -919,21 +799,6 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 4,
-          "pointY": 9
-        },
-        {
-          "stackSize": 1,
-          "seed": 32087,
-          "baseName": "Records\\Item\\EquipmentArmor\\U_E_Hippocrates'Vest.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 0,
           "pointY": 9
         },
         {
@@ -1013,21 +878,6 @@
         },
         {
           "stackSize": 1,
-          "seed": 886,
-          "baseName": "records\\item\\equipmentarmor\\u_e_hippocrates'vest.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 0,
-          "pointY": 12
-        },
-        {
-          "stackSize": 1,
           "seed": 3323,
           "baseName": "records\\item\\equipmentarmor\\u_e_raimentofxigua.dbr",
           "prefixName": "",
@@ -1058,7 +908,22 @@
         },
         {
           "stackSize": 1,
-          "seed": 4600,
+          "seed": 32087,
+          "baseName": "Records\\Item\\EquipmentArmor\\U_E_Hippocrates'Vest.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 0,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 16276,
           "baseName": "records\\item\\equipmentarmor\\u_e_armorofthecrimsonguard.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -1067,9 +932,24 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 2035248,
+          "var2": 1065353216,
           "pointX": 2,
-          "pointY": 12
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 513,
+          "baseName": "Records\\Item\\EquipmentArmor\\U_E_MoraGo'sArmor.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 4,
+          "pointY": 0
         }
       ]
     },
