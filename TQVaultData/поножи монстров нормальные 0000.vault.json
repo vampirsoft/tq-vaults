@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 0,
+  "currentlySelectedSackNumber": 3,
   "sacks": [
     {
       "iconinfo": null,
@@ -1069,6 +1069,21 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 16,
+          "pointY": 4
+        },
+        {
+          "stackSize": 1,
+          "seed": 31361,
+          "baseName": "Records\\XPack3\\Items\\EquipmentArmor\\Greaves\\MI_N_EmbalmedPriestMelee.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1776545856,
+          "pointX": 12,
           "pointY": 4
         }
       ]
