@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 0,
+  "currentlySelectedSackNumber": 1,
   "sacks": [
     {
       "iconinfo": null,
@@ -32,7 +32,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 755355696,
+          "var2": 2035248,
           "pointX": 6,
           "pointY": 0
         },
@@ -47,7 +47,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 755355696,
+          "var2": 2035248,
           "pointX": 1,
           "pointY": 0
         },
@@ -62,7 +62,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 755355696,
+          "var2": 2035248,
           "pointX": 2,
           "pointY": 0
         },
@@ -77,7 +77,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 755355696,
+          "var2": 2035248,
           "pointX": 3,
           "pointY": 0
         },
@@ -92,7 +92,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 755355696,
+          "var2": 2035248,
           "pointX": 4,
           "pointY": 0
         },
@@ -107,7 +107,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 755355696,
+          "var2": 2035248,
           "pointX": 5,
           "pointY": 0
         },
@@ -122,7 +122,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 755355696,
+          "var2": 2035248,
           "pointX": 7,
           "pointY": 0
         },
@@ -137,7 +137,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 755355696,
+          "var2": 2035248,
           "pointX": 8,
           "pointY": 0
         },
@@ -152,7 +152,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 755355696,
+          "var2": 2035248,
           "pointX": 9,
           "pointY": 0
         },
@@ -167,7 +167,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 755355696,
+          "var2": 2035248,
           "pointX": 10,
           "pointY": 0
         },
@@ -182,7 +182,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 755355696,
+          "var2": 2035248,
           "pointX": 11,
           "pointY": 0
         },
@@ -197,7 +197,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 755355696,
+          "var2": 2035248,
           "pointX": 12,
           "pointY": 0
         },
@@ -212,7 +212,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 755355696,
+          "var2": 2035248,
           "pointX": 13,
           "pointY": 0
         },
@@ -227,8 +227,53 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 755355696,
+          "var2": 2035248,
           "pointX": 14,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": -2,
+          "baseName": "Records\\Item\\EquipmentWeapon\\Spear\\U_L_Peleus'AshenSpear .dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 755355696,
+          "pointX": 15,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": -2,
+          "baseName": "Records\\Item\\EquipmentWeapon\\Spear\\U_L_FuryoftheThreeAmazons.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 755355696,
+          "pointX": 16,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 3675,
+          "baseName": "records\\xpack3\\items\\equipmentweapon\\spear\\u_l_02.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 755355696,
+          "pointX": 17,
           "pointY": 0
         }
       ]
@@ -236,6 +281,66 @@
     {
       "iconinfo": null,
       "items": [
+        {
+          "stackSize": 1,
+          "seed": -2,
+          "baseName": "Records\\Item\\EquipmentWeapon\\Spear\\U_L_Soulharvest.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 755355696,
+          "pointX": 0,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": -2,
+          "baseName": "Records\\XPack\\Item\\EquipmentWeapons\\Spear\\U_L_002.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 755355696,
+          "pointX": 1,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": -2,
+          "baseName": "Records\\XPack\\Item\\EquipmentWeapons\\Spear\\U_L_001.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 2,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": -2,
+          "baseName": "records\\xpack2\\item\\equipmentweapons\\spear\\u_l_02.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 3,
+          "pointY": 0
+        },
         {
           "stackSize": 1,
           "seed": 0,
@@ -248,7 +353,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 5,
+          "pointX": 4,
           "pointY": 0
         },
         {
@@ -263,7 +368,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 6,
+          "pointX": 5,
           "pointY": 0
         },
         {
@@ -278,7 +383,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 7,
+          "pointX": 6,
           "pointY": 0
         },
         {
@@ -293,7 +398,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 8,
+          "pointX": 7,
           "pointY": 0
         },
         {
@@ -308,38 +413,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 9,
+          "pointX": 8,
           "pointY": 0
-        },
-        {
-          "stackSize": 1,
-          "seed": 6156,
-          "baseName": "records\\xpack3\\items\\equipmentweapon\\spear\\u_l_01.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 17,
-          "pointY": 0
-        },
-        {
-          "stackSize": 1,
-          "seed": 11143,
-          "baseName": "records\\xpack3\\items\\equipmentweapon\\spear\\u_l_01.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 17,
-          "pointY": 5
         },
         {
           "stackSize": 1,
@@ -352,23 +427,8 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 755355696,
-          "pointX": 12,
-          "pointY": 0
-        },
-        {
-          "stackSize": 1,
-          "seed": 5847,
-          "baseName": "records\\xpack3\\items\\equipmentweapon\\spear\\u_l_03.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 14,
+          "pointX": 11,
           "pointY": 0
         },
         {
@@ -382,9 +442,24 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 2035248,
+          "var2": 755355696,
           "pointX": 14,
-          "pointY": 5
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 11143,
+          "baseName": "records\\xpack3\\items\\equipmentweapon\\spear\\u_l_01.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 755355696,
+          "pointX": 17,
+          "pointY": 0
         }
       ]
     },
