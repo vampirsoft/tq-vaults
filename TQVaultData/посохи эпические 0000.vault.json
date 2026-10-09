@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 0,
+  "currentlySelectedSackNumber": 4,
   "sacks": [
     {
       "iconinfo": null,
@@ -2593,21 +2593,6 @@
         },
         {
           "stackSize": 1,
-          "seed": 6299,
-          "baseName": "Records\\Item\\EquipmentWeapon\\Staff\\U_N_Fulminator.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 8,
-          "pointY": 4
-        },
-        {
-          "stackSize": 1,
           "seed": 3262,
           "baseName": "Records\\Item\\EquipmentWeapon\\Staff\\U_N_SpectralRod.dbr",
           "prefixName": "",
@@ -2664,21 +2649,6 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 10,
-          "pointY": 0
-        },
-        {
-          "stackSize": 1,
-          "seed": 18356,
-          "baseName": "Records\\Item\\EquipmentWeapon\\Staff\\U_E_Hoarfrost.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 8,
           "pointY": 0
         },
         {
@@ -2752,8 +2722,53 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 6,
+          "pointY": 4
+        },
+        {
+          "stackSize": 1,
+          "seed": 8724,
+          "baseName": "Records\\Item\\EquipmentWeapon\\Staff\\U_N_Fulminator.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
           "var2": 1065353216,
           "pointX": 6,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 6299,
+          "baseName": "Records\\Item\\EquipmentWeapon\\Staff\\U_N_Fulminator.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 8,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 18356,
+          "baseName": "Records\\Item\\EquipmentWeapon\\Staff\\U_E_Hoarfrost.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 8,
           "pointY": 4
         }
       ]

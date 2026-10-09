@@ -362,9 +362,24 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 10,
           "pointY": 1
+        },
+        {
+          "stackSize": 1,
+          "seed": 1436,
+          "baseName": "records\\xpack3\\items\\equipmentarmor\\ring\\u_n_02.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 9,
+          "pointY": 2
         }
       ]
     },
