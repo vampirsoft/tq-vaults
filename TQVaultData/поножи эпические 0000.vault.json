@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 0,
+  "currentlySelectedSackNumber": 3,
   "sacks": [
     {
       "iconinfo": null,
@@ -902,7 +902,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 0,
           "pointY": 16
         }
@@ -2303,21 +2303,6 @@
         },
         {
           "stackSize": 1,
-          "seed": 6680,
-          "baseName": "Records\\Item\\EquipmentGreaves\\U_N_ArdentGreaves.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 16,
-          "pointY": 10
-        },
-        {
-          "stackSize": 1,
           "seed": 22578,
           "baseName": "records\\item\\equipmentgreaves\\u_e_nebuchadnezzar'sgreaves.dbr",
           "prefixName": "",
@@ -2330,6 +2315,51 @@
           "var2": 2035248,
           "pointX": 0,
           "pointY": 10
+        },
+        {
+          "stackSize": 1,
+          "seed": 10962,
+          "baseName": "Records\\Item\\EquipmentGreaves\\U_N_MedianGreaves.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 10,
+          "pointY": 18
+        },
+        {
+          "stackSize": 1,
+          "seed": 6680,
+          "baseName": "Records\\Item\\EquipmentGreaves\\U_N_ArdentGreaves.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 10,
+          "pointY": 16
+        },
+        {
+          "stackSize": 1,
+          "seed": 12238,
+          "baseName": "Records\\XPack3\\Items\\EquipmentArmor\\Greaves\\u_n_01.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 16,
+          "pointY": 6
         }
       ]
     },
