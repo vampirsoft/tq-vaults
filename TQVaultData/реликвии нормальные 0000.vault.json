@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 1,
+  "currentlySelectedSackNumber": 3,
   "sacks": [
     {
       "iconinfo": null,
@@ -4247,7 +4247,7 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 3,
           "pointY": 15
         },
@@ -4262,7 +4262,7 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 7,
           "pointY": 17
         }
@@ -8032,7 +8032,7 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 968628336,
+          "var2": 2035248,
           "pointX": 0,
           "pointY": 13
         },
@@ -8047,7 +8047,7 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 1,
           "pointY": 13
         }
@@ -12065,6 +12065,66 @@
           "var2": 2035248,
           "pointX": 2,
           "pointY": 5
+        },
+        {
+          "stackSize": 1,
+          "seed": 15196,
+          "baseName": "records\\xpack3\\items\\relics\\01_x3_atlasendurance.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "records\\item\\lootmagicalaffixes\\animalrelics\\bonuses\\defensive_bleedresist_01.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 15,
+          "pointY": 6
+        },
+        {
+          "stackSize": 1,
+          "seed": 23676,
+          "baseName": "records\\xpack3\\items\\relics\\01_x3_okeanos.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Relics\\Bonuses\\Offensive_DamageCold_02.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 16,
+          "pointY": 7
+        },
+        {
+          "stackSize": 1,
+          "seed": 29385,
+          "baseName": "records\\xpack3\\items\\relics\\01_x3_hesperides.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\XPack\\Item\\LootMagicalAffixes\\Relics\\Bonuses\\Offensive_Elemental_01.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 12,
+          "pointY": 7
+        },
+        {
+          "stackSize": 1,
+          "seed": 8123,
+          "baseName": "records\\xpack3\\items\\relics\\01_x3_poseidonstrident.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AbilityDefensive_03.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1130724560,
+          "pointX": 10,
+          "pointY": 6
         }
       ]
     },
