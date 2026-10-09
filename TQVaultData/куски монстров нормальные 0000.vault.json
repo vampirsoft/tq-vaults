@@ -4385,6 +4385,21 @@
           "var2": 2035248,
           "pointX": 2,
           "pointY": 15
+        },
+        {
+          "stackSize": 1,
+          "seed": 8586,
+          "baseName": "Records\\Item\\AnimalRelics\\01_MultActs_DiseasedPlumage.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "records\\item\\lootmagicalaffixes\\relics\\bonuses\\offensive_%poison_01.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 855800968,
+          "pointX": 10,
+          "pointY": 14
         }
       ]
     },

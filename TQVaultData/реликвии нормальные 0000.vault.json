@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 3,
+  "currentlySelectedSackNumber": 1,
   "sacks": [
     {
       "iconinfo": null,
@@ -4265,6 +4265,36 @@
           "var2": 2035248,
           "pointX": 7,
           "pointY": 17
+        },
+        {
+          "stackSize": 1,
+          "seed": 32496,
+          "baseName": "records\\item\\relics\\01_act1_aegisofathena.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "records\\item\\lootmagicalaffixes\\animalrelics\\bonuses\\defensive_bleedresist_01.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 9,
+          "pointY": 13
+        },
+        {
+          "stackSize": 1,
+          "seed": 8978,
+          "baseName": "Records\\Item\\Relics\\01_Act1_GoldenFleece.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "records\\item\\lootmagicalaffixes\\animalrelics\\bonuses\\defensive_liferesist_01.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 0,
+          "pointY": 12
         }
       ]
     },
@@ -8050,6 +8080,36 @@
           "var2": 2035248,
           "pointX": 1,
           "pointY": 13
+        },
+        {
+          "stackSize": 1,
+          "seed": 25870,
+          "baseName": "Records\\Item\\Relics\\01_Act2_AmunRasGlory.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "records\\item\\lootmagicalaffixes\\animalrelics\\bonuses\\defensive_bleedresist_01.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1363004520,
+          "pointX": 12,
+          "pointY": 6
+        },
+        {
+          "stackSize": 1,
+          "seed": 13679,
+          "baseName": "Records\\Item\\Relics\\01_Act2_AnubisWrath.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_SpeedAttack_01.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 15,
+          "pointY": 15
         }
       ]
     },
@@ -12077,7 +12137,7 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 15,
           "pointY": 6
         },
@@ -12092,7 +12152,7 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 16,
           "pointY": 7
         },
@@ -12107,7 +12167,7 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 12,
           "pointY": 7
         },
@@ -12122,7 +12182,7 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1130724560,
+          "var2": 2035248,
           "pointX": 10,
           "pointY": 6
         }

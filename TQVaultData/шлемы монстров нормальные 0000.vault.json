@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 0,
+  "currentlySelectedSackNumber": 7,
   "sacks": [
     {
       "iconinfo": null,
@@ -1914,6 +1914,21 @@
           "var2": 2035248,
           "pointX": 8,
           "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 4426,
+          "baseName": "Records\\Item\\EquipmentHelm\\MI_N_DesertHag.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1776545856,
+          "pointX": 2,
+          "pointY": 10
         }
       ]
     },
