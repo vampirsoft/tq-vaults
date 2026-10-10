@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 0,
+  "currentlySelectedSackNumber": 1,
   "sacks": [
     {
       "iconinfo": null,
@@ -4397,9 +4397,39 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 855800968,
+          "var2": 2035248,
           "pointX": 10,
           "pointY": 14
+        },
+        {
+          "stackSize": 1,
+          "seed": 23805,
+          "baseName": "Records\\Item\\AnimalRelics\\01_MultActs_MechanicalParts.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Defensive_Protection_01.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 394538248,
+          "pointX": 16,
+          "pointY": 19
+        },
+        {
+          "stackSize": 1,
+          "seed": 28727,
+          "baseName": "Records\\Item\\AnimalRelics\\01_MultActs_MechanicalParts.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Defensive_Protection_01.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 803406064,
+          "pointX": 17,
+          "pointY": 19
         }
       ]
     },

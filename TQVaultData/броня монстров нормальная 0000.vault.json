@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 5,
+  "currentlySelectedSackNumber": 0,
   "sacks": [
     {
       "iconinfo": null,
@@ -95,6 +95,21 @@
           "var2": 2035248,
           "pointX": 6,
           "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 8843,
+          "baseName": "Records\\Item\\EquipmentArmor\\MI_N_Mummy.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1408430144,
+          "pointX": 6,
+          "pointY": 3
         }
       ]
     },
@@ -412,7 +427,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1776545856,
+          "var2": 2035248,
           "pointX": 14,
           "pointY": 3
         }
@@ -582,7 +597,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1776545856,
+          "var2": 2035248,
           "pointX": 4,
           "pointY": 3
         }
