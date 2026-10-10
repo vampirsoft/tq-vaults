@@ -152,9 +152,24 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1408430144,
+          "var2": 2035248,
           "pointX": 2,
           "pointY": 3
+        },
+        {
+          "stackSize": 1,
+          "seed": 12546,
+          "baseName": "records\\xpack2\\item\\equipmentweapons\\1hranged\\MI_N_skeleton.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1408430144,
+          "pointX": 2,
+          "pointY": 6
         }
       ]
     },

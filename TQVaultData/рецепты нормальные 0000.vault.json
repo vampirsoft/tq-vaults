@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 1,
+  "currentlySelectedSackNumber": 0,
   "sacks": [
     {
       "iconinfo": null,
@@ -1925,6 +1925,21 @@
           "var2": 2035248,
           "pointX": 2,
           "pointY": 13
+        },
+        {
+          "stackSize": 1,
+          "seed": 1088,
+          "baseName": "Records\\XPack\\Item\\Artifacts\\ArcaneFormulae\\N_LA_Wraithguard_Formula.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1068018344,
+          "pointX": 2,
+          "pointY": 14
         }
       ]
     },
@@ -4090,6 +4105,21 @@
           "var2": 2035248,
           "pointX": 2,
           "pointY": 14
+        },
+        {
+          "stackSize": 1,
+          "seed": 25289,
+          "baseName": "Records\\XPack\\Item\\Artifacts\\ArcaneFormulae\\N_LA_ChaosCube_Formula.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1193913488,
+          "pointX": 6,
+          "pointY": 15
         }
       ]
     },
