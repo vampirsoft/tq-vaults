@@ -4412,7 +4412,7 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 394538248,
+          "var2": 2035248,
           "pointX": 16,
           "pointY": 19
         },
@@ -4427,7 +4427,7 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 803406064,
+          "var2": 2035248,
           "pointX": 17,
           "pointY": 19
         }
@@ -7705,6 +7705,21 @@
           "var2": 2035248,
           "pointX": 3,
           "pointY": 10
+        },
+        {
+          "stackSize": 1,
+          "seed": 3876,
+          "baseName": "Records\\Item\\AnimalRelics\\01_Act3_SaberClaw.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Relics\\Bonuses\\Offensive_%bleed_01.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1170255016,
+          "pointX": 8,
+          "pointY": 6
         }
       ]
     },

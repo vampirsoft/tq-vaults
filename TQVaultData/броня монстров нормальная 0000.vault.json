@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 0,
+  "currentlySelectedSackNumber": 6,
   "sacks": [
     {
       "iconinfo": null,
@@ -107,7 +107,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1408430144,
+          "var2": 2035248,
           "pointX": 6,
           "pointY": 3
         }
@@ -600,6 +600,36 @@
           "var2": 2035248,
           "pointX": 4,
           "pointY": 3
+        },
+        {
+          "stackSize": 1,
+          "seed": 31001,
+          "baseName": "Records\\Item\\EquipmentArmor\\MI_N_NeanderthalMelee.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1408430144,
+          "pointX": 6,
+          "pointY": 3
+        },
+        {
+          "stackSize": 1,
+          "seed": 4844,
+          "baseName": "Records\\Item\\EquipmentArmor\\MI_N_IchthianMelee.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1408430144,
+          "pointX": 4,
+          "pointY": 6
         }
       ]
     },
@@ -725,6 +755,36 @@
           "var2": 2035248,
           "pointX": 14,
           "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 10849,
+          "baseName": "Records\\Item\\EquipmentArmor\\MI_N_RatmanMelee.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1408430144,
+          "pointX": 0,
+          "pointY": 3
+        },
+        {
+          "stackSize": 1,
+          "seed": 24899,
+          "baseName": "Records\\Item\\EquipmentArmor\\MI_N_RatmanChampion.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1408430144,
+          "pointX": 2,
+          "pointY": 3
         }
       ]
     },
