@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 1,
+  "currentlySelectedSackNumber": 0,
   "sacks": [
     {
       "iconinfo": null,
@@ -4253,21 +4253,6 @@
         },
         {
           "stackSize": 1,
-          "seed": 23947,
-          "baseName": "Records\\Item\\AnimalRelics\\01_Act1_TurtleShell.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Defensive_ResistPierce_01.dbr",
-          "var1": 5,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 5,
-          "pointY": 5
-        },
-        {
-          "stackSize": 1,
           "seed": 19552,
           "baseName": "Records\\Item\\AnimalRelics\\01_MultActs_DemonsBlood.dbr",
           "prefixName": "",
@@ -7717,7 +7702,7 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1170255016,
+          "var2": 2035248,
           "pointX": 8,
           "pointY": 6
         }
