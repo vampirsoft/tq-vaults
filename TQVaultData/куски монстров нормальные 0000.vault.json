@@ -4415,6 +4415,21 @@
           "var2": 2035248,
           "pointX": 17,
           "pointY": 19
+        },
+        {
+          "stackSize": 1,
+          "seed": 10113,
+          "baseName": "Records\\Item\\AnimalRelics\\01_Act1_BoarsHide.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "records\\item\\lootmagicalaffixes\\animalrelics\\bonuses\\defensive_bleedresist_01.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 832928872,
+          "pointX": 3,
+          "pointY": 15
         }
       ]
     },
