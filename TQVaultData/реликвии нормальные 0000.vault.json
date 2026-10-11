@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 0,
+  "currentlySelectedSackNumber": 1,
   "sacks": [
     {
       "iconinfo": null,
@@ -4397,7 +4397,7 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 333731616,
+          "var2": 2035248,
           "pointX": 12,
           "pointY": 16
         }
@@ -8245,6 +8245,51 @@
           "var2": 2035248,
           "pointX": 2,
           "pointY": 13
+        },
+        {
+          "stackSize": 1,
+          "seed": 6072,
+          "baseName": "Records\\Item\\Relics\\01_Act2_SetsBetrayal.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Offensive_DamagePierce_02.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1058564264,
+          "pointX": 7,
+          "pointY": 16
+        },
+        {
+          "stackSize": 1,
+          "seed": 23893,
+          "baseName": "Records\\Item\\Relics\\01_Act2_AnubisWrath.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_SpeedAttack_01.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 336387248,
+          "pointX": 14,
+          "pointY": 16
+        },
+        {
+          "stackSize": 1,
+          "seed": 31694,
+          "baseName": "Records\\Item\\Relics\\01_Act2_AnubisWrath.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_SpeedAttack_01.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 15,
+          "pointY": 16
         }
       ]
     },

@@ -128,21 +128,6 @@
         },
         {
           "stackSize": 1,
-          "seed": 8499,
-          "baseName": "Records\\Item\\EquipmentWeapon\\Spear\\U_N_TheEviscerator.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 8,
-          "pointY": 0
-        },
-        {
-          "stackSize": 1,
           "seed": 6924,
           "baseName": "Records\\Item\\EquipmentWeapon\\Spear\\U_N_SpearofArgo.dbr",
           "prefixName": "",
@@ -248,21 +233,6 @@
         },
         {
           "stackSize": 1,
-          "seed": 13095,
-          "baseName": "Records\\Item\\EquipmentWeapon\\Spear\\U_N_TheEviscerator.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 8,
-          "pointY": 5
-        },
-        {
-          "stackSize": 1,
           "seed": 3954,
           "baseName": "Records\\Item\\EquipmentWeapon\\Spear\\U_N_FireSpike.dbr",
           "prefixName": "",
@@ -302,9 +272,24 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 3,
           "pointY": 10
+        },
+        {
+          "stackSize": 1,
+          "seed": 8499,
+          "baseName": "Records\\Item\\EquipmentWeapon\\Spear\\U_N_TheEviscerator.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 57462,
+          "pointX": 8,
+          "pointY": 0
         }
       ]
     },
