@@ -1673,21 +1673,6 @@
         },
         {
           "stackSize": 1,
-          "seed": 6879,
-          "baseName": "records\\xpack\\item\\artifacts\\arcaneformulae\\blank_arcane_formula.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 6,
-          "pointY": 19
-        },
-        {
-          "stackSize": 1,
           "seed": 12352,
           "baseName": "records\\xpack\\item\\artifacts\\arcaneformulae\\n_la_amberflask_formula.dbr",
           "prefixName": "",
@@ -1937,9 +1922,39 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1068018344,
+          "var2": 2035248,
           "pointX": 2,
           "pointY": 14
+        },
+        {
+          "stackSize": 1,
+          "seed": 23612,
+          "baseName": "Records\\XPack\\Item\\Artifacts\\ArcaneFormulae\\N_LA_ScrollOfOneiros_Formula.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 6,
+          "pointY": 18
+        },
+        {
+          "stackSize": 1,
+          "seed": 6879,
+          "baseName": "records\\xpack\\item\\artifacts\\arcaneformulae\\blank_arcane_formula.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 8,
+          "pointY": 19
         }
       ]
     },
@@ -4117,7 +4132,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1193913488,
+          "var2": 2035248,
           "pointX": 6,
           "pointY": 15
         }

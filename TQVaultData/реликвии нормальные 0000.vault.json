@@ -4292,7 +4292,7 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1080142928,
+          "var2": 2035248,
           "pointX": 11,
           "pointY": 13
         },
@@ -4307,7 +4307,7 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 153112112,
+          "var2": 2035248,
           "pointX": 4,
           "pointY": 18
         },
@@ -4322,7 +4322,7 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 355402688,
+          "var2": 2035248,
           "pointX": 17,
           "pointY": 18
         },
@@ -4337,9 +4337,24 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 15,
           "pointY": 15
+        },
+        {
+          "stackSize": 1,
+          "seed": 2389,
+          "baseName": "Records\\Item\\Relics\\01_Act1_PrometheusFlame.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_SpeedAttack_01.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 2,
+          "pointY": 16
         }
       ]
     },
