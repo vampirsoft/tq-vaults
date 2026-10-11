@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 3,
+  "currentlySelectedSackNumber": 0,
   "sacks": [
     {
       "iconinfo": null,
@@ -380,6 +380,21 @@
           "var2": 2035248,
           "pointX": 0,
           "pointY": 6
+        },
+        {
+          "stackSize": 1,
+          "seed": 19213,
+          "baseName": "Records\\Item\\EquipmentHelm\\MI_N_Gorgon.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1399779392,
+          "pointX": 4,
+          "pointY": 2
         }
       ]
     },
@@ -1052,7 +1067,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1397944384,
+          "var2": 2035248,
           "pointX": 4,
           "pointY": 10
         }
