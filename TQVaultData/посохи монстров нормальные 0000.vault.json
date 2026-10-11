@@ -23,21 +23,6 @@
         },
         {
           "stackSize": 1,
-          "seed": 5503,
-          "baseName": "Records\\Item\\EquipmentWeapon\\Staff\\MI_N_SatyrMage.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 0,
-          "pointY": 16
-        },
-        {
-          "stackSize": 1,
           "seed": 8231,
           "baseName": "Records\\Item\\EquipmentWeapon\\Staff\\MI_N_SatyrMage.dbr",
           "prefixName": "",
@@ -113,7 +98,22 @@
         },
         {
           "stackSize": 1,
-          "seed": 12200,
+          "seed": 5503,
+          "baseName": "Records\\Item\\EquipmentWeapon\\Staff\\MI_N_SatyrMage.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 16,
+          "pointY": 16
+        },
+        {
+          "stackSize": 1,
+          "seed": 29610,
           "baseName": "Records\\Item\\EquipmentWeapon\\Staff\\MI_N_SatyrMage.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -123,8 +123,23 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 1397944384,
-          "pointX": 2,
-          "pointY": 8
+          "pointX": 0,
+          "pointY": 12
+        },
+        {
+          "stackSize": 1,
+          "seed": 12200,
+          "baseName": "Records\\Item\\EquipmentWeapon\\Staff\\MI_N_SatyrMage.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 0,
+          "pointY": 16
         }
       ]
     },
