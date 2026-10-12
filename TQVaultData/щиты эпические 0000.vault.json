@@ -4038,21 +4038,6 @@
         },
         {
           "stackSize": 1,
-          "seed": 21202,
-          "baseName": "Records\\Item\\EquipmentShield\\U_N_Captain'sShield.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 10,
-          "pointY": 12
-        },
-        {
-          "stackSize": 1,
           "seed": 28034,
           "baseName": "Records\\Item\\EquipmentShield\\U_N_BoarHunter'sShield.dbr",
           "prefixName": "",
@@ -4107,7 +4092,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 6,
           "pointY": 16
         },
@@ -4124,6 +4109,36 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 6,
+          "pointY": 12
+        },
+        {
+          "stackSize": 1,
+          "seed": 18077,
+          "baseName": "Records\\Item\\EquipmentShield\\U_N_Stonewall.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1392177216,
+          "pointX": 10,
+          "pointY": 12
+        },
+        {
+          "stackSize": 1,
+          "seed": 21202,
+          "baseName": "Records\\Item\\EquipmentShield\\U_N_Captain'sShield.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 4,
           "pointY": 12
         }
       ]

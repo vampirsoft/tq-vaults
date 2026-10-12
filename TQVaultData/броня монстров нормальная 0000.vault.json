@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 4,
+  "currentlySelectedSackNumber": 5,
   "sacks": [
     {
       "iconinfo": null,
@@ -547,9 +547,24 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1392177216,
+          "var2": 2035248,
           "pointX": 14,
           "pointY": 6
+        },
+        {
+          "stackSize": 1,
+          "seed": 30818,
+          "baseName": "Records\\Item\\EquipmentArmor\\MI_N_DuneRaider.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1392177216,
+          "pointX": 14,
+          "pointY": 9
         }
       ]
     },
@@ -750,6 +765,21 @@
           "var2": 2035248,
           "pointX": 4,
           "pointY": 6
+        },
+        {
+          "stackSize": 1,
+          "seed": 5552,
+          "baseName": "Records\\Item\\EquipmentArmor\\MI_N_Reptilian.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1392177216,
+          "pointX": 2,
+          "pointY": 3
         }
       ]
     },
