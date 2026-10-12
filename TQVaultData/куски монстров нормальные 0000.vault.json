@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 1,
+  "currentlySelectedSackNumber": 3,
   "sacks": [
     {
       "iconinfo": null,
@@ -4472,9 +4472,24 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 811145456,
+          "var2": 2035248,
           "pointX": 11,
           "pointY": 14
+        },
+        {
+          "stackSize": 1,
+          "seed": 23359,
+          "baseName": "Records\\Item\\AnimalRelics\\01_MultActs_DiseasedPlumage.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "records\\item\\lootmagicalaffixes\\relics\\bonuses\\offensive_%poison_01.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 432332944,
+          "pointX": 10,
+          "pointY": 15
         }
       ]
     },
@@ -7777,7 +7792,7 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1018238920,
+          "var2": 2035248,
           "pointX": 0,
           "pointY": 19
         }
@@ -9244,6 +9259,21 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 8,
+          "pointY": 1
+        },
+        {
+          "stackSize": 1,
+          "seed": 1252,
+          "baseName": "records\\item\\HCDungeon\\05_X4_GoldenScarab_N_Charm.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "records\\XPack4\\Item\\LootMagicalAffixes\\Charms\\GoldenScarab_N_1.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1015844008,
+          "pointX": 16,
           "pointY": 1
         }
       ]
