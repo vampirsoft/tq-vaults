@@ -128,21 +128,6 @@
         },
         {
           "stackSize": 1,
-          "seed": 27887,
-          "baseName": "Records\\Item\\EquipmentWeapon\\Club\\U_N_LeiGong'sWingedMace.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 9,
-          "pointY": 0
-        },
-        {
-          "stackSize": 1,
           "seed": 4571,
           "baseName": "Records\\Item\\EquipmentWeapon\\Club\\U_N_Widowmaker.dbr",
           "prefixName": "",
@@ -259,21 +244,6 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 6,
-          "pointY": 12
-        },
-        {
-          "stackSize": 1,
-          "seed": 6082,
-          "baseName": "Records\\Item\\EquipmentWeapon\\Club\\U_N_LeiGong'sWingedMace.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 9,
           "pointY": 12
         },
         {
@@ -529,51 +499,6 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 8,
-          "pointY": 16
-        },
-        {
-          "stackSize": 1,
-          "seed": 24422,
-          "baseName": "Records\\Item\\EquipmentWeapon\\Club\\U_N_LeiGong'sWingedMace.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 9,
-          "pointY": 4
-        },
-        {
-          "stackSize": 1,
-          "seed": 31760,
-          "baseName": "Records\\Item\\EquipmentWeapon\\Club\\U_N_LeiGong'sWingedMace.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 9,
-          "pointY": 8
-        },
-        {
-          "stackSize": 1,
-          "seed": 6082,
-          "baseName": "Records\\Item\\EquipmentWeapon\\Club\\U_N_LeiGong'sWingedMace.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 9,
           "pointY": 16
         },
         {
@@ -932,7 +857,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 57462,
+          "var2": 2035248,
           "pointX": 5,
           "pointY": 0
         }
@@ -2358,21 +2283,6 @@
         },
         {
           "stackSize": 1,
-          "seed": 14482,
-          "baseName": "Records\\Item\\EquipmentWeapon\\Club\\U_N_LeiGong'sWingedMace.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 11,
-          "pointY": 8
-        },
-        {
-          "stackSize": 1,
           "seed": 16276,
           "baseName": "Records\\Item\\EquipmentWeapon\\Club\\U_N_BlackRockMallet.dbr",
           "prefixName": "",
@@ -2478,21 +2388,6 @@
         },
         {
           "stackSize": 1,
-          "seed": 23473,
-          "baseName": "records\\item\\equipmentweapon\\club\\u_n_widowmaker.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 12,
-          "pointY": 2
-        },
-        {
-          "stackSize": 1,
           "seed": 5567,
           "baseName": "records\\item\\equipmentweapon\\club\\u_n_blackrockmallet.dbr",
           "prefixName": "",
@@ -2594,21 +2489,6 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 7,
-          "pointY": 14
-        },
-        {
-          "stackSize": 1,
-          "seed": 20246,
-          "baseName": "records\\item\\equipmentweapon\\club\\u_n_leigong'swingedmace.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 6,
           "pointY": 14
         },
         {
@@ -2748,21 +2628,6 @@
         },
         {
           "stackSize": 1,
-          "seed": 30773,
-          "baseName": "Records\\Item\\EquipmentWeapon\\Club\\U_N_PlagueFeast.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 10,
-          "pointY": 8
-        },
-        {
-          "stackSize": 1,
           "seed": 28969,
           "baseName": "records\\item\\equipmentweapon\\club\\u_n_shatterbone.dbr",
           "prefixName": "",
@@ -2820,6 +2685,36 @@
           "var2": 2035248,
           "pointX": 9,
           "pointY": 11
+        },
+        {
+          "stackSize": 1,
+          "seed": 23473,
+          "baseName": "records\\item\\equipmentweapon\\club\\u_n_widowmaker.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 10,
+          "pointY": 8
+        },
+        {
+          "stackSize": 1,
+          "seed": 30773,
+          "baseName": "Records\\Item\\EquipmentWeapon\\Club\\U_N_PlagueFeast.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 6,
+          "pointY": 14
         }
       ]
     },

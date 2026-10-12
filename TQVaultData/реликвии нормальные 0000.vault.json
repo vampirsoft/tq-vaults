@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 1,
+  "currentlySelectedSackNumber": 0,
   "sacks": [
     {
       "iconinfo": null,
@@ -4028,21 +4028,6 @@
         },
         {
           "stackSize": 1,
-          "seed": 15427,
-          "baseName": "Records\\Item\\Relics\\01_Act1_HeraclesMight.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Relics\\Bonuses\\Character_%Strength_01.dbr",
-          "var1": 3,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 5,
-          "pointY": 17
-        },
-        {
-          "stackSize": 1,
           "seed": 3012,
           "baseName": "Records\\Item\\Relics\\01_Act1_GoldenFleece.dbr",
           "prefixName": "",
@@ -4298,21 +4283,6 @@
         },
         {
           "stackSize": 1,
-          "seed": 10007,
-          "baseName": "Records\\Item\\Relics\\01_Act1_HeraclesMight.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Relics\\Bonuses\\Character_%Strength_01.dbr",
-          "var1": 3,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 4,
-          "pointY": 18
-        },
-        {
-          "stackSize": 1,
           "seed": 8290,
           "baseName": "Records\\Item\\Relics\\01_Act1_ArtemisBowstring.dbr",
           "prefixName": "",
@@ -4388,18 +4358,18 @@
         },
         {
           "stackSize": 1,
-          "seed": 10587,
-          "baseName": "Records\\Item\\Relics\\01_Act1_ArchimedesMirror.dbr",
+          "seed": 10007,
+          "baseName": "Records\\Item\\Relics\\01_Act1_HeraclesMight.dbr",
           "prefixName": "",
           "suffixName": "",
           "relicName": "",
-          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Retaliation_LeechLife_01.dbr",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Relics\\Bonuses\\Character_%Strength_01.dbr",
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 12,
-          "pointY": 16
+          "var2": 1065353216,
+          "pointX": 5,
+          "pointY": 17
         }
       ]
     },
@@ -8257,7 +8227,7 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1058564264,
+          "var2": 2035248,
           "pointX": 7,
           "pointY": 16
         },
@@ -8272,7 +8242,7 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 336387248,
+          "var2": 2035248,
           "pointX": 14,
           "pointY": 16
         },
@@ -8287,9 +8257,24 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 15,
           "pointY": 16
+        },
+        {
+          "stackSize": 1,
+          "seed": 25889,
+          "baseName": "Records\\Item\\Relics\\01_Act2_AnkhOfIsis.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "records\\item\\lootmagicalaffixes\\animalrelics\\bonuses\\defensive_bleedresist_01.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 10,
+          "pointY": 13
         }
       ]
     },

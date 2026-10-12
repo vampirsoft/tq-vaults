@@ -4430,6 +4430,36 @@
           "var2": 2035248,
           "pointX": 3,
           "pointY": 15
+        },
+        {
+          "stackSize": 1,
+          "seed": 20936,
+          "baseName": "Records\\Item\\AnimalRelics\\01_MultActs_VenomSac.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "records\\item\\lootmagicalaffixes\\relics\\bonuses\\offensive_%poison_01.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 819251024,
+          "pointX": 9,
+          "pointY": 19
+        },
+        {
+          "stackSize": 1,
+          "seed": 23945,
+          "baseName": "Records\\Item\\AnimalRelics\\01_Act1_TurtleShell.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Defensive_ResistPierce_01.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1379266624,
+          "pointX": 5,
+          "pointY": 5
         }
       ]
     },
