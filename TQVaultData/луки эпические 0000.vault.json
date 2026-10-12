@@ -2997,9 +2997,24 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 13,
           "pointY": 8
+        },
+        {
+          "stackSize": 1,
+          "seed": 2927,
+          "baseName": "Records\\Item\\EquipmentWeapon\\Bow\\U_N_Nomad'sHuntingBow.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 3,
+          "pointY": 4
         }
       ]
     },

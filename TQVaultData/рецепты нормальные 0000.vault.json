@@ -2015,6 +2015,21 @@
           "var2": 2035248,
           "pointX": 16,
           "pointY": 14
+        },
+        {
+          "stackSize": 1,
+          "seed": 22960,
+          "baseName": "Records\\XPack\\Item\\Artifacts\\ArcaneFormulae\\N_LA_ShroudOfEternalNight_Formula.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 16,
+          "pointY": 15
         }
       ]
     },
@@ -4210,6 +4225,21 @@
           "var2": 2035248,
           "pointX": 2,
           "pointY": 15
+        },
+        {
+          "stackSize": 1,
+          "seed": 24069,
+          "baseName": "Records\\XPack\\Item\\Artifacts\\ArcaneFormulae\\N_LA_Leafsong_Formula.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 0,
+          "pointY": 14
         }
       ]
     },
