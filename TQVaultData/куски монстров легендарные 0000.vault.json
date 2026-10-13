@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 1,
+  "currentlySelectedSackNumber": 0,
   "sacks": [
     {
       "iconinfo": null,
@@ -2203,27 +2203,27 @@
         },
         {
           "stackSize": 1,
+          "seed": 16196,
+          "baseName": "records\\xpack4\\item\\charms\\03_x4_dragontendon.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "records\\XPack4\\Item\\LootMagicalAffixes\\Charms\\Dragon_1.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 4,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
           "seed": 16222,
           "baseName": "records\\xpack4\\item\\charms\\03_x4_terracottaplating.dbr",
           "prefixName": "",
           "suffixName": "",
           "relicName": "",
           "relicBonus": "records\\XPack4\\Item\\LootMagicalAffixes\\Charms\\Terracotta_1.dbr",
-          "var1": 5,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 1,
-          "pointY": 0
-        },
-        {
-          "stackSize": 1,
-          "seed": 11249,
-          "baseName": "records\\xpack4\\item\\charms\\03_x4_sunworshipperichor.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "records\\XPack4\\Item\\LootMagicalAffixes\\Charms\\Sunwor_1.dbr",
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
@@ -2243,22 +2243,22 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 3,
+          "pointX": 6,
           "pointY": 0
         },
         {
           "stackSize": 1,
-          "seed": 16196,
-          "baseName": "records\\xpack4\\item\\charms\\03_x4_dragontendon.dbr",
+          "seed": 11249,
+          "baseName": "records\\xpack4\\item\\charms\\03_x4_sunworshipperichor.dbr",
           "prefixName": "",
           "suffixName": "",
           "relicName": "",
-          "relicBonus": "records\\XPack4\\Item\\LootMagicalAffixes\\Charms\\Dragon_1.dbr",
+          "relicBonus": "records\\XPack4\\Item\\LootMagicalAffixes\\Charms\\Sunwor_1.dbr",
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 4,
+          "pointX": 8,
           "pointY": 0
         }
       ]

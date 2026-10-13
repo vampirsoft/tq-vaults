@@ -68,21 +68,6 @@
         },
         {
           "stackSize": 1,
-          "seed": 775,
-          "baseName": "Records\\Item\\EquipmentArmor\\Um_N_Ben'haamon'sKilt.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 10,
-          "pointY": 0
-        },
-        {
-          "stackSize": 1,
           "seed": 580,
           "baseName": "Records\\Item\\EquipmentArmor\\Um_N_Yuya'sGarb.dbr",
           "prefixName": "",
@@ -113,66 +98,6 @@
         },
         {
           "stackSize": 1,
-          "seed": 2666,
-          "baseName": "Records\\Item\\EquipmentArmor\\Um_N_VestoftheWanderingGoat.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 16,
-          "pointY": 0
-        },
-        {
-          "stackSize": 1,
-          "seed": 29729,
-          "baseName": "records\\item\\equipmentarmor\\um_n_vestofthewanderinggoat.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 16,
-          "pointY": 3
-        },
-        {
-          "stackSize": 1,
-          "seed": 8474,
-          "baseName": "records\\item\\equipmentarmor\\um_n_vestofthewanderinggoat.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 16,
-          "pointY": 6
-        },
-        {
-          "stackSize": 1,
-          "seed": 10262,
-          "baseName": "Records\\Item\\EquipmentArmor\\Um_N_VestoftheWanderingGoat.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 16,
-          "pointY": 9
-        },
-        {
-          "stackSize": 1,
           "seed": 11813,
           "baseName": "Records\\Item\\EquipmentArmor\\Um_N_PiousSash.dbr",
           "prefixName": "",
@@ -188,7 +113,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 18607,
+          "seed": 775,
           "baseName": "Records\\Item\\EquipmentArmor\\Um_N_Ben'haamon'sKilt.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -197,9 +122,24 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 15,
           "pointX": 10,
-          "pointY": 3
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 10262,
+          "baseName": "Records\\Item\\EquipmentArmor\\Um_N_VestoftheWanderingGoat.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 15,
+          "pointX": 16,
+          "pointY": 0
         }
       ]
     },
@@ -313,8 +253,8 @@
         },
         {
           "stackSize": 1,
-          "seed": 2005,
-          "baseName": "Records\\Item\\EquipmentArmor\\Um_E_RobesOfCalchas.dbr",
+          "seed": 9366,
+          "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Torso\\Um_N_003.dbr",
           "prefixName": "",
           "suffixName": "",
           "relicName": "",
@@ -323,7 +263,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 14,
+          "pointX": 10,
           "pointY": 0
         },
         {
@@ -337,23 +277,8 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 2035248,
+          "var2": 15,
           "pointX": 14,
-          "pointY": 3
-        },
-        {
-          "stackSize": 1,
-          "seed": 9366,
-          "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Torso\\Um_N_003.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 10,
           "pointY": 0
         }
       ]
@@ -473,21 +398,6 @@
         },
         {
           "stackSize": 1,
-          "seed": 22383,
-          "baseName": "records\\item\\equipmentarmor\\u_n_bramblesheathvest.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 8,
-          "pointY": 0
-        },
-        {
-          "stackSize": 1,
           "seed": 4428,
           "baseName": "records\\item\\equipmentarmor\\u_n_hyperiancuirass.dbr",
           "prefixName": "",
@@ -499,21 +409,6 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 10,
-          "pointY": 0
-        },
-        {
-          "stackSize": 1,
-          "seed": 6606,
-          "baseName": "records\\item\\equipmentarmor\\u_n_oedipus'armor.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 12,
           "pointY": 0
         },
         {
@@ -548,8 +443,8 @@
         },
         {
           "stackSize": 1,
-          "seed": 31158,
-          "baseName": "Records\\Item\\EquipmentArmor\\U_N_BramblesheathVest.dbr",
+          "seed": 6606,
+          "baseName": "records\\item\\equipmentarmor\\u_n_oedipus'armor.dbr",
           "prefixName": "",
           "suffixName": "",
           "relicName": "",
@@ -557,14 +452,14 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 8,
-          "pointY": 3
+          "var2": 15,
+          "pointX": 12,
+          "pointY": 0
         },
         {
           "stackSize": 1,
-          "seed": 11796,
-          "baseName": "Records\\Item\\EquipmentArmor\\U_N_Oedipus'Armor.dbr",
+          "seed": 22383,
+          "baseName": "records\\item\\equipmentarmor\\u_n_bramblesheathvest.dbr",
           "prefixName": "",
           "suffixName": "",
           "relicName": "",
@@ -572,9 +467,9 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 12,
-          "pointY": 3
+          "var2": 15,
+          "pointX": 8,
+          "pointY": 0
         }
       ]
     },
@@ -1143,21 +1038,6 @@
         },
         {
           "stackSize": 1,
-          "seed": 14444,
-          "baseName": "Records\\Item\\EquipmentArmor\\U_N_Bladeflinger'sArmor.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 4,
-          "pointY": 0
-        },
-        {
-          "stackSize": 1,
           "seed": 3968,
           "baseName": "records\\item\\equipmentarmor\\u_n_outlaw'ssash.dbr",
           "prefixName": "",
@@ -1248,7 +1128,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 25302,
+          "seed": 14444,
           "baseName": "Records\\Item\\EquipmentArmor\\U_N_Bladeflinger'sArmor.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -1257,9 +1137,9 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 2035248,
+          "var2": 15,
           "pointX": 4,
-          "pointY": 3
+          "pointY": 0
         }
       ]
     },
