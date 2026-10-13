@@ -2782,7 +2782,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 4,
           "pointY": 0
         },
@@ -2848,6 +2848,21 @@
         },
         {
           "stackSize": 1,
+          "seed": 23583,
+          "baseName": "Records\\Item\\EquipmentWeapon\\Staff\\U_N_Kirin.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 2,
+          "pointY": 12
+        },
+        {
+          "stackSize": 1,
           "seed": 13436,
           "baseName": "records\\xpack\\item\\equipmentweapons\\staff\\z_snowball.dbr",
           "prefixName": "",
@@ -2859,7 +2874,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 2,
-          "pointY": 14
+          "pointY": 10
         }
       ]
     },

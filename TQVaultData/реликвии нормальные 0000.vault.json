@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 1,
+  "currentlySelectedSackNumber": 2,
   "sacks": [
     {
       "iconinfo": null,
@@ -10707,7 +10707,7 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1135348872,
+          "var2": 2035248,
           "pointX": 10,
           "pointY": 7
         },
@@ -10722,8 +10722,23 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 779892816,
+          "var2": 2035248,
           "pointX": 0,
+          "pointY": 7
+        },
+        {
+          "stackSize": 1,
+          "seed": 15380,
+          "baseName": "Records\\Item\\Relics\\01_Act3_YenLoWangsBloodletting.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Offensive_+%Damage to Demons_01.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 900105440,
+          "pointX": 9,
           "pointY": 7
         }
       ]
