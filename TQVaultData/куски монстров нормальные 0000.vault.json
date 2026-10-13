@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 1,
+  "currentlySelectedSackNumber": 0,
   "sacks": [
     {
       "iconinfo": null,
@@ -7837,7 +7837,7 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 977031016,
+          "var2": 2035248,
           "pointX": 12,
           "pointY": 9
         }
