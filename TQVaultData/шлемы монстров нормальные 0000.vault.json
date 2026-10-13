@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 4,
+  "currentlySelectedSackNumber": 7,
   "sacks": [
     {
       "iconinfo": null,
@@ -437,7 +437,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1392832576,
+          "var2": 2035248,
           "pointX": 14,
           "pointY": 8
         }
@@ -1432,7 +1432,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1392832576,
+          "var2": 2035248,
           "pointX": 8,
           "pointY": 8
         }
@@ -2019,6 +2019,21 @@
           "var2": 2035248,
           "pointX": 2,
           "pointY": 12
+        },
+        {
+          "stackSize": 1,
+          "seed": 11213,
+          "baseName": "Records\\XPack3\\Items\\EquipmentArmor\\Helm\\MI_N_MonkeymanMelee.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1392832576,
+          "pointX": 4,
+          "pointY": 2
         }
       ]
     },
