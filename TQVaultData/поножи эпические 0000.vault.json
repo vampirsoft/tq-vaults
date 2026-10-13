@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 3,
+  "currentlySelectedSackNumber": 2,
   "sacks": [
     {
       "iconinfo": null,
@@ -1995,6 +1995,21 @@
           "var2": 2035248,
           "pointX": 12,
           "pointY": 14
+        },
+        {
+          "stackSize": 1,
+          "seed": 31562,
+          "baseName": "Records\\Item\\EquipmentGreaves\\U_N_JunglerootGreaves.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 8,
+          "pointY": 18
         }
       ]
     },
@@ -2432,9 +2447,24 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1392177216,
+          "var2": 2035248,
           "pointX": 6,
           "pointY": 14
+        },
+        {
+          "stackSize": 1,
+          "seed": 17256,
+          "baseName": "Records\\Item\\EquipmentGreaves\\U_N_MedianGreaves.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 6,
+          "pointY": 18
         }
       ]
     },

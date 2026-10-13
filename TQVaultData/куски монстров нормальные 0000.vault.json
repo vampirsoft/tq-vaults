@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 0,
+  "currentlySelectedSackNumber": 1,
   "sacks": [
     {
       "iconinfo": null,
@@ -7822,9 +7822,24 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 414464944,
+          "var2": 2035248,
           "pointX": 17,
           "pointY": 11
+        },
+        {
+          "stackSize": 1,
+          "seed": 24175,
+          "baseName": "Records\\Item\\AnimalRelics\\01_Act3_RaptorTooth.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_SpeedAttack_01.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 977031016,
+          "pointX": 12,
+          "pointY": 9
         }
       ]
     },

@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 0,
+  "currentlySelectedSackNumber": 3,
   "sacks": [
     {
       "iconinfo": null,
@@ -452,7 +452,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1392177216,
+          "var2": 2035248,
           "pointX": 16,
           "pointY": 18
         }
@@ -1130,6 +1130,21 @@
           "var2": 2035248,
           "pointX": 6,
           "pointY": 18
+        },
+        {
+          "stackSize": 1,
+          "seed": 18806,
+          "baseName": "Records\\Item\\EquipmentGreaves\\MI_N_Yerren.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1392832576,
+          "pointX": 10,
+          "pointY": 0
         }
       ]
     },
