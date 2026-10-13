@@ -5127,9 +5127,24 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1487017112,
+          "var2": 2035248,
           "pointX": 4,
           "pointY": 17
+        },
+        {
+          "stackSize": 1,
+          "seed": 1452,
+          "baseName": "Records\\XPack\\Item\\Artifacts\\ArcaneFormulae\\N_LA_CrystalTear_Formula.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 2,
+          "pointY": 10
         }
       ]
     },
