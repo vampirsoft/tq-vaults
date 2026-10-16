@@ -706,9 +706,24 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 263450688,
+          "var2": 2035248,
           "pointX": 2,
           "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 12250,
+          "baseName": "Records\\XPack3\\Items\\EquipmentArmor\\Greaves\\MI_E_MonkeymanMelee.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 263450688,
+          "pointX": 2,
+          "pointY": 2
         }
       ]
     },
