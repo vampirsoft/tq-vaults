@@ -545,6 +545,36 @@
           "var2": 2035248,
           "pointX": 17,
           "pointY": 1
+        },
+        {
+          "stackSize": 1,
+          "seed": 31287,
+          "baseName": "Records\\Item\\EquipmentAmulet\\U_E_Polaris.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 1,
+          "pointY": 2
+        },
+        {
+          "stackSize": 1,
+          "seed": 30930,
+          "baseName": "Records\\Item\\EquipmentAmulet\\U_E_EyeofFlame.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 3,
+          "pointY": 2
         }
       ]
     },

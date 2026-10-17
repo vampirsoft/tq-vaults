@@ -3287,7 +3287,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1392177216,
+          "var2": 2035248,
           "pointX": 8,
           "pointY": 8
         },
@@ -3364,6 +3364,21 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 7,
+          "pointY": 5
+        },
+        {
+          "stackSize": 1,
+          "seed": 13603,
+          "baseName": "Records\\Item\\EquipmentWeapon\\Axe\\U_E_Zaghnal.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 64221248,
+          "pointX": 5,
           "pointY": 5
         }
       ]

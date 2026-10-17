@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 2,
+  "currentlySelectedSackNumber": 1,
   "sacks": [
     {
       "iconinfo": null,
@@ -8380,6 +8380,21 @@
           "var2": 2035248,
           "pointX": 14,
           "pointY": 17
+        },
+        {
+          "stackSize": 1,
+          "seed": 1752,
+          "baseName": "Records\\Item\\Relics\\01_Act3_CodeOfHammurabi.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Relics\\Bonuses\\Character_%Intelligence_01.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 902240424,
+          "pointX": 17,
+          "pointY": 8
         }
       ]
     },
@@ -10752,7 +10767,7 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 8,
           "pointY": 8
         },
@@ -10767,7 +10782,7 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1114300656,
+          "var2": 2035248,
           "pointX": 11,
           "pointY": 7
         }

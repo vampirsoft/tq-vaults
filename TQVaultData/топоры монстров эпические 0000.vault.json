@@ -182,8 +182,23 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 62844992,
+          "var2": 2035248,
           "pointX": 7,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 17537,
+          "baseName": "Records\\XPack3\\Items\\EquipmentWeapon\\Axe\\MI_E_Hesperide.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 64221248,
+          "pointX": 9,
           "pointY": 0
         }
       ]
