@@ -170,6 +170,21 @@
           "var2": 2035248,
           "pointX": 5,
           "pointY": 6
+        },
+        {
+          "stackSize": 1,
+          "seed": 12471,
+          "baseName": "Records\\XPack3\\Items\\EquipmentWeapon\\Axe\\MI_E_EmbalmedPriest.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 62844992,
+          "pointX": 7,
+          "pointY": 0
         }
       ]
     },

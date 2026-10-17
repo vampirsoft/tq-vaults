@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 7,
+  "currentlySelectedSackNumber": 4,
   "sacks": [
     {
       "iconinfo": null,
@@ -850,6 +850,36 @@
           "var2": 2035248,
           "pointX": 4,
           "pointY": 6
+        },
+        {
+          "stackSize": 1,
+          "seed": 3950,
+          "baseName": "Records\\XPack3\\Items\\EquipmentArmor\\Helm\\MI_E_CoralGuardianMelee.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 62844992,
+          "pointX": 10,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 942,
+          "baseName": "Records\\XPack3\\Items\\EquipmentArmor\\Helm\\MI_E_EmbalmedPriestMelee.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 62844992,
+          "pointX": 6,
+          "pointY": 0
         }
       ]
     },
@@ -1075,6 +1105,21 @@
           "var2": 2035248,
           "pointX": 2,
           "pointY": 10
+        },
+        {
+          "stackSize": 1,
+          "seed": 6221,
+          "baseName": "Records\\XPack3\\Items\\EquipmentArmor\\Helm\\MI_E_SerpentoidMelee.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 62844992,
+          "pointX": 6,
+          "pointY": 0
         }
       ]
     },

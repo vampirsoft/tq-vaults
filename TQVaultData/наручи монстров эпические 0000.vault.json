@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 7,
+  "currentlySelectedSackNumber": 4,
   "sacks": [
     {
       "iconinfo": null,
@@ -415,6 +415,36 @@
           "var2": 2035248,
           "pointX": 14,
           "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 28658,
+          "baseName": "Records\\XPack3\\Items\\EquipmentArmor\\Armband\\MI_E_EmbalmedPriestMelee.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 62844992,
+          "pointX": 12,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 15201,
+          "baseName": "Records\\XPack3\\Items\\EquipmentArmor\\Armband\\MI_E_TritonWarriorMelee.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 62844992,
+          "pointX": 0,
+          "pointY": 0
         }
       ]
     },
@@ -547,9 +577,24 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 263450688,
+          "var2": 2035248,
           "pointX": 4,
           "pointY": 2
+        },
+        {
+          "stackSize": 1,
+          "seed": 5392,
+          "baseName": "Records\\XPack3\\Items\\EquipmentArmor\\Armband\\MI_E_SerpentoidMelee.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 62844992,
+          "pointX": 6,
+          "pointY": 0
         }
       ]
     },

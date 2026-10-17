@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 6,
+  "currentlySelectedSackNumber": 3,
   "sacks": [
     {
       "iconinfo": null,
@@ -559,6 +559,36 @@
           "var2": 2035248,
           "pointX": 10,
           "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 26082,
+          "baseName": "Records\\XPack3\\Items\\EquipmentArmor\\Greaves\\MI_E_EmbalmedPriestMelee.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 62844992,
+          "pointX": 12,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 6655,
+          "baseName": "Records\\XPack3\\Items\\EquipmentArmor\\Greaves\\MI_E_CoralGuardianMelee.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 62844992,
+          "pointX": 16,
+          "pointY": 0
         }
       ]
     },
@@ -721,9 +751,24 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 263450688,
+          "var2": 2035248,
           "pointX": 2,
           "pointY": 2
+        },
+        {
+          "stackSize": 1,
+          "seed": 21867,
+          "baseName": "Records\\XPack3\\Items\\EquipmentArmor\\Greaves\\MI_E_SerpentoidMelee.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 62844992,
+          "pointX": 4,
+          "pointY": 0
         }
       ]
     },
