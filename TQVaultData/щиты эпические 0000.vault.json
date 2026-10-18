@@ -3828,21 +3828,6 @@
         },
         {
           "stackSize": 1,
-          "seed": 21674,
-          "baseName": "records\\item\\equipmentshield\\u_n_thornwall.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 12,
-          "pointY": 14
-        },
-        {
-          "stackSize": 1,
           "seed": 13843,
           "baseName": "records\\item\\equipmentshield\\u_n_stonewall.dbr",
           "prefixName": "",
@@ -4197,9 +4182,39 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 4,
           "pointY": 16
+        },
+        {
+          "stackSize": 1,
+          "seed": 345,
+          "baseName": "Records\\Item\\EquipmentShield\\U_N_Thornwall.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 6,
+          "pointY": 9
+        },
+        {
+          "stackSize": 1,
+          "seed": 21674,
+          "baseName": "records\\item\\equipmentshield\\u_n_thornwall.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 4,
+          "pointY": 9
         }
       ]
     },
