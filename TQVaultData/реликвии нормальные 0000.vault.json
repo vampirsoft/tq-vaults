@@ -4268,21 +4268,6 @@
         },
         {
           "stackSize": 1,
-          "seed": 28664,
-          "baseName": "Records\\Item\\Relics\\01_Act1_Hermessandal.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Relics\\BonusesGreece\\01\\01_HermesSandal_AttDA.dbr",
-          "var1": 3,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 11,
-          "pointY": 13
-        },
-        {
-          "stackSize": 1,
           "seed": 8290,
           "baseName": "Records\\Item\\Relics\\01_Act1_ArtemisBowstring.dbr",
           "prefixName": "",
@@ -4412,7 +4397,7 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 355811576,
+          "var2": 2035248,
           "pointX": 15,
           "pointY": 16
         },
@@ -4427,7 +4412,7 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 4,
           "pointY": 18
         },
@@ -4442,7 +4427,7 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 16,
           "pointY": 19
         }
