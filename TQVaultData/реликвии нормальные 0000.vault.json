@@ -4313,21 +4313,6 @@
         },
         {
           "stackSize": 1,
-          "seed": 4025,
-          "baseName": "Records\\Item\\Relics\\01_Act1_GoldenFleece.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "records\\item\\lootmagicalaffixes\\animalrelics\\bonuses\\defensive_liferesist_01.dbr",
-          "var1": 3,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 1,
-          "pointY": 12
-        },
-        {
-          "stackSize": 1,
           "seed": 27979,
           "baseName": "Records\\Item\\Relics\\01_Act1_ZeusThunderbolt.dbr",
           "prefixName": "",
@@ -4430,6 +4415,21 @@
           "var2": 2035248,
           "pointX": 16,
           "pointY": 19
+        },
+        {
+          "stackSize": 1,
+          "seed": 3696,
+          "baseName": "Records\\Item\\Relics\\01_Act1_Hermessandal.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Relics\\BonusesGreece\\01\\01_HermesSandal_AttDA.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1403497264,
+          "pointX": 11,
+          "pointY": 13
         }
       ]
     },
