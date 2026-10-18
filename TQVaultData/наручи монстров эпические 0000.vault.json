@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 1,
+  "currentlySelectedSackNumber": 7,
   "sacks": [
     {
       "iconinfo": null,
@@ -187,7 +187,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 64221248,
+          "var2": 2035248,
           "pointX": 6,
           "pointY": 0
         }
@@ -468,21 +468,6 @@
       "items": [
         {
           "stackSize": 1,
-          "seed": 13182,
-          "baseName": "records\\xpack\\item\\equipmentarmor\\armband\\mi_e_machaemelee.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 4,
-          "pointY": 0
-        },
-        {
-          "stackSize": 1,
           "seed": 18647,
           "baseName": "records\\xpack\\item\\equipmentarmor\\armband\\mi_e_troglodytemelee.dbr",
           "prefixName": "",
@@ -509,6 +494,36 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 16,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 12769,
+          "baseName": "Records\\XPack3\\Items\\EquipmentArmor\\Armband\\MI_E_PotamoiWarriorMelee.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 256176192,
+          "pointX": 0,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 13182,
+          "baseName": "records\\xpack\\item\\equipmentarmor\\armband\\mi_e_machaemelee.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 2,
           "pointY": 0
         }
       ]
@@ -625,6 +640,21 @@
           "var2": 2035248,
           "pointX": 4,
           "pointY": 4
+        },
+        {
+          "stackSize": 1,
+          "seed": 30363,
+          "baseName": "Records\\XPack3\\Items\\EquipmentArmor\\Armband\\MI_E_SerpentoidMelee.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 256176192,
+          "pointX": 6,
+          "pointY": 2
         }
       ]
     },

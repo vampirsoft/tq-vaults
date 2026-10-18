@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 0,
+  "currentlySelectedSackNumber": 1,
   "sacks": [
     {
       "iconinfo": null,
@@ -1307,7 +1307,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 0,
           "pointY": 9
         }
@@ -1660,6 +1660,36 @@
           "var2": 2035248,
           "pointX": 0,
           "pointY": 7
+        },
+        {
+          "stackSize": 1,
+          "seed": 4468,
+          "baseName": "Records\\XPack\\Item\\Artifacts\\ArcaneFormulae\\E_GA_SphereOfEternity_Formula.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 8,
+          "pointY": 2
+        },
+        {
+          "stackSize": 1,
+          "seed": 18307,
+          "baseName": "Records\\XPack\\Item\\Artifacts\\ArcaneFormulae\\E_GA_SandsOfKronos_Formula.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1020961744,
+          "pointX": 6,
+          "pointY": 3
         }
       ]
     },

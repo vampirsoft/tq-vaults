@@ -1847,7 +1847,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 4,
           "pointY": 16
         },
@@ -1864,6 +1864,21 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 6,
+          "pointY": 16
+        },
+        {
+          "stackSize": 1,
+          "seed": 29986,
+          "baseName": "Records\\Item\\EquipmentWeapon\\Staff\\U_E_RodoftheAncients.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 8,
           "pointY": 16
         }
       ]

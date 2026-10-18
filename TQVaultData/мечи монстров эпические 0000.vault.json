@@ -122,9 +122,39 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 62844992,
+          "var2": 2035248,
           "pointX": 5,
           "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 22552,
+          "baseName": "Records\\XPack3\\Items\\EquipmentWeapon\\Sword\\MI_E_PotamoiWarrior.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 256176192,
+          "pointX": 8,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 21426,
+          "baseName": "Records\\XPack3\\Items\\EquipmentWeapon\\Sword\\MI_E_Serpentoid.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 256176192,
+          "pointX": 5,
+          "pointY": 4
         }
       ]
     },

@@ -1427,7 +1427,7 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 865557576,
+          "var2": 2035248,
           "pointX": 9,
           "pointY": 7
         },
@@ -1442,7 +1442,7 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1147478448,
+          "var2": 2035248,
           "pointX": 0,
           "pointY": 7
         },
@@ -1457,9 +1457,39 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1120955256,
+          "var2": 2035248,
           "pointX": 1,
           "pointY": 7
+        },
+        {
+          "stackSize": 1,
+          "seed": 2503,
+          "baseName": "Records\\Item\\AnimalRelics\\02_MultActs_DiseasedPlumage.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "records\\item\\lootmagicalaffixes\\relics\\bonuses\\offensive_%poison_02.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 769015584,
+          "pointX": 10,
+          "pointY": 5
+        },
+        {
+          "stackSize": 1,
+          "seed": 1986,
+          "baseName": "Records\\Item\\AnimalRelics\\02_MultActs_VenomSac.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "records\\item\\lootmagicalaffixes\\relics\\bonuses\\offensive_%poison_02.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 970423416,
+          "pointX": 8,
+          "pointY": 8
         }
       ]
     },
@@ -2755,6 +2785,21 @@
           "var2": 2035248,
           "pointX": 1,
           "pointY": 6
+        },
+        {
+          "stackSize": 1,
+          "seed": 24691,
+          "baseName": "Records\\Item\\AnimalRelics\\02_MultActs_RigidCarapace.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "records\\item\\lootmagicalaffixes\\animalrelics\\bonuses\\defensive_bleedresist_02.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 981446992,
+          "pointX": 6,
+          "pointY": 5
         }
       ]
     },
@@ -3269,6 +3314,21 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 3,
+          "pointY": 2
+        },
+        {
+          "stackSize": 1,
+          "seed": 26043,
+          "baseName": "records\\xpack\\item\\charms\\02_act4_torturedsoul.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\AnimalRelics\\Bonuses\\Defensive_LifeResist_02.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 959722680,
+          "pointX": 4,
           "pointY": 2
         }
       ]

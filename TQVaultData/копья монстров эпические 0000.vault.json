@@ -62,8 +62,23 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 64221248,
+          "var2": 2035248,
           "pointX": 3,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 31899,
+          "baseName": "Records\\XPack3\\Items\\EquipmentWeapon\\Spear\\MI_E_PotamoiWarrior.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 256176192,
+          "pointX": 8,
           "pointY": 0
         }
       ]

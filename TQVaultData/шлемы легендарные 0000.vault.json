@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 2,
+  "currentlySelectedSackNumber": 0,
   "sacks": [
     {
       "iconinfo": null,
@@ -455,6 +455,36 @@
           "var2": 2035248,
           "pointX": 14,
           "pointY": 8
+        },
+        {
+          "stackSize": 1,
+          "seed": 32450,
+          "baseName": "Records\\XPack3\\Items\\EquipmentArmor\\Helm\\um_e_01.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 6,
+          "pointY": 4
+        },
+        {
+          "stackSize": 1,
+          "seed": 31906,
+          "baseName": "Records\\Item\\EquipmentHelm\\Um_E_OrpheusGarland.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 0,
+          "pointY": 10
         }
       ]
     },
@@ -1197,7 +1227,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 0,
           "pointY": 10
         }
