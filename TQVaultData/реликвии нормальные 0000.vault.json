@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 1,
+  "currentlySelectedSackNumber": 0,
   "sacks": [
     {
       "iconinfo": null,
@@ -4385,6 +4385,21 @@
           "var2": 2035248,
           "pointX": 8,
           "pointY": 14
+        },
+        {
+          "stackSize": 1,
+          "seed": 12334,
+          "baseName": "Records\\Item\\Relics\\01_Act1_HecatesCrescent.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "records\\item\\lootmagicalaffixes\\animalrelics\\bonuses\\defensive_liferesist_01.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1440066672,
+          "pointX": 7,
+          "pointY": 18
         }
       ]
     },
@@ -8392,7 +8407,7 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 902240424,
+          "var2": 2035248,
           "pointX": 17,
           "pointY": 8
         }
