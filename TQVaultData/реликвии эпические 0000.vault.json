@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 0,
+  "currentlySelectedSackNumber": 3,
   "sacks": [
     {
       "iconinfo": null,
@@ -3995,6 +3995,21 @@
           "var2": 2035248,
           "pointX": 1,
           "pointY": 2
+        },
+        {
+          "stackSize": 1,
+          "seed": 26256,
+          "baseName": "records\\xpack3\\items\\relics\\02_x3_okeanos.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Relics\\Bonuses\\Offensive_+%Cold_03.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1299640536,
+          "pointX": 16,
+          "pointY": 1
         }
       ]
     },

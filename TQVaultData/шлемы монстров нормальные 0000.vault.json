@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 4,
+  "currentlySelectedSackNumber": 3,
   "sacks": [
     {
       "iconinfo": null,
@@ -1115,6 +1115,21 @@
           "var2": 2035248,
           "pointX": 4,
           "pointY": 10
+        },
+        {
+          "stackSize": 1,
+          "seed": 18079,
+          "baseName": "Records\\Item\\EquipmentHelm\\MI_N_Arachnos.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 62189632,
+          "pointX": 2,
+          "pointY": 16
         }
       ]
     },

@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 1,
+  "currentlySelectedSackNumber": 0,
   "sacks": [
     {
       "iconinfo": null,
@@ -4442,9 +4442,24 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 3,
           "pointY": 16
+        },
+        {
+          "stackSize": 1,
+          "seed": 14790,
+          "baseName": "Records\\Item\\Relics\\01_Act1_GoldenFleece.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "records\\item\\lootmagicalaffixes\\animalrelics\\bonuses\\defensive_liferesist_01.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 1,
+          "pointY": 12
         }
       ]
     },
@@ -7903,21 +7918,6 @@
         },
         {
           "stackSize": 1,
-          "seed": 11151,
-          "baseName": "Records\\Item\\Relics\\01_Act2_AmunRasGlory.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "records\\item\\lootmagicalaffixes\\animalrelics\\bonuses\\defensive_bleedresist_01.dbr",
-          "var1": 3,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 12,
-          "pointY": 5
-        },
-        {
-          "stackSize": 1,
           "seed": 10522,
           "baseName": "Records\\Item\\Relics\\01_Act1_ValorOfAchilles.dbr",
           "prefixName": "",
@@ -8080,21 +8080,6 @@
           "var2": 2035248,
           "pointX": 7,
           "pointY": 15
-        },
-        {
-          "stackSize": 1,
-          "seed": 29907,
-          "baseName": "records\\item\\relics\\01_act2_amunrasglory.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "records\\item\\lootmagicalaffixes\\animalrelics\\bonuses\\defensive_bleedresist_01.dbr",
-          "var1": 3,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 13,
-          "pointY": 5
         },
         {
           "stackSize": 1,
@@ -8338,51 +8323,6 @@
         },
         {
           "stackSize": 1,
-          "seed": 25889,
-          "baseName": "Records\\Item\\Relics\\01_Act2_AnkhOfIsis.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "records\\item\\lootmagicalaffixes\\animalrelics\\bonuses\\defensive_bleedresist_01.dbr",
-          "var1": 3,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 10,
-          "pointY": 13
-        },
-        {
-          "stackSize": 1,
-          "seed": 23614,
-          "baseName": "Records\\Item\\Relics\\01_Act2_AnkhOfIsis.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "records\\item\\lootmagicalaffixes\\animalrelics\\bonuses\\defensive_bleedresist_01.dbr",
-          "var1": 3,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 11,
-          "pointY": 13
-        },
-        {
-          "stackSize": 1,
-          "seed": 19202,
-          "baseName": "Records\\Item\\Relics\\01_Act2_AmunRasGlory.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "records\\item\\lootmagicalaffixes\\animalrelics\\bonuses\\defensive_bleedresist_01.dbr",
-          "var1": 3,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 12,
-          "pointY": 6
-        },
-        {
-          "stackSize": 1,
           "seed": 31980,
           "baseName": "Records\\Item\\Relics\\01_Act2_SetsBetrayal.dbr",
           "prefixName": "",
@@ -8458,21 +8398,6 @@
         },
         {
           "stackSize": 1,
-          "seed": 22890,
-          "baseName": "Records\\Item\\Relics\\01_Act1_ValorOfAchilles.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_SpeedAttack_01.dbr",
-          "var1": 3,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1065353216,
-          "pointX": 3,
-          "pointY": 13
-        },
-        {
-          "stackSize": 1,
           "seed": 3890,
           "baseName": "Records\\Item\\Relics\\01_Act1_DionysusWineskin.dbr",
           "prefixName": "",
@@ -8482,7 +8407,7 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 0,
           "pointY": 15
         }
