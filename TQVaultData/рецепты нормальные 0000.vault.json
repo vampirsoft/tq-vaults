@@ -2045,6 +2045,21 @@
           "var2": 2035248,
           "pointX": 0,
           "pointY": 14
+        },
+        {
+          "stackSize": 1,
+          "seed": 11711,
+          "baseName": "Records\\XPack\\Item\\Artifacts\\ArcaneFormulae\\N_LA_ShroudOfEternalNight_Formula.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1233539560,
+          "pointX": 16,
+          "pointY": 16
         }
       ]
     },

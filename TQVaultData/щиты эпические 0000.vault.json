@@ -4197,7 +4197,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 6,
           "pointY": 9
         },
@@ -4215,6 +4215,51 @@
           "var2": 2035248,
           "pointX": 4,
           "pointY": 9
+        },
+        {
+          "stackSize": 1,
+          "seed": 21420,
+          "baseName": "Records\\Item\\EquipmentShield\\U_N_BoarHunter'sShield.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 12,
+          "pointY": 14
+        },
+        {
+          "stackSize": 1,
+          "seed": 15910,
+          "baseName": "Records\\Item\\EquipmentShield\\U_N_AegisofLaconia.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 16,
+          "pointY": 7
+        },
+        {
+          "stackSize": 1,
+          "seed": 10448,
+          "baseName": "Records\\Item\\EquipmentShield\\U_N_JaggedHoplon.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 14,
+          "pointY": 7
         }
       ]
     },

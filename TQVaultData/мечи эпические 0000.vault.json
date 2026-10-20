@@ -557,8 +557,38 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 1,
+          "pointY": 8
+        },
+        {
+          "stackSize": 1,
+          "seed": 10936,
+          "baseName": "Records\\Item\\EquipmentWeapon\\Sword\\U_N_LifeBane.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 0,
+          "pointY": 8
+        },
+        {
+          "stackSize": 1,
+          "seed": 30322,
+          "baseName": "Records\\Item\\EquipmentWeapon\\Sword\\U_N_Heartpierce.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 683297040,
+          "pointX": 2,
           "pointY": 8
         }
       ]
