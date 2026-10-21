@@ -293,21 +293,6 @@
         },
         {
           "stackSize": 1,
-          "seed": 29570,
-          "baseName": "records\\xpack3\\items\\equipmentarmor\\ring\\u_n_02.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 9,
-          "pointY": 1
-        },
-        {
-          "stackSize": 1,
           "seed": 23262,
           "baseName": "Records\\Item\\EquipmentRing\\U_N_LivingBand.dbr",
           "prefixName": "",
@@ -349,36 +334,6 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 3,
-          "pointY": 1
-        },
-        {
-          "stackSize": 1,
-          "seed": 7276,
-          "baseName": "records\\xpack3\\items\\equipmentarmor\\ring\\u_n_01.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 10,
-          "pointY": 0
-        },
-        {
-          "stackSize": 1,
-          "seed": 15095,
-          "baseName": "records\\xpack3\\items\\equipmentarmor\\ring\\u_n_01.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 10,
           "pointY": 1
         },
         {
@@ -437,9 +392,24 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 3,
           "pointY": 2
+        },
+        {
+          "stackSize": 1,
+          "seed": 30726,
+          "baseName": "Records\\Item\\EquipmentRing\\U_N_OathRing.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 3,
+          "pointY": 3
         }
       ]
     },

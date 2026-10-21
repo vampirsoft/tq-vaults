@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 0,
+  "currentlySelectedSackNumber": 1,
   "sacks": [
     {
       "iconinfo": null,
@@ -4532,7 +4532,7 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 780258600,
+          "var2": 2035248,
           "pointX": 1,
           "pointY": 19
         }
@@ -7900,6 +7900,21 @@
           "var2": 2035248,
           "pointX": 11,
           "pointY": 6
+        },
+        {
+          "stackSize": 1,
+          "seed": 19463,
+          "baseName": "Records\\Item\\AnimalRelics\\01_Act2_HagsSkin.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "records\\item\\lootmagicalaffixes\\animalrelics\\bonuses\\defensive_bleedresist_01.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 810477696,
+          "pointX": 2,
+          "pointY": 11
         }
       ]
     },

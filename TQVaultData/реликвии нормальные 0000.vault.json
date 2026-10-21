@@ -4433,21 +4433,6 @@
         },
         {
           "stackSize": 1,
-          "seed": 26963,
-          "baseName": "Records\\Item\\Relics\\01_Act1_PrometheusFlame.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_SpeedAttack_01.dbr",
-          "var1": 3,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 3,
-          "pointY": 16
-        },
-        {
-          "stackSize": 1,
           "seed": 14790,
           "baseName": "Records\\Item\\Relics\\01_Act1_GoldenFleece.dbr",
           "prefixName": "",
@@ -4523,21 +4508,6 @@
         },
         {
           "stackSize": 1,
-          "seed": 7340,
-          "baseName": "Records\\Item\\Relics\\01_Act1_PrometheusFlame.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_SpeedAttack_01.dbr",
-          "var1": 3,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1065353216,
-          "pointX": 2,
-          "pointY": 17
-        },
-        {
-          "stackSize": 1,
           "seed": 27604,
           "baseName": "Records\\Item\\Relics\\01_Act1_Hermessandal.dbr",
           "prefixName": "",
@@ -4547,7 +4517,7 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1115762808,
+          "var2": 2035248,
           "pointX": 10,
           "pointY": 14
         }
@@ -8308,21 +8278,6 @@
         },
         {
           "stackSize": 1,
-          "seed": 28327,
-          "baseName": "Records\\Item\\Relics\\01_Act2_AnkhOfIsis.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "records\\item\\lootmagicalaffixes\\animalrelics\\bonuses\\defensive_bleedresist_01.dbr",
-          "var1": 3,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 11,
-          "pointY": 12
-        },
-        {
-          "stackSize": 1,
           "seed": 2626,
           "baseName": "Records\\Item\\Relics\\01_Act2_SetsBetrayal.dbr",
           "prefixName": "",
@@ -8515,6 +8470,21 @@
           "var2": 2035248,
           "pointX": 1,
           "pointY": 15
+        },
+        {
+          "stackSize": 1,
+          "seed": 17354,
+          "baseName": "Records\\Item\\Relics\\01_Act1_ValorOfAchilles.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_SpeedAttack_01.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 3,
+          "pointY": 13
         }
       ]
     },
