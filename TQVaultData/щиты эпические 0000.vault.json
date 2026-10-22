@@ -3948,21 +3948,6 @@
         },
         {
           "stackSize": 1,
-          "seed": 19769,
-          "baseName": "Records\\Item\\EquipmentShield\\U_N_NubianDeflector.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 16,
-          "pointY": 9
-        },
-        {
-          "stackSize": 1,
           "seed": 2611,
           "baseName": "Records\\Item\\EquipmentShield\\U_N_Stonewall.dbr",
           "prefixName": "",
@@ -3975,21 +3960,6 @@
           "var2": 2035248,
           "pointX": 14,
           "pointY": 12
-        },
-        {
-          "stackSize": 1,
-          "seed": 22955,
-          "baseName": "Records\\Item\\EquipmentShield\\U_N_NubianDeflector.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 14,
-          "pointY": 9
         },
         {
           "stackSize": 1,
@@ -4020,21 +3990,6 @@
           "var2": 2035248,
           "pointX": 8,
           "pointY": 16
-        },
-        {
-          "stackSize": 1,
-          "seed": 28034,
-          "baseName": "Records\\Item\\EquipmentShield\\U_N_BoarHunter'sShield.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 10,
-          "pointY": 9
         },
         {
           "stackSize": 1,
@@ -4287,9 +4242,54 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 10,
           "pointY": 7
+        },
+        {
+          "stackSize": 1,
+          "seed": 25871,
+          "baseName": "Records\\Item\\EquipmentShield\\U_N_Thornwall.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 10,
+          "pointY": 9
+        },
+        {
+          "stackSize": 1,
+          "seed": 28034,
+          "baseName": "Records\\Item\\EquipmentShield\\U_N_BoarHunter'sShield.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 14,
+          "pointY": 9
+        },
+        {
+          "stackSize": 1,
+          "seed": 22955,
+          "baseName": "Records\\Item\\EquipmentShield\\U_N_NubianDeflector.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 16,
+          "pointY": 4
         },
         {
           "stackSize": 1,
@@ -4302,8 +4302,23 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 16,
+          "pointY": 9
+        },
+        {
+          "stackSize": 1,
+          "seed": 19769,
+          "baseName": "Records\\Item\\EquipmentShield\\U_N_NubianDeflector.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 14,
           "pointY": 4
         }
       ]

@@ -407,9 +407,39 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 3,
           "pointY": 3
+        },
+        {
+          "stackSize": 1,
+          "seed": 7598,
+          "baseName": "Records\\Item\\EquipmentRing\\U_N_CartoucheRing.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 417437456,
+          "pointX": 5,
+          "pointY": 1
+        },
+        {
+          "stackSize": 1,
+          "seed": 1612,
+          "baseName": "Records\\Item\\EquipmentRing\\U_N_LivingBand.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 67104832,
+          "pointX": 6,
+          "pointY": 2
         }
       ]
     },
