@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 1,
+  "currentlySelectedSackNumber": 0,
   "sacks": [
     {
       "iconinfo": null,
@@ -4535,6 +4535,21 @@
           "var2": 2035248,
           "pointX": 1,
           "pointY": 19
+        },
+        {
+          "stackSize": 1,
+          "seed": 8391,
+          "baseName": "Records\\Item\\AnimalRelics\\01_MultActs_DiseasedPlumage.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "records\\item\\lootmagicalaffixes\\relics\\bonuses\\offensive_%poison_01.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 904521888,
+          "pointX": 11,
+          "pointY": 15
         }
       ]
     },
@@ -7927,7 +7942,7 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 776122504,
+          "var2": 2035248,
           "pointX": 3,
           "pointY": 11
         }

@@ -422,7 +422,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 417437456,
+          "var2": 2035248,
           "pointX": 5,
           "pointY": 1
         },
@@ -437,9 +437,24 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 67104832,
+          "var2": 2035248,
           "pointX": 6,
           "pointY": 2
+        },
+        {
+          "stackSize": 1,
+          "seed": 29804,
+          "baseName": "Records\\Item\\EquipmentRing\\U_N_OathRing.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 3,
+          "pointY": 4
         }
       ]
     },

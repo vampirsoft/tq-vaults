@@ -677,7 +677,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 6,
           "pointY": 3
         },
@@ -692,9 +692,39 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 4,
           "pointY": 2
+        },
+        {
+          "stackSize": 1,
+          "seed": 13442,
+          "baseName": "Records\\Item\\EquipmentAmulet\\U_N_LadyY-ab'sScarab.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 5,
+          "pointY": 5
+        },
+        {
+          "stackSize": 1,
+          "seed": 7341,
+          "baseName": "Records\\Item\\EquipmentAmulet\\U_N_ElectrumCharm.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 4,
+          "pointY": 3
         }
       ]
     },

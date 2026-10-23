@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 1,
+  "currentlySelectedSackNumber": 0,
   "sacks": [
     {
       "iconinfo": null,
@@ -4550,6 +4550,21 @@
           "var2": 2035248,
           "pointX": 0,
           "pointY": 13
+        },
+        {
+          "stackSize": 1,
+          "seed": 30327,
+          "baseName": "Records\\Item\\Relics\\01_Act1_ZeusThunderbolt.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Relics\\Bonuses\\Offensive_+%Lightning_01.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1119830376,
+          "pointX": 14,
+          "pointY": 17
         }
       ]
     },
@@ -8557,7 +8572,7 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 959160400,
+          "var2": 2035248,
           "pointX": 2,
           "pointY": 14
         },
@@ -8572,7 +8587,7 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 6,
           "pointY": 18
         },
@@ -8587,7 +8602,7 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 15,
           "pointY": 17
         }
