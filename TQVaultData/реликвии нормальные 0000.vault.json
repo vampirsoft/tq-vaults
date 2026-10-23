@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 0,
+  "currentlySelectedSackNumber": 1,
   "sacks": [
     {
       "iconinfo": null,
@@ -4562,7 +4562,7 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1119830376,
+          "var2": 2035248,
           "pointX": 14,
           "pointY": 17
         }
@@ -8530,21 +8530,6 @@
           "var2": 2035248,
           "pointX": 3,
           "pointY": 13
-        },
-        {
-          "stackSize": 1,
-          "seed": 11318,
-          "baseName": "Records\\Item\\Relics\\01_Act2_AmunRasGlory.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "records\\item\\lootmagicalaffixes\\animalrelics\\bonuses\\defensive_bleedresist_01.dbr",
-          "var1": 3,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 12,
-          "pointY": 5
         },
         {
           "stackSize": 1,
