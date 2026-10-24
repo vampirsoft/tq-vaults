@@ -3422,7 +3422,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 13,
           "pointY": 2
         },
@@ -3437,8 +3437,23 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 11,
+          "pointY": 2
+        },
+        {
+          "stackSize": 1,
+          "seed": 23602,
+          "baseName": "Records\\Item\\EquipmentWeapon\\Axe\\U_N_Havoc.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 415520256,
+          "pointX": 9,
           "pointY": 2
         }
       ]
