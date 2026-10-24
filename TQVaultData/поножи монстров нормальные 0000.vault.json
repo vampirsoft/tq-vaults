@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 0,
+  "currentlySelectedSackNumber": 3,
   "sacks": [
     {
       "iconinfo": null,
@@ -422,7 +422,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 259387456,
+          "var2": 2035248,
           "pointX": 14,
           "pointY": 18
         }
@@ -1103,21 +1103,6 @@
         },
         {
           "stackSize": 1,
-          "seed": 4120,
-          "baseName": "Records\\Item\\EquipmentGreaves\\MI_N_NeanderthalMelee.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 6,
-          "pointY": 18
-        },
-        {
-          "stackSize": 1,
           "seed": 18806,
           "baseName": "Records\\Item\\EquipmentGreaves\\MI_N_Yerren.dbr",
           "prefixName": "",
@@ -1157,9 +1142,39 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 259387456,
+          "var2": 2035248,
           "pointX": 2,
           "pointY": 10
+        },
+        {
+          "stackSize": 1,
+          "seed": 29392,
+          "baseName": "Records\\Item\\EquipmentGreaves\\MI_N_NeanderthalMelee.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 259387456,
+          "pointX": 16,
+          "pointY": 18
+        },
+        {
+          "stackSize": 1,
+          "seed": 4120,
+          "baseName": "Records\\Item\\EquipmentGreaves\\MI_N_NeanderthalMelee.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 14,
+          "pointY": 18
         }
       ]
     },

@@ -7957,9 +7957,24 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1268376768,
+          "var2": 2035248,
           "pointX": 16,
           "pointY": 12
+        },
+        {
+          "stackSize": 1,
+          "seed": 8688,
+          "baseName": "Records\\Item\\AnimalRelics\\01_Act3_YetiFur.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "records\\item\\lootmagicalaffixes\\animalrelics\\bonuses\\defensive_bleedresist_01.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1265828184,
+          "pointX": 14,
+          "pointY": 6
         }
       ]
     },
