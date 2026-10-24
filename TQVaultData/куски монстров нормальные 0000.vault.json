@@ -7987,7 +7987,7 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 802694264,
+          "var2": 2035248,
           "pointX": 13,
           "pointY": 9
         },
@@ -8002,9 +8002,24 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 785008704,
+          "var2": 2035248,
           "pointX": 15,
           "pointY": 6
+        },
+        {
+          "stackSize": 1,
+          "seed": 25756,
+          "baseName": "Records\\Item\\AnimalRelics\\01_Act3_PengClaw.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_SpeedAttack_01.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 455534624,
+          "pointX": 10,
+          "pointY": 7
         }
       ]
     },

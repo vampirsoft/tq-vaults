@@ -287,8 +287,38 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 6,
+          "pointY": 5
+        },
+        {
+          "stackSize": 1,
+          "seed": 16025,
+          "baseName": "Records\\Item\\EquipmentWeapon\\Spear\\U_N_SpearofArgo.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 9,
+          "pointY": 10
+        },
+        {
+          "stackSize": 1,
+          "seed": 6138,
+          "baseName": "Records\\Item\\EquipmentWeapon\\Spear\\U_N_QinZiYing'sLance.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 11,
           "pointY": 5
         }
       ]
