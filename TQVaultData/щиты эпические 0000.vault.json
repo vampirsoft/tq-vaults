@@ -4257,7 +4257,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 10,
           "pointY": 9
         },
@@ -4320,6 +4320,36 @@
           "var2": 2035248,
           "pointX": 14,
           "pointY": 4
+        },
+        {
+          "stackSize": 1,
+          "seed": 15313,
+          "baseName": "Records\\Item\\EquipmentShield\\U_N_Thornwall.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 12,
+          "pointY": 4
+        },
+        {
+          "stackSize": 1,
+          "seed": 31883,
+          "baseName": "Records\\Item\\EquipmentShield\\U_N_Thutmose'Buckler.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 8,
+          "pointY": 7
         }
       ]
     },

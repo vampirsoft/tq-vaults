@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 0,
+  "currentlySelectedSackNumber": 3,
   "sacks": [
     {
       "iconinfo": null,
@@ -407,7 +407,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 53342272,
+          "var2": 2035248,
           "pointX": 0,
           "pointY": 0
         }
@@ -1115,6 +1115,21 @@
           "var2": 2035248,
           "pointX": 10,
           "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 5772,
+          "baseName": "Records\\Item\\EquipmentGreaves\\MI_N_GoldenSkeleton.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 259387456,
+          "pointX": 2,
+          "pointY": 8
         }
       ]
     },
