@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 0,
+  "currentlySelectedSackNumber": 5,
   "sacks": [
     {
       "iconinfo": null,
@@ -137,7 +137,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 259387456,
+          "var2": 2035248,
           "pointX": 6,
           "pointY": 3
         }
@@ -547,7 +547,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 259387456,
+          "var2": 2035248,
           "pointX": 12,
           "pointY": 6
         }
@@ -704,6 +704,21 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 2,
+          "pointY": 3
+        },
+        {
+          "stackSize": 1,
+          "seed": 13724,
+          "baseName": "Records\\Item\\EquipmentArmor\\MI_N_GoldenSkeleton.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 259387456,
+          "pointX": 0,
           "pointY": 3
         }
       ]
@@ -1187,7 +1202,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 259387456,
+          "var2": 2035248,
           "pointX": 2,
           "pointY": 3
         }
