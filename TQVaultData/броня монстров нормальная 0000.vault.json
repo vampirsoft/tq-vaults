@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 6,
+  "currentlySelectedSackNumber": 5,
   "sacks": [
     {
       "iconinfo": null,
@@ -732,9 +732,24 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 259387456,
+          "var2": 2035248,
           "pointX": 6,
           "pointY": 3
+        },
+        {
+          "stackSize": 1,
+          "seed": 6030,
+          "baseName": "Records\\Item\\EquipmentArmor\\MI_N_NeanderthalMelee.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 71233600,
+          "pointX": 6,
+          "pointY": 6
         }
       ]
     },
@@ -872,7 +887,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 259387456,
+          "var2": 2035248,
           "pointX": 2,
           "pointY": 3
         }

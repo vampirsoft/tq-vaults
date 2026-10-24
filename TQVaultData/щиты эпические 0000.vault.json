@@ -4332,7 +4332,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 12,
           "pointY": 4
         },
@@ -4347,8 +4347,23 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 8,
+          "pointY": 7
+        },
+        {
+          "stackSize": 1,
+          "seed": 2442,
+          "baseName": "Records\\Item\\EquipmentShield\\U_N_CeremonialBuckler.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 6,
           "pointY": 7
         }
       ]

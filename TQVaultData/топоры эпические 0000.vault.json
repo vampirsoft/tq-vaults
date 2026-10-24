@@ -3407,8 +3407,38 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 14,
+          "pointY": 2
+        },
+        {
+          "stackSize": 1,
+          "seed": 28327,
+          "baseName": "Records\\Item\\EquipmentWeapon\\Axe\\U_N_Beastrend.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 13,
+          "pointY": 2
+        },
+        {
+          "stackSize": 1,
+          "seed": 2700,
+          "baseName": "Records\\Item\\EquipmentWeapon\\Axe\\U_N_ChiYou'sSiphon.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 11,
           "pointY": 2
         }
       ]
