@@ -413,21 +413,6 @@
         },
         {
           "stackSize": 1,
-          "seed": 19213,
-          "baseName": "Records\\Item\\EquipmentAmulet\\C03_Amulet04.dbr",
-          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Character_SkillMasteryE_01.dbr",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 10,
-          "pointY": 19
-        },
-        {
-          "stackSize": 1,
           "seed": 1216,
           "baseName": "Records\\Item\\EquipmentAmulet\\C10_Amulet02.dbr",
           "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Character_SkillMasteryH_02.dbr",

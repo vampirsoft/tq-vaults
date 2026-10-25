@@ -4562,7 +4562,7 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1388413168,
+          "var2": 2035248,
           "pointX": 10,
           "pointY": 16
         },
@@ -4577,9 +4577,39 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 792906920,
+          "var2": 2035248,
           "pointX": 3,
           "pointY": 16
+        },
+        {
+          "stackSize": 1,
+          "seed": 20562,
+          "baseName": "Records\\Item\\AnimalRelics\\01_Act1_TurtleShell.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Defensive_ResistPierce_01.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1061141608,
+          "pointX": 4,
+          "pointY": 6
+        },
+        {
+          "stackSize": 1,
+          "seed": 6486,
+          "baseName": "Records\\Item\\AnimalRelics\\01_Act1_BatFang.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_SpeedAttack_01.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1069035472,
+          "pointX": 6,
+          "pointY": 13
         }
       ]
     },
