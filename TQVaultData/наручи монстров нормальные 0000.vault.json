@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 7,
+  "currentlySelectedSackNumber": 3,
   "sacks": [
     {
       "iconinfo": null,
@@ -227,9 +227,24 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 51966016,
+          "var2": 2035248,
           "pointX": 10,
           "pointY": 6
+        },
+        {
+          "stackSize": 1,
+          "seed": 8946,
+          "baseName": "Records\\Item\\EquipmentArmband\\MI_N_Djinn.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 51966016,
+          "pointX": 10,
+          "pointY": 8
         }
       ]
     },
@@ -665,6 +680,21 @@
           "var2": 2035248,
           "pointX": 16,
           "pointY": 8
+        },
+        {
+          "stackSize": 1,
+          "seed": 19828,
+          "baseName": "Records\\Item\\EquipmentArmband\\MI_N_NeanderthalMelee.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 51966016,
+          "pointX": 16,
+          "pointY": 10
         }
       ]
     },
@@ -1087,7 +1117,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 51966016,
+          "var2": 2035248,
           "pointX": 2,
           "pointY": 4
         }

@@ -8077,7 +8077,7 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 890833120,
+          "var2": 2035248,
           "pointX": 9,
           "pointY": 6
         },
@@ -8092,7 +8092,7 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 890694760,
+          "var2": 2035248,
           "pointX": 13,
           "pointY": 10
         },
@@ -8107,8 +8107,38 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 886234472,
+          "var2": 2035248,
           "pointX": 14,
+          "pointY": 7
+        },
+        {
+          "stackSize": 1,
+          "seed": 6930,
+          "baseName": "Records\\Item\\AnimalRelics\\01_Act3_PengClaw.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_SpeedAttack_01.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 729779424,
+          "pointX": 10,
+          "pointY": 8
+        },
+        {
+          "stackSize": 1,
+          "seed": 29357,
+          "baseName": "Records\\Item\\AnimalRelics\\01_Act3_YetiFur.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "records\\item\\lootmagicalaffixes\\animalrelics\\bonuses\\defensive_bleedresist_01.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1467500352,
+          "pointX": 15,
           "pointY": 7
         }
       ]
