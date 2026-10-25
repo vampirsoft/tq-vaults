@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 3,
+  "currentlySelectedSackNumber": 4,
   "sacks": [
     {
       "iconinfo": null,
@@ -602,7 +602,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 53538880,
+          "var2": 2035248,
           "pointX": 16,
           "pointY": 6
         }
@@ -730,6 +730,36 @@
           "var2": 2035248,
           "pointX": 8,
           "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 17248,
+          "baseName": "Records\\Item\\EquipmentGreaves\\MI_N_RatmanChampion.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 51966016,
+          "pointX": 8,
+          "pointY": 2
+        },
+        {
+          "stackSize": 1,
+          "seed": 18904,
+          "baseName": "Records\\Item\\EquipmentArmband\\MI_N_TropicalArachnos.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 51966016,
+          "pointX": 4,
+          "pointY": 2
         }
       ]
     },
