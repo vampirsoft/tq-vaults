@@ -3488,8 +3488,8 @@
         },
         {
           "stackSize": 1,
-          "seed": 26471,
-          "baseName": "Records\\Item\\EquipmentWeapon\\Axe\\U_N_Adranis.dbr",
+          "seed": 27000,
+          "baseName": "Records\\Item\\EquipmentWeapon\\Axe\\U_N_Havoc.dbr",
           "prefixName": "",
           "suffixName": "",
           "relicName": "",
@@ -3500,6 +3500,21 @@
           "var2": 1065353216,
           "pointX": 5,
           "pointY": 2
+        },
+        {
+          "stackSize": 1,
+          "seed": 26471,
+          "baseName": "Records\\Item\\EquipmentWeapon\\Axe\\U_N_Adranis.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 3,
+          "pointY": 17
         }
       ]
     },

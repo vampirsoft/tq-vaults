@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 2,
+  "currentlySelectedSackNumber": 0,
   "sacks": [
     {
       "iconinfo": null,
@@ -2090,6 +2090,21 @@
           "var2": 2035248,
           "pointX": 0,
           "pointY": 15
+        },
+        {
+          "stackSize": 1,
+          "seed": 20791,
+          "baseName": "Records\\XPack\\Item\\Artifacts\\ArcaneFormulae\\N_LA_StarHeart_Formula.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1115089000,
+          "pointX": 14,
+          "pointY": 13
         }
       ]
     },
@@ -5352,7 +5367,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 0,
           "pointY": 12
         }
