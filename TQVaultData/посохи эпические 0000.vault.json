@@ -2988,8 +2988,8 @@
         },
         {
           "stackSize": 1,
-          "seed": 27798,
-          "baseName": "Records\\Item\\EquipmentWeapon\\Staff\\U_N_GuanYin'sHealingRod.dbr",
+          "seed": 1228,
+          "baseName": "Records\\Item\\EquipmentWeapon\\Staff\\U_N_StaffOfNabukhuthnusar.dbr",
           "prefixName": "",
           "suffixName": "",
           "relicName": "",
@@ -3000,6 +3000,36 @@
           "var2": 1065353216,
           "pointX": 2,
           "pointY": 16
+        },
+        {
+          "stackSize": 1,
+          "seed": 27798,
+          "baseName": "Records\\Item\\EquipmentWeapon\\Staff\\U_N_GuanYin'sHealingRod.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 4,
+          "pointY": 16
+        },
+        {
+          "stackSize": 1,
+          "seed": 2938,
+          "baseName": "Records\\Item\\EquipmentWeapon\\Staff\\U_N_GuanYin'sHealingRod.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 4,
+          "pointY": 12
         }
       ]
     },

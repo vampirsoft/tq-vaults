@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 3,
+  "currentlySelectedSackNumber": 7,
   "sacks": [
     {
       "iconinfo": null,
@@ -242,7 +242,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 51966016,
+          "var2": 2035248,
           "pointX": 10,
           "pointY": 8
         }
@@ -692,7 +692,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 51966016,
+          "var2": 2035248,
           "pointX": 16,
           "pointY": 10
         }
@@ -850,6 +850,21 @@
           "var2": 2035248,
           "pointX": 4,
           "pointY": 2
+        },
+        {
+          "stackSize": 1,
+          "seed": 5405,
+          "baseName": "Records\\Item\\EquipmentArmband\\MI_N_TropicalArachnos.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 53276736,
+          "pointX": 4,
+          "pointY": 4
         }
       ]
     },
@@ -1120,6 +1135,21 @@
           "var2": 2035248,
           "pointX": 2,
           "pointY": 4
+        },
+        {
+          "stackSize": 1,
+          "seed": 8885,
+          "baseName": "Records\\Item\\EquipmentArmband\\MI_N_TigermanMelee.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 53276736,
+          "pointX": 2,
+          "pointY": 6
         }
       ]
     },

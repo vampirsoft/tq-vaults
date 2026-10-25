@@ -428,21 +428,6 @@
         },
         {
           "stackSize": 1,
-          "seed": 6891,
-          "baseName": "Records\\Item\\EquipmentWeapon\\Axe\\MI_N_NeanderthalMelee.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 17,
-          "pointY": 17
-        },
-        {
-          "stackSize": 1,
           "seed": 29199,
           "baseName": "Records\\Item\\EquipmentWeapon\\Axe\\MI_N_TigermanChampion.dbr",
           "prefixName": "",
@@ -458,8 +443,38 @@
         },
         {
           "stackSize": 1,
+          "seed": 4056,
+          "baseName": "Records\\Item\\EquipmentWeapon\\Axe\\MI_N_TigermanChampion.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 53276736,
+          "pointX": 16,
+          "pointY": 14
+        },
+        {
+          "stackSize": 1,
           "seed": 31115,
           "baseName": "Records\\Item\\EquipmentWeapon\\Axe\\MI_N_TigermanChampion.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 16,
+          "pointY": 17
+        },
+        {
+          "stackSize": 1,
+          "seed": 6891,
+          "baseName": "Records\\Item\\EquipmentWeapon\\Axe\\MI_N_NeanderthalMelee.dbr",
           "prefixName": "",
           "suffixName": "",
           "relicName": "",
@@ -482,9 +497,9 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 51966016,
-          "pointX": 15,
-          "pointY": 14
+          "var2": 2035248,
+          "pointX": 16,
+          "pointY": 11
         }
       ]
     },
