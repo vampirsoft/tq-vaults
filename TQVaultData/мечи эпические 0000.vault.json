@@ -662,7 +662,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 9,
           "pointY": 12
         },
@@ -677,8 +677,23 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 11,
+          "pointY": 12
+        },
+        {
+          "stackSize": 1,
+          "seed": 22527,
+          "baseName": "Records\\Item\\EquipmentWeapon\\Sword\\U_N_Heartpierce.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 2,
           "pointY": 12
         }
       ]

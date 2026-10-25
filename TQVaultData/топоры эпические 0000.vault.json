@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 3,
+  "currentlySelectedSackNumber": 0,
   "sacks": [
     {
       "iconinfo": null,
@@ -3497,7 +3497,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 5,
           "pointY": 2
         },
@@ -3514,6 +3514,21 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 3,
+          "pointY": 17
+        },
+        {
+          "stackSize": 1,
+          "seed": 32612,
+          "baseName": "Records\\Item\\EquipmentWeapon\\Axe\\U_N_HairSplitter.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 2,
           "pointY": 17
         }
       ]

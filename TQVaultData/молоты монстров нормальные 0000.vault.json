@@ -8,21 +8,6 @@
       "items": [
         {
           "stackSize": 1,
-          "seed": 1354,
-          "baseName": "Records\\Item\\EquipmentWeapon\\Club\\MI_N_SatyrGuardian.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 0,
-          "pointY": 0
-        },
-        {
-          "stackSize": 1,
           "seed": 13494,
           "baseName": "Records\\XPack\\Item\\EquipmentWeapons\\Club\\MI_N_Anteok.dbr",
           "prefixName": "",
@@ -95,21 +80,6 @@
           "var2": 2035248,
           "pointX": 5,
           "pointY": 0
-        },
-        {
-          "stackSize": 1,
-          "seed": 1058,
-          "baseName": "Records\\Item\\EquipmentWeapon\\Club\\MI_N_SatyrGuardian.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 0,
-          "pointY": 4
         },
         {
           "stackSize": 1,
@@ -293,21 +263,6 @@
         },
         {
           "stackSize": 1,
-          "seed": 23809,
-          "baseName": "Records\\Item\\EquipmentWeapon\\Club\\MI_N_SatyrGuardian.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 0,
-          "pointY": 8
-        },
-        {
-          "stackSize": 1,
           "seed": 4603,
           "baseName": "Records\\Item\\EquipmentWeapon\\Club\\MI_N_IchthianMelee.dbr",
           "prefixName": "",
@@ -332,7 +287,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 53276736,
+          "var2": 2035248,
           "pointX": 5,
           "pointY": 12
         }

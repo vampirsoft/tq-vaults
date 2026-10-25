@@ -2997,7 +2997,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 2,
           "pointY": 16
         },
@@ -3027,9 +3027,39 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 4,
           "pointY": 12
+        },
+        {
+          "stackSize": 1,
+          "seed": 19680,
+          "baseName": "Records\\Item\\EquipmentWeapon\\Staff\\U_N_OchetosStaff.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 4,
+          "pointY": 8
+        },
+        {
+          "stackSize": 1,
+          "seed": 443,
+          "baseName": "Records\\Item\\EquipmentWeapon\\Staff\\U_N_Shepherd'sCrook.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 4,
+          "pointY": 4
         }
       ]
     },
