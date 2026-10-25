@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 2,
+  "currentlySelectedSackNumber": 1,
   "sacks": [
     {
       "iconinfo": null,
@@ -8680,6 +8680,21 @@
           "var2": 2035248,
           "pointX": 15,
           "pointY": 18
+        },
+        {
+          "stackSize": 1,
+          "seed": 20431,
+          "baseName": "Records\\Item\\Relics\\01_Act3_CodeOfHammurabi.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Relics\\Bonuses\\Character_%Intelligence_01.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 16,
+          "pointY": 9
         }
       ]
     },
@@ -11127,8 +11142,38 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 9,
+          "pointY": 8
+        },
+        {
+          "stackSize": 1,
+          "seed": 16586,
+          "baseName": "Records\\Item\\Relics\\01_Act3_MonkeyKingsTrickery.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AbilityDefensive_03.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 781988904,
+          "pointX": 4,
+          "pointY": 9
+        },
+        {
+          "stackSize": 1,
+          "seed": 13962,
+          "baseName": "Records\\Item\\Relics\\01_Act3_ShenNongsDarkMedicine.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Relics\\Bonuses\\Offensive_%Poison_01.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 741523696,
+          "pointX": 7,
           "pointY": 8
         }
       ]

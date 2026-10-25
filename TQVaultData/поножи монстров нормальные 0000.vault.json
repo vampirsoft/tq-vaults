@@ -1187,9 +1187,24 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 71233600,
+          "var2": 2035248,
           "pointX": 12,
           "pointY": 18
+        },
+        {
+          "stackSize": 1,
+          "seed": 20305,
+          "baseName": "Records\\Item\\EquipmentGreaves\\MI_N_NeanderthalMelee.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 53538880,
+          "pointX": 16,
+          "pointY": 16
         }
       ]
     },
