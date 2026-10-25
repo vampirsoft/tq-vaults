@@ -2883,21 +2883,6 @@
         },
         {
           "stackSize": 1,
-          "seed": 3766,
-          "baseName": "Records\\Item\\EquipmentWeapon\\Staff\\U_N_GuanYin'sHealingRod.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 0,
-          "pointY": 8
-        },
-        {
-          "stackSize": 1,
           "seed": 18381,
           "baseName": "Records\\Item\\EquipmentWeapon\\Staff\\U_N_SpectralRod.dbr",
           "prefixName": "",
@@ -3042,7 +3027,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 4,
           "pointY": 8
         },
@@ -3057,9 +3042,39 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 4,
           "pointY": 4
+        },
+        {
+          "stackSize": 1,
+          "seed": 12886,
+          "baseName": "Records\\Item\\EquipmentWeapon\\Staff\\U_N_Elafros.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 0,
+          "pointY": 8
+        },
+        {
+          "stackSize": 1,
+          "seed": 3766,
+          "baseName": "Records\\Item\\EquipmentWeapon\\Staff\\U_N_GuanYin'sHealingRod.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 4,
+          "pointY": 0
         }
       ]
     },

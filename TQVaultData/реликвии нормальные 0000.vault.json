@@ -4622,7 +4622,7 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1124578200,
+          "var2": 2035248,
           "pointX": 1,
           "pointY": 13
         },
@@ -4637,9 +4637,24 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1303745656,
+          "var2": 2035248,
           "pointX": 9,
           "pointY": 15
+        },
+        {
+          "stackSize": 1,
+          "seed": 6240,
+          "baseName": "Records\\Item\\Relics\\01_Act1_HeraclesMight.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Relics\\Bonuses\\Character_%Strength_01.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 5,
+          "pointY": 19
         }
       ]
     },
@@ -8782,7 +8797,7 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 703697352,
+          "var2": 2035248,
           "pointX": 3,
           "pointY": 14
         }
