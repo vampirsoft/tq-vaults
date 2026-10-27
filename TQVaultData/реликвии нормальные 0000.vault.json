@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 0,
+  "currentlySelectedSackNumber": 1,
   "sacks": [
     {
       "iconinfo": null,
@@ -4652,9 +4652,54 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 5,
           "pointY": 19
+        },
+        {
+          "stackSize": 1,
+          "seed": 28403,
+          "baseName": "Records\\Item\\Relics\\01_Act1_HecatesCrescent.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "records\\item\\lootmagicalaffixes\\animalrelics\\bonuses\\defensive_liferesist_01.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 6,
+          "pointY": 19
+        },
+        {
+          "stackSize": 1,
+          "seed": 25862,
+          "baseName": "Records\\Item\\Relics\\01_Act1_PrometheusFlame.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_SpeedAttack_01.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1181663280,
+          "pointX": 2,
+          "pointY": 17
+        },
+        {
+          "stackSize": 1,
+          "seed": 11051,
+          "baseName": "Records\\Item\\Relics\\01_Act1_Hermessandal.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Relics\\BonusesGreece\\01\\01_HermesSandal_AttDA.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 864940448,
+          "pointX": 10,
+          "pointY": 14
         }
       ]
     },
@@ -8800,6 +8845,21 @@
           "var2": 2035248,
           "pointX": 3,
           "pointY": 14
+        },
+        {
+          "stackSize": 1,
+          "seed": 32444,
+          "baseName": "Records\\Item\\Relics\\01_Act1_ValorOfAchilles.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_SpeedAttack_01.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1192032720,
+          "pointX": 2,
+          "pointY": 15
         }
       ]
     },

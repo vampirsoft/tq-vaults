@@ -4592,7 +4592,7 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1061141608,
+          "var2": 2035248,
           "pointX": 4,
           "pointY": 6
         },
@@ -4607,9 +4607,24 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1069035472,
+          "var2": 2035248,
           "pointX": 6,
           "pointY": 13
+        },
+        {
+          "stackSize": 1,
+          "seed": 14273,
+          "baseName": "Records\\Item\\AnimalRelics\\01_Act1_BoarsHide.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "records\\item\\lootmagicalaffixes\\animalrelics\\bonuses\\defensive_bleedresist_01.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 952948904,
+          "pointX": 2,
+          "pointY": 17
         }
       ]
     },

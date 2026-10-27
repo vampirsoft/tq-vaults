@@ -407,7 +407,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 0,
           "pointY": 8
         },
@@ -422,9 +422,24 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 62189632,
+          "var2": 2035248,
           "pointX": 3,
           "pointY": 8
+        },
+        {
+          "stackSize": 1,
+          "seed": 19047,
+          "baseName": "Records\\Item\\EquipmentWeapon\\Club\\U_N_Smith'sHammer.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 681864448,
+          "pointX": 0,
+          "pointY": 12
         }
       ]
     },
