@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 1,
+  "currentlySelectedSackNumber": 0,
   "sacks": [
     {
       "iconinfo": null,
@@ -4667,7 +4667,7 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 6,
           "pointY": 19
         },
@@ -4682,7 +4682,7 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1181663280,
+          "var2": 2035248,
           "pointX": 2,
           "pointY": 17
         },
@@ -4697,9 +4697,69 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 864940448,
+          "var2": 2035248,
           "pointX": 10,
           "pointY": 14
+        },
+        {
+          "stackSize": 1,
+          "seed": 30843,
+          "baseName": "records\\item\\relics\\01_act1_aegisofathena.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "records\\item\\lootmagicalaffixes\\animalrelics\\bonuses\\defensive_bleedresist_01.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 8,
+          "pointY": 16
+        },
+        {
+          "stackSize": 1,
+          "seed": 5208,
+          "baseName": "Records\\Item\\Relics\\01_Act1_ArchimedesMirror.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Retaliation_LeechLife_01.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 12,
+          "pointY": 17
+        },
+        {
+          "stackSize": 1,
+          "seed": 24231,
+          "baseName": "Records\\Item\\Relics\\01_Act1_GoldenFleece.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "records\\item\\lootmagicalaffixes\\animalrelics\\bonuses\\defensive_liferesist_01.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 595282144,
+          "pointX": 0,
+          "pointY": 14
+        },
+        {
+          "stackSize": 1,
+          "seed": 20853,
+          "baseName": "Records\\Item\\Relics\\01_Act1_ZeusThunderbolt.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Relics\\Bonuses\\Offensive_+%Lightning_01.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 870743400,
+          "pointX": 14,
+          "pointY": 18
         }
       ]
     },
@@ -8857,9 +8917,39 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1192032720,
+          "var2": 2035248,
           "pointX": 2,
           "pointY": 15
+        },
+        {
+          "stackSize": 1,
+          "seed": 27970,
+          "baseName": "Records\\Item\\Relics\\01_Act1_ValorOfAchilles.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_SpeedAttack_01.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1497272112,
+          "pointX": 3,
+          "pointY": 15
+        },
+        {
+          "stackSize": 1,
+          "seed": 27867,
+          "baseName": "Records\\Item\\Relics\\01_Act1_DionysusWineskin.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "records\\item\\lootmagicalaffixes\\animalrelics\\bonuses\\defensive_bleedresist_01.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 1,
+          "pointY": 16
         }
       ]
     },
