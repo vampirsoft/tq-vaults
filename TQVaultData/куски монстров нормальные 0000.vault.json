@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 1,
+  "currentlySelectedSackNumber": 0,
   "sacks": [
     {
       "iconinfo": null,
@@ -8272,7 +8272,7 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 406473800,
+          "var2": 2035248,
           "pointX": 2,
           "pointY": 12
         }
@@ -9754,6 +9754,21 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 16,
+          "pointY": 1
+        },
+        {
+          "stackSize": 1,
+          "seed": 28023,
+          "baseName": "records\\item\\HCDungeon\\05_X4_GoldenScarab_N_Charm.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "records\\XPack4\\Item\\LootMagicalAffixes\\Charms\\GoldenScarab_N_1.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1290977408,
+          "pointX": 17,
           "pointY": 1
         }
       ]
