@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 0,
+  "currentlySelectedSackNumber": 1,
   "sacks": [
     {
       "iconinfo": null,
@@ -4712,7 +4712,7 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 8,
           "pointY": 16
         },
@@ -4727,7 +4727,7 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 12,
           "pointY": 17
         },
@@ -4742,7 +4742,7 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 595282144,
+          "var2": 2035248,
           "pointX": 0,
           "pointY": 14
         },
@@ -4757,7 +4757,7 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 870743400,
+          "var2": 2035248,
           "pointX": 14,
           "pointY": 18
         }
@@ -8932,7 +8932,7 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1497272112,
+          "var2": 2035248,
           "pointX": 3,
           "pointY": 15
         },
@@ -8947,7 +8947,7 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 1,
           "pointY": 16
         }
