@@ -4760,6 +4760,21 @@
           "var2": 2035248,
           "pointX": 14,
           "pointY": 18
+        },
+        {
+          "stackSize": 1,
+          "seed": 870,
+          "baseName": "Records\\Item\\Relics\\01_Act1_HecatesCrescent.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "records\\item\\lootmagicalaffixes\\animalrelics\\bonuses\\defensive_liferesist_01.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 7,
+          "pointY": 19
         }
       ]
     },
@@ -8962,8 +8977,23 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1432353960,
+          "var2": 2035248,
           "pointX": 6,
+          "pointY": 19
+        },
+        {
+          "stackSize": 1,
+          "seed": 3749,
+          "baseName": "Records\\Item\\Relics\\01_Act2_AnubisWrath.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_SpeedAttack_01.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 781571200,
+          "pointX": 14,
           "pointY": 19
         }
       ]
