@@ -4458,21 +4458,6 @@
         },
         {
           "stackSize": 1,
-          "seed": 9692,
-          "baseName": "Records\\Item\\EquipmentShield\\U_N_Captain'sShield.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 6,
-          "pointY": 5
-        },
-        {
-          "stackSize": 1,
           "seed": 17698,
           "baseName": "Records\\Item\\EquipmentShield\\U_N_Companion'sGuard.dbr",
           "prefixName": "",
@@ -4512,8 +4497,38 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 64221248,
+          "var2": 2035248,
           "pointX": 16,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 7587,
+          "baseName": "Records\\Item\\EquipmentShield\\U_N_Thornwall.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 6,
+          "pointY": 4
+        },
+        {
+          "stackSize": 1,
+          "seed": 9692,
+          "baseName": "Records\\Item\\EquipmentShield\\U_N_Captain'sShield.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 14,
           "pointY": 0
         }
       ]

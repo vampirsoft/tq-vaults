@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 8,
+  "currentlySelectedSackNumber": 4,
   "sacks": [
     {
       "iconinfo": null,
@@ -775,6 +775,21 @@
           "var2": 2035248,
           "pointX": 16,
           "pointY": 3
+        },
+        {
+          "stackSize": 1,
+          "seed": 1690,
+          "baseName": "Records\\Item\\EquipmentArmor\\U_N_NomadsBodyWrap.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 8,
+          "pointY": 3
         }
       ]
     },
@@ -1362,7 +1377,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 10,
           "pointY": 3
         }
