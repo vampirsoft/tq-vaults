@@ -3117,7 +3117,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 6,
           "pointY": 8
         },
@@ -3132,7 +3132,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 6,
           "pointY": 4
         },
@@ -3147,7 +3147,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 15,
+          "var2": 2035248,
           "pointX": 6,
           "pointY": 0
         },
@@ -3162,9 +3162,39 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 8,
           "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 3887,
+          "baseName": "Records\\Item\\EquipmentWeapon\\Staff\\U_N_Kirin.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 8,
+          "pointY": 4
+        },
+        {
+          "stackSize": 1,
+          "seed": 15011,
+          "baseName": "Records\\Item\\EquipmentWeapon\\Staff\\U_N_StaffOfNabukhuthnusar.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 8,
+          "pointY": 8
         }
       ]
     },
