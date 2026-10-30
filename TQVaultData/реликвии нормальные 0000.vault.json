@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 2,
+  "currentlySelectedSackNumber": 0,
   "sacks": [
     {
       "iconinfo": null,
@@ -4733,21 +4733,6 @@
         },
         {
           "stackSize": 1,
-          "seed": 24231,
-          "baseName": "Records\\Item\\Relics\\01_Act1_GoldenFleece.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "records\\item\\lootmagicalaffixes\\animalrelics\\bonuses\\defensive_liferesist_01.dbr",
-          "var1": 3,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 0,
-          "pointY": 14
-        },
-        {
-          "stackSize": 1,
           "seed": 20853,
           "baseName": "Records\\Item\\Relics\\01_Act1_ZeusThunderbolt.dbr",
           "prefixName": "",
@@ -4790,6 +4775,21 @@
           "var2": 2035248,
           "pointX": 13,
           "pointY": 17
+        },
+        {
+          "stackSize": 1,
+          "seed": 22548,
+          "baseName": "Records\\Item\\Relics\\01_Act1_ArchimedesMirror.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Retaliation_LeechLife_01.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 688195208,
+          "pointX": 12,
+          "pointY": 18
         }
       ]
     },
@@ -11712,7 +11712,7 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 688798232,
+          "var2": 2035248,
           "pointX": 11,
           "pointY": 8
         },
@@ -11727,9 +11727,24 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 6,
           "pointY": 9
+        },
+        {
+          "stackSize": 1,
+          "seed": 15467,
+          "baseName": "Records\\Item\\Relics\\01_Act3_YenLoWangsBloodletting.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Offensive_+%Damage to Demons_01.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 689857672,
+          "pointX": 8,
+          "pointY": 10
         }
       ]
     },
@@ -13513,7 +13528,7 @@
           "prefixName": "",
           "suffixName": "",
           "relicName": "",
-          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Relics\\Bonuses\\Offensive_DamageCold_02.dbr",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Offensive_ReducedAttackSpeed_02.dbr",
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
@@ -14320,21 +14335,6 @@
           "var2": 2035248,
           "pointX": 3,
           "pointY": 4
-        },
-        {
-          "stackSize": 1,
-          "seed": 0,
-          "baseName": "records\\xpack2\\item\\relics\\01_act5_lightofbelenus.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "records\\item\\lootmagicalaffixes\\animalrelics\\bonuses\\defensive_bleedresist_01.dbr",
-          "var1": 3,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 14,
-          "pointY": 3
         },
         {
           "stackSize": 1,
