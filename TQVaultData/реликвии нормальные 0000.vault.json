@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 0,
+  "currentlySelectedSackNumber": 2,
   "sacks": [
     {
       "iconinfo": null,
@@ -4787,7 +4787,7 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 688195208,
+          "var2": 2035248,
           "pointX": 12,
           "pointY": 18
         }
@@ -9070,6 +9070,21 @@
           "var2": 2035248,
           "pointX": 12,
           "pointY": 6
+        },
+        {
+          "stackSize": 1,
+          "seed": 14284,
+          "baseName": "Records\\Item\\Relics\\01_Act3_CodeOfHammurabi.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Relics\\Bonuses\\Character_%Intelligence_01.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 17,
+          "pointY": 9
         }
       ]
     },
@@ -11742,9 +11757,24 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 689857672,
+          "var2": 2035248,
           "pointX": 8,
           "pointY": 10
+        },
+        {
+          "stackSize": 1,
+          "seed": 18012,
+          "baseName": "Records\\Item\\Relics\\01_Act3_DragonKingsDomain.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AttributeLife_02.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 10,
+          "pointY": 9
         }
       ]
     },

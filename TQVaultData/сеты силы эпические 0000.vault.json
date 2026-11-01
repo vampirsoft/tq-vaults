@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 6,
+  "currentlySelectedSackNumber": 9,
   "sacks": [
     {
       "iconinfo": null,
@@ -990,6 +990,21 @@
           "var2": 2035248,
           "pointX": 2,
           "pointY": 3
+        },
+        {
+          "stackSize": 1,
+          "seed": 14618,
+          "baseName": "Records\\Item\\EquipmentArmor\\US_N_SafeguardoftheMantis.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 2,
+          "pointY": 0
         }
       ]
     },
@@ -1232,8 +1247,23 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 14,
+          "pointY": 5
+        },
+        {
+          "stackSize": 1,
+          "seed": 20848,
+          "baseName": "Records\\Item\\EquipmentArmband\\US_N_LazarusArmor.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 16,
           "pointY": 5
         }
       ]
@@ -1440,6 +1470,36 @@
           "var2": 2035248,
           "pointX": 6,
           "pointY": 3
+        },
+        {
+          "stackSize": 1,
+          "seed": 8811,
+          "baseName": "Records\\Item\\EquipmentArmband\\US_N_ImperialRaiment.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 2,
+          "pointY": 5
+        },
+        {
+          "stackSize": 1,
+          "seed": 32011,
+          "baseName": "Records\\Item\\EquipmentArmor\\US_N_ImperialRaiment.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 2,
+          "pointY": 0
         }
       ]
     },
@@ -1760,6 +1820,36 @@
           "var2": 2035248,
           "pointX": 6,
           "pointY": 3
+        },
+        {
+          "stackSize": 1,
+          "seed": 4594,
+          "baseName": "Records\\Item\\EquipmentHelm\\US_N_BabylonianRaiment.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 8,
+          "pointY": 3
+        },
+        {
+          "stackSize": 1,
+          "seed": 26409,
+          "baseName": "Records\\Item\\EquipmentWeapon\\Spear\\US_N_BabylonianRaiment.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 8,
+          "pointY": 9
         }
       ]
     },
@@ -1915,16 +2005,11 @@
           "var2": 2035248,
           "pointX": 6,
           "pointY": 7
-        }
-      ]
-    },
-    {
-      "iconinfo": null,
-      "items": [
+        },
         {
           "stackSize": 1,
-          "seed": 6651,
-          "baseName": "records\\item\\equipmentarmor\\us_e_armoroftheimmortalguard.dbr",
+          "seed": 7697,
+          "baseName": "Records\\Item\\EquipmentHelm\\US_N_PrideoftheJadePalace.dbr",
           "prefixName": "",
           "suffixName": "",
           "relicName": "",
@@ -1932,10 +2017,15 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 0,
-          "pointY": 0
-        },
+          "var2": 1065353216,
+          "pointX": 4,
+          "pointY": 3
+        }
+      ]
+    },
+    {
+      "iconinfo": null,
+      "items": [
         {
           "stackSize": 1,
           "seed": 6933,
@@ -1995,6 +2085,21 @@
           "var2": 2035248,
           "pointX": 0,
           "pointY": 9
+        },
+        {
+          "stackSize": 1,
+          "seed": 6651,
+          "baseName": "records\\item\\equipmentarmor\\us_e_armoroftheimmortalguard.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 0,
+          "pointY": 0
         }
       ]
     }

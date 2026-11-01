@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 0,
+  "currentlySelectedSackNumber": 4,
   "sacks": [
     {
       "iconinfo": null,
@@ -272,7 +272,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 258601024,
+          "var2": 2035248,
           "pointX": 12,
           "pointY": 2
         }
@@ -842,9 +842,24 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 258601024,
+          "var2": 2035248,
           "pointX": 16,
           "pointY": 14
+        },
+        {
+          "stackSize": 1,
+          "seed": 17207,
+          "baseName": "Records\\Item\\EquipmentArmband\\MI_N_NeanderthalMelee.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 258601024,
+          "pointX": 16,
+          "pointY": 16
         }
       ]
     },
@@ -1015,6 +1030,21 @@
           "var2": 2035248,
           "pointX": 4,
           "pointY": 4
+        },
+        {
+          "stackSize": 1,
+          "seed": 13026,
+          "baseName": "Records\\Item\\EquipmentArmband\\MI_N_Yerren.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 258601024,
+          "pointX": 10,
+          "pointY": 0
         }
       ]
     },

@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 0,
+  "currentlySelectedSackNumber": 1,
   "sacks": [
     {
       "iconinfo": null,
@@ -8272,7 +8272,7 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 434508376,
+          "var2": 2035248,
           "pointX": 14,
           "pointY": 8
         },
@@ -8287,9 +8287,39 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 455795928,
+          "var2": 2035248,
           "pointX": 11,
           "pointY": 8
+        },
+        {
+          "stackSize": 1,
+          "seed": 15352,
+          "baseName": "Records\\Item\\AnimalRelics\\01_Act3_RaptorTooth.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_SpeedAttack_01.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 774845672,
+          "pointX": 12,
+          "pointY": 12
+        },
+        {
+          "stackSize": 1,
+          "seed": 16897,
+          "baseName": "Records\\Item\\AnimalRelics\\01_Act3_SaberClaw.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Relics\\Bonuses\\Offensive_%bleed_01.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 966337656,
+          "pointX": 8,
+          "pointY": 7
         }
       ]
     },

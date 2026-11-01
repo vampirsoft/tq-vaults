@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 3,
+  "currentlySelectedSackNumber": 6,
   "sacks": [
     {
       "iconinfo": null,
@@ -1307,9 +1307,24 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 258601024,
+          "var2": 2035248,
           "pointX": 12,
           "pointY": 16
+        },
+        {
+          "stackSize": 1,
+          "seed": 598,
+          "baseName": "Records\\Item\\EquipmentGreaves\\MI_N_NeanderthalMelee.dbr",
+          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Defensive_ResistLightning_02.dbr",
+          "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AbilityDefensive_02.dbr",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 258601024,
+          "pointX": 16,
+          "pointY": 14
         }
       ]
     },
@@ -2000,6 +2015,21 @@
           "var2": 2035248,
           "pointX": 0,
           "pointY": 16
+        },
+        {
+          "stackSize": 1,
+          "seed": 24951,
+          "baseName": "Records\\Item\\EquipmentGreaves\\MI_N_TigermanMelee.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 258601024,
+          "pointX": 0,
+          "pointY": 18
         }
       ]
     },
