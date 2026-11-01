@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 0,
+  "currentlySelectedSackNumber": 1,
   "sacks": [
     {
       "iconinfo": null,
@@ -79,21 +79,6 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 10,
-          "pointY": 0
-        },
-        {
-          "stackSize": 1,
-          "seed": 18048,
-          "baseName": "Records\\XPack3\\Items\\EquipmentWeapon\\Shield\\MI_N_Hesperide.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 12,
           "pointY": 0
         },
         {
@@ -257,7 +242,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 64221248,
+          "var2": 2035248,
           "pointX": 0,
           "pointY": 0
         }
@@ -294,21 +279,6 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 2,
-          "pointY": 0
-        },
-        {
-          "stackSize": 1,
-          "seed": 30280,
-          "baseName": "records\\xpack2\\item\\equipmentweapons\\shield\\MI_N_einherjar.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 4,
           "pointY": 0
         },
         {

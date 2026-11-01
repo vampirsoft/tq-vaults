@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 1,
+  "currentlySelectedSackNumber": 0,
   "sacks": [
     {
       "iconinfo": null,
@@ -4448,21 +4448,6 @@
         },
         {
           "stackSize": 1,
-          "seed": 23945,
-          "baseName": "Records\\Item\\AnimalRelics\\01_Act1_TurtleShell.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Defensive_ResistPierce_01.dbr",
-          "var1": 5,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 5,
-          "pointY": 5
-        },
-        {
-          "stackSize": 1,
           "seed": 23688,
           "baseName": "Records\\Item\\AnimalRelics\\01_MultActs_DiseasedPlumage.dbr",
           "prefixName": "",
@@ -4580,21 +4565,6 @@
           "var2": 2035248,
           "pointX": 3,
           "pointY": 16
-        },
-        {
-          "stackSize": 1,
-          "seed": 20562,
-          "baseName": "Records\\Item\\AnimalRelics\\01_Act1_TurtleShell.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Defensive_ResistPierce_01.dbr",
-          "var1": 5,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 4,
-          "pointY": 6
         },
         {
           "stackSize": 1,
@@ -8287,9 +8257,39 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 786072632,
+          "var2": 2035248,
           "pointX": 3,
           "pointY": 12
+        },
+        {
+          "stackSize": 1,
+          "seed": 25885,
+          "baseName": "Records\\Item\\AnimalRelics\\01_Act3_YetiFur.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "records\\item\\lootmagicalaffixes\\animalrelics\\bonuses\\defensive_bleedresist_01.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 434508376,
+          "pointX": 14,
+          "pointY": 8
+        },
+        {
+          "stackSize": 1,
+          "seed": 21636,
+          "baseName": "Records\\Item\\AnimalRelics\\01_Act3_PengClaw.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_SpeedAttack_01.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 455795928,
+          "pointX": 11,
+          "pointY": 8
         }
       ]
     },
