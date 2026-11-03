@@ -8302,7 +8302,7 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 774845672,
+          "var2": 2035248,
           "pointX": 12,
           "pointY": 12
         },
@@ -8317,9 +8317,39 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 966337656,
+          "var2": 2035248,
           "pointX": 8,
           "pointY": 7
+        },
+        {
+          "stackSize": 1,
+          "seed": 23199,
+          "baseName": "Records\\Item\\AnimalRelics\\01_Act3_YetiFur.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "records\\item\\lootmagicalaffixes\\animalrelics\\bonuses\\defensive_bleedresist_01.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 361951312,
+          "pointX": 15,
+          "pointY": 8
+        },
+        {
+          "stackSize": 1,
+          "seed": 18214,
+          "baseName": "Records\\Item\\AnimalRelics\\01_Act3_RaptorTooth.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_SpeedAttack_01.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 885060824,
+          "pointX": 13,
+          "pointY": 12
         }
       ]
     },

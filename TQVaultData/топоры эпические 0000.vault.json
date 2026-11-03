@@ -3518,21 +3518,6 @@
         },
         {
           "stackSize": 1,
-          "seed": 32612,
-          "baseName": "Records\\Item\\EquipmentWeapon\\Axe\\U_N_HairSplitter.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 2,
-          "pointY": 17
-        },
-        {
-          "stackSize": 1,
           "seed": 23564,
           "baseName": "Records\\Item\\EquipmentWeapon\\Axe\\U_N_Brigand'sAxe.dbr",
           "prefixName": "",
@@ -3572,7 +3557,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 1,
           "pointY": 17
         },
@@ -3589,6 +3574,51 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 4,
+          "pointY": 14
+        },
+        {
+          "stackSize": 1,
+          "seed": 4982,
+          "baseName": "Records\\Item\\EquipmentWeapon\\Axe\\U_N_Beastrend.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 2,
+          "pointY": 17
+        },
+        {
+          "stackSize": 1,
+          "seed": 32612,
+          "baseName": "Records\\Item\\EquipmentWeapon\\Axe\\U_N_HairSplitter.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 3,
+          "pointY": 14
+        },
+        {
+          "stackSize": 1,
+          "seed": 9846,
+          "baseName": "Records\\Item\\EquipmentWeapon\\Axe\\U_N_CreepingDeath.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 2,
           "pointY": 14
         }
       ]
