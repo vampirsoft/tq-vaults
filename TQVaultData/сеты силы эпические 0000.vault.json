@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 9,
+  "currentlySelectedSackNumber": 6,
   "sacks": [
     {
       "iconinfo": null,
@@ -1310,6 +1310,21 @@
           "var2": 2035248,
           "pointX": 8,
           "pointY": 7
+        },
+        {
+          "stackSize": 1,
+          "seed": 10270,
+          "baseName": "Records\\Item\\EquipmentHelm\\US_N_LazarusArmor.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 2,
+          "pointY": 3
         }
       ]
     },
@@ -1575,6 +1590,21 @@
           "var2": 2035248,
           "pointX": 4,
           "pointY": 5
+        },
+        {
+          "stackSize": 1,
+          "seed": 27286,
+          "baseName": "Records\\Item\\EquipmentGreaves\\US_N_ImperialRaiment.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 4,
+          "pointY": 7
         }
       ]
     },
@@ -1997,7 +2027,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 14,
           "pointY": 5
         },
@@ -2012,7 +2042,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 12,
           "pointY": 0
         }

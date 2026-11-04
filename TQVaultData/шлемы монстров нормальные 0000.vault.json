@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 0,
+  "currentlySelectedSackNumber": 4,
   "sacks": [
     {
       "iconinfo": null,
@@ -632,9 +632,24 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 269348928,
+          "var2": 2035248,
           "pointX": 14,
           "pointY": 12
+        },
+        {
+          "stackSize": 1,
+          "seed": 5827,
+          "baseName": "Records\\Item\\EquipmentHelm\\MI_N_IchthianMage.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 62255168,
+          "pointX": 8,
+          "pointY": 10
         }
       ]
     },
@@ -1807,9 +1822,24 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 269348928,
+          "var2": 2035248,
           "pointX": 8,
           "pointY": 14
+        },
+        {
+          "stackSize": 1,
+          "seed": 27035,
+          "baseName": "Records\\Item\\EquipmentHelm\\MI_N_TigermanChampion.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 62255168,
+          "pointX": 8,
+          "pointY": 16
         }
       ]
     },
