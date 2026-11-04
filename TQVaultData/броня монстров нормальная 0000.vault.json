@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 5,
+  "currentlySelectedSackNumber": 0,
   "sacks": [
     {
       "iconinfo": null,
@@ -200,6 +200,21 @@
           "var2": 2035248,
           "pointX": 10,
           "pointY": 12
+        },
+        {
+          "stackSize": 1,
+          "seed": 29017,
+          "baseName": "Records\\Item\\EquipmentArmor\\MI_N_NeanderthalMage.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 62255168,
+          "pointX": 10,
+          "pointY": 15
         }
       ]
     },
@@ -1137,9 +1152,24 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 62255168,
+          "var2": 2035248,
           "pointX": 4,
           "pointY": 15
+        },
+        {
+          "stackSize": 1,
+          "seed": 15057,
+          "baseName": "Records\\Item\\EquipmentArmor\\MI_N_NeanderthalMelee.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 62255168,
+          "pointX": 12,
+          "pointY": 18
         }
       ]
     },
