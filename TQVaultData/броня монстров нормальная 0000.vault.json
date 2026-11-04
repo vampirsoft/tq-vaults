@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 0,
+  "currentlySelectedSackNumber": 6,
   "sacks": [
     {
       "iconinfo": null,
@@ -212,9 +212,24 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 62255168,
+          "var2": 2035248,
           "pointX": 10,
           "pointY": 15
+        },
+        {
+          "stackSize": 1,
+          "seed": 20255,
+          "baseName": "Records\\Item\\EquipmentArmor\\MI_N_Bandari.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 62255168,
+          "pointX": 12,
+          "pointY": 0
         }
       ]
     },
@@ -1167,9 +1182,24 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 62255168,
+          "var2": 2035248,
           "pointX": 12,
           "pointY": 18
+        },
+        {
+          "stackSize": 1,
+          "seed": 27948,
+          "baseName": "Records\\Item\\EquipmentArmor\\MI_N_IchthianMelee.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 62255168,
+          "pointX": 2,
+          "pointY": 17
         }
       ]
     },
@@ -1520,6 +1550,21 @@
           "var2": 2035248,
           "pointX": 16,
           "pointY": 15
+        },
+        {
+          "stackSize": 1,
+          "seed": 1725,
+          "baseName": "Records\\Item\\EquipmentArmor\\MI_N_TigermanChampion.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 62255168,
+          "pointX": 14,
+          "pointY": 17
         }
       ]
     },
