@@ -4647,7 +4647,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 8,
           "pointY": 4
         },
@@ -4665,6 +4665,21 @@
           "var2": 2035248,
           "pointX": 2,
           "pointY": 15
+        },
+        {
+          "stackSize": 1,
+          "seed": 21100,
+          "baseName": "Records\\Item\\EquipmentShield\\U_N_FrozenBuckler.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 6,
+          "pointY": 0
         }
       ]
     },

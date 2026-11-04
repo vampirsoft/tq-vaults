@@ -8452,7 +8452,7 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 887058656,
+          "var2": 2035248,
           "pointX": 11,
           "pointY": 9
         },
@@ -8467,7 +8467,7 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1425304808,
+          "var2": 2035248,
           "pointX": 13,
           "pointY": 14
         },
@@ -8482,9 +8482,24 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 720733520,
+          "var2": 2035248,
           "pointX": 15,
           "pointY": 9
+        },
+        {
+          "stackSize": 1,
+          "seed": 27198,
+          "baseName": "Records\\Item\\AnimalRelics\\01_Act3_VinyGrowth.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "records\\item\\lootmagicalaffixes\\animalrelics\\bonuses\\defensive_bleedresist_01.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1089898936,
+          "pointX": 17,
+          "pointY": 13
         }
       ]
     },

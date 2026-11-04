@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 3,
+  "currentlySelectedSackNumber": 0,
   "sacks": [
     {
       "iconinfo": null,
@@ -650,6 +650,36 @@
           "var2": 2035248,
           "pointX": 8,
           "pointY": 10
+        },
+        {
+          "stackSize": 1,
+          "seed": 25624,
+          "baseName": "Records\\Item\\EquipmentHelm\\MI_N_IchthianMage.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 265613376,
+          "pointX": 8,
+          "pointY": 12
+        },
+        {
+          "stackSize": 1,
+          "seed": 7040,
+          "baseName": "Records\\Item\\EquipmentHelm\\MI_N_TigermanMage.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 265613376,
+          "pointX": 14,
+          "pointY": 14
         }
       ]
     },
@@ -1427,7 +1457,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 62255168,
+          "var2": 2035248,
           "pointX": 12,
           "pointY": 16
         }
@@ -1840,6 +1870,21 @@
           "var2": 2035248,
           "pointX": 8,
           "pointY": 16
+        },
+        {
+          "stackSize": 1,
+          "seed": 27934,
+          "baseName": "Records\\Item\\EquipmentHelm\\MI_N_RatmanChampion.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 265613376,
+          "pointX": 4,
+          "pointY": 8
         }
       ]
     },
