@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 6,
+  "currentlySelectedSackNumber": 0,
   "sacks": [
     {
       "iconinfo": null,
@@ -182,9 +182,24 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 269348928,
+          "var2": 2035248,
           "pointX": 8,
           "pointY": 6
+        },
+        {
+          "stackSize": 1,
+          "seed": 8354,
+          "baseName": "Records\\Item\\EquipmentArmor\\MI_N_NeanderthalMage.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 62255168,
+          "pointX": 10,
+          "pointY": 12
         }
       ]
     },
@@ -1062,7 +1077,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 269348928,
+          "var2": 2035248,
           "pointX": 4,
           "pointY": 12
         },
@@ -1077,9 +1092,24 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 269348928,
+          "var2": 2035248,
           "pointX": 16,
           "pointY": 3
+        },
+        {
+          "stackSize": 1,
+          "seed": 22820,
+          "baseName": "Records\\Item\\EquipmentArmor\\MI_N_NeanderthalMelee.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 62255168,
+          "pointX": 10,
+          "pointY": 18
         }
       ]
     },
@@ -1382,7 +1412,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 269348928,
+          "var2": 2035248,
           "pointX": 16,
           "pointY": 12
         },
@@ -1397,9 +1427,39 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 269348928,
+          "var2": 2035248,
           "pointX": 8,
           "pointY": 9
+        },
+        {
+          "stackSize": 1,
+          "seed": 7990,
+          "baseName": "Records\\Item\\EquipmentArmor\\MI_N_RatmanChampion.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 62255168,
+          "pointX": 2,
+          "pointY": 12
+        },
+        {
+          "stackSize": 1,
+          "seed": 10585,
+          "baseName": "Records\\Item\\EquipmentArmor\\MI_N_TigermanChampion.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 62255168,
+          "pointX": 16,
+          "pointY": 15
         }
       ]
     },
@@ -1817,9 +1877,24 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 269348928,
+          "var2": 2035248,
           "pointX": 8,
           "pointY": 12
+        },
+        {
+          "stackSize": 1,
+          "seed": 117,
+          "baseName": "Records\\Item\\EquipmentArmor\\MI_N_TigermanMelee.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 62255168,
+          "pointX": 8,
+          "pointY": 15
         }
       ]
     },
