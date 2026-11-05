@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 0,
+  "currentlySelectedSackNumber": 6,
   "sacks": [
     {
       "iconinfo": null,
@@ -482,7 +482,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 68350016,
+          "var2": 2035248,
           "pointX": 14,
           "pointY": 18
         },
@@ -1427,7 +1427,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 68350016,
+          "var2": 2035248,
           "pointX": 14,
           "pointY": 12
         }
@@ -2179,6 +2179,21 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 6,
+          "pointY": 18
+        },
+        {
+          "stackSize": 1,
+          "seed": 22989,
+          "baseName": "Records\\Item\\EquipmentGreaves\\MI_N_TigermanMelee.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 68350016,
+          "pointX": 8,
           "pointY": 18
         }
       ]

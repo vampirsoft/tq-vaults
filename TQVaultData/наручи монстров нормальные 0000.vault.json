@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 3,
+  "currentlySelectedSackNumber": 7,
   "sacks": [
     {
       "iconinfo": null,
@@ -917,7 +917,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 68350016,
+          "var2": 2035248,
           "pointX": 12,
           "pointY": 18
         }
@@ -1135,6 +1135,21 @@
           "var2": 2035248,
           "pointX": 8,
           "pointY": 4
+        },
+        {
+          "stackSize": 1,
+          "seed": 1320,
+          "baseName": "Records\\Item\\EquipmentArmband\\MI_N_RatmanChampion.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 68350016,
+          "pointX": 8,
+          "pointY": 6
         }
       ]
     },
@@ -1435,6 +1450,21 @@
           "var2": 2035248,
           "pointX": 2,
           "pointY": 8
+        },
+        {
+          "stackSize": 1,
+          "seed": 10404,
+          "baseName": "Records\\Item\\EquipmentArmband\\MI_N_TigermanMelee.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 68350016,
+          "pointX": 2,
+          "pointY": 10
         }
       ]
     },
