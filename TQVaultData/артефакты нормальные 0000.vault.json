@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 0,
+  "currentlySelectedSackNumber": 2,
   "sacks": [
     {
       "iconinfo": null,
@@ -553,21 +553,6 @@
         },
         {
           "stackSize": 1,
-          "seed": 23766,
-          "baseName": "records\\xpack\\item\\artifacts\\n_la_touchofthefool.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 4,
-          "pointY": 4
-        },
-        {
-          "stackSize": 1,
           "seed": 481,
           "baseName": "records\\xpack\\item\\artifacts\\n_la_chaoscube.dbr",
           "prefixName": "",
@@ -684,21 +669,6 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 6,
-          "pointY": 4
-        },
-        {
-          "stackSize": 1,
-          "seed": 16190,
-          "baseName": "records\\xpack\\item\\artifacts\\n_la_cinderbolt.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 12,
           "pointY": 4
         }
       ]
