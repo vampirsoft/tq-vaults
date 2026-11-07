@@ -2657,8 +2657,23 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 68350016,
+          "var2": 2035248,
           "pointX": 2,
+          "pointY": 16
+        },
+        {
+          "stackSize": 1,
+          "seed": 19836,
+          "baseName": "Records\\Item\\EquipmentGreaves\\U_N_MedianGreaves.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 4,
           "pointY": 16
         }
       ]

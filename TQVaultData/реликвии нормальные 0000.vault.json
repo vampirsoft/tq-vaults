@@ -9142,7 +9142,7 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 477604976,
+          "var2": 2035248,
           "pointX": 17,
           "pointY": 10
         }
@@ -11997,7 +11997,7 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 12,
           "pointY": 9
         },
@@ -12012,7 +12012,7 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 5,
           "pointY": 10
         },
@@ -12027,7 +12027,7 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 2,
           "pointY": 10
         },
@@ -12042,9 +12042,39 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1029188720,
+          "var2": 2035248,
           "pointX": 3,
           "pointY": 10
+        },
+        {
+          "stackSize": 1,
+          "seed": 23453,
+          "baseName": "Records\\Item\\Relics\\01_Act3_DragonKingsDomain.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AttributeLife_02.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 10,
+          "pointY": 10
+        },
+        {
+          "stackSize": 1,
+          "seed": 3980,
+          "baseName": "Records\\Item\\Relics\\01_Act3_LiNezhasGuile.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "records\\item\\lootmagicalaffixes\\animalrelics\\bonuses\\defensive_bleedresist_01.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1135247408,
+          "pointX": 1,
+          "pointY": 9
         }
       ]
     },
