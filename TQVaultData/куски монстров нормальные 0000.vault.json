@@ -8587,9 +8587,24 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 236061848,
+          "var2": 2035248,
           "pointX": 16,
           "pointY": 14
+        },
+        {
+          "stackSize": 1,
+          "seed": 28389,
+          "baseName": "Records\\Item\\AnimalRelics\\01_Act3_RaptorTooth.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_SpeedAttack_01.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 892923848,
+          "pointX": 12,
+          "pointY": 16
         }
       ]
     },
