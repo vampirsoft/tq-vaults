@@ -1127,8 +1127,23 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 2,
+          "pointY": 18
+        },
+        {
+          "stackSize": 1,
+          "seed": 12131,
+          "baseName": "Records\\Item\\EquipmentHelm\\Um_N_CrownoftheElements.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 0,
           "pointY": 18
         }
       ]
