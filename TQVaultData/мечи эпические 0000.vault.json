@@ -812,8 +812,23 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 17,
+          "pointY": 16
+        },
+        {
+          "stackSize": 1,
+          "seed": 22654,
+          "baseName": "Records\\Item\\EquipmentWeapon\\Sword\\U_N_Juque.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 16,
           "pointY": 16
         }
       ]

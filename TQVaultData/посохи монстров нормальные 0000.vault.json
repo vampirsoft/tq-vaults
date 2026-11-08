@@ -62,7 +62,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 263319616,
+          "var2": 2035248,
           "pointX": 14,
           "pointY": 8
         },
@@ -80,6 +80,21 @@
           "var2": 2035248,
           "pointX": 0,
           "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 14131,
+          "baseName": "Records\\Item\\EquipmentWeapon\\Staff\\MI_N_Liche.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 263319616,
+          "pointX": 14,
+          "pointY": 12
         }
       ]
     },
