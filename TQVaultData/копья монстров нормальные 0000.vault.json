@@ -227,8 +227,23 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 68350016,
+          "var2": 2035248,
           "pointX": 2,
+          "pointY": 15
+        },
+        {
+          "stackSize": 1,
+          "seed": 13075,
+          "baseName": "Records\\Item\\EquipmentWeapon\\Spear\\MI_N_IchthianMelee.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 263319616,
+          "pointX": 3,
           "pointY": 15
         }
       ]

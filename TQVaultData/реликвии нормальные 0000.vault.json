@@ -12177,7 +12177,7 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 7,
           "pointY": 11
         },
@@ -12192,7 +12192,7 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 2,
           "pointY": 11
         },
@@ -12207,8 +12207,23 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 968644896,
+          "var2": 2035248,
           "pointX": 11,
+          "pointY": 10
+        },
+        {
+          "stackSize": 1,
+          "seed": 24305,
+          "baseName": "Records\\Item\\Relics\\01_Act3_LiNezhasGuile.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "records\\item\\lootmagicalaffixes\\animalrelics\\bonuses\\defensive_bleedresist_01.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1105539312,
+          "pointX": 0,
           "pointY": 10
         }
       ]

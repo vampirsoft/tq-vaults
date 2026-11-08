@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 4,
+  "currentlySelectedSackNumber": 0,
   "sacks": [
     {
       "iconinfo": null,
@@ -290,6 +290,21 @@
           "var2": 2035248,
           "pointX": 12,
           "pointY": 4
+        },
+        {
+          "stackSize": 1,
+          "seed": 14520,
+          "baseName": "Records\\Item\\EquipmentArmband\\MI_N_Djinn.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 263319616,
+          "pointX": 10,
+          "pointY": 10
         }
       ]
     },
@@ -1162,7 +1177,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 77262912,
+          "var2": 2035248,
           "pointX": 4,
           "pointY": 6
         }

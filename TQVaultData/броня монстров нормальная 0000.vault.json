@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 5,
+  "currentlySelectedSackNumber": 6,
   "sacks": [
     {
       "iconinfo": null,
@@ -1272,7 +1272,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 77262912,
+          "var2": 2035248,
           "pointX": 16,
           "pointY": 11
         }
@@ -1727,8 +1727,38 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 77262912,
+          "var2": 2035248,
           "pointX": 14,
+          "pointY": 11
+        },
+        {
+          "stackSize": 1,
+          "seed": 1094,
+          "baseName": "Records\\Item\\EquipmentArmor\\MI_N_Dragonian.dbr",
+          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Defensive_ResistPierce_03.dbr",
+          "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AttributeStrength_02.dbr",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 263319616,
+          "pointX": 8,
+          "pointY": 12
+        },
+        {
+          "stackSize": 1,
+          "seed": 29954,
+          "baseName": "Records\\Item\\EquipmentArmor\\MI_N_TigermanChampion.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 263319616,
+          "pointX": 12,
           "pointY": 11
         }
       ]
