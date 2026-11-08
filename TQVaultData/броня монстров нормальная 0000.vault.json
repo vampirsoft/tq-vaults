@@ -1742,7 +1742,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 263319616,
+          "var2": 2035248,
           "pointX": 8,
           "pointY": 12
         },
@@ -1757,9 +1757,24 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 263319616,
+          "var2": 2035248,
           "pointX": 12,
           "pointY": 11
+        },
+        {
+          "stackSize": 1,
+          "seed": 26946,
+          "baseName": "Records\\Item\\EquipmentArmor\\MI_N_RatmanChampion.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 263319616,
+          "pointX": 2,
+          "pointY": 15
         }
       ]
     },
