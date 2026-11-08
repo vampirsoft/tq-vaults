@@ -9160,6 +9160,21 @@
           "var2": 2035248,
           "pointX": 10,
           "pointY": 14
+        },
+        {
+          "stackSize": 1,
+          "seed": 25312,
+          "baseName": "Records\\Item\\Relics\\01_Act3_CodeOfHammurabi.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Relics\\Bonuses\\Character_%Intelligence_01.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 16,
+          "pointY": 11
         }
       ]
     },
@@ -12132,9 +12147,24 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 878068784,
+          "var2": 2035248,
           "pointX": 13,
           "pointY": 9
+        },
+        {
+          "stackSize": 1,
+          "seed": 5904,
+          "baseName": "Records\\Item\\Relics\\01_Act3_MonkeyKingsTrickery.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AbilityDefensive_03.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 4,
+          "pointY": 11
         }
       ]
     },
