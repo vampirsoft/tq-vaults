@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 1,
+  "currentlySelectedSackNumber": 2,
   "sacks": [
     {
       "iconinfo": null,
@@ -517,7 +517,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 2,
           "pointY": 16
         }
@@ -675,6 +675,21 @@
           "var2": 2035248,
           "pointX": 0,
           "pointY": 18
+        },
+        {
+          "stackSize": 1,
+          "seed": 13311,
+          "baseName": "records\\item\\HCDungeon\\x4_HCDung_N_KeySlab_QuestItem_C.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 2,
+          "pointY": 0
         }
       ]
     },
