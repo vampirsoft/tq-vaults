@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 0,
+  "currentlySelectedSackNumber": 4,
   "sacks": [
     {
       "iconinfo": null,
@@ -722,7 +722,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 57208896,
+          "var2": 2035248,
           "pointX": 12,
           "pointY": 4
         }
@@ -1975,6 +1975,21 @@
           "var2": 2035248,
           "pointX": 4,
           "pointY": 10
+        },
+        {
+          "stackSize": 1,
+          "seed": 27665,
+          "baseName": "Records\\Item\\EquipmentHelm\\MI_N_RatmanChampion.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 77262912,
+          "pointX": 4,
+          "pointY": 12
         }
       ]
     },
