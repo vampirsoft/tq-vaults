@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 1,
+  "currentlySelectedSackNumber": 0,
   "sacks": [
     {
       "iconinfo": null,
@@ -545,6 +545,21 @@
           "var2": 2035248,
           "pointX": 12,
           "pointY": 16
+        },
+        {
+          "stackSize": 1,
+          "seed": 18027,
+          "baseName": "Records\\Item\\EquipmentWeapon\\Club\\U_N_ShatterBone.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 13,
+          "pointY": 12
         }
       ]
     },
@@ -982,7 +997,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 6,
           "pointY": 8
         }

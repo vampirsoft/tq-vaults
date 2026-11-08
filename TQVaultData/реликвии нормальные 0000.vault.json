@@ -12237,9 +12237,24 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 172576344,
+          "var2": 2035248,
           "pointX": 1,
           "pointY": 10
+        },
+        {
+          "stackSize": 1,
+          "seed": 22537,
+          "baseName": "Records\\Item\\Relics\\01_Act3_DragonKingsDomain.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AttributeLife_02.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 10,
+          "pointY": 11
         }
       ]
     },
