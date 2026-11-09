@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 1,
+  "currentlySelectedSackNumber": 0,
   "sacks": [
     {
       "iconinfo": null,
@@ -740,6 +740,21 @@
           "var2": 2035248,
           "pointX": 8,
           "pointY": 18
+        },
+        {
+          "stackSize": 1,
+          "seed": 16950,
+          "baseName": "Records\\Item\\EquipmentHelm\\MI_N_TigermanMage.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 61337664,
+          "pointX": 14,
+          "pointY": 16
         }
       ]
     },
@@ -877,7 +892,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 263319616,
+          "var2": 2035248,
           "pointX": 10,
           "pointY": 4
         }
