@@ -1832,9 +1832,24 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 69070912,
+          "var2": 2035248,
           "pointX": 8,
           "pointY": 15
+        },
+        {
+          "stackSize": 1,
+          "seed": 4990,
+          "baseName": "Records\\Item\\EquipmentArmor\\MI_N_Yerren.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 69070912,
+          "pointX": 6,
+          "pointY": 9
         }
       ]
     },
