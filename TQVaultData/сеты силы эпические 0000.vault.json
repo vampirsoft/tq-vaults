@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 10,
+  "currentlySelectedSackNumber": 8,
   "sacks": [
     {
       "iconinfo": null,
@@ -1875,6 +1875,21 @@
           "var2": 2035248,
           "pointX": 8,
           "pointY": 5
+        },
+        {
+          "stackSize": 1,
+          "seed": 2391,
+          "baseName": "Records\\Item\\EquipmentWeapon\\Sword\\US_N_ImperialRaiment02.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 4,
+          "pointY": 13
         }
       ]
     },
@@ -2647,7 +2662,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 12,
           "pointY": 7
         }
