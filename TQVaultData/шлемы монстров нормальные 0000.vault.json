@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 0,
+  "currentlySelectedSackNumber": 1,
   "sacks": [
     {
       "iconinfo": null,
@@ -752,7 +752,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 61337664,
+          "var2": 2035248,
           "pointX": 14,
           "pointY": 16
         }
@@ -895,6 +895,21 @@
           "var2": 2035248,
           "pointX": 10,
           "pointY": 4
+        },
+        {
+          "stackSize": 1,
+          "seed": 26115,
+          "baseName": "Records\\Item\\EquipmentHelm\\MI_N_Liche.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 71299136,
+          "pointX": 10,
+          "pointY": 6
         }
       ]
     },
