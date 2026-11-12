@@ -12387,9 +12387,39 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 3,
           "pointY": 11
+        },
+        {
+          "stackSize": 1,
+          "seed": 16088,
+          "baseName": "Records\\Item\\Relics\\01_Act3_JadeEmperorsSerenity.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "records\\item\\lootmagicalaffixes\\animalrelics\\bonuses\\defensive_liferesist_01.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 12,
+          "pointY": 10
+        },
+        {
+          "stackSize": 1,
+          "seed": 25635,
+          "baseName": "Records\\Item\\Relics\\01_Act3_YenLoWangsBloodletting.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Offensive_+%Damage to Demons_01.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 9,
+          "pointY": 12
         }
       ]
     },
