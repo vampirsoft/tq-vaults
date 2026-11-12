@@ -8,21 +8,6 @@
       "items": [
         {
           "stackSize": 1,
-          "seed": 18387,
-          "baseName": "Records\\Item\\EquipmentWeapon\\Axe\\MI_N_MinotaurLord.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 0,
-          "pointY": 0
-        },
-        {
-          "stackSize": 1,
           "seed": 31495,
           "baseName": "Records\\Item\\EquipmentWeapon\\Axe\\MI_N_Dragonian.dbr",
           "prefixName": "",
@@ -542,9 +527,39 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 71299136,
+          "var2": 2035248,
           "pointX": 0,
           "pointY": 11
+        },
+        {
+          "stackSize": 1,
+          "seed": 19093,
+          "baseName": "Records\\Item\\EquipmentWeapon\\Axe\\MI_N_Dragonian.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 263319616,
+          "pointX": 0,
+          "pointY": 8
+        },
+        {
+          "stackSize": 1,
+          "seed": 2603,
+          "baseName": "Records\\Item\\EquipmentWeapon\\Axe\\MI_N_TigermanChampion.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 263319616,
+          "pointX": 5,
+          "pointY": 9
         }
       ]
     },
