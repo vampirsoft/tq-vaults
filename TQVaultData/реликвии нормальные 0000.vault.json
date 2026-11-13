@@ -12447,8 +12447,23 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 974114872,
+          "var2": 2035248,
           "pointX": 7,
+          "pointY": 12
+        },
+        {
+          "stackSize": 1,
+          "seed": 22316,
+          "baseName": "Records\\Item\\Relics\\01_Act3_MonkeyKingsTrickery.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AbilityDefensive_03.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 5,
           "pointY": 12
         }
       ]
