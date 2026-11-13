@@ -4838,8 +4838,23 @@
         },
         {
           "stackSize": 1,
-          "seed": 13345,
-          "baseName": "Records\\Item\\EquipmentShield\\U_N_ShieldofBalance.dbr",
+          "seed": 1218,
+          "baseName": "Records\\Item\\EquipmentShield\\U_N_FrozenBuckler.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 8,
+          "pointY": 15
+        },
+        {
+          "stackSize": 1,
+          "seed": 22574,
+          "baseName": "Records\\Item\\EquipmentShield\\U_N_SacredCrescentShield.dbr",
           "prefixName": "",
           "suffixName": "",
           "relicName": "",
@@ -4853,8 +4868,8 @@
         },
         {
           "stackSize": 1,
-          "seed": 1218,
-          "baseName": "Records\\Item\\EquipmentShield\\U_N_FrozenBuckler.dbr",
+          "seed": 13345,
+          "baseName": "Records\\Item\\EquipmentShield\\U_N_ShieldofBalance.dbr",
           "prefixName": "",
           "suffixName": "",
           "relicName": "",
@@ -4862,8 +4877,8 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 52883520,
-          "pointX": 8,
+          "var2": 2035248,
+          "pointX": 10,
           "pointY": 15
         }
       ]
