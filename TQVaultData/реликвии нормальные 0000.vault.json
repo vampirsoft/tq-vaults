@@ -9247,7 +9247,7 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1075027128,
+          "var2": 2035248,
           "pointX": 17,
           "pointY": 12
         }
@@ -12672,7 +12672,7 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 6,
           "pointY": 13
         },
@@ -12687,8 +12687,38 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 989717656,
+          "var2": 2035248,
           "pointX": 5,
+          "pointY": 13
+        },
+        {
+          "stackSize": 1,
+          "seed": 3024,
+          "baseName": "Records\\Item\\Relics\\01_Act3_DragonKingsDomain.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AttributeLife_02.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 11,
+          "pointY": 13
+        },
+        {
+          "stackSize": 1,
+          "seed": 23594,
+          "baseName": "Records\\Item\\Relics\\01_Act3_LiNezhasGuile.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "records\\item\\lootmagicalaffixes\\animalrelics\\bonuses\\defensive_bleedresist_01.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 914365472,
+          "pointX": 1,
           "pointY": 13
         }
       ]
