@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 5,
+  "currentlySelectedSackNumber": 6,
   "sacks": [
     {
       "iconinfo": null,
@@ -3063,21 +3063,6 @@
         },
         {
           "stackSize": 1,
-          "seed": 3766,
-          "baseName": "Records\\Item\\EquipmentWeapon\\Staff\\U_N_GuanYin'sHealingRod.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 4,
-          "pointY": 0
-        },
-        {
-          "stackSize": 1,
           "seed": 28051,
           "baseName": "Records\\Item\\EquipmentWeapon\\Staff\\U_N_OchetosStaff.dbr",
           "prefixName": "",
@@ -3522,15 +3507,46 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 16,
           "pointY": 16
+        },
+        {
+          "stackSize": 1,
+          "seed": 7530,
+          "baseName": "Records\\Item\\EquipmentWeapon\\Staff\\U_N_StaffOfNabukhuthnusar.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 4,
+          "pointY": 0
         }
       ]
     },
     {
       "iconinfo": null,
-      "items": []
+      "items": [
+        {
+          "stackSize": 1,
+          "seed": 3766,
+          "baseName": "Records\\Item\\EquipmentWeapon\\Staff\\U_N_GuanYin'sHealingRod.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 0,
+          "pointY": 0
+        }
+      ]
     },
     {
       "iconinfo": null,
