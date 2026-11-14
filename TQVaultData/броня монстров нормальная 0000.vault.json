@@ -1982,7 +1982,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 266399808,
+          "var2": 2035248,
           "pointX": 0,
           "pointY": 15
         },
@@ -2012,9 +2012,24 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 266399808,
+          "var2": 2035248,
           "pointX": 14,
           "pointY": 5
+        },
+        {
+          "stackSize": 1,
+          "seed": 24081,
+          "baseName": "Records\\Item\\EquipmentArmor\\MI_N_Dragonian.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 61861952,
+          "pointX": 4,
+          "pointY": 17
         }
       ]
     },

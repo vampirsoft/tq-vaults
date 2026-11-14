@@ -1472,9 +1472,24 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 263319616,
+          "var2": 2035248,
           "pointX": 10,
           "pointY": 4
+        },
+        {
+          "stackSize": 1,
+          "seed": 23932,
+          "baseName": "Records\\Item\\EquipmentGreaves\\MI_N_RatmanChampion.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 61861952,
+          "pointX": 8,
+          "pointY": 8
         }
       ]
     },
@@ -2252,7 +2267,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 263319616,
+          "var2": 2035248,
           "pointX": 10,
           "pointY": 18
         }
