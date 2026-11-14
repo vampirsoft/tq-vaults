@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 1,
+  "currentlySelectedSackNumber": 2,
   "sacks": [
     {
       "iconinfo": null,
@@ -9202,7 +9202,7 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 954365696,
+          "var2": 2035248,
           "pointX": 11,
           "pointY": 14
         }
@@ -12537,9 +12537,24 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 847120616,
+          "var2": 2035248,
           "pointX": 1,
           "pointY": 12
+        },
+        {
+          "stackSize": 1,
+          "seed": 890,
+          "baseName": "Records\\Item\\Relics\\01_Act3_DragonKingsDomain.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AttributeLife_02.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 10,
+          "pointY": 13
         }
       ]
     },
