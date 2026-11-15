@@ -4637,7 +4637,7 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1382539416,
+          "var2": 2035248,
           "pointX": 6,
           "pointY": 14
         }
@@ -6838,21 +6838,6 @@
         },
         {
           "stackSize": 1,
-          "seed": 11079,
-          "baseName": "Records\\Item\\AnimalRelics\\01_Act2_LupineClaw.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_SpeedAttack_01.dbr",
-          "var1": 5,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 4,
-          "pointY": 18
-        },
-        {
-          "stackSize": 1,
           "seed": 14738,
           "baseName": "Records\\Item\\AnimalRelics\\01_Act3_VinyGrowth.dbr",
           "prefixName": "",
@@ -6939,21 +6924,6 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 6,
-          "pointY": 18
-        },
-        {
-          "stackSize": 1,
-          "seed": 12960,
-          "baseName": "Records\\Item\\AnimalRelics\\01_Act2_LupineClaw.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_SpeedAttack_01.dbr",
-          "var1": 5,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 5,
           "pointY": 18
         },
         {
@@ -7258,21 +7228,6 @@
         },
         {
           "stackSize": 1,
-          "seed": 17413,
-          "baseName": "Records\\Item\\AnimalRelics\\01_Act2_LupineClaw.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_SpeedAttack_01.dbr",
-          "var1": 5,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 4,
-          "pointY": 19
-        },
-        {
-          "stackSize": 1,
           "seed": 26990,
           "baseName": "Records\\Item\\AnimalRelics\\01_MultActs_RigidCarapace.dbr",
           "prefixName": "",
@@ -7375,21 +7330,6 @@
           "var2": 2035248,
           "pointX": 3,
           "pointY": 8
-        },
-        {
-          "stackSize": 1,
-          "seed": 6553,
-          "baseName": "Records\\Item\\AnimalRelics\\01_Act2_LupineClaw.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_SpeedAttack_01.dbr",
-          "var1": 5,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 5,
-          "pointY": 19
         },
         {
           "stackSize": 1,
@@ -8872,7 +8812,7 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 175092568,
+          "var2": 2035248,
           "pointX": 16,
           "pointY": 18
         }
