@@ -287,9 +287,24 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 268955712,
+          "var2": 2035248,
           "pointX": 11,
           "pointY": 5
+        },
+        {
+          "stackSize": 1,
+          "seed": 10163,
+          "baseName": "records\\xpack2\\item\\equipmentweapons\\spear\\MI_N_troll.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 268955712,
+          "pointX": 11,
+          "pointY": 10
         }
       ]
     },

@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 2,
+  "currentlySelectedSackNumber": 3,
   "sacks": [
     {
       "iconinfo": null,
@@ -1062,7 +1062,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 268955712,
+          "var2": 2035248,
           "pointX": 12,
           "pointY": 4
         }
@@ -1670,6 +1670,21 @@
           "var2": 2035248,
           "pointX": 16,
           "pointY": 2
+        },
+        {
+          "stackSize": 1,
+          "seed": 26858,
+          "baseName": "records\\xpack2\\item\\equipmentarmor\\helm\\mi_n_merfolk.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 268955712,
+          "pointX": 14,
+          "pointY": 0
         }
       ]
     },
