@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 1,
+  "currentlySelectedSackNumber": 0,
   "sacks": [
     {
       "iconinfo": null,
@@ -4610,6 +4610,21 @@
           "var2": 2035248,
           "pointX": 7,
           "pointY": 13
+        },
+        {
+          "stackSize": 1,
+          "seed": 25635,
+          "baseName": "Records\\Item\\AnimalRelics\\01_Act1_BoarsHide.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "records\\item\\lootmagicalaffixes\\animalrelics\\bonuses\\defensive_bleedresist_01.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 828016976,
+          "pointX": 3,
+          "pointY": 17
         }
       ]
     },
@@ -8827,7 +8842,7 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 989828344,
+          "var2": 2035248,
           "pointX": 17,
           "pointY": 17
         }

@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 2,
+  "currentlySelectedSackNumber": 4,
   "sacks": [
     {
       "iconinfo": null,
@@ -12732,9 +12732,24 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 966368848,
+          "var2": 2035248,
           "pointX": 15,
           "pointY": 12
+        },
+        {
+          "stackSize": 1,
+          "seed": 29121,
+          "baseName": "Records\\XPack\\Item\\Relics\\01_Act4_ChillOfTartarus.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Offensive_ReducedAttackSpeed_02.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 949840088,
+          "pointX": 17,
+          "pointY": 10
         }
       ]
     },
@@ -15414,6 +15429,66 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 12,
+          "pointY": 2
+        },
+        {
+          "stackSize": 1,
+          "seed": 31792,
+          "baseName": "records\\xpack2\\item\\relics\\01_act5_eponashorses.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Relics\\BonusesGreece\\01\\01_HermesSandal_AttDA.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 2,
+          "pointY": 5
+        },
+        {
+          "stackSize": 1,
+          "seed": 26897,
+          "baseName": "records\\xpack2\\item\\relics\\01_act5_wodanswisdom.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Defensive_ResistCold_01.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 13,
+          "pointY": 2
+        },
+        {
+          "stackSize": 1,
+          "seed": 1879,
+          "baseName": "records\\xpack2\\item\\relics\\01_act5_ogmioseloquence.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "records\\item\\lootmagicalaffixes\\suffix\\default\\character_speedattack_01.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 4,
+          "pointY": 4
+        },
+        {
+          "stackSize": 1,
+          "seed": 15443,
+          "baseName": "records\\xpack2\\item\\relics\\01_act5_cernunnosmajesty.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "records\\item\\lootmagicalaffixes\\animalrelics\\bonuses\\defensive_bleedresist_01.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 10,
           "pointY": 2
         }
       ]

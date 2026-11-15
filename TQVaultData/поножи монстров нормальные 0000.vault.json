@@ -1487,9 +1487,24 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 61861952,
+          "var2": 2035248,
           "pointX": 8,
           "pointY": 8
+        },
+        {
+          "stackSize": 1,
+          "seed": 23172,
+          "baseName": "records\\xpack2\\item\\equipmentarmor\\greaves\\mi_n_troll.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 268955712,
+          "pointX": 6,
+          "pointY": 4
         }
       ]
     },
