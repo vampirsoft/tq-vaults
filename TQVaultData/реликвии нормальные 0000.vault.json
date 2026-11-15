@@ -12702,7 +12702,7 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 11,
           "pointY": 13
         },
@@ -12717,9 +12717,24 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 914365472,
+          "var2": 2035248,
           "pointX": 1,
           "pointY": 13
+        },
+        {
+          "stackSize": 1,
+          "seed": 12217,
+          "baseName": "Records\\XPack\\Item\\Relics\\01_Act4_BladeOfThanatos.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "records\\item\\lootmagicalaffixes\\suffix\\default\\character_speedattack_01.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 966368848,
+          "pointX": 15,
+          "pointY": 12
         }
       ]
     },

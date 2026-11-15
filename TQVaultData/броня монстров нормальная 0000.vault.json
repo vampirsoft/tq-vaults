@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 5,
+  "currentlySelectedSackNumber": 6,
   "sacks": [
     {
       "iconinfo": null,
@@ -1332,7 +1332,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 254210112,
+          "var2": 2035248,
           "pointX": 0,
           "pointY": 11
         }
@@ -2018,21 +2018,6 @@
         },
         {
           "stackSize": 1,
-          "seed": 2434,
-          "baseName": "Records\\Item\\EquipmentArmor\\MI_N_TigermanChampion.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 14,
-          "pointY": 5
-        },
-        {
-          "stackSize": 1,
           "seed": 24081,
           "baseName": "Records\\Item\\EquipmentArmor\\MI_N_Dragonian.dbr",
           "prefixName": "",
@@ -2045,6 +2030,36 @@
           "var2": 2035248,
           "pointX": 4,
           "pointY": 17
+        },
+        {
+          "stackSize": 1,
+          "seed": 22726,
+          "baseName": "Records\\XPack3\\Items\\EquipmentArmor\\Torso\\MI_N_EmbalmedPriestMelee.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 267841600,
+          "pointX": 14,
+          "pointY": 3
+        },
+        {
+          "stackSize": 1,
+          "seed": 2434,
+          "baseName": "Records\\Item\\EquipmentArmor\\MI_N_TigermanChampion.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 12,
+          "pointY": 2
         }
       ]
     },
