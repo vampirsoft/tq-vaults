@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 5,
+  "currentlySelectedSackNumber": 2,
   "sacks": [
     {
       "iconinfo": null,
@@ -390,6 +390,21 @@
           "var2": 2035248,
           "pointX": 16,
           "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 21028,
+          "baseName": "records\\xpack2\\item\\equipmentarmor\\torso\\mi_n_kelpie.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 268955712,
+          "pointX": 12,
+          "pointY": 3
         }
       ]
     },
@@ -1347,7 +1362,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 268955712,
+          "var2": 2035248,
           "pointX": 14,
           "pointY": 3
         },
@@ -1362,7 +1377,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 268955712,
+          "var2": 2035248,
           "pointX": 14,
           "pointY": 6
         }
