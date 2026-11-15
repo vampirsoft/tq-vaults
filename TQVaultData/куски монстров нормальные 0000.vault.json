@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 0,
+  "currentlySelectedSackNumber": 1,
   "sacks": [
     {
       "iconinfo": null,
@@ -4622,9 +4622,24 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 828016976,
+          "var2": 2035248,
           "pointX": 3,
           "pointY": 17
+        },
+        {
+          "stackSize": 1,
+          "seed": 24567,
+          "baseName": "Records\\Item\\AnimalRelics\\01_Act1_BatFang.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_SpeedAttack_01.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1382539416,
+          "pointX": 6,
+          "pointY": 14
         }
       ]
     },
@@ -8845,6 +8860,21 @@
           "var2": 2035248,
           "pointX": 17,
           "pointY": 17
+        },
+        {
+          "stackSize": 1,
+          "seed": 6003,
+          "baseName": "Records\\Item\\AnimalRelics\\01_Act3_VinyGrowth.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "records\\item\\lootmagicalaffixes\\animalrelics\\bonuses\\defensive_bleedresist_01.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 175092568,
+          "pointX": 16,
+          "pointY": 18
         }
       ]
     },
