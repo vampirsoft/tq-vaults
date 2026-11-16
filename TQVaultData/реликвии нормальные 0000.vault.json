@@ -15622,9 +15622,24 @@
           "var1": 1,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": -2081442411,
+          "var2": 2035248,
           "pointX": 17,
           "pointY": 1
+        },
+        {
+          "stackSize": 1,
+          "seed": 14392,
+          "baseName": "records\\xpack2\\item\\relics\\01_act5_wodanswisdom.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Defensive_ResistCold_01.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 12,
+          "pointY": 3
         }
       ]
     },

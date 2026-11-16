@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 1,
+  "currentlySelectedSackNumber": 2,
   "sacks": [
     {
       "iconinfo": null,
@@ -115,51 +115,6 @@
           "var2": 2035248,
           "pointX": 6,
           "pointY": 0
-        },
-        {
-          "stackSize": 1,
-          "seed": 28081,
-          "baseName": "records\\xpack2\\item\\equipmentweapons\\staff\\MI_N_troll.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 16,
-          "pointY": 0
-        },
-        {
-          "stackSize": 1,
-          "seed": 22926,
-          "baseName": "records\\xpack2\\item\\equipmentweapons\\staff\\MI_N_troll.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 16,
-          "pointY": 4
-        },
-        {
-          "stackSize": 1,
-          "seed": 23718,
-          "baseName": "records\\xpack2\\item\\equipmentweapons\\staff\\MI_N_troll.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 268955712,
-          "pointX": 16,
-          "pointY": 8
         }
       ]
     },
@@ -209,21 +164,6 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 8,
-          "pointY": 0
-        },
-        {
-          "stackSize": 1,
-          "seed": 7813,
-          "baseName": "records\\xpack2\\item\\equipmentweapons\\staff\\MI_N_troll.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 10,
           "pointY": 0
         },
         {
@@ -285,6 +225,81 @@
           "var2": 2035248,
           "pointX": 8,
           "pointY": 8
+        },
+        {
+          "stackSize": 1,
+          "seed": 17914,
+          "baseName": "records\\xpack2\\item\\equipmentweapons\\staff\\MI_N_fjordmage.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 60682304,
+          "pointX": 14,
+          "pointY": 4
+        },
+        {
+          "stackSize": 1,
+          "seed": 7813,
+          "baseName": "records\\xpack2\\item\\equipmentweapons\\staff\\MI_N_troll.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 10,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 28081,
+          "baseName": "records\\xpack2\\item\\equipmentweapons\\staff\\MI_N_troll.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 10,
+          "pointY": 4
+        },
+        {
+          "stackSize": 1,
+          "seed": 22926,
+          "baseName": "records\\xpack2\\item\\equipmentweapons\\staff\\MI_N_troll.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 10,
+          "pointY": 8
+        },
+        {
+          "stackSize": 1,
+          "seed": 23718,
+          "baseName": "records\\xpack2\\item\\equipmentweapons\\staff\\MI_N_troll.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 10,
+          "pointY": 12
         }
       ]
     },

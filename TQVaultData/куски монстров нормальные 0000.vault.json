@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 1,
+  "currentlySelectedSackNumber": 2,
   "sacks": [
     {
       "iconinfo": null,
@@ -8815,6 +8815,21 @@
           "var2": 2035248,
           "pointX": 16,
           "pointY": 18
+        },
+        {
+          "stackSize": 1,
+          "seed": 8547,
+          "baseName": "Records\\Item\\AnimalRelics\\01_Act2_LupineClaw.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_SpeedAttack_01.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 483859528,
+          "pointX": 4,
+          "pointY": 18
         }
       ]
     },
@@ -9870,6 +9885,21 @@
           "var2": 2035248,
           "pointX": 3,
           "pointY": 6
+        },
+        {
+          "stackSize": 1,
+          "seed": 10236,
+          "baseName": "records\\xpack2\\item\\charms\\01_act5_fungoidspores.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Relics\\Bonuses\\Offensive_%Poison_01.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1204281424,
+          "pointX": 10,
+          "pointY": 2
         }
       ]
     },
