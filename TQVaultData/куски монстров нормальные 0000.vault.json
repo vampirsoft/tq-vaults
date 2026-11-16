@@ -8827,7 +8827,7 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 483859528,
+          "var2": 2035248,
           "pointX": 4,
           "pointY": 18
         }
@@ -9897,8 +9897,23 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1204281424,
+          "var2": 2035248,
           "pointX": 10,
+          "pointY": 2
+        },
+        {
+          "stackSize": 1,
+          "seed": 19748,
+          "baseName": "records\\xpack2\\item\\charms\\01_act5_trolltusks.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Offensive_+%Damage to Demons_01.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 817190984,
+          "pointX": 8,
           "pointY": 2
         }
       ]
