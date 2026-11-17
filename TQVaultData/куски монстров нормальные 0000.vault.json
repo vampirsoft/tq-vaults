@@ -10397,9 +10397,24 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 838374688,
+          "var2": 2035248,
           "pointX": 11,
           "pointY": 1
+        },
+        {
+          "stackSize": 1,
+          "seed": 25907,
+          "baseName": "records\\xpack2\\item\\charms\\01_act5_primalmagma.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Offensive_+%Damage to Demons_01.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1382013088,
+          "pointX": 1,
+          "pointY": 2
         }
       ]
     },
