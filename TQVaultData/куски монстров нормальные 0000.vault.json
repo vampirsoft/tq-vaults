@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 2,
+  "currentlySelectedSackNumber": 3,
   "sacks": [
     {
       "iconinfo": null,
@@ -9912,7 +9912,7 @@
           "var1": 5,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 817190984,
+          "var2": 2035248,
           "pointX": 8,
           "pointY": 2
         }
@@ -10385,6 +10385,21 @@
           "var2": 2035248,
           "pointX": 0,
           "pointY": 2
+        },
+        {
+          "stackSize": 1,
+          "seed": 7548,
+          "baseName": "records\\xpack2\\item\\charms\\01_act5_eitr.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "records\\item\\lootmagicalaffixes\\suffix\\default\\character_speedattack_01.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 838374688,
+          "pointX": 11,
+          "pointY": 1
         }
       ]
     },

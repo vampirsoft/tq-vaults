@@ -12750,6 +12750,21 @@
           "var2": 2035248,
           "pointX": 17,
           "pointY": 10
+        },
+        {
+          "stackSize": 1,
+          "seed": 3798,
+          "baseName": "Records\\XPack\\Item\\Relics\\01_Act4_BladeOfThanatos.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "records\\item\\lootmagicalaffixes\\suffix\\default\\character_speedattack_01.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 14,
+          "pointY": 13
         }
       ]
     },
@@ -15652,9 +15667,54 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 5,
           "pointY": 5
+        },
+        {
+          "stackSize": 1,
+          "seed": 25933,
+          "baseName": "records\\xpack2\\item\\relics\\01_act5_eponashorses.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Relics\\BonusesGreece\\01\\01_HermesSandal_AttDA.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 3,
+          "pointY": 5
+        },
+        {
+          "stackSize": 1,
+          "seed": 7393,
+          "baseName": "records\\xpack2\\item\\relics\\01_act5_lightofbelenus.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "records\\item\\lootmagicalaffixes\\animalrelics\\bonuses\\defensive_bleedresist_01.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 15,
+          "pointY": 3
+        },
+        {
+          "stackSize": 1,
+          "seed": 12392,
+          "baseName": "records\\xpack2\\item\\relics\\01_act5_cernunnosmajesty.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "records\\item\\lootmagicalaffixes\\animalrelics\\bonuses\\defensive_bleedresist_01.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 11,
+          "pointY": 2
         }
       ]
     },
