@@ -272,7 +272,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 56750144,
+          "var2": 2035248,
           "pointX": 9,
           "pointY": 4
         },
@@ -287,9 +287,24 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 56750144,
+          "var2": 2035248,
           "pointX": 9,
           "pointY": 8
+        },
+        {
+          "stackSize": 1,
+          "seed": 1286,
+          "baseName": "Records\\XPack2\\Item\\EquipmentWeapons\\Bow\\MI_N_Alfr.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 253030464,
+          "pointX": 9,
+          "pointY": 12
         }
       ]
     },

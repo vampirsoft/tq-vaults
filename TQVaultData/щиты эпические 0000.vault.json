@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 4,
+  "currentlySelectedSackNumber": 6,
   "sacks": [
     {
       "iconinfo": null,
@@ -3727,7 +3727,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 12,
           "pointY": 12
         },
@@ -3742,7 +3742,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 10,
           "pointY": 9
         }
@@ -5014,6 +5014,21 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 8,
+          "pointY": 17
+        },
+        {
+          "stackSize": 1,
+          "seed": 26517,
+          "baseName": "Records\\XPack\\Item\\equipmentWeapons\\Shield\\U_N_002.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 10,
           "pointY": 17
         }
       ]

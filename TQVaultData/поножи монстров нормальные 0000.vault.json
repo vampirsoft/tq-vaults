@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 4,
+  "currentlySelectedSackNumber": 6,
   "sacks": [
     {
       "iconinfo": null,
@@ -1987,7 +1987,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 253030464,
+          "var2": 2035248,
           "pointX": 14,
           "pointY": 8
         }
@@ -2375,6 +2375,21 @@
           "var2": 2035248,
           "pointX": 10,
           "pointY": 18
+        },
+        {
+          "stackSize": 1,
+          "seed": 31536,
+          "baseName": "records\\xpack2\\item\\equipmentarmor\\greaves\\mi_n_alfr.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 253030464,
+          "pointX": 6,
+          "pointY": 2
         }
       ]
     },

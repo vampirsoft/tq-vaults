@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 5,
+  "currentlySelectedSackNumber": 7,
   "sacks": [
     {
       "iconinfo": null,
@@ -2667,7 +2667,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 253030464,
+          "var2": 2035248,
           "pointX": 16,
           "pointY": 2
         }
@@ -3024,6 +3024,21 @@
           "var2": 2035248,
           "pointX": 8,
           "pointY": 2
+        },
+        {
+          "stackSize": 1,
+          "seed": 27986,
+          "baseName": "records\\xpack2\\item\\equipmentarmor\\helm\\mi_n_alfr.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 253030464,
+          "pointX": 8,
+          "pointY": 4
         }
       ]
     },
