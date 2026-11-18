@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 3,
+  "currentlySelectedSackNumber": 0,
   "sacks": [
     {
       "iconinfo": null,
@@ -2395,6 +2395,21 @@
           "var2": 2035248,
           "pointX": 1,
           "pointY": 3
+        },
+        {
+          "stackSize": 1,
+          "seed": 27368,
+          "baseName": "Records\\Item\\Relics\\02_Act1_ValorOfAchilles.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Relics\\Bonuses\\Offensive_DamageBonus_04.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 0,
+          "pointX": 3,
+          "pointY": 4
         }
       ]
     },
@@ -4007,7 +4022,7 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1299640536,
+          "var2": 2035248,
           "pointX": 16,
           "pointY": 1
         }
