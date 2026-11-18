@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 4,
+  "currentlySelectedSackNumber": 0,
   "sacks": [
     {
       "iconinfo": null,
@@ -327,51 +327,6 @@
           "var2": 2035248,
           "pointX": 0,
           "pointY": 0
-        },
-        {
-          "stackSize": 1,
-          "seed": 29770,
-          "baseName": "Records\\Item\\EquipmentArmor\\MI_L_GoldenSkeleton.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 0,
-          "pointY": 3
-        },
-        {
-          "stackSize": 1,
-          "seed": 29770,
-          "baseName": "Records\\Item\\EquipmentArmor\\MI_L_GoldenSkeleton.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 0,
-          "pointY": 6
-        },
-        {
-          "stackSize": 1,
-          "seed": 29770,
-          "baseName": "Records\\Item\\EquipmentArmor\\MI_L_GoldenSkeleton.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 0,
-          "pointY": 9
         }
       ]
     },
@@ -392,21 +347,6 @@
           "var2": 2035248,
           "pointX": 2,
           "pointY": 0
-        },
-        {
-          "stackSize": 1,
-          "seed": 16380,
-          "baseName": "records\\item\\equipmentarmor\\mi_e_ratmanchampion.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 2,
-          "pointY": 3
         },
         {
           "stackSize": 1,
