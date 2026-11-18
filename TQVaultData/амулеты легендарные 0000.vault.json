@@ -587,8 +587,23 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 1,
+          "pointY": 3
+        },
+        {
+          "stackSize": 1,
+          "seed": 22178,
+          "baseName": "Records\\Item\\EquipmentAmulet\\U_E_EyeofFlame.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1334861408,
+          "pointX": 3,
           "pointY": 3
         }
       ]
