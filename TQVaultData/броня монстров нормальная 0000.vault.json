@@ -110,6 +110,21 @@
           "var2": 2035248,
           "pointX": 8,
           "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 7591,
+          "baseName": "Records\\Item\\EquipmentArmor\\MI_N_Wraith.dbr",
+          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Character_ReducedEquipReq_01.dbr",
+          "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AttributeStrength_02.dbr",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 688195208,
+          "pointX": 0,
+          "pointY": 0
         }
       ]
     },
@@ -144,6 +159,21 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 12,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 16024,
+          "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Torso\\MI_N_KeresMage.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1231016624,
+          "pointX": 14,
           "pointY": 0
         }
       ]

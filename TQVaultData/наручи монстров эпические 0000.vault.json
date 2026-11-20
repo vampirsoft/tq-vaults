@@ -598,21 +598,6 @@
         },
         {
           "stackSize": 1,
-          "seed": 32490,
-          "baseName": "Records\\XPack3\\Items\\EquipmentArmor\\Armband\\MI_E_MonkeymanMelee.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 4,
-          "pointY": 2
-        },
-        {
-          "stackSize": 1,
           "seed": 5392,
           "baseName": "Records\\XPack3\\Items\\EquipmentArmor\\Armband\\MI_E_SerpentoidMelee.dbr",
           "prefixName": "",
@@ -625,36 +610,6 @@
           "var2": 2035248,
           "pointX": 6,
           "pointY": 0
-        },
-        {
-          "stackSize": 1,
-          "seed": 30363,
-          "baseName": "Records\\XPack3\\Items\\EquipmentArmor\\Armband\\MI_E_MonkeymanMelee.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 4,
-          "pointY": 4
-        },
-        {
-          "stackSize": 1,
-          "seed": 30363,
-          "baseName": "Records\\XPack3\\Items\\EquipmentArmor\\Armband\\MI_E_SerpentoidMelee.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 6,
-          "pointY": 2
         }
       ]
     },

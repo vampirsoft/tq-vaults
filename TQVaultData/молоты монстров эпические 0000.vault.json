@@ -23,21 +23,6 @@
         },
         {
           "stackSize": 1,
-          "seed": 7924,
-          "baseName": "records\\item\\equipmentweapon\\axe\\mi_e_minotaurlord.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 3,
-          "pointY": 4
-        },
-        {
-          "stackSize": 1,
           "seed": 23877,
           "baseName": "records\\item\\equipmentweapon\\club\\mi_e_cyclops.dbr",
           "prefixName": "",
@@ -68,21 +53,6 @@
         },
         {
           "stackSize": 1,
-          "seed": 23632,
-          "baseName": "Records\\Item\\EquipmentWeapon\\Club\\MI_E_SatyrGuardian.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 0,
-          "pointY": 4
-        },
-        {
-          "stackSize": 1,
           "seed": 877,
           "baseName": "records\\item\\equipmentweapon\\club\\mi_e_ichthianmelee.dbr",
           "prefixName": "",
@@ -98,21 +68,6 @@
         },
         {
           "stackSize": 1,
-          "seed": 383,
-          "baseName": "Records\\Item\\EquipmentWeapon\\Club\\MI_E_IchthianMelee.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 5,
-          "pointY": 4
-        },
-        {
-          "stackSize": 1,
           "seed": 2480,
           "baseName": "Records\\XPack3\\Items\\EquipmentWeapon\\Club\\MI_E_Hesperide.dbr",
           "prefixName": "",
@@ -122,7 +77,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 64221248,
+          "var2": 2035248,
           "pointX": 10,
           "pointY": 0
         }
