@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 4,
+  "currentlySelectedSackNumber": 0,
   "sacks": [
     {
       "iconinfo": null,
@@ -660,8 +660,8 @@
           "stackSize": 1,
           "seed": -2,
           "baseName": "Records\\Item\\EquipmentArmor\\U_E_MantleofSajun.dbr",
-          "prefixName": "",
-          "suffixName": "",
+          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Defensive_ResistPierce_02.dbr",
+          "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AttributeEnergy_02.dbr",
           "relicName": "",
           "relicBonus": "",
           "var1": 0,
