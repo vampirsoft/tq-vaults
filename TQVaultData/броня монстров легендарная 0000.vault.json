@@ -8,7 +8,7 @@
       "items": [
         {
           "stackSize": 1,
-          "seed": 22461,
+          "seed": -2,
           "baseName": "records\\item\\equipmentarmor\\mi_l_wraith.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -23,7 +23,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 20228,
+          "seed": -2,
           "baseName": "records\\item\\equipmentarmor\\mi_l_telkine.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -38,7 +38,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 28417,
+          "seed": -2,
           "baseName": "records\\item\\equipmentarmor\\mi_l_bandari.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -53,7 +53,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 24088,
+          "seed": -2,
           "baseName": "records\\item\\equipmentarmor\\mi_l_tigermanmage.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -68,7 +68,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 24194,
+          "seed": -2,
           "baseName": "records\\item\\equipmentarmor\\mi_l_ichthianmage.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -83,7 +83,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 13371,
+          "seed": -2,
           "baseName": "records\\item\\equipmentarmor\\mi_l_neanderthalmage.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -115,7 +115,7 @@
       "items": [
         {
           "stackSize": 1,
-          "seed": 11074,
+          "seed": -2,
           "baseName": "records\\item\\equipmentarmor\\mi_l_centaur.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -130,7 +130,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 21806,
+          "seed": -2,
           "baseName": "records\\item\\equipmentarmor\\mi_l_gorgonmelee.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -145,7 +145,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 19327,
+          "seed": -2,
           "baseName": "records\\item\\equipmentarmor\\mi_l_boarman.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -160,7 +160,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 18212,
+          "seed": -2,
           "baseName": "records\\item\\equipmentarmor\\mi_l_jackalmanmelee.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -175,7 +175,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 30957,
+          "seed": -2,
           "baseName": "records\\item\\equipmentarmor\\mi_l_duneraider.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -190,7 +190,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 24552,
+          "seed": -2,
           "baseName": "records\\item\\equipmentarmor\\mi_l_minotaur.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -205,7 +205,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 5991,
+          "seed": -2,
           "baseName": "records\\item\\equipmentarmor\\mi_l_satyrbrute.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -220,7 +220,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 1942,
+          "seed": -2,
           "baseName": "records\\item\\equipmentarmor\\mi_l_ratmanarcher.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -235,7 +235,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 10075,
+          "seed": -2,
           "baseName": "records\\item\\equipmentarmor\\mi_l_arachnos.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -255,7 +255,7 @@
       "items": [
         {
           "stackSize": 1,
-          "seed": 27921,
+          "seed": -2,
           "baseName": "records\\item\\equipmentarmor\\mi_l_reptilian.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -270,7 +270,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 9126,
+          "seed": -2,
           "baseName": "records\\item\\equipmentarmor\\mi_l_ichthianmelee.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -285,7 +285,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 12414,
+          "seed": -2,
           "baseName": "records\\item\\equipmentarmor\\mi_l_neanderthalmelee.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -300,7 +300,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 13610,
+          "seed": -2,
           "baseName": "records\\item\\equipmentarmor\\mi_l_tropicalarachnos.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -315,7 +315,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 29770,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentArmor\\MI_L_GoldenSkeleton.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -335,7 +335,7 @@
       "items": [
         {
           "stackSize": 1,
-          "seed": 19701,
+          "seed": -2,
           "baseName": "records\\item\\equipmentarmor\\mi_l_ratmanchampion.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -350,7 +350,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 17504,
+          "seed": -2,
           "baseName": "records\\item\\equipmentarmor\\mi_l_yerren.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -365,7 +365,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 20953,
+          "seed": -2,
           "baseName": "records\\item\\equipmentarmor\\mi_l_dragonian.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -380,7 +380,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 13432,
+          "seed": -2,
           "baseName": "records\\item\\equipmentarmor\\mi_l_ratmanmelee.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -395,7 +395,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 2481,
+          "seed": -2,
           "baseName": "records\\item\\equipmentarmor\\mi_l_tigermanchampion.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -423,7 +423,7 @@
       "items": [
         {
           "stackSize": 1,
-          "seed": 3489,
+          "seed": -2,
           "baseName": "records\\item\\equipmentarmor\\mi_l_gorgonarcher.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -438,7 +438,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 14920,
+          "seed": -2,
           "baseName": "records\\item\\equipmentarmor\\mi_l_duneraiderb.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -453,7 +453,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 15356,
+          "seed": -2,
           "baseName": "records\\item\\equipmentarmor\\mi_l_tigermanmelee.dbr",
           "prefixName": "",
           "suffixName": "",

@@ -8,7 +8,7 @@
       "items": [
         {
           "stackSize": 1,
-          "seed": 1935,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentShield\\MI_E_Centaur.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -23,7 +23,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 5821,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentShield\\MI_E_TropicalArachnos.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -38,7 +38,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 13476,
+          "seed": -2,
           "baseName": "records\\item\\equipmentshield\\mi_e_arachnos.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -53,7 +53,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 25597,
+          "seed": -2,
           "baseName": "Records\\XPack3\\Items\\EquipmentWeapon\\Shield\\MI_E_Hesperide.dbr",
           "prefixName": "",
           "suffixName": "",

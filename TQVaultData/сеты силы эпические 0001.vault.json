@@ -8,7 +8,7 @@
       "items": [
         {
           "stackSize": 1,
-          "seed": 6376,
+          "seed": -2,
           "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Torso\\US_N_001.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -23,7 +23,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 14208,
+          "seed": -2,
           "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Helm\\US_N_001.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -38,7 +38,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 16846,
+          "seed": -2,
           "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Armband\\US_N_001.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -53,7 +53,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 5823,
+          "seed": -2,
           "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Greaves\\US_N_001.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -68,7 +68,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 28500,
+          "seed": -2,
           "baseName": "Records\\XPack\\Item\\equipmentWeapons\\Shield\\US_N_001.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -83,7 +83,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 11431,
+          "seed": -2,
           "baseName": "Records\\XPack\\Item\\EquipmentWeapons\\Spear\\US_N_001.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -103,7 +103,7 @@
       "items": [
         {
           "stackSize": 1,
-          "seed": 17887,
+          "seed": -2,
           "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Torso\\U_N_002.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -118,7 +118,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 16618,
+          "seed": -2,
           "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Helm\\U_N_002.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -138,7 +138,7 @@
       "items": [
         {
           "stackSize": 1,
-          "seed": 24867,
+          "seed": -2,
           "baseName": "records\\item\\equipmentarmor\\us_e_tempest.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -153,7 +153,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 10291,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentHelm\\US_E_Tempest.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -168,7 +168,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 11102,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentArmband\\US_E_Tempest.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -183,7 +183,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 14922,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentGreaves\\US_E_Tempest.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -198,7 +198,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 11107,
+          "seed": -2,
           "baseName": "records\\item\\equipmentweapon\\club\\us_e_tempest.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -218,7 +218,7 @@
       "items": [
         {
           "stackSize": 1,
-          "seed": 22579,
+          "seed": -2,
           "baseName": "records\\item\\equipmentarmor\\us_e_warrior'spanoply.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -233,7 +233,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 4837,
+          "seed": -2,
           "baseName": "records\\item\\equipmenthelm\\us_e_warrior'spanoply.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -248,7 +248,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 3382,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentArmband\\US_E_Warrior'sPanoply.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -263,7 +263,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 24935,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentGreaves\\US_E_Warrior'sPanoply.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -283,7 +283,7 @@
       "items": [
         {
           "stackSize": 1,
-          "seed": 23958,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentArmor\\US_E_ArmorofTroy.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -298,7 +298,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 18334,
+          "seed": -2,
           "baseName": "records\\item\\equipmenthelm\\us_e_armoroftroy.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -313,7 +313,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 2638,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentArmband\\US_E_ArmorofTroy.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -328,7 +328,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 3823,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentGreaves\\US_E_ArmorofTroy.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -348,7 +348,7 @@
       "items": [
         {
           "stackSize": 1,
-          "seed": 2177,
+          "seed": -2,
           "baseName": "records\\item\\equipmentarmor\\us_e_warden'scharge.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -363,7 +363,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 19035,
+          "seed": -2,
           "baseName": "records\\item\\equipmenthelm\\us_e_warden'scharge.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -378,7 +378,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 26224,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentArmband\\US_E_Warden'sCharge.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -393,7 +393,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 8581,
+          "seed": -2,
           "baseName": "records\\item\\equipmentgreaves\\us_e_warden'scharge.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -408,7 +408,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 1657,
+          "seed": -2,
           "baseName": "records\\item\\equipmentweapon\\club\\us_e_warden'scharge.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -423,7 +423,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 9860,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentShield\\US_E_Warden'sCharge.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -443,7 +443,7 @@
       "items": [
         {
           "stackSize": 1,
-          "seed": 25869,
+          "seed": -2,
           "baseName": "records\\item\\equipmentarmor\\us_e_firewalker'ssuit.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -458,7 +458,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 25322,
+          "seed": -2,
           "baseName": "records\\item\\equipmenthelm\\us_e_firewalker'ssuit.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -473,7 +473,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 19908,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentArmband\\US_E_Firewalker'sSuit.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -488,7 +488,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 3823,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentGreaves\\US_E_Firewalker'sSuit.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -508,7 +508,7 @@
       "items": [
         {
           "stackSize": 1,
-          "seed": 23331,
+          "seed": -2,
           "baseName": "records\\item\\equipmentarmor\\us_e_thesphinx.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -523,7 +523,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 4271,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentHelm\\US_E_TheSphinx.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -538,7 +538,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 19302,
+          "seed": -2,
           "baseName": "records\\item\\equipmentarmband\\us_e_thesphinx.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -553,7 +553,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 6931,
+          "seed": -2,
           "baseName": "records\\item\\equipmentgreaves\\us_e_thesphinx.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -568,7 +568,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 3661,
+          "seed": -2,
           "baseName": "records\\item\\equipmentweapon\\club\\us_e_thesphinx.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -588,7 +588,7 @@
       "items": [
         {
           "stackSize": 1,
-          "seed": 11652,
+          "seed": -2,
           "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Torso\\US_E_002.dbr",
           "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Defensive_ResistFire_02.dbr",
           "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AttributeEnergy_02.dbr",
@@ -603,7 +603,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 743,
+          "seed": -2,
           "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Helm\\US_E_002.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -618,7 +618,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 23118,
+          "seed": -2,
           "baseName": "records\\xpack\\item\\equipmentarmor\\greaves\\us_e_002.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -638,7 +638,7 @@
       "items": [
         {
           "stackSize": 1,
-          "seed": 14892,
+          "seed": -2,
           "baseName": "records\\xpack\\item\\equipmentarmor\\torso\\us_e_001.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -653,7 +653,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 13376,
+          "seed": -2,
           "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Helm\\US_E_001.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -668,7 +668,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 8438,
+          "seed": -2,
           "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Armband\\US_E_001.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -688,7 +688,7 @@
       "items": [
         {
           "stackSize": 1,
-          "seed": 11228,
+          "seed": -2,
           "baseName": "records\\xpack\\item\\equipmentarmor\\torso\\us_e_004.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -703,7 +703,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 26801,
+          "seed": -2,
           "baseName": "records\\xpack\\item\\equipmentarmor\\helm\\us_e_004.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -718,7 +718,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 23006,
+          "seed": -2,
           "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Armband\\US_E_004.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -733,7 +733,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 3287,
+          "seed": -2,
           "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Greaves\\US_E_004.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -748,7 +748,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 18103,
+          "seed": -2,
           "baseName": "Records\\XPack\\Item\\EquipmentWeapons\\Sword\\US_E_004.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -768,7 +768,7 @@
       "items": [
         {
           "stackSize": 1,
-          "seed": 14578,
+          "seed": -2,
           "baseName": "Records\\XPack3\\Items\\EquipmentWeapon\\Shield\\u_n_Set12.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -783,7 +783,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 17233,
+          "seed": -2,
           "baseName": "records\\xpack3\\items\\equipmentweapon\\club\\u_n_set12.dbr",
           "prefixName": "",
           "suffixName": "",

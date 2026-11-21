@@ -8,7 +8,7 @@
       "items": [
         {
           "stackSize": 1,
-          "seed": 13494,
+          "seed": -2,
           "baseName": "Records\\XPack\\Item\\EquipmentWeapons\\Club\\MI_N_Anteok.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -23,7 +23,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 20150,
+          "seed": -2,
           "baseName": "Records\\XPack3\\Items\\EquipmentWeapon\\Club\\MI_N_PotamoiWarrior.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -38,7 +38,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 13314,
+          "seed": -2,
           "baseName": "Records\\XPack\\Item\\EquipmentWeapons\\Club\\MI_N_Gigantes.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -53,7 +53,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 9623,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentWeapon\\Axe\\MI_N_MinotaurLord.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -68,7 +68,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 4409,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentWeapon\\Club\\MI_N_IchthianMelee.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -83,7 +83,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 26121,
+          "seed": -2,
           "baseName": "Records\\XPack3\\Items\\EquipmentWeapon\\Club\\MI_N_Serpentoid.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -98,7 +98,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 25252,
+          "seed": -2,
           "baseName": "Records\\XPack3\\Items\\EquipmentWeapon\\Club\\MI_N_TritonWarrior.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -113,7 +113,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 2972,
+          "seed": -2,
           "baseName": "Records\\XPack\\Item\\EquipmentWeapons\\Club\\MI_N_Troglodyte.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -128,7 +128,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 5450,
+          "seed": -2,
           "baseName": "Records\\XPack2\\Item\\EquipmentWeapons\\Club\\MI_N_Troll.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -143,7 +143,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 23809,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentWeapon\\Club\\MI_N_SatyrGuardian.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -152,7 +152,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 688195208,
+          "var2": 2035248,
           "pointX": 0,
           "pointY": 0
         }
@@ -163,7 +163,7 @@
       "items": [
         {
           "stackSize": 1,
-          "seed": 32718,
+          "seed": -2,
           "baseName": "Records\\XPack2\\Item\\EquipmentWeapons\\Club\\MI_N_Dvergr.dbr",
           "prefixName": "",
           "suffixName": "",

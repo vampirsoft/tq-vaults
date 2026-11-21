@@ -8,7 +8,7 @@
       "items": [
         {
           "stackSize": 1,
-          "seed": 23221,
+          "seed": -2,
           "baseName": "records\\item\\equipmentarmor\\us_e_crystallinearray.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -23,7 +23,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 31719,
+          "seed": -2,
           "baseName": "records\\item\\equipmenthelm\\us_e_crystallinearray.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -38,7 +38,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 20409,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentGreaves\\US_E_CrystallineArray.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -53,7 +53,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 15852,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentArmband\\US_E_CrystallineArray.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -68,7 +68,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 9420,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentWeapon\\Sword\\US_E_CrystallineArray.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -103,7 +103,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 17826,
+          "seed": -2,
           "baseName": "records\\item\\equipmenthelm\\us_l_nemeanlionhide.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -133,7 +133,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 8361,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentArmband\\US_L_NemeanLionHide.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -153,7 +153,7 @@
       "items": [
         {
           "stackSize": 1,
-          "seed": 23368,
+          "seed": -2,
           "baseName": "Records\\XPack\\Item\\EquipmentWeapons\\Shield\\US_E_003.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -168,7 +168,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 24187,
+          "seed": -2,
           "baseName": "Records\\XPack\\Item\\EquipmentWeapons\\Sword\\US_E_003.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -188,7 +188,7 @@
       "items": [
         {
           "stackSize": 1,
-          "seed": 25118,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentShield\\US_L_ChildrenofAres.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -203,7 +203,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 3163,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentArmband\\US_L_ChildrenofAres.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -218,7 +218,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 3781,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentWeapon\\Sword\\US_L_ChildrenofAres.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -238,7 +238,7 @@
       "items": [
         {
           "stackSize": 1,
-          "seed": 6764,
+          "seed": -2,
           "baseName": "records\\xpack2\\item\\equipmentarmor\\torso\\us_l_donarsmight.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -268,7 +268,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 25538,
+          "seed": -2,
           "baseName": "records\\xpack2\\item\\equipmentweapons\\1hranged\\us_l_donarsmight.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -288,7 +288,7 @@
       "items": [
         {
           "stackSize": 1,
-          "seed": 31485,
+          "seed": -2,
           "baseName": "records\\xpack2\\item\\equipmentarmor\\torso\\usm_e_shade.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -303,7 +303,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 22825,
+          "seed": -2,
           "baseName": "records\\xpack2\\item\\equipmentarmor\\helm\\usm_e_shade.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -318,7 +318,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 24306,
+          "seed": -2,
           "baseName": "records\\xpack2\\item\\equipmentarmor\\armband\\usm_e_shade.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -333,7 +333,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 15068,
+          "seed": -2,
           "baseName": "records\\xpack2\\item\\equipmentarmor\\greaves\\usm_e_shade.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -348,7 +348,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 9239,
+          "seed": -2,
           "baseName": "records\\xpack2\\item\\equipmentweapons\\shield\\usm_e_shade.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -363,7 +363,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 27933,
+          "seed": -2,
           "baseName": "records\\xpack2\\item\\equipmentweapons\\bow\\usm_e_shade.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -378,7 +378,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 21472,
+          "seed": -2,
           "baseName": "records\\xpack2\\item\\equipmentweapons\\staff\\usm_e_shade.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -398,7 +398,7 @@
       "items": [
         {
           "stackSize": 1,
-          "seed": 5345,
+          "seed": -2,
           "baseName": "records\\item\\equipmenthelm\\u_l_hector'sflashinghelm.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -413,7 +413,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 28977,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentShield\\U_L_HectorsShimmeringShield.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -428,7 +428,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 8421,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentWeapon\\Spear\\U_E_Hector'sSpear.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -448,7 +448,7 @@
       "items": [
         {
           "stackSize": 1,
-          "seed": 747,
+          "seed": -2,
           "baseName": "records\\item\\equipmentarmor\\u_l_armorofachilles.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -463,7 +463,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 13314,
+          "seed": -2,
           "baseName": "records\\item\\equipmentshield\\u_l_achilles'shield.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -478,7 +478,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 30299,
+          "seed": -2,
           "baseName": "records\\item\\equipmentweapon\\spear\\u_l_achilles'spear.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -498,7 +498,7 @@
       "items": [
         {
           "stackSize": 1,
-          "seed": 28931,
+          "seed": -2,
           "baseName": "records\\item\\equipmentarmor\\us_l_alexander'spanoply.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -513,7 +513,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 4079,
+          "seed": -2,
           "baseName": "records\\item\\equipmenthelm\\us_l_alexander'spanoply.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -528,7 +528,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 693,
+          "seed": -2,
           "baseName": "records\\item\\equipmentarmband\\us_l_alexander'spanoply.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -543,7 +543,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 13619,
+          "seed": -2,
           "baseName": "records\\item\\equipmentgreaves\\us_l_alexander'spanoply.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -558,7 +558,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 515,
+          "seed": -2,
           "baseName": "records\\item\\equipmentshield\\us_l_alexander'spanoply.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -573,7 +573,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 5763,
+          "seed": -2,
           "baseName": "records\\item\\equipmentweapon\\spear\\us_l_alexander'spanoply.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -608,7 +608,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 29555,
+          "seed": -2,
           "baseName": "records\\xpack\\item\\equipmentarmor\\helm\\us_l_002.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -623,7 +623,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 29756,
+          "seed": -2,
           "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Greaves\\US_L_002.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -638,7 +638,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 27983,
+          "seed": -2,
           "baseName": "records\\xpack\\item\\equipmentweapons\\spear\\us_l_002.dbr",
           "prefixName": "",
           "suffixName": "",

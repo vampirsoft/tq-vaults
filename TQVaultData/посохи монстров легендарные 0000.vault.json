@@ -8,7 +8,7 @@
       "items": [
         {
           "stackSize": 1,
-          "seed": 21476,
+          "seed": -2,
           "baseName": "records\\item\\equipmentweapon\\staff\\mi_l_liche.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -23,7 +23,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 17638,
+          "seed": -2,
           "baseName": "records\\item\\equipmentweapon\\staff\\mi_l_satyrmage.dbr",
           "prefixName": "",
           "suffixName": "",

@@ -8,7 +8,7 @@
       "items": [
         {
           "stackSize": 1,
-          "seed": 30234,
+          "seed": -2,
           "baseName": "records\\xpack2\\item\\equipmentweapons\\1hranged\\mi_e_maenad.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -23,7 +23,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 1368,
+          "seed": -2,
           "baseName": "records\\xpack2\\item\\equipmentweapons\\1hranged\\mi_e_skeleton.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -38,7 +38,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 2904,
+          "seed": -2,
           "baseName": "records\\xpack2\\item\\equipmentweapons\\1hranged\\mi_e_tigerman.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -53,7 +53,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 2411,
+          "seed": -2,
           "baseName": "Records\\XPack3\\Items\\EquipmentWeapon\\1hRanged\\MI_E_Monkeyman.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -68,7 +68,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 24929,
+          "seed": -2,
           "baseName": "Records\\XPack3\\Items\\EquipmentWeapon\\1hRanged\\MI_E_PotamoiWarrior.dbr",
           "prefixName": "",
           "suffixName": "",

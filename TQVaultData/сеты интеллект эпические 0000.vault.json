@@ -8,7 +8,7 @@
       "items": [
         {
           "stackSize": 1,
-          "seed": 24624,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentWeapon\\Staff\\US_N_Necromancer'sHabiliment.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -23,7 +23,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 17150,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentGreaves\\USm_N_Necromancer'sHabiliment.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -38,7 +38,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 27546,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentArmband\\USm_N_Necromancer'sHabiliment.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -53,7 +53,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 4699,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentHelm\\USm_N_Necromancer'sHabiliment.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -68,7 +68,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 19573,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentArmor\\USm_N_Necromancer'sHabiliment.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -88,7 +88,7 @@
       "items": [
         {
           "stackSize": 1,
-          "seed": 12224,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentArmor\\USm_N_Oracle'sGarments.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -103,7 +103,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 24175,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentGreaves\\USm_N_Oracle'sGarments.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -118,7 +118,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 21414,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentHelm\\USm_N_Oracle'sGarments.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -127,13 +127,13 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 62189632,
+          "var2": 2035248,
           "pointX": 0,
           "pointY": 3
         },
         {
           "stackSize": 1,
-          "seed": 6763,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentArmband\\USm_N_Oracle'sGarments.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -142,7 +142,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 62189632,
+          "var2": 2035248,
           "pointX": 0,
           "pointY": 5
         }
@@ -153,7 +153,7 @@
       "items": [
         {
           "stackSize": 1,
-          "seed": 18949,
+          "seed": -2,
           "baseName": "records\\xpack\\item\\le_new\\secreto_torso.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -168,7 +168,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 2174,
+          "seed": -2,
           "baseName": "records\\xpack\\item\\le_new\\secreto_shield.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -183,7 +183,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 21621,
+          "seed": -2,
           "baseName": "records\\xpack\\item\\le_new\\secreto_helm.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -198,7 +198,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 617,
+          "seed": -2,
           "baseName": "records\\xpack\\item\\le_new\\secreto_greaves.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -213,7 +213,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 7631,
+          "seed": -2,
           "baseName": "records\\xpack\\item\\le_new\\secreto_club.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -233,7 +233,7 @@
       "items": [
         {
           "stackSize": 1,
-          "seed": 10254,
+          "seed": -2,
           "baseName": "records\\item\\equipmentarmband\\usm_n_ronzer'sgift.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -248,7 +248,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 16048,
+          "seed": -2,
           "baseName": "records\\item\\equipmentring\\us_n_ronzer'sgift.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -283,7 +283,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 11380,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentArmor\\USm_E_UmbralRaiment.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -298,7 +298,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 10312,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentHelm\\USm_E_UmbralRaiment.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -313,7 +313,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 26146,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentArmband\\USm_E_UmbralRaiment.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -333,7 +333,7 @@
       "items": [
         {
           "stackSize": 1,
-          "seed": 21078,
+          "seed": -2,
           "baseName": "records\\item\\equipmentarmor\\usm_e_adept'sregalia.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -348,7 +348,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 4190,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentHelm\\USm_E_Adept'sRegalia.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -363,7 +363,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 24443,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentArmband\\USm_E_Adept'sRegalia.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -378,7 +378,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 25633,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentGreaves\\USm_E_Adept'sRegalia.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -398,7 +398,7 @@
       "items": [
         {
           "stackSize": 1,
-          "seed": 3649,
+          "seed": -2,
           "baseName": "records\\item\\equipmentweapon\\staff\\us_e_raimentofthestorm.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -413,7 +413,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 12375,
+          "seed": -2,
           "baseName": "records\\item\\equipmentarmor\\usm_e_raimentofthestorm.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -428,7 +428,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 5721,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentHelm\\USm_E_RaimentoftheStorm.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -443,7 +443,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 8659,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentArmband\\USm_E_RaimentoftheStorm.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -463,7 +463,7 @@
       "items": [
         {
           "stackSize": 1,
-          "seed": 32370,
+          "seed": -2,
           "baseName": "records\\item\\equipmentarmor\\usm_e_pyromancer'sguard.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -478,7 +478,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 31679,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentHelm\\USm_E_Pyromancer'sGuard.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -493,7 +493,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 5353,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentArmband\\USm_E_Pyromancer'sGuard.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -513,7 +513,7 @@
       "items": [
         {
           "stackSize": 1,
-          "seed": 19392,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentArmband\\Um_N_JadeClasp.dbr",
           "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Defensive_ResistLightning_02.dbr",
           "suffixName": "",
@@ -528,7 +528,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 11807,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentRing\\U_N_JadeBand.dbr",
           "prefixName": "",
           "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AttributeLife_03.dbr",
@@ -543,7 +543,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 17483,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentArmband\\Um_N_JadeClasp.dbr",
           "prefixName": "",
           "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AbilityOffensive_03.dbr",
@@ -558,7 +558,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 22243,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentAmulet\\U_N_JadeTotem.dbr",
           "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Defensive_ResistPoison_02.dbr",
           "suffixName": "",
@@ -573,7 +573,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 152,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentArmband\\Um_N_JadeClasp.dbr",
           "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Defensive_ResistPoison_03.dbr",
           "suffixName": "",
@@ -588,7 +588,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 4949,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentRing\\U_N_JadeBand.dbr",
           "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Character_SkillMasteryA_01.dbr",
           "suffixName": "",
@@ -603,7 +603,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 30959,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentRing\\U_N_JadeBand.dbr",
           "prefixName": "",
           "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_RegenLife_02.dbr",
@@ -618,7 +618,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 13252,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentAmulet\\U_N_JadeTotem.dbr",
           "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Character_SkillMasteryD_01.dbr",
           "suffixName": "",
@@ -633,7 +633,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 16433,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentAmulet\\U_N_JadeTotem.dbr",
           "prefixName": "",
           "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AttributeEnergy_02.dbr",
@@ -648,7 +648,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 29847,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentAmulet\\U_N_JadeTotem.dbr",
           "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Character_AttributeEnergy_02.dbr",
           "suffixName": "",
@@ -663,7 +663,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 8169,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentAmulet\\U_N_JadeTotem.dbr",
           "prefixName": "",
           "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Offensive_+%Cold_01.dbr",
@@ -683,7 +683,7 @@
       "items": [
         {
           "stackSize": 1,
-          "seed": 14649,
+          "seed": -2,
           "baseName": "Records\\XPack3\\Items\\EquipmentArmor\\Torso\\um_n_Set09.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -698,7 +698,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 20488,
+          "seed": -2,
           "baseName": "records\\xpack3\\items\\equipmentarmor\\helm\\um_n_set09.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -713,7 +713,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 13683,
+          "seed": -2,
           "baseName": "records\\xpack3\\items\\equipmentarmor\\greaves\\out\\um_n_set09.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -728,7 +728,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 4187,
+          "seed": -2,
           "baseName": "Records\\XPack3\\Items\\EquipmentArmor\\Armband\\um_n_Set09.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -743,7 +743,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 31759,
+          "seed": -2,
           "baseName": "records\\xpack3\\items\\equipmentarmor\\ring\\um_n_set09.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -763,7 +763,7 @@
       "items": [
         {
           "stackSize": 1,
-          "seed": 5265,
+          "seed": -2,
           "baseName": "records\\item\\equipmentarmband\\um_e_crystalbracelet.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -778,7 +778,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 21020,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentAmulet\\U_E_CrystalTotem.dbr",
           "prefixName": "",
           "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_CooldownReduction_02.dbr",
@@ -793,7 +793,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 4454,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentRing\\U_E_CrystalRing.dbr",
           "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Defensive_ResistPierce_03.dbr",
           "suffixName": "",
@@ -813,7 +813,7 @@
       "items": [
         {
           "stackSize": 1,
-          "seed": 31668,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentWeapon\\Staff\\US_E_HabilimentsoftheDruid.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -828,7 +828,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 26319,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentArmor\\USm_E_HabilimentsoftheDruid.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -843,7 +843,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 27543,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentArmband\\USm_E_HabilimentsoftheDruid.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -858,7 +858,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 14893,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentHelm\\USm_E_HabilimentsoftheDruid.dbr",
           "prefixName": "",
           "suffixName": "",

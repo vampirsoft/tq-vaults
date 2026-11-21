@@ -8,7 +8,7 @@
       "items": [
         {
           "stackSize": 1,
-          "seed": 17118,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentRing\\US_E_Gladiator'sCreed01.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -23,7 +23,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 11252,
+          "seed": -2,
           "baseName": "records\\item\\equipmentring\\us_e_gladiator'screed02.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -38,7 +38,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 7184,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentRing\\US_E_Gladiator'sCreed01.dbr",
           "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Defensive_Protection_06.dbr",
           "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AttributeStrength_05.dbr",
@@ -53,7 +53,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 29747,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentRing\\US_E_Gladiator'sCreed02.dbr",
           "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Defensive_Protection_07.dbr",
           "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AttributeLife_06.dbr",
@@ -73,7 +73,7 @@
       "items": [
         {
           "stackSize": 1,
-          "seed": 624,
+          "seed": -2,
           "baseName": "records\\xpack4\\item\\equipmentarmor\\torso\\us_l_dragonkingslamellar.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -88,7 +88,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 28839,
+          "seed": -2,
           "baseName": "records\\xpack4\\item\\equipmentarmor\\helm\\us_l_dragonkingsmantle.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -103,7 +103,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 16298,
+          "seed": -2,
           "baseName": "records\\xpack4\\item\\equipmentarmor\\armband\\us_l_dragonkingstalons.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -118,7 +118,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 11112,
+          "seed": -2,
           "baseName": "records\\xpack4\\item\\equipmentarmor\\greaves\\us_l_dragonkingsstride.dbr",
           "prefixName": "",
           "suffixName": "",

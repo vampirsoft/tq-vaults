@@ -1,14 +1,14 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 2,
+  "currentlySelectedSackNumber": 0,
   "sacks": [
     {
       "iconinfo": null,
       "items": [
         {
           "stackSize": 1,
-          "seed": 26149,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentWeapon\\Staff\\MI_E_SatyrMage.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -23,7 +23,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 8347,
+          "seed": -2,
           "baseName": "records\\item\\equipmentweapon\\staff\\mi_e_liche.dbr",
           "prefixName": "",
           "suffixName": "",

@@ -8,7 +8,7 @@
       "items": [
         {
           "stackSize": 1,
-          "seed": 4257,
+          "seed": -2,
           "baseName": "records\\xpack3\\items\\equipmentweapon\\1hranged\\u_e_01.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -38,7 +38,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 15638,
+          "seed": -2,
           "baseName": "records\\xpack2\\item\\equipmentweapons\\1hranged\\u_e_09.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -83,7 +83,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 12205,
+          "seed": -2,
           "baseName": "records\\xpack3\\items\\equipmentweapon\\1hranged\\u_l_01.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -98,7 +98,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 15521,
+          "seed": -2,
           "baseName": "records\\xpack2\\item\\equipmentweapons\\1hranged\\u_e_01.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -113,7 +113,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 13192,
+          "seed": -2,
           "baseName": "records\\xpack2\\item\\equipmentweapons\\1hranged\\u_e_03.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -128,7 +128,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 23884,
+          "seed": -2,
           "baseName": "records\\xpack2\\item\\equipmentweapons\\1hranged\\u_e_05.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -208,7 +208,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 17813,
+          "seed": -2,
           "baseName": "records\\xpack2\\item\\equipmentweapons\\1hranged\\u_l_10.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -228,7 +228,7 @@
       "items": [
         {
           "stackSize": 1,
-          "seed": 1870,
+          "seed": -2,
           "baseName": "records\\xpack3\\items\\equipmentweapon\\1hranged\\u_e_02.dbr",
           "prefixName": "",
           "suffixName": "",

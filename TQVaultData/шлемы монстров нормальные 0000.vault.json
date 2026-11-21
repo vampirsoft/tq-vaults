@@ -1,14 +1,14 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 0,
+  "currentlySelectedSackNumber": 7,
   "sacks": [
     {
       "iconinfo": null,
       "items": [
         {
           "stackSize": 1,
-          "seed": 10779,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentHelm\\MI_N_SatyrMage.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -23,7 +23,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 27382,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentHelm\\MI_N_JackalmanMage.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -38,7 +38,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 24257,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentHelm\\MI_N_Mummy.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -53,7 +53,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 22565,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentHelm\\MI_N_IchthianMage.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -68,7 +68,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 2531,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentHelm\\MI_N_NeanderthalMage.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -83,7 +83,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 17083,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentHelm\\MI_N_Bandari.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -98,7 +98,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 8651,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentHelm\\MI_N_TigermanMage.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -113,7 +113,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 12693,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentHelm\\MI_N_Gorgon.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -133,7 +133,7 @@
       "items": [
         {
           "stackSize": 1,
-          "seed": 18711,
+          "seed": -2,
           "baseName": "Records\\XPack3\\Items\\EquipmentArmor\\Helm\\MI_N_HesperideMage.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -148,7 +148,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 1301,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentHelm\\MI_N_Liche.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -163,7 +163,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 6639,
+          "seed": -2,
           "baseName": "Records\\XPack3\\Items\\EquipmentArmor\\Helm\\MI_N_PotamoiMageMage.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -178,7 +178,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 22745,
+          "seed": -2,
           "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Helm\\MI_N_FormicidMage01.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -193,7 +193,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 5144,
+          "seed": -2,
           "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Helm\\MI_N_KeresMage.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -213,7 +213,7 @@
       "items": [
         {
           "stackSize": 1,
-          "seed": 12424,
+          "seed": -2,
           "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Helm\\MI_N_EmpusaMage.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -228,7 +228,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 22289,
+          "seed": -2,
           "baseName": "records\\xpack2\\item\\equipmentarmor\\helm\\mi_n_draugr.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -243,7 +243,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 21732,
+          "seed": -2,
           "baseName": "records\\xpack2\\item\\equipmentarmor\\helm\\mi_n_kelpie.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -263,7 +263,7 @@
       "items": [
         {
           "stackSize": 1,
-          "seed": 1395,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentHelm\\MI_N_Arachnos.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -278,7 +278,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 26495,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentHelm\\MI_N_GorgonMelee.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -293,7 +293,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 9135,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentHelm\\MI_N_GoldenSkeleton.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -308,7 +308,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 21678,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentHelm\\MI_N_NeanderthalMelee.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -323,7 +323,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 23688,
+          "seed": -2,
           "baseName": "Records\\XPack3\\Items\\EquipmentArmor\\Helm\\MI_N_TritonWarriorMelee.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -338,7 +338,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 15786,
+          "seed": -2,
           "baseName": "records\\xpack2\\item\\equipmentarmor\\helm\\mi_n_troll.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -353,7 +353,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 12424,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentHelm\\MI_N_Centaur.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -368,7 +368,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 26858,
+          "seed": -2,
           "baseName": "records\\xpack2\\item\\equipmentarmor\\helm\\mi_n_merfolk.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -388,7 +388,7 @@
       "items": [
         {
           "stackSize": 1,
-          "seed": 9308,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentHelm\\MI_N_TropicalArachnos.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -403,7 +403,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 8973,
+          "seed": -2,
           "baseName": "records\\xpack\\item\\equipmentarmor\\helm\\mi_n_lamiamelee.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -418,7 +418,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 18549,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentHelm\\MI_N_RatmanChampion.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -433,7 +433,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 10858,
+          "seed": -2,
           "baseName": "Records\\XPack3\\Items\\EquipmentArmor\\Helm\\MI_N_EmbalmedPriestMelee.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -448,7 +448,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 26515,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentHelm\\MI_N_TigermanChampion.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -463,7 +463,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 31445,
+          "seed": -2,
           "baseName": "Records\\XPack3\\Items\\EquipmentArmor\\Helm\\MI_N_CoralGuardianMelee.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -478,7 +478,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 31316,
+          "seed": -2,
           "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Helm\\MI_N_FormicidMelee01.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -493,7 +493,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 24799,
+          "seed": -2,
           "baseName": "Records\\XPack3\\Items\\EquipmentArmor\\Helm\\MI_N_PotamoiWarriorMelee.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -508,7 +508,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 23603,
+          "seed": -2,
           "baseName": "records\\xpack2\\item\\equipmentarmor\\helm\\mi_n_banditgreek.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -528,7 +528,7 @@
       "items": [
         {
           "stackSize": 1,
-          "seed": 10840,
+          "seed": -2,
           "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Helm\\MI_N_FormicidMelee02.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -543,7 +543,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 29007,
+          "seed": -2,
           "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Helm\\MI_N_MachaeMelee.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -558,7 +558,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 19508,
+          "seed": -2,
           "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Helm\\MI_N_KeresMelee.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -573,7 +573,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 8973,
+          "seed": -2,
           "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Helm\\MI_N_TroglodyteMelee.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -588,7 +588,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 23181,
+          "seed": -2,
           "baseName": "records\\xpack2\\item\\equipmentarmor\\helm\\mi_n_einherjar.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -603,7 +603,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 27816,
+          "seed": -2,
           "baseName": "records\\xpack2\\item\\equipmentarmor\\helm\\mi_n_dvergrmelee.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -618,7 +618,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 4277,
+          "seed": -2,
           "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Helm\\MI_N_GigantesMelee01.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -633,7 +633,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 8334,
+          "seed": -2,
           "baseName": "records\\xpack2\\item\\equipmentarmor\\helm\\mi_n_eldjotun.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -648,7 +648,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 32140,
+          "seed": -2,
           "baseName": "records\\xpack2\\item\\equipmentarmor\\helm\\mi_n_fjordmelee.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -672,7 +672,7 @@
       "items": [
         {
           "stackSize": 1,
-          "seed": 9176,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentHelm\\MI_N_GorgonArcher.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -687,7 +687,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 2653,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentHelm\\MI_N_DesertHag.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -702,7 +702,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 30087,
+          "seed": -2,
           "baseName": "Records\\XPack3\\Items\\EquipmentArmor\\Helm\\MI_N_MonkeymanMelee.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -717,7 +717,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 7512,
+          "seed": -2,
           "baseName": "Records\\XPack3\\Items\\EquipmentArmor\\Helm\\MI_N_SerpentoidMelee.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -732,7 +732,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 22233,
+          "seed": -2,
           "baseName": "records\\xpack2\\item\\equipmentarmor\\helm\\mi_n_alfr.dbr",
           "prefixName": "",
           "suffixName": "",

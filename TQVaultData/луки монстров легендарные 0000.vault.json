@@ -8,7 +8,7 @@
       "items": [
         {
           "stackSize": 1,
-          "seed": 10492,
+          "seed": -2,
           "baseName": "records\\item\\equipmentweapon\\bow\\mi_l_satyrbrigand.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -23,7 +23,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 18399,
+          "seed": -2,
           "baseName": "records\\item\\equipmentweapon\\bow\\mi_l_duneraider.dbr",
           "prefixName": "",
           "suffixName": "",

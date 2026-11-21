@@ -8,7 +8,7 @@
       "items": [
         {
           "stackSize": 1,
-          "seed": 30664,
+          "seed": -2,
           "baseName": "Records\\XPack3\\Items\\EquipmentWeapon\\Bow\\MI_N_EmbalmedPriest.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -23,7 +23,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 20828,
+          "seed": -2,
           "baseName": "Records\\XPack3\\Items\\EquipmentWeapon\\Bow\\MI_N_CoralGuardian.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -38,7 +38,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 30609,
+          "seed": -2,
           "baseName": "Records\\XPack\\Item\\EquipmentWeapons\\Bow\\MI_N_Anouran.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -53,7 +53,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 13450,
+          "seed": -2,
           "baseName": "records\\item\\equipmentweapon\\bow\\mi_n_satyrbrigand.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -68,7 +68,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 22743,
+          "seed": -2,
           "baseName": "records\\item\\equipmentweapon\\bow\\mi_n_duneraider.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -83,7 +83,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 11336,
+          "seed": -2,
           "baseName": "Records\\XPack2\\Item\\EquipmentWeapons\\Bow\\MI_N_Draugr.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -98,7 +98,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 29048,
+          "seed": -2,
           "baseName": "Records\\XPack2\\Item\\EquipmentWeapons\\Bow\\MI_N_Alfr.dbr",
           "prefixName": "",
           "suffixName": "",

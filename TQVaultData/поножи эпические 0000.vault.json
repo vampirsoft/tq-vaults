@@ -8,7 +8,7 @@
       "items": [
         {
           "stackSize": 1,
-          "seed": 12031,
+          "seed": -2,
           "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Greaves\\Um_N_003.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -23,7 +23,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 8223,
+          "seed": -2,
           "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Greaves\\Um_N_002.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -38,7 +38,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 3010,
+          "seed": -2,
           "baseName": "records\\item\\equipmentgreaves\\um_e_loratiangreaves.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -53,7 +53,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 16057,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentGreaves\\Um_E_Charon'sFuneralWrappings.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -68,7 +68,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 15649,
+          "seed": -2,
           "baseName": "records\\xpack2\\item\\equipmentarmor\\greaves\\u_n_02.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -83,7 +83,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 2898,
+          "seed": -2,
           "baseName": "Records\\XPack3\\Items\\EquipmentArmor\\Greaves\\um_n_01.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -98,7 +98,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 26706,
+          "seed": -2,
           "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Greaves\\Um_N_001.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -113,7 +113,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 6540,
+          "seed": -2,
           "baseName": "records\\xpack2\\item\\equipmentarmor\\greaves\\u_n_05.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -128,7 +128,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 6248,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentGreaves\\Um_E_TaklamakanLeggings.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -148,7 +148,7 @@
       "items": [
         {
           "stackSize": 1,
-          "seed": 32140,
+          "seed": -2,
           "baseName": "records\\xpack2\\item\\equipmentarmor\\greaves\\u_e_05.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -163,7 +163,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 1064,
+          "seed": -2,
           "baseName": "records\\xpack2\\item\\equipmentarmor\\greaves\\u_e_04.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -183,7 +183,7 @@
       "items": [
         {
           "stackSize": 1,
-          "seed": 18524,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentGreaves\\U_N_GreavesofMarathon.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -198,7 +198,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 13697,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentGreaves\\U_N_ArdentGreaves.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -213,7 +213,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 3669,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentGreaves\\U_N_MedianGreaves.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -228,7 +228,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 17562,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentGreaves\\U_N_JunglerootGreaves.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -243,7 +243,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 13445,
+          "seed": -2,
           "baseName": "Records\\XPack3\\Items\\EquipmentArmor\\Greaves\\u_n_02.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -258,7 +258,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 26030,
+          "seed": -2,
           "baseName": "Records\\XPack\\Item\\equipmentArmor\\Greaves\\U_N_002.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -273,7 +273,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 19254,
+          "seed": -2,
           "baseName": "records\\xpack2\\item\\equipmentarmor\\greaves\\u_n_03.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -288,7 +288,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 286,
+          "seed": -2,
           "baseName": "records\\xpack2\\item\\equipmentarmor\\greaves\\u_n_04.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -303,7 +303,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 30693,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentGreaves\\U_N_Epeius'Greaves.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -323,7 +323,7 @@
       "items": [
         {
           "stackSize": 1,
-          "seed": 32578,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentGreaves\\U_E_Nebuchadnezzar'sGreaves.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -338,7 +338,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 5839,
+          "seed": -2,
           "baseName": "Records\\XPack3\\Items\\EquipmentArmor\\Greaves\\u_n_01.dbr",
           "prefixName": "",
           "suffixName": "",

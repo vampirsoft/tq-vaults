@@ -8,7 +8,7 @@
       "items": [
         {
           "stackSize": 1,
-          "seed": 1333,
+          "seed": -2,
           "baseName": "records\\item\\equipmentweapon\\axe\\mi_l_tigermanchampion.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -23,7 +23,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 19387,
+          "seed": -2,
           "baseName": "records\\item\\equipmentweapon\\axe\\mi_l_neanderthalmelee.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -38,7 +38,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 29163,
+          "seed": -2,
           "baseName": "records\\item\\equipmentweapon\\axe\\mi_l_dragonian.dbr",
           "prefixName": "",
           "suffixName": "",

@@ -8,7 +8,7 @@
       "items": [
         {
           "stackSize": 1,
-          "seed": 28966,
+          "seed": -2,
           "baseName": "records\\item\\equipmentweapon\\spear\\mi_e_centaurtrapper.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -23,7 +23,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 1809,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentWeapon\\Spear\\MI_E_IchthianMelee.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -38,7 +38,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 18899,
+          "seed": -2,
           "baseName": "Records\\XPack3\\Items\\EquipmentWeapon\\Spear\\MI_E_EmbalmedPriest.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -53,7 +53,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 30957,
+          "seed": -2,
           "baseName": "Records\\XPack3\\Items\\EquipmentWeapon\\Spear\\MI_E_Monkeyman.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -68,7 +68,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 31899,
+          "seed": -2,
           "baseName": "Records\\XPack3\\Items\\EquipmentWeapon\\Spear\\MI_E_PotamoiWarrior.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -83,7 +83,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 15323,
+          "seed": -2,
           "baseName": "Records\\XPack\\Item\\EquipmentWeapons\\Spear\\MI_E_Anouran.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -92,7 +92,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 257880128,
+          "var2": 2035248,
           "pointX": 6,
           "pointY": 0
         }

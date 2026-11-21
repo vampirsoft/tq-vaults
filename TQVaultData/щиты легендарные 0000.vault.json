@@ -8,7 +8,7 @@
       "items": [
         {
           "stackSize": 1,
-          "seed": 16261,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentShield\\U_E_LeatherSkinShield.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -23,7 +23,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 7959,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentShield\\U_E_BloodthirsttheGlutton.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -38,7 +38,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 7804,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentShield\\U_E_EbonGreatshield.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -53,7 +53,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 19427,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentShield\\U_E_ShieldoftheKorybantes.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -68,7 +68,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 25487,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentShield\\U_E_ShieldoftheHideousVisage.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -83,7 +83,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 23455,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentShield\\U_E_EidolonShell.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -98,7 +98,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 12911,
+          "seed": -2,
           "baseName": "Records\\XPack3\\Items\\EquipmentWeapon\\Shield\\u_e_02.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -113,7 +113,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 12861,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentShield\\U_E_SunDisc.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -128,7 +128,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 26445,
+          "seed": -2,
           "baseName": "records\\item\\equipmentshield\\u_l_zeno'sthirdparadox.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -148,7 +148,7 @@
       "items": [
         {
           "stackSize": 1,
-          "seed": 12458,
+          "seed": -2,
           "baseName": "Records\\XPack\\Item\\EquipmentWeapons\\Shield\\U_E_001.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -193,7 +193,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 19123,
+          "seed": -2,
           "baseName": "records\\xpack\\item\\equipmentweapons\\shield\\u_e_002.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -208,7 +208,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 21950,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentShield\\U_L_AthenasMirroredShield.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -223,7 +223,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 25510,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentShield\\U_L_CrestofTaurus.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -253,7 +253,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 5621,
+          "seed": -2,
           "baseName": "records\\item\\equipmentshield\\u_l_venomhuskshield.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -363,7 +363,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 14396,
+          "seed": -2,
           "baseName": "Records\\XPack\\Item\\EquipmentWeapons\\Shield\\U_L_001.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -378,7 +378,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 6808,
+          "seed": -2,
           "baseName": "records\\xpack3\\items\\equipmentweapon\\shield\\u_l_02.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -393,7 +393,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 14142,
+          "seed": -2,
           "baseName": "records\\xpack3\\items\\equipmentweapon\\shield\\u_l_01.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -408,7 +408,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 24102,
+          "seed": -2,
           "baseName": "records\\xpack2\\item\\equipmentweapons\\shield\\u_e_02.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -428,7 +428,7 @@
       "items": [
         {
           "stackSize": 1,
-          "seed": 27898,
+          "seed": -2,
           "baseName": "records\\xpack\\item\\equipmentweapons\\shield\\u_l_002.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -443,7 +443,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 8240,
+          "seed": -2,
           "baseName": "records\\xpack4\\item\\equipmentweapon\\shield\\u_l_moxieslegacy.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -458,7 +458,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 5374,
+          "seed": -2,
           "baseName": "records\\xpack4\\item\\equipmentweapon\\shield\\u_l_reflectionofself.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -503,7 +503,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 32308,
+          "seed": -2,
           "baseName": "records\\xpack2\\item\\equipmentweapons\\shield\\u_l_02.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -518,7 +518,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 30032,
+          "seed": -2,
           "baseName": "Records\\XPack3\\Items\\EquipmentWeapon\\Shield\\u_e_01.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -533,7 +533,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 31016,
+          "seed": -2,
           "baseName": "records\\xpack4\\item\\equipmentweapon\\shield\\u_l_royaldecree.dbr",
           "prefixName": "",
           "suffixName": "",

@@ -1,14 +1,14 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 0,
+  "currentlySelectedSackNumber": 2,
   "sacks": [
     {
       "iconinfo": null,
       "items": [
         {
           "stackSize": 1,
-          "seed": 23118,
+          "seed": -2,
           "baseName": "Records\\XPack3\\Items\\EquipmentWeapon\\Staff\\MI_N_EmbalmedPriest_Fire.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -23,7 +23,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 20951,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentWeapon\\Staff\\MI_N_Liche.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -38,7 +38,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 5503,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentWeapon\\Staff\\MI_N_SatyrMage.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -58,7 +58,7 @@
       "items": [
         {
           "stackSize": 1,
-          "seed": 21377,
+          "seed": -2,
           "baseName": "Records\\XPack3\\Items\\EquipmentWeapon\\Staff\\MI_N_Serpentoid_Frost.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -78,7 +78,7 @@
       "items": [
         {
           "stackSize": 1,
-          "seed": 20402,
+          "seed": -2,
           "baseName": "Records\\XPack3\\Items\\EquipmentWeapon\\Staff\\MI_N_TritonWitch_Lightning.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -93,7 +93,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 24339,
+          "seed": -2,
           "baseName": "Records\\XPack\\Item\\EquipmentWeapons\\Staff\\MI_N_Keres.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -108,7 +108,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 8865,
+          "seed": -2,
           "baseName": "Records\\XPack\\Item\\EquipmentWeapons\\Staff\\MI_N_Empousa.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -123,7 +123,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 11753,
+          "seed": -2,
           "baseName": "records\\xpack2\\item\\equipmentweapons\\staff\\MI_N_nerthusshaman.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -138,7 +138,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 31540,
+          "seed": -2,
           "baseName": "records\\xpack2\\item\\equipmentweapons\\staff\\MI_N_fjordmage.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -153,7 +153,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 7813,
+          "seed": -2,
           "baseName": "records\\xpack2\\item\\equipmentweapons\\staff\\MI_N_troll.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -168,7 +168,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 1998,
+          "seed": -2,
           "baseName": "records\\xpack2\\item\\equipmentweapons\\staff\\MI_N_dvergr.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -177,7 +177,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 16,
           "pointY": 0
         }

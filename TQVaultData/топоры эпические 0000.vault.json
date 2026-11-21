@@ -8,7 +8,7 @@
       "items": [
         {
           "stackSize": 1,
-          "seed": 29080,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentWeapon\\Axe\\U_N_Mikros.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -23,7 +23,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 31825,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentWeapon\\Axe\\U_N_HairSplitter.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -38,7 +38,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 3011,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentWeapon\\Axe\\U_N_Butcher'sBride.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -53,7 +53,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 26488,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentWeapon\\Axe\\U_N_Braincleave.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -68,7 +68,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 25912,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentWeapon\\Axe\\U_N_Frostbite.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -83,7 +83,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 13066,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentWeapon\\Axe\\U_N_Thresher.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -98,7 +98,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 16688,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentWeapon\\Axe\\U_N_RagingBull.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -113,7 +113,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 13561,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentWeapon\\Axe\\U_N_Skullcleaver.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -128,7 +128,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 8794,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentWeapon\\Axe\\U_N_Beastrend.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -143,7 +143,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 26270,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentWeapon\\Axe\\U_N_Adranis.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -158,7 +158,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 361,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentWeapon\\Axe\\U_N_CreepingDeath.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -173,7 +173,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 11218,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentWeapon\\Axe\\U_N_Havoc.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -188,7 +188,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 805,
+          "seed": -2,
           "baseName": "records\\item\\equipmentweapon\\axe\\u_n_chiyou'ssiphon.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -208,7 +208,7 @@
       "items": [
         {
           "stackSize": 1,
-          "seed": 21025,
+          "seed": -2,
           "baseName": "Records\\XPack\\Item\\equipmentWeapons\\Axe\\U_N_002.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -223,7 +223,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 19291,
+          "seed": -2,
           "baseName": "Records\\XPack\\Item\\equipmentWeapons\\Axe\\U_N_001.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -238,7 +238,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 607,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentWeapon\\Axe\\U_E_Mesos.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -253,7 +253,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 25532,
+          "seed": -2,
           "baseName": "records\\xpack\\item\\equipmentweapons\\axe\\z_bonusaxe01.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -268,7 +268,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 26102,
+          "seed": -2,
           "baseName": "records\\xpack\\item\\equipmentweapons\\axe\\z_bonusaxe02.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -283,7 +283,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 6220,
+          "seed": -2,
           "baseName": "records\\xpack3\\items\\equipmentweapon\\axe\\u_n_02.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -298,7 +298,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 14156,
+          "seed": -2,
           "baseName": "records\\item\\equipmentweapon\\axe\\u_e_axeoflesbos.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -313,7 +313,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 19815,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentWeapon\\Axe\\U_E_FleshReaver.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -328,7 +328,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 21970,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentWeapon\\Axe\\U_E_AgeAxe.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -343,7 +343,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 21292,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentWeapon\\Axe\\U_E_Megalos.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -358,7 +358,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 21681,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentWeapon\\Axe\\U_E_Snowblind.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -373,7 +373,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 30102,
+          "seed": -2,
           "baseName": "records\\item\\equipmentweapon\\axe\\u_e_minoanfireaxe.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -388,7 +388,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 3188,
+          "seed": -2,
           "baseName": "records\\item\\equipmentweapon\\axe\\u_e_lypikouri.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -408,7 +408,7 @@
       "items": [
         {
           "stackSize": 1,
-          "seed": 17601,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentWeapon\\Axe\\U_E_Zaghnal.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -423,7 +423,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 17140,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentWeapon\\Axe\\U_E_TheMonkeyKing'sGreed.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -438,7 +438,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 2129,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentWeapon\\Axe\\U_E_Onager.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -453,7 +453,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 26181,
+          "seed": -2,
           "baseName": "records\\item\\equipmentweapon\\axe\\u_e_pangu'saxe.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -468,7 +468,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 86,
+          "seed": -2,
           "baseName": "records\\xpack2\\item\\equipmentweapons\\axe\\u_n_03.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -483,7 +483,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 32228,
+          "seed": -2,
           "baseName": "records\\xpack2\\item\\equipmentweapons\\axe\\u_n_01.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -498,7 +498,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 29029,
+          "seed": -2,
           "baseName": "records\\xpack2\\item\\equipmentweapons\\axe\\u_n_02.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -513,7 +513,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 12984,
+          "seed": -2,
           "baseName": "records\\xpack2\\item\\equipmentweapons\\axe\\u_e_01.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -533,7 +533,7 @@
       "items": [
         {
           "stackSize": 1,
-          "seed": 27021,
+          "seed": -2,
           "baseName": "Records\\XPack3\\Items\\EquipmentWeapon\\Axe\\u_n_03.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -548,7 +548,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 14520,
+          "seed": -2,
           "baseName": "records\\xpack3\\items\\equipmentweapon\\axe\\u_n_01.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -563,7 +563,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 20116,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentWeapon\\Axe\\U_N_Brigand'sAxe.dbr",
           "prefixName": "",
           "suffixName": "",

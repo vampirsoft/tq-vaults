@@ -8,7 +8,7 @@
       "items": [
         {
           "stackSize": 1,
-          "seed": 11699,
+          "seed": -2,
           "baseName": "Records\\XPack3\\Items\\EquipmentArmor\\Greaves\\um_e_01.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -23,7 +23,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 19187,
+          "seed": -2,
           "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Greaves\\Um_E_003.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -38,7 +38,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 8914,
+          "seed": -2,
           "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Greaves\\Um_E_001.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -53,7 +53,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 28146,
+          "seed": -2,
           "baseName": "records\\xpack3\\items\\equipmentarmor\\greaves\\um_l_01.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -68,7 +68,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 3811,
+          "seed": -2,
           "baseName": "records\\xpack\\item\\equipmentarmor\\greaves\\um_l_001.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -83,7 +83,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 2796,
+          "seed": -2,
           "baseName": "records\\xpack\\item\\equipmentarmor\\greaves\\um_l_002.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -98,7 +98,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 605,
+          "seed": -2,
           "baseName": "records\\xpack4\\item\\equipmentarmor\\greaves\\u_l_thesandalsofthedragonprincess.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -113,7 +113,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 6923,
+          "seed": -2,
           "baseName": "records\\xpack4\\item\\equipmentarmor\\greaves\\u_l_lightningmotherswrappings.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -128,7 +128,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 421,
+          "seed": -2,
           "baseName": "records\\xpack4\\item\\equipmentarmor\\greaves\\u_l_isetssandals.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -148,7 +148,7 @@
       "items": [
         {
           "stackSize": 1,
-          "seed": 18558,
+          "seed": -2,
           "baseName": "records\\xpack4\\item\\equipmentarmor\\greaves\\u_l_bootsofpakhetsswiftness.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -168,7 +168,7 @@
       "items": [
         {
           "stackSize": 1,
-          "seed": 31201,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentGreaves\\U_E_Bellerophon'sLeggings.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -183,7 +183,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 22475,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentGreaves\\U_E_MurkCrawlers.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -198,7 +198,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 26345,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentGreaves\\U_E_Athena'sBattleGreaves.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -243,7 +243,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 1543,
+          "seed": -2,
           "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Greaves\\U_E_001.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -258,7 +258,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 8967,
+          "seed": -2,
           "baseName": "records\\xpack2\\item\\equipmentarmor\\greaves\\u_e_02.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -288,7 +288,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 97,
+          "seed": -2,
           "baseName": "records\\item\\equipmentgreaves\\u_l_hermes'talaria.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -308,7 +308,7 @@
       "items": [
         {
           "stackSize": 1,
-          "seed": 32686,
+          "seed": -2,
           "baseName": "records\\xpack3\\items\\equipmentarmor\\greaves\\u_l_02.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -323,7 +323,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 16094,
+          "seed": -2,
           "baseName": "records\\xpack3\\items\\equipmentarmor\\greaves\\u_l_01.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -353,7 +353,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 8535,
+          "seed": -2,
           "baseName": "records\\xpack\\item\\equipmentarmor\\greaves\\u_l_001.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -398,7 +398,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 13475,
+          "seed": -2,
           "baseName": "records\\xpack4\\item\\equipmentarmor\\greaves\\u_l_leggingsofswiftjustice.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -413,7 +413,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 16187,
+          "seed": -2,
           "baseName": "records\\xpack4\\item\\equipmentarmor\\greaves\\u_l_zhaolangsbootsoffortune.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -428,7 +428,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 6798,
+          "seed": -2,
           "baseName": "records\\xpack4\\item\\equipmentarmor\\greaves\\u_l_feathersteps.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -448,7 +448,7 @@
       "items": [
         {
           "stackSize": 1,
-          "seed": 20922,
+          "seed": -2,
           "baseName": "records\\xpack4\\item\\equipmentarmor\\greaves\\u_l_zhouleggings.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -463,7 +463,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 21444,
+          "seed": -2,
           "baseName": "records\\xpack4\\item\\equipmentarmor\\greaves\\u_l_cloudwalker.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -478,7 +478,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 11140,
+          "seed": -2,
           "baseName": "records\\xpack4\\item\\equipmentarmor\\greaves\\u_l_ptahmosesleggings.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -493,7 +493,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 11599,
+          "seed": -2,
           "baseName": "records\\xpack4\\item\\equipmentarmor\\greaves\\u_l_devourerstreads.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -513,7 +513,7 @@
       "items": [
         {
           "stackSize": 1,
-          "seed": 23885,
+          "seed": -2,
           "baseName": "Records\\XPack3\\Items\\EquipmentArmor\\Greaves\\u_e_02.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -528,7 +528,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 28021,
+          "seed": -2,
           "baseName": "records\\xpack2\\item\\equipmentarmor\\greaves\\u_e_03.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -543,7 +543,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 11498,
+          "seed": -2,
           "baseName": "records\\xpack3\\items\\equipmentarmor\\greaves\\u_l_03.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -573,7 +573,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 25378,
+          "seed": -2,
           "baseName": "records\\xpack4\\item\\equipmentarmor\\greaves\\u_l_agilityoftheforefathers.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -588,7 +588,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 23774,
+          "seed": -2,
           "baseName": "records\\xpack4\\item\\equipmentarmor\\greaves\\u_l_majesticspeedofthethreesovereigns.dbr",
           "prefixName": "",
           "suffixName": "",

@@ -1,14 +1,14 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 1,
+  "currentlySelectedSackNumber": 3,
   "sacks": [
     {
       "iconinfo": null,
       "items": [
         {
           "stackSize": 1,
-          "seed": 20754,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentArmor\\Um_N_Augur'sDrape.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -23,7 +23,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 25095,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentArmor\\Um_N_Ephor's Garb.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -38,7 +38,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 9493,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentArmor\\Um_N_Archon'sChiton.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -53,7 +53,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 4101,
+          "seed": -2,
           "baseName": "records\\item\\equipmentarmor\\um_n_mirage.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -68,7 +68,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 580,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentArmor\\Um_N_Yuya'sGarb.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -83,7 +83,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 11791,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentArmor\\Um_N_Physician'sRobe.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -98,7 +98,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 11813,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentArmor\\Um_N_PiousSash.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -113,7 +113,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 775,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentArmor\\Um_N_Ben'haamon'sKilt.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -128,7 +128,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 32116,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentArmor\\Um_N_VestoftheWanderingGoat.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -148,7 +148,7 @@
       "items": [
         {
           "stackSize": 1,
-          "seed": 24160,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentArmor\\Um_N_FireBlossom.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -163,7 +163,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 9772,
+          "seed": -2,
           "baseName": "Records\\XPack3\\Items\\EquipmentArmor\\Torso\\um_n_01.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -178,7 +178,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 10209,
+          "seed": -2,
           "baseName": "records\\item\\equipmentarmor\\um_e_vestmentofthemalignspirits.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -193,7 +193,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 20091,
+          "seed": -2,
           "baseName": "records\\xpack2\\item\\equipmentarmor\\torso\\u_n_03.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -208,7 +208,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 5463,
+          "seed": -2,
           "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Torso\\Um_N_002.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -223,7 +223,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 28162,
+          "seed": -2,
           "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Torso\\Um_N_001.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -238,7 +238,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 14294,
+          "seed": -2,
           "baseName": "records\\xpack2\\item\\equipmentarmor\\torso\\u_n_01.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -253,7 +253,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 9366,
+          "seed": -2,
           "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Torso\\Um_N_003.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -268,7 +268,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 32377,
+          "seed": -2,
           "baseName": "records\\item\\equipmentarmor\\um_e_robesofcalchas.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -288,7 +288,7 @@
       "items": [
         {
           "stackSize": 1,
-          "seed": 31138,
+          "seed": -2,
           "baseName": "records\\item\\equipmentarmor\\um_e_ymochelsriddlerobe.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -303,7 +303,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 26543,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentArmor\\Um_E_Galesong.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -318,7 +318,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 6005,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentArmor\\Um_E_SheiDo'sRobesofInsight.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -338,7 +338,7 @@
       "items": [
         {
           "stackSize": 1,
-          "seed": 972,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentArmor\\U_N_Wayfarer'sRegalia.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -353,7 +353,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 30378,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentArmor\\U_N_IronskinSuit.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -368,7 +368,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 6484,
+          "seed": -2,
           "baseName": "records\\item\\equipmentarmor\\u_n_harnessofcommand.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -383,7 +383,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 6740,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentArmor\\U_N_Waylayer'sJerkin.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -398,7 +398,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 4428,
+          "seed": -2,
           "baseName": "records\\item\\equipmentarmor\\u_n_hyperiancuirass.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -413,7 +413,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 12855,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentArmor\\U_N_Maron'sGarment.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -428,7 +428,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 20411,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentArmor\\U_N_Daevos'Cuirass.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -443,7 +443,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 6606,
+          "seed": -2,
           "baseName": "records\\item\\equipmentarmor\\u_n_oedipus'armor.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -458,7 +458,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 22383,
+          "seed": -2,
           "baseName": "records\\item\\equipmentarmor\\u_n_bramblesheathvest.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -478,7 +478,7 @@
       "items": [
         {
           "stackSize": 1,
-          "seed": 5504,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentArmor\\U_N_LoRenCuirass.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -493,7 +493,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 21225,
+          "seed": -2,
           "baseName": "records\\item\\equipmentarmor\\u_n_bandedplateofvereite.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -508,7 +508,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 28004,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentArmor\\U_N_HuoQuiaoArmor.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -523,7 +523,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 6772,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentArmor\\U_N_MantleofEvisceration.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -538,7 +538,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 13485,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentArmor\\U_N_NomadsBodyWrap.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -553,7 +553,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 10848,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentArmor\\U_N_MantleofPanacea.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -568,7 +568,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 31124,
+          "seed": -2,
           "baseName": "records\\item\\equipmentarmor\\u_n_flameskin.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -583,7 +583,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 20697,
+          "seed": -2,
           "baseName": "records\\item\\equipmentarmor\\u_n_renlei'spride.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -598,7 +598,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 14110,
+          "seed": -2,
           "baseName": "records\\item\\equipmentarmor\\u_n_glaevin'sbreastplate.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -618,7 +618,7 @@
       "items": [
         {
           "stackSize": 1,
-          "seed": 19119,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentArmor\\U_N_GalionCuirass.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -633,7 +633,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 1397,
+          "seed": -2,
           "baseName": "Records\\XPack3\\Items\\EquipmentArmor\\Torso\\u_n_02.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -648,7 +648,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 1809,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentArmor\\U_E_Gildanthar.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -663,7 +663,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 15934,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentArmor\\U_E_Blackguard.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -678,7 +678,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 12764,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentArmor\\U_E_ThracianCuirass.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -693,7 +693,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 11883,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentArmor\\U_E_CuirassofRetribution.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -708,7 +708,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 250,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentArmor\\U_E_SomatophylakesPlate.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -723,7 +723,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 18552,
+          "seed": -2,
           "baseName": "records\\item\\equipmentarmor\\u_e_tylderonsbreastplate.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -738,7 +738,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 30211,
+          "seed": -2,
           "baseName": "records\\item\\equipmentarmor\\u_e_reizarf'naicuirass.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -758,7 +758,7 @@
       "items": [
         {
           "stackSize": 1,
-          "seed": 17668,
+          "seed": -2,
           "baseName": "records\\item\\equipmentarmor\\u_e_breastplateofxanthus.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -773,7 +773,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 144,
+          "seed": -2,
           "baseName": "records\\item\\equipmentarmor\\u_e_brinne'sredemption.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -788,7 +788,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 789,
+          "seed": -2,
           "baseName": "records\\item\\equipmentarmor\\u_e_kherhebvestment.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -803,7 +803,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 25365,
+          "seed": -2,
           "baseName": "records\\item\\equipmentarmor\\u_e_armorofkhephuris.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -818,7 +818,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 11044,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentArmor\\U_E_Lifeshroud.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -833,7 +833,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 23034,
+          "seed": -2,
           "baseName": "records\\item\\equipmentarmor\\u_e_soulshieldchiton.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -848,7 +848,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 14695,
+          "seed": -2,
           "baseName": "records\\xpack2\\item\\equipmentarmor\\torso\\u_n_05.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -863,7 +863,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 8541,
+          "seed": -2,
           "baseName": "records\\xpack2\\item\\equipmentarmor\\torso\\u_n_04.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -878,7 +878,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 28393,
+          "seed": -2,
           "baseName": "records\\item\\equipmentarmor\\u_e_magma.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -898,7 +898,7 @@
       "items": [
         {
           "stackSize": 1,
-          "seed": 11494,
+          "seed": -2,
           "baseName": "records\\item\\equipmentarmor\\u_e_do-maru.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -913,7 +913,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 18377,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentArmor\\U_E_ArmoroftheBurningBlade.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -928,7 +928,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 21700,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentArmor\\U_E_TerraGuard.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -943,7 +943,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 1031,
+          "seed": -2,
           "baseName": "records\\item\\equipmentarmor\\u_e_takeshi's kimono.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -958,7 +958,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 24031,
+          "seed": -2,
           "baseName": "records\\xpack2\\item\\equipmentarmor\\torso\\u_e_05.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -973,7 +973,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 1633,
+          "seed": -2,
           "baseName": "records\\xpack2\\item\\equipmentarmor\\torso\\u_e_06.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -988,7 +988,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 12953,
+          "seed": -2,
           "baseName": "records\\xpack2\\item\\equipmentarmor\\torso\\u_e_04.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -1008,7 +1008,7 @@
       "items": [
         {
           "stackSize": 1,
-          "seed": 12566,
+          "seed": -2,
           "baseName": "records\\item\\equipmentarmor\\u_n_heartofthemountain.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -1023,7 +1023,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 14077,
+          "seed": -2,
           "baseName": "records\\item\\equipmentarmor\\u_n_tricksterstunic.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -1038,7 +1038,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 3968,
+          "seed": -2,
           "baseName": "records\\item\\equipmentarmor\\u_n_outlaw'ssash.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -1053,7 +1053,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 15706,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentArmor\\U_N_TheJackel'sFesteringGarb.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -1068,7 +1068,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 3837,
+          "seed": -2,
           "baseName": "records\\item\\equipmentarmor\\u_n_charioteer'squiver.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -1083,7 +1083,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 10344,
+          "seed": -2,
           "baseName": "records\\item\\equipmentarmor\\u_n_sandstalkerarmor.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -1098,7 +1098,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 15721,
+          "seed": -2,
           "baseName": "records\\item\\equipmentarmor\\u_n_coverofnight.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -1113,7 +1113,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 19552,
+          "seed": -2,
           "baseName": "records\\item\\equipmentarmor\\u_n_spearman'ssilk.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -1128,7 +1128,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 14444,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentArmor\\U_N_Bladeflinger'sArmor.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -1148,7 +1148,7 @@
       "items": [
         {
           "stackSize": 1,
-          "seed": 4506,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentArmor\\U_N_TunicoftheSilverBow.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -1163,7 +1163,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 6863,
+          "seed": -2,
           "baseName": "records\\xpack3\\items\\equipmentarmor\\torso\\u_n_01.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -1178,7 +1178,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 12496,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentArmor\\U_E_SnakeskinWrap.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -1193,7 +1193,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 20241,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentArmor\\U_E_Chu'sQuiver.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -1208,7 +1208,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 1036,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentArmor\\U_E_VestmentofBewilderment.dbr",
           "prefixName": "",
           "suffixName": "",

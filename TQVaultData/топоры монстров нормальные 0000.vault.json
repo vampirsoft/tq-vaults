@@ -8,7 +8,7 @@
       "items": [
         {
           "stackSize": 1,
-          "seed": 31495,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentWeapon\\Axe\\MI_N_Dragonian.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -23,7 +23,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 13562,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentWeapon\\Axe\\MI_N_NeanderthalMelee.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -38,7 +38,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 27159,
+          "seed": -2,
           "baseName": "Records\\XPack3\\Items\\EquipmentWeapon\\Axe\\MI_N_EmbalmedPriest.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -53,7 +53,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 26073,
+          "seed": -2,
           "baseName": "Records\\XPack\\Item\\EquipmentWeapons\\Axe\\MI_N_Formicid.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -68,7 +68,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 27004,
+          "seed": -2,
           "baseName": "Records\\XPack3\\Items\\EquipmentWeapon\\Axe\\MI_N_Serpentoid.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -83,7 +83,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 22332,
+          "seed": -2,
           "baseName": "Records\\XPack3\\Items\\EquipmentWeapon\\Axe\\MI_N_CoralGuardian.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -98,7 +98,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 23569,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentWeapon\\Axe\\MI_N_TigermanChampion.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -118,7 +118,7 @@
       "items": [
         {
           "stackSize": 1,
-          "seed": 6355,
+          "seed": -2,
           "baseName": "Records\\XPack3\\Items\\EquipmentWeapon\\Axe\\MI_N_PotamoiWarrior.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -133,7 +133,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 11760,
+          "seed": -2,
           "baseName": "Records\\XPack3\\Items\\EquipmentWeapon\\Axe\\MI_N_TritonWarrior.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -148,7 +148,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 19574,
+          "seed": -2,
           "baseName": "Records\\XPack\\Item\\EquipmentWeapons\\Axe\\MI_N_Machae.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -163,7 +163,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 20698,
+          "seed": -2,
           "baseName": "Records\\XPack2\\Item\\EquipmentWeapons\\Axe\\MI_N_Troll.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -178,7 +178,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 2412,
+          "seed": -2,
           "baseName": "Records\\XPack2\\Item\\EquipmentWeapons\\Axe\\MI_N_Dvergr.dbr",
           "prefixName": "",
           "suffixName": "",

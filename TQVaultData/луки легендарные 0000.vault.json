@@ -8,7 +8,7 @@
       "items": [
         {
           "stackSize": 1,
-          "seed": 14892,
+          "seed": -2,
           "baseName": "records\\item\\equipmentweapon\\bow\\u_e_teucer'swarbow.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -23,7 +23,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 21224,
+          "seed": -2,
           "baseName": "records\\item\\equipmentweapon\\bow\\u_e_khamsin.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -38,7 +38,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 13746,
+          "seed": -2,
           "baseName": "records\\item\\equipmentweapon\\bow\\u_e_zhurong'sfirebow.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -53,7 +53,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 14452,
+          "seed": -2,
           "baseName": "records\\item\\equipmentweapon\\bow\\u_e_neith'sbowofthesun.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -68,7 +68,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 9043,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentWeapon\\Bow\\U_E_Borealis.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -98,7 +98,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 15121,
+          "seed": -2,
           "baseName": "records\\item\\equipmentweapon\\bow\\u_e_deathblossom.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -128,7 +128,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 29098,
+          "seed": -2,
           "baseName": "records\\item\\equipmentweapon\\bow\\u_l_serpentwhisper.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -143,7 +143,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 32235,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentWeapon\\Bow\\U_L_Painweaver.dbr",
           "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Character_SkillMasteryD_01.dbr",
           "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AttributeStrength_02.dbr",
@@ -173,7 +173,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 14470,
+          "seed": -2,
           "baseName": "records\\item\\equipmentweapon\\bow\\u_l_atalanta'sbow.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -188,7 +188,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 18207,
+          "seed": -2,
           "baseName": "records\\item\\equipmentweapon\\bow\\u_l_bowofeurytus.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -283,7 +283,7 @@
       "items": [
         {
           "stackSize": 1,
-          "seed": 26174,
+          "seed": -2,
           "baseName": "records\\xpack4\\item\\equipmentweapon\\bow\\unique_suns_bow.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -298,7 +298,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 6778,
+          "seed": -2,
           "baseName": "records\\xpack4\\item\\equipmentweapon\\bow\\u_l_bowofthedarklady.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -313,7 +313,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 20561,
+          "seed": -2,
           "baseName": "records\\xpack4\\item\\equipmentweapon\\bow\\u_l_wanmasbow.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -328,7 +328,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 30032,
+          "seed": -2,
           "baseName": "records\\xpack4\\item\\equipmentweapon\\bow\\u_l_serketsvenom.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -343,7 +343,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 3433,
+          "seed": -2,
           "baseName": "records\\xpack3\\items\\equipmentweapon\\bow\\u_l_01.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -403,7 +403,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 25099,
+          "seed": -2,
           "baseName": "records\\xpack2\\item\\equipmentweapons\\bow\\u_e_02.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -418,7 +418,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 5514,
+          "seed": -2,
           "baseName": "records\\xpack2\\item\\equipmentweapons\\bow\\u_l_03.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -463,7 +463,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 19930,
+          "seed": -2,
           "baseName": "records\\xpack3\\items\\equipmentweapon\\bow\\u_e_01.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -478,7 +478,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 1229,
+          "seed": -2,
           "baseName": "records\\xpack3\\items\\equipmentweapon\\bow\\u_l_03.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -493,7 +493,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 27521,
+          "seed": -2,
           "baseName": "records\\xpack3\\items\\equipmentweapon\\bow\\u_e_02.dbr",
           "prefixName": "",
           "suffixName": "",

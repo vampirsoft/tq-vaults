@@ -8,7 +8,7 @@
       "items": [
         {
           "stackSize": 1,
-          "seed": 29347,
+          "seed": -2,
           "baseName": "Records\\XPack3\\Items\\EquipmentWeapon\\Sword\\u_e_01.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -23,7 +23,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 8381,
+          "seed": -2,
           "baseName": "records\\xpack3\\items\\equipmentweapon\\sword\\u_l_03.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -38,7 +38,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 27824,
+          "seed": -2,
           "baseName": "records\\item\\equipmentweapon\\sword\\u_e_swordofdamocles.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -68,7 +68,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 1913,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentWeapon\\Sword\\U_E_Griefmaker.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -83,7 +83,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 23012,
+          "seed": -2,
           "baseName": "records\\item\\equipmentweapon\\sword\\u_e_silence.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -98,7 +98,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 15,
+          "seed": -2,
           "baseName": "Records\\XPack\\Item\\EquipmentWeapons\\Sword\\U_E_002.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -143,7 +143,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 12724,
+          "seed": -2,
           "baseName": "records\\item\\equipmentweapon\\sword\\u_l_mindrazor.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -173,7 +173,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 15034,
+          "seed": -2,
           "baseName": "records\\item\\equipmentweapon\\sword\\u_l_theseus'inheritance.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -203,7 +203,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 3314,
+          "seed": -2,
           "baseName": "records\\item\\equipmentweapon\\sword\\u_l_thunderbolt.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -218,7 +218,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 26752,
+          "seed": -2,
           "baseName": "records\\item\\equipmentweapon\\sword\\u_l_pagos.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -248,7 +248,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 19385,
+          "seed": -2,
           "baseName": "records\\item\\equipmentweapon\\sword\\u_l_lordsethschaosblade.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -263,7 +263,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 30455,
+          "seed": -2,
           "baseName": "records\\xpack\\item\\equipmentweapons\\sword\\u_l_002.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -283,7 +283,7 @@
       "items": [
         {
           "stackSize": 1,
-          "seed": 6344,
+          "seed": -2,
           "baseName": "records\\xpack3\\items\\equipmentweapon\\sword\\u_l_01.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -313,7 +313,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 0,
+          "seed": -2,
           "baseName": "records\\xpack4\\item\\equipmentweapon\\sword\\u_l_ludongbinsquill.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -343,7 +343,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 22089,
+          "seed": -2,
           "baseName": "records\\xpack2\\item\\equipmentweapons\\sword\\u_l_03.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -358,7 +358,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 27411,
+          "seed": -2,
           "baseName": "records\\xpack2\\item\\equipmentweapons\\sword\\u_l_01.dbr",
           "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Character_ReducedEquipReq_03.dbr",
           "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Offensive_Damage%LifeLeech_02.dbr",
@@ -373,7 +373,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 17069,
+          "seed": -2,
           "baseName": "records\\xpack4\\item\\equipmentweapon\\sword\\u_l_settsusurpation.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -388,7 +388,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 0,
+          "seed": -2,
           "baseName": "records\\xpack4\\item\\equipmentweapon\\sword\\u_l_jianofathousandcuts.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -403,7 +403,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 30692,
+          "seed": -2,
           "baseName": "Records\\XPack3\\Items\\EquipmentWeapon\\Sword\\u_e_02.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -418,7 +418,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 22159,
+          "seed": -2,
           "baseName": "records\\xpack3\\items\\equipmentweapon\\sword\\u_l_02.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -433,7 +433,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 0,
+          "seed": -2,
           "baseName": "records\\xpack4\\item\\equipmentweapon\\sword\\u_l_ganjiangsrazor.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -448,7 +448,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 26348,
+          "seed": -2,
           "baseName": "records\\xpack4\\item\\equipmentweapon\\sword\\u_l_zhousduty.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -463,7 +463,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 24699,
+          "seed": -2,
           "baseName": "records\\xpack\\item\\equipmentweapons\\sword\\u_l_003.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -478,7 +478,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 2744,
+          "seed": -2,
           "baseName": "records\\xpack\\item\\equipmentweapons\\sword\\u_l_001.dbr",
           "prefixName": "",
           "suffixName": "",

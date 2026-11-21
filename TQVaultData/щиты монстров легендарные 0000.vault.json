@@ -8,7 +8,7 @@
       "items": [
         {
           "stackSize": 1,
-          "seed": 7512,
+          "seed": -2,
           "baseName": "records\\item\\equipmentshield\\mi_l_centaur.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -23,7 +23,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 13036,
+          "seed": -2,
           "baseName": "records\\item\\equipmentshield\\mi_l_arachnos.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -38,7 +38,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 16989,
+          "seed": -2,
           "baseName": "records\\item\\equipmentshield\\mi_l_tropicalarachnos.dbr",
           "prefixName": "",
           "suffixName": "",

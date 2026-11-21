@@ -1,14 +1,14 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 4,
+  "currentlySelectedSackNumber": 0,
   "sacks": [
     {
       "iconinfo": null,
       "items": [
         {
           "stackSize": 1,
-          "seed": 15013,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentShield\\U_N_BoarHunter'sShield.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -23,7 +23,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 15267,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentShield\\U_N_JaggedHoplon.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -38,7 +38,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 26835,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentShield\\U_N_Companion'sGuard.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -53,7 +53,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 22670,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentShield\\U_N_AegisofLaconia.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -68,7 +68,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 2712,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentShield\\U_N_Thornwall.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -83,7 +83,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 5283,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentShield\\U_N_Captain'sShield.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -98,7 +98,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 26253,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentShield\\U_N_ShieldoftheRoyalGuard.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -113,7 +113,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 19256,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentShield\\U_N_Thutmose'Buckler.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -128,7 +128,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 25660,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentShield\\U_N_Hydarnes'Shield.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -148,7 +148,7 @@
       "items": [
         {
           "stackSize": 1,
-          "seed": 6707,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentShield\\U_N_NubianDeflector.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -163,7 +163,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 23259,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentShield\\U_N_Mystic'sShield.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -178,7 +178,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 1848,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentShield\\U_N_Stonewall.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -193,7 +193,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 10314,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentShield\\U_N_CeremonialBuckler.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -208,7 +208,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 6971,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentShield\\U_N_FrozenBuckler.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -223,7 +223,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 6261,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentShield\\U_N_EarthenBarrier.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -238,7 +238,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 12981,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentShield\\U_N_SacredCrescentShield.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -253,7 +253,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 15761,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentShield\\U_N_PaviseShield.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -268,7 +268,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 5461,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentShield\\U_N_ShieldofBalance.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -288,7 +288,7 @@
       "items": [
         {
           "stackSize": 1,
-          "seed": 11092,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentShield\\U_N_Flameward.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -303,7 +303,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 10606,
+          "seed": -2,
           "baseName": "records\\item\\equipmentshield\\u_n_jindun.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -318,7 +318,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 24057,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentShield\\U_E_Chieftain'sPelta.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -333,7 +333,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 5157,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentShield\\U_E_Phulakterion.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -348,7 +348,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 22132,
+          "seed": -2,
           "baseName": "records\\item\\equipmentshield\\u_e_adamanteshield.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -363,7 +363,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 786,
+          "seed": -2,
           "baseName": "Records\\XPack3\\Items\\EquipmentWeapon\\Shield\\u_n_02.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -378,7 +378,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 10193,
+          "seed": -2,
           "baseName": "Records\\XPack\\Item\\EquipmentWeapons\\Shield\\U_N_001.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -393,7 +393,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 25527,
+          "seed": -2,
           "baseName": "Records\\XPack\\Item\\EquipmentWeapons\\Shield\\U_N_002.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -408,7 +408,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 2973,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentShield\\U_E_VolatileShield.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -428,7 +428,7 @@
       "items": [
         {
           "stackSize": 1,
-          "seed": 30037,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentShield\\U_E_ElementalDeflector.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -443,7 +443,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 1998,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentShield\\U_E_Frostguard.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -458,7 +458,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 4813,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentShield\\U_E_ScaledSerpentShield.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -473,7 +473,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 11253,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentShield\\U_E_Mentuhotep'sShield.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -488,7 +488,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 2935,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentShield\\U_E_MoonDisc.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -503,7 +503,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 10614,
+          "seed": -2,
           "baseName": "records\\item\\equipmentshield\\u_e_shieldofapisthebull.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -518,7 +518,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 20878,
+          "seed": -2,
           "baseName": "records\\item\\equipmentshield\\u_e_flowingshieldoftheeuphrates.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -533,7 +533,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 12905,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentShield\\U_E_Jericho.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -548,7 +548,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 29671,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentShield\\U_E_Icewall.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -568,7 +568,7 @@
       "items": [
         {
           "stackSize": 1,
-          "seed": 21107,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentShield\\U_E_Tengpai.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -583,7 +583,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 14086,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentShield\\U_E_EssenceGuard.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -598,7 +598,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 13673,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentShield\\U_E_ShieldoftheCobra.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -613,7 +613,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 14775,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentShield\\U_E_Bladeturn.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -628,7 +628,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 3865,
+          "seed": -2,
           "baseName": "records\\xpack2\\item\\equipmentweapons\\shield\\u_n_03.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -643,7 +643,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 3972,
+          "seed": -2,
           "baseName": "records\\xpack2\\item\\equipmentweapons\\shield\\u_n_02.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -658,7 +658,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 18650,
+          "seed": -2,
           "baseName": "records\\xpack2\\item\\equipmentweapons\\shield\\u_n_01.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -673,7 +673,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 5793,
+          "seed": -2,
           "baseName": "records\\xpack2\\item\\equipmentweapons\\shield\\u_e_01.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -693,7 +693,7 @@
       "items": [
         {
           "stackSize": 1,
-          "seed": 468,
+          "seed": -2,
           "baseName": "Records\\XPack3\\Items\\EquipmentWeapon\\Shield\\u_n_01.dbr",
           "prefixName": "",
           "suffixName": "",

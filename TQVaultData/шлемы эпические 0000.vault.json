@@ -1,14 +1,14 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 0,
+  "currentlySelectedSackNumber": 2,
   "sacks": [
     {
       "iconinfo": null,
       "items": [
         {
           "stackSize": 1,
-          "seed": 1899,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentHelm\\Um_N_WhiteCrown.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -23,7 +23,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 8005,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentHelm\\Um_N_RedCrown.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -38,7 +38,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 31645,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentHelm\\Um_N_ChromaticDiadem.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -53,7 +53,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 15714,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentHelm\\U_N_EmeraldCrown.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -68,7 +68,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 1188,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentHelm\\Um_N_CrownoftheElements.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -83,7 +83,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 8775,
+          "seed": -2,
           "baseName": "Records\\XPack3\\Items\\EquipmentArmor\\Helm\\um_n_01.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -98,7 +98,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 7115,
+          "seed": -2,
           "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Helm\\Um_N_001.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -113,7 +113,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 25891,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentHelm\\Um_N_Cynic'sCover.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -128,7 +128,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 4110,
+          "seed": -2,
           "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Helm\\Um_N_002.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -148,7 +148,7 @@
       "items": [
         {
           "stackSize": 1,
-          "seed": 15106,
+          "seed": -2,
           "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Helm\\Um_N_003.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -163,7 +163,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 18106,
+          "seed": -2,
           "baseName": "records\\xpack2\\item\\equipmentarmor\\helm\\u_n_06.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -178,7 +178,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 3305,
+          "seed": -2,
           "baseName": "records\\xpack2\\item\\equipmentarmor\\helm\\u_n_01.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -193,7 +193,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 924,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentHelm\\Um_E_Priest'sHood.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -208,7 +208,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 18866,
+          "seed": -2,
           "baseName": "records\\xpack2\\item\\equipmentarmor\\helm\\u_n_03.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -223,7 +223,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 25319,
+          "seed": -2,
           "baseName": "records\\xpack2\\item\\equipmentarmor\\helm\\u_e_04.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -243,7 +243,7 @@
       "items": [
         {
           "stackSize": 1,
-          "seed": 2541,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentHelm\\U_N_Helot'sRage.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -258,7 +258,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 15316,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentHelm\\U_N_Crag.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -273,7 +273,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 32301,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentHelm\\U_N_MedeCap.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -288,7 +288,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 6809,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentHelm\\U_N_ShriekingHelm.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -303,7 +303,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 15425,
+          "seed": -2,
           "baseName": "Records\\XPack3\\Items\\EquipmentArmor\\Helm\\u_n_01.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -333,7 +333,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 28004,
+          "seed": -2,
           "baseName": "records\\item\\equipmenthelm\\u_e_dieneces'shade.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -348,7 +348,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 20748,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentHelm\\U_E_HopliteHelm.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -363,7 +363,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 24511,
+          "seed": -2,
           "baseName": "records\\xpack2\\item\\equipmentarmor\\helm\\u_n_04.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -383,7 +383,7 @@
       "items": [
         {
           "stackSize": 1,
-          "seed": 17819,
+          "seed": -2,
           "baseName": "records\\xpack2\\item\\equipmentarmor\\helm\\u_n_02.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -398,7 +398,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 8714,
+          "seed": -2,
           "baseName": "records\\xpack2\\item\\equipmentarmor\\helm\\u_n_05.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -413,7 +413,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 15078,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentHelm\\U_E_Ptolemy'sCrestedHelm.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -443,7 +443,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 25909,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentHelm\\U_E_CrownoftheGreatKing.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -458,7 +458,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 32498,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentHelm\\U_E_ImpenetrableHelm.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -473,7 +473,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 15221,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentHelm\\U_E_Ao-Chin'sRedCap.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -488,7 +488,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 2999,
+          "seed": -2,
           "baseName": "records\\xpack2\\item\\equipmentarmor\\helm\\u_e_06.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -503,7 +503,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 22078,
+          "seed": -2,
           "baseName": "records\\xpack2\\item\\equipmentarmor\\helm\\u_e_07.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -523,7 +523,7 @@
       "items": [
         {
           "stackSize": 1,
-          "seed": 8184,
+          "seed": -2,
           "baseName": "Records\\XPack3\\Items\\EquipmentArmor\\Helm\\u_n_02.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -538,7 +538,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 22362,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentHelm\\U_E_Shadowmeld.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -553,7 +553,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 29888,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentHelm\\U_N_Bandit'sHood.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -568,7 +568,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 28401,
+          "seed": -2,
           "baseName": "records\\xpack2\\item\\equipmentarmor\\helm\\u_e_05.dbr",
           "prefixName": "",
           "suffixName": "",

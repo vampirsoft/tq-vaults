@@ -8,7 +8,7 @@
       "items": [
         {
           "stackSize": 1,
-          "seed": 17006,
+          "seed": -2,
           "baseName": "Records\\XPack3\\Items\\EquipmentWeapon\\Club\\u_e_01.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -23,7 +23,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 2440,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentWeapon\\Club\\U_E_Spinebreaker.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -38,7 +38,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 8211,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentWeapon\\Club\\U_E_TruncheonofMalice.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -53,7 +53,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 22431,
+          "seed": -2,
           "baseName": "records\\item\\equipmentweapon\\club\\u_e_thornymaul.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -68,7 +68,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 30836,
+          "seed": -2,
           "baseName": "records\\item\\equipmentweapon\\club\\u_e_lykaionmalleus.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -83,7 +83,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 6134,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentWeapon\\Club\\U_E_Demeter'sSorrow.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -113,7 +113,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 8623,
+          "seed": -2,
           "baseName": "Records\\XPack\\Item\\EquipmentWeapons\\Club\\U_E_002.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -128,7 +128,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 22154,
+          "seed": -2,
           "baseName": "records\\item\\equipmentweapon\\club\\u_l_prometheus'gift.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -143,7 +143,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 10942,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentWeapon\\Club\\U_L_GlacialMaul.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -158,7 +158,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 32573,
+          "seed": -2,
           "baseName": "records\\item\\equipmentweapon\\club\\u_l_orion'smace.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -193,7 +193,7 @@
       "items": [
         {
           "stackSize": 1,
-          "seed": 5266,
+          "seed": -2,
           "baseName": "records\\xpack3\\items\\equipmentweapon\\club\\z_swordfish.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -208,7 +208,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 222,
+          "seed": -2,
           "baseName": "records\\xpack3\\items\\equipmentweapon\\club\\u_l_02.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -223,7 +223,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 32389,
+          "seed": -2,
           "baseName": "records\\xpack2\\item\\equipmentweapons\\club\\u_e_02.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -238,7 +238,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 29514,
+          "seed": -2,
           "baseName": "records\\xpack2\\item\\equipmentweapons\\club\\z_stonesword.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -253,7 +253,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 31221,
+          "seed": -2,
           "baseName": "records\\xpack2\\item\\equipmentweapons\\club\\u_l_03.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -298,7 +298,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 15137,
+          "seed": -2,
           "baseName": "records\\item\\equipmentweapon\\club\\u_l_saprosthecorrupter.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -313,7 +313,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 2869,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentWeapon\\Club\\U_L_Areithous'Mace.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -328,7 +328,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 3571,
+          "seed": -2,
           "baseName": "records\\item\\equipmentweapon\\club\\u_l_agamemnon'sscepter.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -393,7 +393,7 @@
       "items": [
         {
           "stackSize": 1,
-          "seed": 30598,
+          "seed": -2,
           "baseName": "records\\xpack3\\items\\equipmentweapon\\club\\u_l_01.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -408,7 +408,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 29969,
+          "seed": -2,
           "baseName": "Records\\XPack3\\Items\\EquipmentWeapon\\Club\\u_e_02.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -438,7 +438,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 0,
+          "seed": -2,
           "baseName": "records\\xpack4\\item\\equipmentweapon\\club\\u_l_talonoffenghuang.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -453,7 +453,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 22970,
+          "seed": -2,
           "baseName": "records\\xpack4\\item\\equipmentweapon\\club\\u_l_dengjiawancrusher.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -468,7 +468,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 8635,
+          "seed": -2,
           "baseName": "records\\xpack4\\item\\equipmentweapon\\club\\u_l_evillionhead.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -483,7 +483,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 1259,
+          "seed": -2,
           "baseName": "records\\xpack4\\item\\equipmentweapon\\club\\u_l_horuswisdom.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -498,7 +498,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 27196,
+          "seed": -2,
           "baseName": "records\\xpack4\\item\\equipmentweapon\\axe\\u_l_ahmosesceremonialaxe.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -513,7 +513,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 1461,
+          "seed": -2,
           "baseName": "records\\xpack4\\item\\equipmentweapon\\axe\\u_l_flameemperorsdisdain.dbr",
           "prefixName": "",
           "suffixName": "",

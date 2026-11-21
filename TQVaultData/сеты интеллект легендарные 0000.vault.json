@@ -8,7 +8,7 @@
       "items": [
         {
           "stackSize": 1,
-          "seed": 1128,
+          "seed": -2,
           "baseName": "Records\\XPack3\\Items\\EquipmentArmor\\Torso\\um_e_Set05.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -23,7 +23,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 960,
+          "seed": -2,
           "baseName": "records\\xpack3\\items\\equipmentarmor\\helm\\um_e_set05.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -38,7 +38,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 22956,
+          "seed": -2,
           "baseName": "records\\xpack3\\items\\equipmentarmor\\greaves\\um_e_set05.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -53,7 +53,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 1143,
+          "seed": -2,
           "baseName": "records\\xpack3\\items\\equipmentarmor\\armband\\um_e_set05.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -68,7 +68,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 6981,
+          "seed": -2,
           "baseName": "records\\xpack3\\items\\equipmentweapon\\staff\\u_e_set05.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -88,7 +88,7 @@
       "items": [
         {
           "stackSize": 1,
-          "seed": 22253,
+          "seed": -2,
           "baseName": "records\\xpack3\\items\\equipmentarmor\\torso\\um_l_set07.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -103,7 +103,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 7284,
+          "seed": -2,
           "baseName": "records\\xpack3\\items\\equipmentarmor\\helm\\um_l_set07.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -118,7 +118,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 19446,
+          "seed": -2,
           "baseName": "records\\xpack3\\items\\equipmentarmor\\armband\\um_l_set07.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -133,7 +133,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 7882,
+          "seed": -2,
           "baseName": "records\\xpack3\\items\\equipmentarmor\\greaves\\um_l_set07.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -148,7 +148,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 25862,
+          "seed": -2,
           "baseName": "records\\xpack3\\items\\equipmentweapon\\shield\\u_l_set07.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -168,7 +168,7 @@
       "items": [
         {
           "stackSize": 1,
-          "seed": 16615,
+          "seed": -2,
           "baseName": "records\\xpack2\\item\\equipmentarmor\\torso\\usm_l_freyja.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -183,7 +183,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 14492,
+          "seed": -2,
           "baseName": "records\\xpack2\\item\\equipmentarmor\\helm\\usm_l_freyja.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -198,7 +198,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 1613,
+          "seed": -2,
           "baseName": "records\\xpack2\\item\\equipmentarmor\\greaves\\usm_l_freyja.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -228,7 +228,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 8313,
+          "seed": -2,
           "baseName": "records\\xpack2\\item\\equipmentarmor\\amulet\\usm_l_freyja.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -248,7 +248,7 @@
       "items": [
         {
           "stackSize": 1,
-          "seed": 25969,
+          "seed": -2,
           "baseName": "records\\xpack3\\items\\equipmentarmor\\torso\\um_l_set02.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -263,7 +263,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 23497,
+          "seed": -2,
           "baseName": "records\\xpack3\\items\\equipmentarmor\\helm\\um_l_set02.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -278,7 +278,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 5684,
+          "seed": -2,
           "baseName": "records\\xpack3\\items\\equipmentarmor\\armband\\um_l_set02.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -293,7 +293,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 29275,
+          "seed": -2,
           "baseName": "records\\xpack3\\items\\equipmentarmor\\greaves\\um_l_set02.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -358,7 +358,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 6279,
+          "seed": -2,
           "baseName": "records\\xpack2\\item\\equipmentweapons\\spear\\usm_l_allfather.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -373,7 +373,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 29562,
+          "seed": -2,
           "baseName": "records\\xpack2\\item\\equipmentarmor\\ring\\usm_l_allfather.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -393,7 +393,7 @@
       "items": [
         {
           "stackSize": 1,
-          "seed": 10640,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentArmor\\USm_E_VestmentsoftheBattlemage.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -423,7 +423,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 32231,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentArmband\\USm_E_VestmentsoftheBattlemage.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -438,7 +438,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 26310,
+          "seed": -2,
           "baseName": "records\\item\\equipmentgreaves\\usm_e_vestmentsofthebattlemage.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -473,7 +473,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 6715,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentHelm\\USm_L_Archmage'sRegalia.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -488,7 +488,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 16258,
+          "seed": -2,
           "baseName": "records\\item\\equipmentarmband\\usm_l_archmage'sregalia.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -503,7 +503,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 11337,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentGreaves\\USm_L_Archmage'sRegalia.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -523,7 +523,7 @@
       "items": [
         {
           "stackSize": 1,
-          "seed": 32310,
+          "seed": -2,
           "baseName": "records\\item\\equipmentarmband\\um_l_blackpearlbracelet.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -553,7 +553,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 5020,
+          "seed": -2,
           "baseName": "records\\item\\equipmentamulet\\u_l_blackpearlpendant.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -568,7 +568,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 13458,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentAmulet\\U_L_BlackPearlPendant.dbr",
           "prefixName": "",
           "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AttributeIntelligence_04.dbr",
@@ -583,7 +583,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 9081,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentAmulet\\U_L_BlackPearlPendant.dbr",
           "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Rare_SkillAll_02.dbr",
           "suffixName": "",
@@ -598,7 +598,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 12755,
+          "seed": -2,
           "baseName": "records\\item\\equipmentring\\u_l_blackpearlring.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -613,7 +613,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 14279,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentRing\\U_L_BlackPearlRing.dbr",
           "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Defensive_ResistCold_03.dbr",
           "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AttributeIntelligence_05.dbr",
@@ -663,7 +663,7 @@
       "items": [
         {
           "stackSize": 1,
-          "seed": 22972,
+          "seed": -2,
           "baseName": "records\\xpack\\item\\equipmentarmor\\torso\\um_e_001.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -678,7 +678,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 4647,
+          "seed": -2,
           "baseName": "records\\xpack\\item\\equipmentarmor\\helm\\um_e_001.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -693,7 +693,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 6758,
+          "seed": -2,
           "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Armband\\Um_E_002.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -728,7 +728,7 @@
       "items": [
         {
           "stackSize": 1,
-          "seed": 25828,
+          "seed": -2,
           "baseName": "records\\xpack2\\item\\equipmentarmor\\torso\\us_l_hornedgod.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -743,7 +743,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 12841,
+          "seed": -2,
           "baseName": "records\\xpack2\\item\\equipmentarmor\\helm\\us_l_hornedgod.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -758,7 +758,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 31788,
+          "seed": -2,
           "baseName": "records\\xpack2\\item\\equipmentweapons\\spear\\us_l_hornedgod.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -773,7 +773,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 29326,
+          "seed": -2,
           "baseName": "records\\xpack2\\item\\equipmentarmor\\amulet\\us_l_hornedgod.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -793,7 +793,7 @@
       "items": [
         {
           "stackSize": 1,
-          "seed": 31677,
+          "seed": -2,
           "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Torso\\USm_L_002.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -808,7 +808,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 22682,
+          "seed": -2,
           "baseName": "records\\xpack\\item\\equipmentarmor\\helm\\usm_l_002.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -823,7 +823,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 30756,
+          "seed": -2,
           "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Armband\\USm_L_002.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -838,7 +838,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 23192,
+          "seed": -2,
           "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Greaves\\USm_L_002.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -853,7 +853,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 20518,
+          "seed": -2,
           "baseName": "Records\\XPack\\Item\\EquipmentWeapons\\Staff\\USm_L_002.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -873,7 +873,7 @@
       "items": [
         {
           "stackSize": 1,
-          "seed": 19120,
+          "seed": -2,
           "baseName": "records\\xpack\\item\\equipmentarmor\\torso\\usm_l_001.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -888,7 +888,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 11406,
+          "seed": -2,
           "baseName": "records\\xpack\\item\\equipmentarmor\\helm\\usm_l_001.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -903,7 +903,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 17953,
+          "seed": -2,
           "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Armband\\USm_L_001.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -918,7 +918,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 9817,
+          "seed": -2,
           "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Greaves\\USm_L_001.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -933,7 +933,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 26114,
+          "seed": -2,
           "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Amulet\\USm_L_001.dbr",
           "prefixName": "",
           "suffixName": "",

@@ -1,14 +1,14 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 1,
+  "currentlySelectedSackNumber": 0,
   "sacks": [
     {
       "iconinfo": null,
       "items": [
         {
           "stackSize": 1,
-          "seed": 26942,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentShield\\MI_N_Arachnos.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -23,7 +23,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 6066,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentShield\\MI_N_TropicalArachnos.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -38,7 +38,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 27241,
+          "seed": -2,
           "baseName": "Records\\XPack\\Item\\EquipmentWeapons\\Shield\\MI_N_Formicid.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -53,7 +53,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 22949,
+          "seed": -2,
           "baseName": "Records\\XPack3\\Items\\EquipmentWeapon\\Shield\\MI_N_CoralGuardian.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -68,7 +68,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 8552,
+          "seed": -2,
           "baseName": "Records\\XPack3\\Items\\EquipmentWeapon\\Shield\\MI_N_Serpentoid.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -83,7 +83,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 14759,
+          "seed": -2,
           "baseName": "Records\\XPack3\\Items\\EquipmentWeapon\\Shield\\MI_N_PotamoiWarrior.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -98,7 +98,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 16192,
+          "seed": -2,
           "baseName": "Records\\XPack3\\Items\\EquipmentWeapon\\Shield\\MI_N_TritonWarrior.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -113,7 +113,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 29864,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentShield\\MI_N_Centaur.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -128,7 +128,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 18048,
+          "seed": -2,
           "baseName": "Records\\XPack3\\Items\\EquipmentWeapon\\Shield\\MI_N_Hesperide.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -137,7 +137,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 12,
           "pointY": 0
         }
@@ -148,7 +148,7 @@
       "items": [
         {
           "stackSize": 1,
-          "seed": 7823,
+          "seed": -2,
           "baseName": "records\\xpack2\\item\\equipmentweapons\\shield\\MI_N_draugr.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -163,7 +163,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 14601,
+          "seed": -2,
           "baseName": "records\\xpack2\\item\\equipmentweapons\\shield\\MI_N_fjordmelee.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -178,7 +178,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 1046,
+          "seed": -2,
           "baseName": "records\\xpack2\\item\\equipmentweapons\\shield\\MI_N_eldjotun.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -193,7 +193,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 11052,
+          "seed": -2,
           "baseName": "records\\xpack2\\item\\equipmentweapons\\shield\\MI_N_einherjar.dbr",
           "prefixName": "",
           "suffixName": "",

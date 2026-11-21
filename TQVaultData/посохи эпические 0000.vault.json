@@ -1,14 +1,14 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 3,
+  "currentlySelectedSackNumber": 1,
   "sacks": [
     {
       "iconinfo": null,
       "items": [
         {
           "stackSize": 1,
-          "seed": 29312,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentWeapon\\Staff\\U_N_Shepherd'sCrook.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -23,7 +23,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 20883,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentWeapon\\Staff\\U_N_Elafros.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -38,7 +38,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 2699,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentWeapon\\Staff\\U_N_Siphon.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -53,7 +53,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 22060,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentWeapon\\Staff\\U_N_Pharaoh'sStandard.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -68,7 +68,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 14641,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentWeapon\\Staff\\U_N_GlowingRod.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -83,7 +83,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 5503,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentWeapon\\Staff\\U_N_OchetosStaff.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -98,7 +98,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 10428,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentWeapon\\Staff\\U_N_StaffofKheprer.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -113,7 +113,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 19982,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentWeapon\\Staff\\U_N_StaffoftheFalcon.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -128,7 +128,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 1376,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentWeapon\\Staff\\U_N_Fulminator.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -148,7 +148,7 @@
       "items": [
         {
           "stackSize": 1,
-          "seed": 17126,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentWeapon\\Staff\\U_N_StaffOfNabukhuthnusar.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -163,7 +163,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 26990,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentWeapon\\Staff\\U_N_SpectralRod.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -178,7 +178,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 898,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentWeapon\\Staff\\U_N_GuanYin'sHealingRod.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -193,7 +193,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 2607,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentWeapon\\Staff\\U_N_Kirin.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -208,7 +208,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 26963,
+          "seed": -2,
           "baseName": "Records\\XPack\\Item\\equipmentWeapons\\Staff\\U_N_001.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -223,7 +223,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 6663,
+          "seed": -2,
           "baseName": "Records\\XPack\\Item\\EquipmentWeapons\\Staff\\U_N_002.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -238,7 +238,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 8520,
+          "seed": -2,
           "baseName": "Records\\XPack3\\Items\\EquipmentWeapon\\Staff\\u_n_03.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -253,7 +253,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 5109,
+          "seed": -2,
           "baseName": "Records\\XPack3\\Items\\EquipmentWeapon\\Staff\\u_n_02.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -268,7 +268,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 17576,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentWeapon\\Staff\\U_E_Seer'sStaff.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -288,7 +288,7 @@
       "items": [
         {
           "stackSize": 1,
-          "seed": 11515,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentWeapon\\Staff\\U_E_Emberseal.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -303,7 +303,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 2026,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentWeapon\\Staff\\U_E_Ilektrismos.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -318,7 +318,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 7000,
+          "seed": -2,
           "baseName": "records\\item\\equipmentweapon\\staff\\u_e_ironwoodstaff.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -333,7 +333,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 18896,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentWeapon\\Staff\\U_E_BlastosFotia.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -348,7 +348,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 22150,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentWeapon\\Staff\\U_E_ApophisSerpent.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -363,7 +363,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 9441,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentWeapon\\Staff\\U_E_Qa'a.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -378,7 +378,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 15885,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentWeapon\\Staff\\U_E_Shiva'sCompanion.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -393,7 +393,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 17872,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentWeapon\\Staff\\U_E_Hoarfrost.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -408,7 +408,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 10519,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentWeapon\\Staff\\U_E_Summoner'sRod.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -428,7 +428,7 @@
       "items": [
         {
           "stackSize": 1,
-          "seed": 19894,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentWeapon\\Staff\\U_E_AziDahak'sStaff.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -443,7 +443,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 8289,
+          "seed": -2,
           "baseName": "records\\xpack2\\item\\equipmentweapons\\staff\\u_n_03.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -458,7 +458,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 31866,
+          "seed": -2,
           "baseName": "records\\xpack2\\item\\equipmentweapons\\staff\\u_n_01.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -473,7 +473,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 16246,
+          "seed": -2,
           "baseName": "records\\xpack2\\item\\equipmentweapons\\staff\\u_n_02.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -488,7 +488,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 5561,
+          "seed": -2,
           "baseName": "records\\xpack2\\item\\equipmentweapons\\staff\\u_e_02.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -503,7 +503,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 21418,
+          "seed": -2,
           "baseName": "records\\xpack2\\item\\equipmentweapons\\staff\\u_e_01.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -518,7 +518,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 4545,
+          "seed": -2,
           "baseName": "Records\\XPack\\Item\\EquipmentWeapons\\Staff\\z_Snowball.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -538,7 +538,7 @@
       "items": [
         {
           "stackSize": 1,
-          "seed": 29731,
+          "seed": -2,
           "baseName": "Records\\XPack3\\Items\\EquipmentWeapon\\Staff\\u_n_01.dbr",
           "prefixName": "",
           "suffixName": "",

@@ -8,7 +8,7 @@
       "items": [
         {
           "stackSize": 1,
-          "seed": 11438,
+          "seed": -2,
           "baseName": "records\\xpack2\\item\\equipmentweapons\\spear\\q_mistlespear.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -23,7 +23,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 24518,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentWeapon\\Spear\\U_E_AmazonianSpear.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -38,7 +38,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 12159,
+          "seed": -2,
           "baseName": "Records\\XPack3\\Items\\EquipmentWeapon\\Spear\\u_e_01.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -53,7 +53,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 24258,
+          "seed": -2,
           "baseName": "records\\item\\equipmentweapon\\spear\\u_e_scorpion'stail.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -68,7 +68,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 19740,
+          "seed": -2,
           "baseName": "records\\item\\equipmentweapon\\spear\\u_e_queenzenobia'sspear.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -83,7 +83,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 1466,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentWeapon\\Spear\\U_E_FeiLian'sGalespear.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -98,7 +98,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 21076,
+          "seed": -2,
           "baseName": "records\\item\\equipmentweapon\\spear\\u_e_sacredspearofnepththys.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -113,7 +113,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 3468,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentWeapon\\Spear\\U_E_Phorkos'Trident.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -128,7 +128,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 7042,
+          "seed": -2,
           "baseName": "Records\\XPack\\Item\\EquipmentWeapons\\Spear\\U_E_001.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -143,7 +143,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 28740,
+          "seed": -2,
           "baseName": "records\\xpack\\item\\equipmentweapons\\spear\\u_e_002.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -173,7 +173,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 146,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentWeapon\\Spear\\U_L_Telamon'sBoarSkewer.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -203,7 +203,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 8913,
+          "seed": -2,
           "baseName": "records\\item\\equipmentweapon\\spear\\u_l_kwanyin'sfinalmercy.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -263,7 +263,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 3675,
+          "seed": -2,
           "baseName": "records\\xpack3\\items\\equipmentweapon\\spear\\u_l_02.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -343,7 +343,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 0,
+          "seed": -2,
           "baseName": "records\\xpack4\\item\\equipmentweapon\\spear\\u_l_amenhotepswarmastery.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -358,7 +358,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 0,
+          "seed": -2,
           "baseName": "records\\xpack4\\item\\equipmentweapon\\spear\\u_l_bluedragoncrescentblade.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -373,7 +373,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 0,
+          "seed": -2,
           "baseName": "records\\xpack4\\item\\equipmentweapon\\spear\\u_l_longquan.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -388,7 +388,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 0,
+          "seed": -2,
           "baseName": "records\\xpack4\\item\\equipmentweapon\\spear\\u_l_heavenlywrath.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -403,7 +403,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 0,
+          "seed": -2,
           "baseName": "records\\xpack4\\item\\equipmentweapon\\spear\\u_l_zhangeightsnakespear.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -418,7 +418,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 25277,
+          "seed": -2,
           "baseName": "Records\\XPack3\\Items\\EquipmentWeapon\\Spear\\u_e_02.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -433,7 +433,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 1652,
+          "seed": -2,
           "baseName": "records\\xpack3\\items\\equipmentweapon\\spear\\u_l_03.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -448,7 +448,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 11143,
+          "seed": -2,
           "baseName": "records\\xpack3\\items\\equipmentweapon\\spear\\u_l_01.dbr",
           "prefixName": "",
           "suffixName": "",

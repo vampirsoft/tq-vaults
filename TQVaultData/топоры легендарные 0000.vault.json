@@ -8,7 +8,7 @@
       "items": [
         {
           "stackSize": 1,
-          "seed": 31277,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentWeapon\\Axe\\U_E_Atropos'Assistant.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -23,7 +23,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 13800,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentWeapon\\Axe\\U_E_Torment.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -53,7 +53,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 15151,
+          "seed": -2,
           "baseName": "records\\item\\equipmentweapon\\axe\\u_e_enkidu'sstand.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -68,7 +68,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 22970,
+          "seed": -2,
           "baseName": "records\\item\\equipmentweapon\\axe\\u_e_theogenes'onslaught.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -98,7 +98,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 31446,
+          "seed": -2,
           "baseName": "records\\xpack3\\items\\equipmentweapon\\axe\\u_e_02.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -113,7 +113,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 11611,
+          "seed": -2,
           "baseName": "Records\\XPack3\\Items\\EquipmentWeapon\\Axe\\u_e_01.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -128,7 +128,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 4388,
+          "seed": -2,
           "baseName": "Records\\XPack\\Item\\equipmentWeapons\\Axe\\U_E_003.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -208,7 +208,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 14826,
+          "seed": -2,
           "baseName": "records\\item\\equipmentweapon\\axe\\u_l_phoenix.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -223,7 +223,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 27960,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentWeapon\\Axe\\U_L_TheFuries.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -333,7 +333,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 29273,
+          "seed": -2,
           "baseName": "records\\xpack3\\items\\equipmentweapon\\axe\\u_l_01.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -378,7 +378,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 14525,
+          "seed": -2,
           "baseName": "records\\xpack4\\item\\equipmentweapon\\axe\\u_l_pangusfall.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -408,7 +408,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 30723,
+          "seed": -2,
           "baseName": "records\\xpack4\\item\\equipmentweapon\\axe\\u_l_entropy.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -428,7 +428,7 @@
       "items": [
         {
           "stackSize": 1,
-          "seed": 32572,
+          "seed": -2,
           "baseName": "records\\xpack3\\items\\equipmentweapon\\axe\\u_l_02.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -443,7 +443,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 14860,
+          "seed": -2,
           "baseName": "records\\xpack3\\items\\equipmentweapon\\axe\\u_l_03.dbr",
           "prefixName": "",
           "suffixName": "",

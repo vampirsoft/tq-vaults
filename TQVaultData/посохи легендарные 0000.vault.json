@@ -8,7 +8,7 @@
       "items": [
         {
           "stackSize": 1,
-          "seed": 19861,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentWeapon\\Staff\\U_E_RodoftheAncients.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -23,7 +23,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 16450,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentWeapon\\Staff\\U_E_Archon'sJudgement.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -38,7 +38,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 26411,
+          "seed": -2,
           "baseName": "records\\item\\equipmentweapon\\staff\\u_e_hekastaff.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -53,7 +53,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 15334,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentWeapon\\Staff\\U_E_ChromaticStaff.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -98,7 +98,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 5988,
+          "seed": -2,
           "baseName": "records\\item\\equipmentweapon\\staff\\u_l_riddleofthesphinx.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -113,7 +113,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 25896,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentWeapon\\Staff\\U_E_Geras'Walkingstick.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -128,7 +128,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 18616,
+          "seed": -2,
           "baseName": "Records\\XPack\\Item\\EquipmentWeapons\\Staff\\U_E_001.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -148,7 +148,7 @@
       "items": [
         {
           "stackSize": 1,
-          "seed": 18946,
+          "seed": -2,
           "baseName": "records\\item\\equipmentweapon\\staff\\u_l_eyeofosiris.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -288,7 +288,7 @@
       "items": [
         {
           "stackSize": 1,
-          "seed": 26368,
+          "seed": -2,
           "baseName": "records\\xpack3\\items\\equipmentweapon\\staff\\u_l_03.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -303,7 +303,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 20113,
+          "seed": -2,
           "baseName": "records\\xpack3\\items\\equipmentweapon\\staff\\u_l_01.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -348,7 +348,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 30642,
+          "seed": -2,
           "baseName": "records\\xpack4\\item\\equipmentweapon\\staff\\u_l_dreamwhisperer.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -393,7 +393,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 10586,
+          "seed": -2,
           "baseName": "records\\xpack4\\item\\equipmentweapon\\staff\\u_l_strengthofthenile.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -428,7 +428,7 @@
       "items": [
         {
           "stackSize": 1,
-          "seed": 1697,
+          "seed": -2,
           "baseName": "records\\xpack4\\item\\equipmentweapon\\staff\\u_l_pearlstaffofshen.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -443,7 +443,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 20698,
+          "seed": -2,
           "baseName": "records\\xpack4\\item\\equipmentweapon\\staff\\u_l_lightofwu.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -458,7 +458,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 2680,
+          "seed": -2,
           "baseName": "records\\xpack4\\item\\equipmentweapon\\staff\\u_l_yusacrifice.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -473,7 +473,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 23566,
+          "seed": -2,
           "baseName": "records\\xpack3\\items\\equipmentweapon\\staff\\u_l_02.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -488,7 +488,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 13497,
+          "seed": -2,
           "baseName": "Records\\XPack3\\Items\\EquipmentWeapon\\Staff\\u_e_01.dbr",
           "prefixName": "",
           "suffixName": "",

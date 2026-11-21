@@ -8,7 +8,7 @@
       "items": [
         {
           "stackSize": 1,
-          "seed": 14656,
+          "seed": -2,
           "baseName": "records\\xpack\\item\\equipmentweapons\\sword\\mi_e_melinoe.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -23,7 +23,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 2177,
+          "seed": -2,
           "baseName": "Records\\XPack\\Item\\EquipmentWeapons\\Sword\\MI_E_Anouran.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -38,7 +38,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 2971,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentWeapon\\Sword\\MI_E_Arachnos.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -53,7 +53,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 11267,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentWeapon\\Sword\\MI_E_TigermanMelee.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -68,7 +68,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 4405,
+          "seed": -2,
           "baseName": "Records\\XPack3\\Items\\EquipmentWeapon\\Sword\\MI_E_Serpentoid.dbr",
           "prefixName": "",
           "suffixName": "records\\xpack3\\items\\lootmagicalaffixes\\suffix\\default\\rare_extrarelic_01.dbr",
@@ -83,7 +83,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 22552,
+          "seed": -2,
           "baseName": "Records\\XPack3\\Items\\EquipmentWeapon\\Sword\\MI_E_PotamoiWarrior.dbr",
           "prefixName": "",
           "suffixName": "",

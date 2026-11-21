@@ -8,7 +8,7 @@
       "items": [
         {
           "stackSize": 1,
-          "seed": 20478,
+          "seed": -2,
           "baseName": "Records\\Item\\equipmentarmor\\us_n_labyrinthinearmor.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -23,7 +23,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 25582,
+          "seed": -2,
           "baseName": "records\\item\\equipmenthelm\\us_n_labyrinthinearmor.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -38,7 +38,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 10073,
+          "seed": -2,
           "baseName": "records\\item\\equipmentarmband\\us_n_labyrinthinearmor.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -53,7 +53,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 3814,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentGreaves\\US_N_LabyrinthineArmor.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -68,7 +68,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 1441,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentShield\\US_N_LabyrinthineArmor.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -88,7 +88,7 @@
       "items": [
         {
           "stackSize": 1,
-          "seed": 7321,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentArmor\\US_N_ObsidianArmor.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -103,7 +103,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 16829,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentHelm\\US_N_ObsidianArmor.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -118,7 +118,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 27404,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentGreaves\\US_N_ObsidianArmor.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -133,7 +133,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 2795,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentArmband\\US_N_ObsidianArmor.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -148,7 +148,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 26752,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentWeapon\\Axe\\US_N_ObsidianArmor.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -168,7 +168,7 @@
       "items": [
         {
           "stackSize": 1,
-          "seed": 22659,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentArmor\\US_N_GebelTjauti.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -183,7 +183,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 31982,
+          "seed": -2,
           "baseName": "records\\item\\equipmenthelm\\us_n_gebeltjauti.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -198,7 +198,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 29428,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentGreaves\\US_N_GebelTjauti.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -213,7 +213,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 18907,
+          "seed": -2,
           "baseName": "records\\item\\equipmentarmband\\us_n_gebeltjauti.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -233,7 +233,7 @@
       "items": [
         {
           "stackSize": 1,
-          "seed": 32211,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentArmor\\US_N_ThebanPanoply.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -248,7 +248,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 16367,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentHelm\\US_N_ThebanPanoply.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -263,7 +263,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 32153,
+          "seed": -2,
           "baseName": "records\\item\\equipmentarmband\\us_n_thebanpanoply.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -278,7 +278,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 25574,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentGreaves\\US_N_ThebanPanoply.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -293,7 +293,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 14927,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentShield\\US_N_ThebanPanoply.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -313,7 +313,7 @@
       "items": [
         {
           "stackSize": 1,
-          "seed": 27551,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentArmor\\US_N_Ramses'RoyalArmor.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -328,7 +328,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 14815,
+          "seed": -2,
           "baseName": "records\\item\\equipmenthelm\\us_n_ramses'royalarmor.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -343,7 +343,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 3540,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentArmband\\US_N_Ramses'RoyalArmor.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -358,7 +358,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 3959,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentGreaves\\US_N_Ramses'RoyalArmor.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -373,7 +373,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 7818,
+          "seed": -2,
           "baseName": "records\\item\\equipmentweapon\\club\\us_n_ramses'royalarmor.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -393,7 +393,7 @@
       "items": [
         {
           "stackSize": 1,
-          "seed": 15212,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentArmor\\US_N_SafeguardoftheMantis.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -408,7 +408,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 1781,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentHelm\\US_N_SafeguardoftheMantis.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -423,7 +423,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 8773,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentGreaves\\US_N_SafeguardoftheMantis.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -443,7 +443,7 @@
       "items": [
         {
           "stackSize": 1,
-          "seed": 5215,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentHelm\\US_N_LazarusArmor.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -458,7 +458,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 26187,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentArmband\\US_N_LazarusArmor.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -473,7 +473,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 524,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentGreaves\\US_N_LazarusArmor.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -488,7 +488,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 29907,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentArmor\\US_N_LazarusArmor.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -508,7 +508,7 @@
       "items": [
         {
           "stackSize": 1,
-          "seed": 31841,
+          "seed": -2,
           "baseName": "records\\item\\equipmentarmor\\us_e_theacropolis.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -523,7 +523,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 8274,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentShield\\US_E_TheAcropolis.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -543,7 +543,7 @@
       "items": [
         {
           "stackSize": 1,
-          "seed": 22675,
+          "seed": -2,
           "baseName": "records\\item\\equipmentarmor\\us_n_imperialraiment.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -558,7 +558,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 6109,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentHelm\\US_N_ImperialRaiment.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -573,7 +573,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 13668,
+          "seed": -2,
           "baseName": "records\\item\\equipmentarmband\\us_n_imperialraiment.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -588,7 +588,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 20365,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentGreaves\\US_N_ImperialRaiment.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -603,7 +603,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 6194,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentWeapon\\Sword\\US_N_ImperialRaiment01.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -618,7 +618,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 5411,
+          "seed": -2,
           "baseName": "records\\item\\equipmentweapon\\sword\\us_n_imperialraiment02.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -638,7 +638,7 @@
       "items": [
         {
           "stackSize": 1,
-          "seed": 5623,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentArmor\\US_N_BabylonianRaiment.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -653,7 +653,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 8765,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentHelm\\US_N_BabylonianRaiment.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -668,7 +668,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 7548,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentGreaves\\US_N_BabylonianRaiment.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -683,7 +683,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 23453,
+          "seed": -2,
           "baseName": "records\\item\\equipmentshield\\us_n_babylonianraiment.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -698,7 +698,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 7554,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentWeapon\\Spear\\US_N_BabylonianRaiment.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -718,7 +718,7 @@
       "items": [
         {
           "stackSize": 1,
-          "seed": 17127,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentArmor\\US_N_PrideoftheJadePalace.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -733,7 +733,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 16266,
+          "seed": -2,
           "baseName": "records\\item\\equipmenthelm\\us_n_prideofthejadepalace.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -748,7 +748,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 15074,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentArmband\\US_N_PrideoftheJadePalace.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -763,7 +763,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 5745,
+          "seed": -2,
           "baseName": "records\\item\\equipmentgreaves\\us_n_prideofthejadepalace.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -778,7 +778,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 9362,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentWeapon\\Bow\\US_N_PrideoftheJadePalace.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -798,7 +798,7 @@
       "items": [
         {
           "stackSize": 1,
-          "seed": 6933,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentHelm\\US_E_ArmoroftheImmortalGuard.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -813,7 +813,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 2082,
+          "seed": -2,
           "baseName": "records\\item\\equipmentarmband\\us_e_armoroftheimmortalguard.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -828,7 +828,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 16823,
+          "seed": -2,
           "baseName": "records\\item\\equipmentgreaves\\us_e_armoroftheimmortalguard.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -843,7 +843,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 5130,
+          "seed": -2,
           "baseName": "records\\item\\equipmentweapon\\spear\\us_e_armoroftheimmortalguard.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -858,7 +858,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 6651,
+          "seed": -2,
           "baseName": "records\\item\\equipmentarmor\\us_e_armoroftheimmortalguard.dbr",
           "prefixName": "",
           "suffixName": "",

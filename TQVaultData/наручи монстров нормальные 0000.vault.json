@@ -1,14 +1,14 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 0,
+  "currentlySelectedSackNumber": 7,
   "sacks": [
     {
       "iconinfo": null,
       "items": [
         {
           "stackSize": 1,
-          "seed": 29992,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentArmband\\MI_N_Bandari.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -23,7 +23,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 390,
+          "seed": -2,
           "baseName": "Records\\XPack3\\Items\\EquipmentArmor\\Armband\\MI_N_EmbalmedPriestMage.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -38,7 +38,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 26562,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentArmband\\MI_N_SatyrMage.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -68,7 +68,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 13029,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentArmband\\MI_N_JackalmanMage.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -83,7 +83,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 18863,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentArmband\\MI_N_Mummy.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -98,7 +98,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 31304,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentArmband\\MI_N_Djinn.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -113,7 +113,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 1456,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentArmband\\MI_N_NeanderthalMage.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -128,7 +128,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 30235,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentArmband\\MI_N_Telkine.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -148,7 +148,7 @@
       "items": [
         {
           "stackSize": 1,
-          "seed": 21738,
+          "seed": -2,
           "baseName": "Records\\XPack3\\Items\\EquipmentArmor\\Armband\\MI_N_HesperideMage.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -163,7 +163,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 31991,
+          "seed": -2,
           "baseName": "Records\\XPack3\\Items\\EquipmentArmor\\Armband\\MI_N_SerpentoidMage.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -178,7 +178,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 25062,
+          "seed": -2,
           "baseName": "Records\\XPack3\\Items\\EquipmentArmor\\Armband\\MI_N_TritonWitchMage.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -193,7 +193,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 14671,
+          "seed": -2,
           "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Armband\\MI_N_AnouranMage.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -208,7 +208,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 5836,
+          "seed": -2,
           "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Armband\\MI_N_KeresMage.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -223,7 +223,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 2186,
+          "seed": -2,
           "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Armband\\MI_N_EmpusaMage.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -243,7 +243,7 @@
       "items": [
         {
           "stackSize": 1,
-          "seed": 9142,
+          "seed": -2,
           "baseName": "records\\xpack2\\item\\equipmentarmor\\armband\\mi_n_nerthusshaman.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -258,7 +258,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 23426,
+          "seed": -2,
           "baseName": "records\\xpack2\\item\\equipmentarmor\\armband\\mi_n_draugr.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -273,7 +273,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 31519,
+          "seed": -2,
           "baseName": "records\\xpack2\\item\\equipmentarmor\\armband\\mi_n_fjordmage.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -288,7 +288,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 23741,
+          "seed": -2,
           "baseName": "records\\xpack2\\item\\equipmentarmor\\armband\\mi_n_kelpie.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -303,7 +303,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 25175,
+          "seed": -2,
           "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Armband\\MI_N_MelinoeMage.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -323,7 +323,7 @@
       "items": [
         {
           "stackSize": 1,
-          "seed": 28758,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentArmband\\MI_N_Arachnos.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -338,7 +338,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 4012,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentArmband\\MI_N_GorgonMelee.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -353,7 +353,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 27649,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentArmband\\MI_N_Boarman.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -368,7 +368,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 9789,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentArmband\\MI_N_JackalmanMelee.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -383,7 +383,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 3421,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentArmband\\MI_N_DuneRaider.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -398,7 +398,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 27280,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentArmband\\MI_N_GoldenSkeleton.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -413,7 +413,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 8431,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentArmband\\MI_N_Reptilian.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -428,7 +428,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 4295,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentArmband\\MI_N_NeanderthalMelee.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -448,7 +448,7 @@
       "items": [
         {
           "stackSize": 1,
-          "seed": 1975,
+          "seed": -2,
           "baseName": "Records\\XPack3\\Items\\EquipmentArmor\\Armband\\MI_N_EmbalmedPriestMelee.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -463,7 +463,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 13372,
+          "seed": -2,
           "baseName": "Records\\XPack3\\Items\\EquipmentArmor\\Armband\\MI_N_TritonWarriorMelee.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -478,7 +478,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 15881,
+          "seed": -2,
           "baseName": "records\\xpack2\\item\\equipmentarmor\\armband\\mi_n_troll.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -493,7 +493,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 3333,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentArmband\\MI_N_TropicalArachnos.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -508,7 +508,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 27201,
+          "seed": -2,
           "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Armband\\MI_N_LamiaMelee.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -523,7 +523,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 2685,
+          "seed": -2,
           "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Armband\\MI_N_AnouranMelee.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -538,7 +538,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 536,
+          "seed": -2,
           "baseName": "Records\\XPack3\\Items\\EquipmentArmor\\Armband\\MI_N_CoralGuardianMelee.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -553,7 +553,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 17210,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentArmband\\MI_N_RatmanChampion.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -568,7 +568,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 13026,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentArmband\\MI_N_Yerren.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -588,7 +588,7 @@
       "items": [
         {
           "stackSize": 1,
-          "seed": 31769,
+          "seed": -2,
           "baseName": "records\\xpack2\\item\\equipmentarmor\\armband\\mi_n_fjordmelee.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -603,7 +603,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 32033,
+          "seed": -2,
           "baseName": "records\\xpack2\\item\\equipmentarmor\\armband\\mi_n_einherjar.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -618,7 +618,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 5032,
+          "seed": -2,
           "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Armband\\MI_N_GigantesMelee.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -633,7 +633,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 32088,
+          "seed": -2,
           "baseName": "Records\\XPack3\\Items\\EquipmentArmor\\Armband\\MI_N_PotamoiWarriorMelee.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -648,7 +648,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 7803,
+          "seed": -2,
           "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Armband\\MI_N_MachaeMelee.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -663,7 +663,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 7738,
+          "seed": -2,
           "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Armband\\MI_N_TroglodyteMelee.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -678,7 +678,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 24145,
+          "seed": -2,
           "baseName": "records\\xpack2\\item\\equipmentarmor\\armband\\mi_n_dvergrmelee.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -693,7 +693,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 8034,
+          "seed": -2,
           "baseName": "records\\xpack2\\item\\equipmentarmor\\armband\\mi_n_yerren.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -713,7 +713,7 @@
       "items": [
         {
           "stackSize": 1,
-          "seed": 14096,
+          "seed": -2,
           "baseName": "records\\xpack2\\item\\equipmentarmor\\armband\\mi_n_eldjotun.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -733,7 +733,7 @@
       "items": [
         {
           "stackSize": 1,
-          "seed": 3886,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentArmband\\MI_N_GorgonArcher.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -748,7 +748,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 2685,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentArmband\\MI_N_TigermanMelee.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -763,7 +763,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 7954,
+          "seed": -2,
           "baseName": "Records\\XPack3\\Items\\EquipmentArmor\\Armband\\MI_N_MonkeymanMelee.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -778,7 +778,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 4537,
+          "seed": -2,
           "baseName": "Records\\XPack3\\Items\\EquipmentArmor\\Armband\\MI_N_SerpentoidMelee.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -793,7 +793,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 30363,
+          "seed": -2,
           "baseName": "records\\xpack2\\item\\equipmentarmor\\armband\\mi_n_alfr.dbr",
           "prefixName": "",
           "suffixName": "",

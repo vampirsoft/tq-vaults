@@ -8,7 +8,7 @@
       "items": [
         {
           "stackSize": 1,
-          "seed": 4948,
+          "seed": -2,
           "baseName": "records\\xpack4\\item\\equipmentarmor\\torso\\us_l_xuanwuselementalraiment.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -23,7 +23,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 18633,
+          "seed": -2,
           "baseName": "records\\xpack4\\item\\equipmentarmor\\helm\\us_l_xuanwushelmofinsight.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -38,7 +38,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 16447,
+          "seed": -2,
           "baseName": "records\\xpack4\\item\\equipmentarmor\\armband\\us_l_xuanwusarmbandsoftransmutation.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -53,7 +53,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 20177,
+          "seed": -2,
           "baseName": "records\\xpack4\\item\\equipmentarmor\\greaves\\us_l_xuanwuswrapsofheavenlyjade.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -68,7 +68,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 7647,
+          "seed": -2,
           "baseName": "records\\xpack4\\item\\equipmentweapon\\staff\\us_l_xuanwusstaffofgreatermagic.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -88,7 +88,7 @@
       "items": [
         {
           "stackSize": 1,
-          "seed": 850,
+          "seed": -2,
           "baseName": "records\\xpack4\\item\\equipmentarmor\\torso\\us_l_kiyasbreastplateofaten.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -103,7 +103,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 29269,
+          "seed": -2,
           "baseName": "records\\xpack4\\item\\equipmentarmor\\helm\\us_l_kiyasheaddress.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -118,7 +118,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 29780,
+          "seed": -2,
           "baseName": "records\\xpack4\\item\\equipmentarmor\\armband\\us_l_kiyasarmbandsofchannelling.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -133,7 +133,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 22724,
+          "seed": -2,
           "baseName": "records\\xpack4\\item\\equipmentarmor\\greaves\\us_l_kiyasornatelightboots.dbr",
           "prefixName": "",
           "suffixName": "",

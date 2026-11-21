@@ -8,7 +8,7 @@
       "items": [
         {
           "stackSize": 1,
-          "seed": 20601,
+          "seed": -2,
           "baseName": "records\\xpack2\\item\\equipmentweapons\\1hranged\\MI_N_einherjar.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -23,7 +23,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 26645,
+          "seed": -2,
           "baseName": "records\\xpack2\\item\\equipmentweapons\\1hranged\\MI_N_duneraider.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -38,7 +38,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 11979,
+          "seed": -2,
           "baseName": "records\\xpack2\\item\\equipmentweapons\\1hranged\\MI_N_tigerman.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -53,7 +53,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 15720,
+          "seed": -2,
           "baseName": "Records\\XPack3\\Items\\EquipmentWeapon\\1hRanged\\MI_N_Monkeyman.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -68,7 +68,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 10626,
+          "seed": -2,
           "baseName": "records\\xpack2\\item\\equipmentweapons\\1hranged\\MI_N_machae.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -83,7 +83,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 14789,
+          "seed": -2,
           "baseName": "Records\\XPack3\\Items\\EquipmentWeapon\\1hRanged\\MI_N_PotamoiWarrior.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -98,7 +98,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 3919,
+          "seed": -2,
           "baseName": "records\\xpack2\\item\\equipmentweapons\\1hranged\\MI_N_dvergr.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -113,7 +113,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 14641,
+          "seed": -2,
           "baseName": "records\\xpack2\\item\\equipmentweapons\\1hranged\\MI_N_maenad.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -128,7 +128,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 13190,
+          "seed": -2,
           "baseName": "records\\xpack2\\item\\equipmentweapons\\1hranged\\MI_N_skeleton.dbr",
           "prefixName": "",
           "suffixName": "",

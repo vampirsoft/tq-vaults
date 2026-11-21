@@ -8,7 +8,7 @@
       "items": [
         {
           "stackSize": 1,
-          "seed": 17074,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentArmband\\Um_N_Mindlash.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -23,7 +23,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 242,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentArmband\\Um_N_GlowingBangle.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -38,7 +38,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 1678,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentArmband\\Um_N_PapyrusWinding.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -53,7 +53,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 6652,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentArmband\\Um_N_Scholar'sBangle.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -68,7 +68,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 13994,
+          "seed": -2,
           "baseName": "records\\item\\equipmentarmband\\um_n_bonebracelet.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -83,7 +83,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 20136,
+          "seed": -2,
           "baseName": "Records\\XPack3\\Items\\EquipmentArmor\\Armband\\um_n_01.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -98,7 +98,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 14277,
+          "seed": -2,
           "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Armband\\Um_N_001.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -113,7 +113,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 6758,
+          "seed": -2,
           "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Armband\\Um_N_003.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -128,7 +128,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 26064,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentArmband\\Um_N_Harmony.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -148,7 +148,7 @@
       "items": [
         {
           "stackSize": 1,
-          "seed": 12314,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentArmband\\Um_E_Hierophant'sWinding.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -163,7 +163,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 7190,
+          "seed": -2,
           "baseName": "records\\xpack\\item\\equipmentarmor\\armband\\um_n_002.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -178,7 +178,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 20624,
+          "seed": -2,
           "baseName": "Records\\XPack3\\Items\\EquipmentArmor\\Armband\\um_n_02.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -193,7 +193,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 9448,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentArmband\\Um_E_Elementalist'sWraps.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -208,7 +208,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 29739,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentArmband\\Um_E_BraceletOfIllumination.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -223,7 +223,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 7430,
+          "seed": -2,
           "baseName": "records\\item\\equipmentarmband\\um_e_braceletofpain.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -238,7 +238,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 9544,
+          "seed": -2,
           "baseName": "records\\xpack2\\item\\equipmentarmor\\armband\\u_n_03.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -253,7 +253,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 26921,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentArmband\\Um_E_Nathus'Bane.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -268,7 +268,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 3418,
+          "seed": -2,
           "baseName": "records\\xpack2\\item\\equipmentarmor\\armband\\u_n_05.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -288,7 +288,7 @@
       "items": [
         {
           "stackSize": 1,
-          "seed": 29617,
+          "seed": -2,
           "baseName": "records\\item\\equipmentarmband\\um_e_arcanebindings.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -303,7 +303,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 31265,
+          "seed": -2,
           "baseName": "records\\xpack2\\item\\equipmentarmor\\armband\\u_n_06.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -318,7 +318,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 32081,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentArmband\\Um_E_Lethargy.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -333,7 +333,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 9534,
+          "seed": -2,
           "baseName": "records\\xpack2\\item\\equipmentarmor\\armband\\u_e_05.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -353,7 +353,7 @@
       "items": [
         {
           "stackSize": 1,
-          "seed": 6334,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentArmband\\U_N_ThornyBracers.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -368,7 +368,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 20926,
+          "seed": -2,
           "baseName": "Records\\XPack3\\Items\\EquipmentArmor\\Armband\\u_n_02.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -383,7 +383,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 30742,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentArmband\\U_N_BracersofAtlas.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -398,7 +398,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 22239,
+          "seed": -2,
           "baseName": "records\\xpack2\\item\\equipmentarmor\\armband\\u_n_02.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -413,7 +413,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 337,
+          "seed": -2,
           "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Armband\\U_N_002.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -428,7 +428,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 2620,
+          "seed": -2,
           "baseName": "records\\xpack2\\item\\equipmentarmor\\armband\\u_e_04.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -443,7 +443,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 11455,
+          "seed": -2,
           "baseName": "Records\\XPack3\\Items\\EquipmentArmor\\Armband\\u_n_01.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -458,7 +458,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 14785,
+          "seed": -2,
           "baseName": "records\\xpack2\\item\\equipmentarmor\\armband\\u_n_04.dbr",
           "prefixName": "",
           "suffixName": "",

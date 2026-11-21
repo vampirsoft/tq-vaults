@@ -8,7 +8,7 @@
       "items": [
         {
           "stackSize": 1,
-          "seed": 1881,
+          "seed": -2,
           "baseName": "records\\xpack2\\item\\equipmentarmor\\armband\\us_n_sucellus.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -23,7 +23,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 4900,
+          "seed": -2,
           "baseName": "records\\xpack2\\item\\equipmentarmor\\greaves\\US_N_Sucellus.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -43,7 +43,7 @@
       "items": [
         {
           "stackSize": 1,
-          "seed": 13797,
+          "seed": -2,
           "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Torso\\U_N_001.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -58,7 +58,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 23200,
+          "seed": -2,
           "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Helm\\U_N_001.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -73,7 +73,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 9430,
+          "seed": -2,
           "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Armband\\U_N_001.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -108,7 +108,7 @@
       "items": [
         {
           "stackSize": 1,
-          "seed": 9555,
+          "seed": -2,
           "baseName": "records\\xpack2\\item\\equipmentarmor\\torso\\us_n_brennus.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -123,7 +123,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 17683,
+          "seed": -2,
           "baseName": "records\\xpack2\\item\\equipmentarmor\\helm\\US_N_Brennus.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -138,7 +138,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 24958,
+          "seed": -2,
           "baseName": "records\\xpack2\\item\\equipmentarmor\\armband\\US_N_Brennus.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -153,7 +153,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 12404,
+          "seed": -2,
           "baseName": "records\\xpack2\\item\\equipmentarmor\\greaves\\us_n_brennus.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -173,7 +173,7 @@
       "items": [
         {
           "stackSize": 1,
-          "seed": 22011,
+          "seed": -2,
           "baseName": "Records\\XPack3\\Items\\EquipmentArmor\\Torso\\u_n_Set10.dbr",
           "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Rare_Juggernaught'sArmor_01.dbr",
           "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Retaliation_LeechLife_03.dbr",
@@ -188,7 +188,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 14368,
+          "seed": -2,
           "baseName": "Records\\XPack3\\Items\\EquipmentArmor\\Armband\\u_n_Set10.dbr",
           "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Rare_Juggernaught'sArmor_01.dbr",
           "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AttributeLife_06.dbr",
@@ -203,7 +203,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 17252,
+          "seed": -2,
           "baseName": "Records\\XPack3\\Items\\EquipmentArmor\\Greaves\\u_n_Set10.dbr",
           "prefixName": "Records\\XPack\\Item\\LootMagicalAffixes\\Prefix\\Default\\Rare_DemonProtectStrArmor_04.dbr",
           "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Retaliation_LeechLife_03.dbr",
@@ -218,7 +218,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 12826,
+          "seed": -2,
           "baseName": "Records\\XPack3\\Items\\EquipmentArmor\\Helm\\u_n_Set10.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -233,7 +233,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 6390,
+          "seed": -2,
           "baseName": "Records\\XPack3\\Items\\EquipmentArmor\\Helm\\u_n_Set10.dbr",
           "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Defensive_ResistPoison_04.dbr",
           "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Retaliation_Pierce_03.dbr",
@@ -253,7 +253,7 @@
       "items": [
         {
           "stackSize": 1,
-          "seed": 17850,
+          "seed": -2,
           "baseName": "records\\xpack\\item\\equipmentarmor\\armband\\us_e_005.dbr",
           "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Defensive_ResistPoison_03.dbr",
           "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Retaliation_LeechLife_02.dbr",
@@ -268,7 +268,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 311,
+          "seed": -2,
           "baseName": "Records\\XPack\\Item\\EquipmentWeapons\\Bow\\US_E_005.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -283,7 +283,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 1976,
+          "seed": -2,
           "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Ring\\US_E_005.dbr",
           "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Defensive_ResistPoison_02.dbr",
           "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AttributeLife_04.dbr",

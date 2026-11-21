@@ -8,7 +8,7 @@
       "items": [
         {
           "stackSize": 1,
-          "seed": 13642,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentArmor\\Um_E_RaimentofLogos.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -23,7 +23,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 28528,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentArmor\\Um_E_Diogenes'Chiton.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -38,7 +38,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 28849,
+          "seed": -2,
           "baseName": "records\\item\\equipmentarmor\\um_e_azuresilkvestment.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -53,7 +53,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 4081,
+          "seed": -2,
           "baseName": "records\\item\\equipmentarmor\\um_e_qibai'srobe.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -68,7 +68,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 11601,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentArmor\\Um_E_SanBai'sRobe.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -83,7 +83,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 26306,
+          "seed": -2,
           "baseName": "records\\xpack3\\items\\equipmentarmor\\torso\\um_e_01.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -98,7 +98,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 24269,
+          "seed": -2,
           "baseName": "records\\xpack2\\item\\equipmentarmor\\torso\\u_e_02.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -113,7 +113,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 12348,
+          "seed": -2,
           "baseName": "Records\\XPack3\\Items\\EquipmentArmor\\Torso\\um_e_02.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -128,7 +128,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 13608,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentArmor\\Um_L_RobesofSidirosLoros.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -148,7 +148,7 @@
       "items": [
         {
           "stackSize": 1,
-          "seed": 6795,
+          "seed": -2,
           "baseName": "records\\item\\equipmentarmor\\um_l_iris'scintillatingrobes.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -178,7 +178,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 15120,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentArmor\\Um_L_FengXao'sMeditationRobes.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -223,7 +223,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 14139,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentArmor\\Um_L_VestmentoftheOverlord.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -238,7 +238,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 31666,
+          "seed": -2,
           "baseName": "records\\item\\equipmentarmor\\um_l_mantleofamunra.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -253,7 +253,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 2116,
+          "seed": -2,
           "baseName": "records\\xpack2\\item\\equipmentarmor\\torso\\u_e_03.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -268,7 +268,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 24776,
+          "seed": -2,
           "baseName": "records\\xpack\\item\\equipmentarmor\\torso\\um_l_001.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -288,7 +288,7 @@
       "items": [
         {
           "stackSize": 1,
-          "seed": 29281,
+          "seed": -2,
           "baseName": "records\\xpack4\\item\\equipmentarmor\\torso\\u_l_robesoftheheavenlymagician.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -303,7 +303,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 21341,
+          "seed": -2,
           "baseName": "records\\xpack4\\item\\equipmentarmor\\torso\\u_l_blessingofcelestials.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -318,7 +318,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 22921,
+          "seed": -2,
           "baseName": "records\\xpack4\\item\\equipmentarmor\\torso\\u_l_sitamunsrobe.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -333,7 +333,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 30641,
+          "seed": -2,
           "baseName": "records\\xpack4\\item\\equipmentarmor\\torso\\u_l_protectivemantleofmaat.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -348,7 +348,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 23182,
+          "seed": -2,
           "baseName": "records\\xpack4\\item\\equipmentarmor\\torso\\u_l_aoshunswisdom.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -363,7 +363,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 32674,
+          "seed": -2,
           "baseName": "records\\xpack3\\items\\equipmentarmor\\torso\\um_l_01.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -378,7 +378,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 387,
+          "seed": -2,
           "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Torso\\Um_L_002.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -398,7 +398,7 @@
       "items": [
         {
           "stackSize": 1,
-          "seed": 32087,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentArmor\\U_E_Hippocrates'Vest.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -413,7 +413,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 16276,
+          "seed": -2,
           "baseName": "records\\item\\equipmentarmor\\u_e_armorofthecrimsonguard.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -428,7 +428,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 4362,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentArmor\\U_E_MoraGo'sArmor.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -443,7 +443,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 15035,
+          "seed": -2,
           "baseName": "records\\item\\equipmentarmor\\u_e_mantleofthesecretos.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -458,7 +458,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 32118,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentArmor\\U_E_Certhas'Plate.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -473,7 +473,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 11875,
+          "seed": -2,
           "baseName": "records\\item\\equipmentarmor\\u_e_etruscancuirass.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -488,7 +488,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 16108,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentArmor\\U_E_VestmentofThomtheMad.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -503,7 +503,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 17644,
+          "seed": -2,
           "baseName": "records\\item\\equipmentarmor\\u_e_kondorangirdle.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -518,7 +518,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 2730,
+          "seed": -2,
           "baseName": "records\\item\\equipmentarmor\\u_e_raimentofxigua.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -538,7 +538,7 @@
       "items": [
         {
           "stackSize": 1,
-          "seed": 23547,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentArmor\\U_E_SunLuShan'sArmor.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -553,7 +553,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 646,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentArmor\\U_E_TheKhan'sHuntingHarness.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -568,7 +568,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 27199,
+          "seed": -2,
           "baseName": "records\\item\\equipmentarmor\\u_e_proteanarmor.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -583,7 +583,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 5265,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentArmor\\U_E_Rhesus'WhitewashedArmor.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -598,7 +598,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 25981,
+          "seed": -2,
           "baseName": "records\\item\\equipmentarmor\\u_l_horus'refuge.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -613,7 +613,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 8475,
+          "seed": -2,
           "baseName": "records\\item\\equipmentarmor\\u_l_minoxianarmor.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -628,7 +628,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 26689,
+          "seed": -2,
           "baseName": "records\\item\\equipmentarmor\\u_l_armorofpeleus.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -643,7 +643,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 12668,
+          "seed": -2,
           "baseName": "Records\\XPack3\\Items\\EquipmentArmor\\Torso\\u_e_02.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -658,7 +658,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 2670,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentArmor\\U_E_MantleofSajun.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -678,7 +678,7 @@
       "items": [
         {
           "stackSize": 1,
-          "seed": 31441,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentArmor\\U_L_ArmorofAnubis.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -693,7 +693,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 21392,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentArmor\\U_L_BabeiziGi.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -708,7 +708,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 4506,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentArmor\\U_L_PenumbraPlate.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -723,7 +723,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 24601,
+          "seed": -2,
           "baseName": "records\\item\\equipmentarmor\\u_l_dionysus'jerkin.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -738,7 +738,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 18744,
+          "seed": -2,
           "baseName": "records\\item\\equipmentarmor\\u_l_verdantplate.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -768,7 +768,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 23688,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentArmor\\U_L_Overlord'sIronShell.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -818,7 +818,7 @@
       "items": [
         {
           "stackSize": 1,
-          "seed": 25172,
+          "seed": -2,
           "baseName": "records\\xpack4\\item\\equipmentarmor\\torso\\u_l_shangcuirass.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -833,7 +833,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 7447,
+          "seed": -2,
           "baseName": "records\\xpack4\\item\\equipmentarmor\\torso\\u_l_torsooffieryendurance.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -848,7 +848,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 4091,
+          "seed": -2,
           "baseName": "records\\xpack4\\item\\equipmentarmor\\torso\\u_l_temperofthestorm.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -863,7 +863,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 6771,
+          "seed": -2,
           "baseName": "records\\xpack4\\item\\equipmentarmor\\torso\\u_l_aperelstorso.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -878,7 +878,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 17995,
+          "seed": -2,
           "baseName": "records\\xpack4\\item\\equipmentarmor\\torso\\u_l_aoguangsfury.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -908,7 +908,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 11700,
+          "seed": -2,
           "baseName": "records\\xpack3\\items\\equipmentarmor\\torso\\u_l_02.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -958,7 +958,7 @@
       "items": [
         {
           "stackSize": 1,
-          "seed": 20064,
+          "seed": -2,
           "baseName": "records\\xpack4\\item\\equipmentarmor\\torso\\u_l_stalwarttorsoofwosret.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -993,7 +993,7 @@
       "items": [
         {
           "stackSize": 1,
-          "seed": 7350,
+          "seed": -2,
           "baseName": "records\\xpack4\\item\\equipmentarmor\\torso\\u_l_wrapsofservice.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -1008,7 +1008,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 15627,
+          "seed": -2,
           "baseName": "Records\\XPack3\\Items\\EquipmentArmor\\Torso\\u_e_01.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -1023,7 +1023,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 17079,
+          "seed": -2,
           "baseName": "records\\xpack2\\item\\equipmentarmor\\torso\\u_e_01.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -1038,7 +1038,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 12412,
+          "seed": -2,
           "baseName": "records\\xpack3\\items\\equipmentarmor\\torso\\u_l_01.dbr",
           "prefixName": "",
           "suffixName": "",

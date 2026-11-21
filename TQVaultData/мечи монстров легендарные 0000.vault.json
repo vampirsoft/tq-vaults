@@ -8,7 +8,7 @@
       "items": [
         {
           "stackSize": 1,
-          "seed": 31916,
+          "seed": -2,
           "baseName": "records\\item\\equipmentweapon\\sword\\mi_l_arachnos.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -23,7 +23,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 24175,
+          "seed": -2,
           "baseName": "records\\item\\equipmentweapon\\sword\\mi_l_tigermanmelee.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -38,7 +38,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 23459,
+          "seed": -2,
           "baseName": "records\\xpack\\item\\equipmentweapons\\sword\\mi_l_melinoe.dbr",
           "prefixName": "",
           "suffixName": "",

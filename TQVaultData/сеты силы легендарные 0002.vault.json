@@ -8,7 +8,7 @@
       "items": [
         {
           "stackSize": 1,
-          "seed": 22841,
+          "seed": -2,
           "baseName": "records\\xpack4\\item\\equipmentarmor\\torso\\us_l_guanyustorsoofvalor.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -23,7 +23,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 9803,
+          "seed": -2,
           "baseName": "records\\xpack4\\item\\equipmentarmor\\helm\\us_l_guanyushelmofloyalty.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -38,7 +38,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 16525,
+          "seed": -2,
           "baseName": "records\\xpack4\\item\\equipmentarmor\\armband\\us_l_guanyusbracersofrighteousness.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -53,7 +53,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 21707,
+          "seed": -2,
           "baseName": "records\\xpack4\\item\\equipmentarmor\\greaves\\us_l_guanyuswrappingsofluck.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -73,7 +73,7 @@
       "items": [
         {
           "stackSize": 1,
-          "seed": 23047,
+          "seed": -2,
           "baseName": "records\\xpack4\\item\\equipmentarmor\\torso\\us_l_huangdistorsoofmight.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -88,7 +88,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 12688,
+          "seed": -2,
           "baseName": "records\\xpack4\\item\\equipmentarmor\\helm\\us_l_huangdiswarhelmet.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -103,7 +103,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 27389,
+          "seed": -2,
           "baseName": "records\\xpack4\\item\\equipmentarmor\\armband\\us_l_huangdisbracersofserenity.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -118,7 +118,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 11822,
+          "seed": -2,
           "baseName": "records\\xpack4\\item\\equipmentarmor\\greaves\\us_l_huangdisgreaves.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -138,7 +138,7 @@
       "items": [
         {
           "stackSize": 1,
-          "seed": 15504,
+          "seed": -2,
           "baseName": "records\\xpack4\\item\\equipmentarmor\\torso\\us_l_chiyousvengeance.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -153,7 +153,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 10220,
+          "seed": -2,
           "baseName": "records\\xpack4\\item\\equipmentarmor\\helm\\us_l_chiyousspite.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -168,7 +168,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 2036,
+          "seed": -2,
           "baseName": "records\\xpack4\\item\\equipmentarmor\\armband\\us_l_chiyouswrath.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -183,7 +183,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 10297,
+          "seed": -2,
           "baseName": "records\\xpack4\\item\\equipmentarmor\\greaves\\us_l_chiyouscontempt.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -198,7 +198,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 26421,
+          "seed": -2,
           "baseName": "records\\xpack4\\item\\equipmentweapon\\shield\\u_l_chiyousfall.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -213,7 +213,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 6025,
+          "seed": -2,
           "baseName": "records\\xpack4\\item\\equipmentarmor\\amulet\\u_l_chiyoupendant.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -233,7 +233,7 @@
       "items": [
         {
           "stackSize": 1,
-          "seed": 10835,
+          "seed": -2,
           "baseName": "records\\xpack4\\item\\equipmentweapon\\sword\\u_l_pharaohslegacy.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -248,7 +248,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 12965,
+          "seed": -2,
           "baseName": "records\\xpack4\\item\\equipmentweapon\\sword\\u_l_amenhotepsdagger.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -268,7 +268,7 @@
       "items": [
         {
           "stackSize": 1,
-          "seed": 30212,
+          "seed": -2,
           "baseName": "records\\xpack4\\item\\equipmentarmor\\helm\\us_l_shardoftheimmortalthrone.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -283,7 +283,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 9608,
+          "seed": -2,
           "baseName": "records\\xpack4\\item\\equipmentarmor\\armband\\us_l_typhonsshackle.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -298,7 +298,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 24916,
+          "seed": -2,
           "baseName": "records\\xpack4\\item\\equipmentweapon\\shield\\us_l_shieldofhelos.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -313,7 +313,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 30105,
+          "seed": -2,
           "baseName": "records\\xpack4\\item\\equipmentweapon\\sword\\us_l_titanbanesgladius.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -333,7 +333,7 @@
       "items": [
         {
           "stackSize": 1,
-          "seed": 11806,
+          "seed": -2,
           "baseName": "records\\xpack4\\item\\equipmentarmor\\torso\\us_l_theninesituations.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -348,7 +348,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 30092,
+          "seed": -2,
           "baseName": "records\\xpack4\\item\\equipmentarmor\\helm\\us_l_layingplans.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -363,7 +363,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 19352,
+          "seed": -2,
           "baseName": "records\\xpack4\\item\\equipmentarmor\\armband\\us_l_tacticaldispositions.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -378,7 +378,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 15371,
+          "seed": -2,
           "baseName": "records\\xpack4\\item\\equipmentarmor\\greaves\\us_l_classificationofterrain.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -393,7 +393,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 8850,
+          "seed": -2,
           "baseName": "records\\xpack4\\item\\equipmentweapon\\sword\\us_l_thearmyonthemarch.dbr",
           "prefixName": "",
           "suffixName": "",

@@ -8,7 +8,7 @@
       "items": [
         {
           "stackSize": 1,
-          "seed": 24768,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentWeapon\\Bow\\MI_E_SatyrBrigand.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -23,7 +23,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 22014,
+          "seed": -2,
           "baseName": "records\\item\\equipmentweapon\\bow\\mi_e_duneraider.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -38,7 +38,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 16508,
+          "seed": -2,
           "baseName": "Records\\XPack3\\Items\\EquipmentWeapon\\Bow\\MI_E_EmbalmedPriest.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -53,7 +53,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 21642,
+          "seed": -2,
           "baseName": "Records\\XPack3\\Items\\EquipmentWeapon\\Bow\\MI_E_CoralGuardian.dbr",
           "prefixName": "",
           "suffixName": "",

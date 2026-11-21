@@ -8,7 +8,7 @@
       "items": [
         {
           "stackSize": 1,
-          "seed": 23174,
+          "seed": -2,
           "baseName": "records\\item\\equipmentweapon\\spear\\mi_l_centaurtrapper.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -23,7 +23,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 30735,
+          "seed": -2,
           "baseName": "records\\item\\equipmentweapon\\spear\\mi_l_ichthianmelee.dbr",
           "prefixName": "",
           "suffixName": "",

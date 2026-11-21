@@ -8,7 +8,7 @@
       "items": [
         {
           "stackSize": 1,
-          "seed": 23350,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentWeapon\\Axe\\MI_E_MinotaurLord.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -23,7 +23,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 23877,
+          "seed": -2,
           "baseName": "records\\item\\equipmentweapon\\club\\mi_e_cyclops.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -38,7 +38,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 4971,
+          "seed": -2,
           "baseName": "Records\\Item\\EquipmentWeapon\\Club\\MI_E_SatyrGuardian.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -53,7 +53,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 877,
+          "seed": -2,
           "baseName": "records\\item\\equipmentweapon\\club\\mi_e_ichthianmelee.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -68,7 +68,7 @@
         },
         {
           "stackSize": 1,
-          "seed": 2480,
+          "seed": -2,
           "baseName": "Records\\XPack3\\Items\\EquipmentWeapon\\Club\\MI_E_Hesperide.dbr",
           "prefixName": "",
           "suffixName": "",
