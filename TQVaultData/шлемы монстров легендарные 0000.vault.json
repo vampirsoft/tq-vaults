@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 3,
+  "currentlySelectedSackNumber": 0,
   "sacks": [
     {
       "iconinfo": null,
@@ -20,21 +20,6 @@
           "var2": 2035248,
           "pointX": 12,
           "pointY": 0
-        },
-        {
-          "stackSize": 1,
-          "seed": 26447,
-          "baseName": "records\\item\\equipmenthelm\\mi_l_bandari.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 12,
-          "pointY": 2
         },
         {
           "stackSize": 1,
@@ -95,21 +80,6 @@
           "var2": 2035248,
           "pointX": 8,
           "pointY": 0
-        },
-        {
-          "stackSize": 1,
-          "seed": 11889,
-          "baseName": "records\\item\\equipmenthelm\\mi_l_ichthianmage.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 8,
-          "pointY": 2
         },
         {
           "stackSize": 1,
@@ -293,66 +263,6 @@
         },
         {
           "stackSize": 1,
-          "seed": 30679,
-          "baseName": "records\\item\\equipmenthelm\\mi_l_goldenskeleton.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 6,
-          "pointY": 2
-        },
-        {
-          "stackSize": 1,
-          "seed": 24417,
-          "baseName": "Records\\Item\\EquipmentHelm\\MI_L_GoldenSkeleton.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 6,
-          "pointY": 4
-        },
-        {
-          "stackSize": 1,
-          "seed": 24417,
-          "baseName": "Records\\Item\\EquipmentHelm\\MI_L_GoldenSkeleton.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 6,
-          "pointY": 6
-        },
-        {
-          "stackSize": 1,
-          "seed": 24417,
-          "baseName": "Records\\Item\\EquipmentHelm\\MI_L_GoldenSkeleton.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 6,
-          "pointY": 8
-        },
-        {
-          "stackSize": 1,
           "seed": 30128,
           "baseName": "records\\item\\equipmenthelm\\mi_l_neanderthalmelee.dbr",
           "prefixName": "",
@@ -365,36 +275,6 @@
           "var2": 2035248,
           "pointX": 8,
           "pointY": 0
-        },
-        {
-          "stackSize": 1,
-          "seed": 7859,
-          "baseName": "Records\\Item\\EquipmentHelm\\MI_L_GoldenSkeleton.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 6,
-          "pointY": 10
-        },
-        {
-          "stackSize": 1,
-          "seed": 7859,
-          "baseName": "Records\\Item\\EquipmentHelm\\MI_L_GoldenSkeleton.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 6,
-          "pointY": 12
         }
       ]
     },
@@ -475,21 +355,6 @@
           "var2": 2035248,
           "pointX": 12,
           "pointY": 0
-        },
-        {
-          "stackSize": 1,
-          "seed": 28928,
-          "baseName": "records\\item\\equipmenthelm\\mi_l_ratmanchampion.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 4,
-          "pointY": 2
         }
       ]
     },
