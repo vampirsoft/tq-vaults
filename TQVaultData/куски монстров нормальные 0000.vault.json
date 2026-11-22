@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 0,
+  "currentlySelectedSackNumber": 2,
   "sacks": [
     {
       "iconinfo": null,
@@ -9930,6 +9930,36 @@
           "var2": 2035248,
           "pointX": 8,
           "pointY": 2
+        },
+        {
+          "stackSize": 1,
+          "seed": 32577,
+          "baseName": "records\\xpack\\item\\charms\\01_act4_torturedsoul.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\AnimalRelics\\Bonuses\\Defensive_LifeResist_01.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 363859080,
+          "pointX": 5,
+          "pointY": 5
+        },
+        {
+          "stackSize": 1,
+          "seed": 23364,
+          "baseName": "records\\xpack3\\items\\charms\\01_x3_insectwings.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\item\\lootmagicalaffixes\\prefix\\default\\offensive_leechlife_03.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 783303512,
+          "pointX": 7,
+          "pointY": 3
         }
       ]
     },
