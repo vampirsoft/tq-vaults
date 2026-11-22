@@ -3497,9 +3497,24 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": -1096894632,
+          "var2": 2035248,
           "pointX": 2,
           "pointY": 18
+        },
+        {
+          "stackSize": 1,
+          "seed": 5079,
+          "baseName": "Records\\XPack3\\Quests\\Objects\\Items\\x3sq10_Material01.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": -1161457664,
+          "pointX": 2,
+          "pointY": 16
         }
       ]
     },
