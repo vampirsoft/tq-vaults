@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 2,
+  "currentlySelectedSackNumber": 1,
   "sacks": [
     {
       "iconinfo": null,
@@ -8983,51 +8983,6 @@
         },
         {
           "stackSize": 1,
-          "seed": 19273,
-          "baseName": "Records\\Item\\Relics\\01_Act1_ValorOfAchilles.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_SpeedAttack_01.dbr",
-          "var1": 3,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 3,
-          "pointY": 14
-        },
-        {
-          "stackSize": 1,
-          "seed": 32444,
-          "baseName": "Records\\Item\\Relics\\01_Act1_ValorOfAchilles.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_SpeedAttack_01.dbr",
-          "var1": 3,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 2,
-          "pointY": 15
-        },
-        {
-          "stackSize": 1,
-          "seed": 27970,
-          "baseName": "Records\\Item\\Relics\\01_Act1_ValorOfAchilles.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_SpeedAttack_01.dbr",
-          "var1": 3,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 3,
-          "pointY": 15
-        },
-        {
-          "stackSize": 1,
           "seed": 27867,
           "baseName": "Records\\Item\\Relics\\01_Act1_DionysusWineskin.dbr",
           "prefixName": "",
@@ -9283,21 +9238,6 @@
         },
         {
           "stackSize": 1,
-          "seed": 1523,
-          "baseName": "Records\\Item\\Relics\\01_Act2_AmunRasGlory.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "records\\item\\lootmagicalaffixes\\animalrelics\\bonuses\\defensive_bleedresist_01.dbr",
-          "var1": 3,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 13,
-          "pointY": 6
-        },
-        {
-          "stackSize": 1,
           "seed": 11694,
           "baseName": "Records\\Item\\Relics\\01_Act3_CodeOfHammurabi.dbr",
           "prefixName": "",
@@ -9313,7 +9253,22 @@
         },
         {
           "stackSize": 1,
-          "seed": 23958,
+          "seed": 9283,
+          "baseName": "Records\\Item\\Relics\\01_Act1_ValorOfAchilles.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_SpeedAttack_01.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 3,
+          "pointY": 14
+        },
+        {
+          "stackSize": 1,
+          "seed": 808,
           "baseName": "Records\\Item\\Relics\\01_Act1_ValorOfAchilles.dbr",
           "prefixName": "",
           "suffixName": "",
@@ -9324,7 +9279,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 2,
-          "pointY": 16
+          "pointY": 15
         }
       ]
     },
@@ -12867,7 +12822,7 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1038859472,
+          "var2": 2035248,
           "pointX": 12,
           "pointY": 11
         }
@@ -14807,7 +14762,7 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 811094592,
+          "var2": 2035248,
           "pointX": 6,
           "pointY": 7
         },
@@ -14822,7 +14777,7 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 9,
           "pointY": 6
         }
