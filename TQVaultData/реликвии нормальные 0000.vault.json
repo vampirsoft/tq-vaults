@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 3,
+  "currentlySelectedSackNumber": 1,
   "sacks": [
     {
       "iconinfo": null,
@@ -9280,6 +9280,21 @@
           "var2": 2035248,
           "pointX": 2,
           "pointY": 15
+        },
+        {
+          "stackSize": 1,
+          "seed": 23753,
+          "baseName": "Records\\Item\\Relics\\01_Act3_CodeOfHammurabi.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Relics\\Bonuses\\Character_%Intelligence_01.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 16,
+          "pointY": 13
         }
       ]
     },
@@ -12837,7 +12852,7 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 15,
           "pointY": 13
         }
@@ -14807,7 +14822,7 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 12,
           "pointY": 8
         },
@@ -14822,9 +14837,24 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 449591568,
+          "var2": 2035248,
           "pointX": 16,
           "pointY": 8
+        },
+        {
+          "stackSize": 1,
+          "seed": 25331,
+          "baseName": "Records\\XPack\\Item\\Relics\\01_Act4_CunningOfOddyseus.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Defensive_ResistCold_01.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 435793160,
+          "pointX": 2,
+          "pointY": 6
         }
       ]
     },
