@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 3,
+  "currentlySelectedSackNumber": 2,
   "sacks": [
     {
       "iconinfo": null,
@@ -12867,9 +12867,39 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 14,
           "pointY": 14
+        },
+        {
+          "stackSize": 1,
+          "seed": 14939,
+          "baseName": "Records\\XPack\\Item\\Relics\\01_Act4_BladeOfThanatos.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "records\\item\\lootmagicalaffixes\\suffix\\default\\character_speedattack_01.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 15,
+          "pointY": 14
+        },
+        {
+          "stackSize": 1,
+          "seed": 7317,
+          "baseName": "Records\\Item\\Relics\\01_Act3_GuanYusGrace.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "records\\item\\lootmagicalaffixes\\animalrelics\\bonuses\\defensive_bleedresist_01.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 3,
+          "pointY": 12
         }
       ]
     },
@@ -14882,7 +14912,7 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 936796160,
+          "var2": 2035248,
           "pointX": 4,
           "pointY": 6
         },
@@ -14897,9 +14927,24 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 7,
           "pointY": 7
+        },
+        {
+          "stackSize": 1,
+          "seed": 1616,
+          "baseName": "Records\\XPack\\Item\\Relics\\01_Act4_CunningOfOddyseus.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Defensive_ResistCold_01.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 845087800,
+          "pointX": 3,
+          "pointY": 6
         }
       ]
     },

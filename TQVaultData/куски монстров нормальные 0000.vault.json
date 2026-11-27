@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 1,
+  "currentlySelectedSackNumber": 2,
   "sacks": [
     {
       "iconinfo": null,
@@ -9990,6 +9990,21 @@
           "var2": 2035248,
           "pointX": 12,
           "pointY": 4
+        },
+        {
+          "stackSize": 1,
+          "seed": 13297,
+          "baseName": "Records\\XPack\\Item\\Charms\\01_Act4_TorturedSoul.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\AnimalRelics\\Bonuses\\Defensive_LifeResist_01.dbr",
+          "var1": 5,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1218794656,
+          "pointX": 4,
+          "pointY": 6
         }
       ]
     },
