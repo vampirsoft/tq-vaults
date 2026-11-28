@@ -12882,7 +12882,7 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 15,
           "pointY": 14
         },
@@ -12897,9 +12897,39 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 3,
           "pointY": 12
+        },
+        {
+          "stackSize": 1,
+          "seed": 20705,
+          "baseName": "Records\\XPack\\Item\\Relics\\01_Act4_ChillOfTartarus.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Offensive_ReducedAttackSpeed_02.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 16,
+          "pointY": 11
+        },
+        {
+          "stackSize": 1,
+          "seed": 23532,
+          "baseName": "Records\\XPack\\Item\\Relics\\01_Act4_BladeOfThanatos.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "records\\item\\lootmagicalaffixes\\suffix\\default\\character_speedattack_01.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 914589448,
+          "pointX": 14,
+          "pointY": 15
         }
       ]
     },
@@ -14942,7 +14972,7 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 845087800,
+          "var2": 2035248,
           "pointX": 3,
           "pointY": 6
         }
